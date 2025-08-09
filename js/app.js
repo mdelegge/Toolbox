@@ -4,8 +4,8 @@ import { loadManifest, loadModuleByFile } from './modules.js';
 
 const els = {
   moduleSelect: document.getElementById('moduleSelect'),
+  minItems: document.getElementById('minItems'),
   maxItems: document.getElementById('maxItems'),
-  randomCount: document.getElementById('randomCount'),
   generateBtn: document.getElementById('generateBtn'),
   resultsCard: document.getElementById('resultsCard'),
   results: document.getElementById('results'),
@@ -43,18 +43,19 @@ async function onModuleChange() {
   els.resultsCard.classList.add('hidden');
 }
 
-function computeCount(maxVal, randomize) {
-  const m = clamp(parseInt(maxVal, 10) || 0, 0, 999);
-  if (!randomize) return m;
-  // Random in [0..m]
-  return Math.floor(Math.random() * (m + 1));
+function computeCount(minVal, maxVal) {
+  let min = clamp(parseInt(minVal, 10) || 0, 0, 999);
+  let max = clamp(parseInt(maxVal, 10) || 0, 0, 999);
+  if (min > max) [min, max] = [max, min];
+  // Random integer in [min..max]
+  return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
 function generate() {
   if (!currentModule) return;
   const items = currentModule.items || [];
-  const max = computeCount(els.maxItems.value, els.randomCount.checked);
-  const picks = weightedSampleWithoutReplacement(items, max);
+  const count = computeCount(els.minItems.value, els.maxItems.value);
+  const picks = weightedSampleWithoutReplacement(items, count);
 
   els.results.innerHTML = '';
   const lines = [];
@@ -67,7 +68,7 @@ function generate() {
     lines.push(line);
   }
 
-  els.rollMeta.textContent = `${max} item(s) rolled from ${items.length}`;
+  els.rollMeta.textContent = `${count} item(s) rolled from ${items.length}`;
   els.resultsCard.classList.toggle('hidden', picks.length === 0);
 
   els.exportBtn.onclick = () => {
