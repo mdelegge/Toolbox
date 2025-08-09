@@ -39,8 +39,28 @@ async function onModuleChange() {
   const file = els.moduleSelect.value;
   currentModule = await loadModuleByFile(file);
   renderModuleInfo(currentModule);
+  // Reset min/max defaults per module
+  els.minItems.value = 0;
   els.maxItems.value = currentModule.maxItems ?? 5;
+  syncMinMax();
   els.resultsCard.classList.add('hidden');
+}
+
+function syncMinMax() {
+  // Parse and clamp raw values
+  let min = clamp(parseInt(els.minItems.value, 10) || 0, 0, 999);
+  let max = clamp(parseInt(els.maxItems.value, 10) || 0, 0, 999);
+  // Ensure attributes enforce the current constraints
+  els.minItems.setAttribute('min', '0');
+  els.maxItems.setAttribute('min', '0');
+  // Keep min <= max but do not auto-swap here; clamp values to the range instead
+  if (min > max) min = max;
+  // Update input attributes so spinners behave intuitively
+  els.minItems.setAttribute('max', String(max));
+  els.maxItems.setAttribute('min', String(min));
+  // Write back clamped values to inputs
+  els.minItems.value = String(min);
+  els.maxItems.value = String(max);
 }
 
 function computeCount(minVal, maxVal) {
@@ -97,6 +117,8 @@ async function main() {
 }
 
 els.moduleSelect.addEventListener('change', onModuleChange);
+els.minItems.addEventListener('input', syncMinMax);
+els.maxItems.addEventListener('input', syncMinMax);
 els.generateBtn.addEventListener('click', generate);
 
 main().catch(err => {
