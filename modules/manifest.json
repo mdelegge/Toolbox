@@ -1,4 +1,6 @@
 [
   { "name": "Jobs Board (Town Quests)", "file": "jobs_board.json" },
-  { "name": "Troll's Cave (Loot)", "file": "trolls_cave.json" }
+  { "name": "Troll's Cave (Loot)", "file": "trolls_cave.json" },
+  { "name": "Goblin Names", "file": "goblin_names.json" },
+  { "name": "Items in a Smithy", "file": "smithy.json" }
 ]
