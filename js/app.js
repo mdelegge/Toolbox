@@ -1,5 +1,5 @@
 // app.js — UI wiring for MVP
-import { weightedSampleWithoutReplacement, formatResultLine, clamp, DungeonGenerator } from './generator.js';
+import { weightedSampleWithoutReplacement, weightedSampleWithGroupFiltering, formatResultLine, clamp, DungeonGenerator } from './generator.js';
 import { loadManifest, loadModuleByFile } from './modules.js';
 
 const els = {
@@ -85,7 +85,14 @@ function generate() {
   if (!currentModule) return;
   const items = currentModule.items || [];
   const count = computeCount(els.minItems.value, els.maxItems.value);
-  const picks = weightedSampleWithoutReplacement(items, count);
+  
+  // Check if any items in this module use the group attribute
+  const hasGroupedItems = items.some(item => item.group);
+  
+  // Use group filtering if any items have groups, otherwise use standard sampling
+  const picks = hasGroupedItems 
+    ? weightedSampleWithGroupFiltering(items, count)
+    : weightedSampleWithoutReplacement(items, count);
 
   els.results.innerHTML = '';
   const lines = [];

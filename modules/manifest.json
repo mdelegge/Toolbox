@@ -1,4 +1,6 @@
 [
+  { "name": "Assorted Money", "file": "money.json" },
+
   { "name": "Jobs Board (Town Quests)", "file": "jobs_board.json" },
   { "name": "Rumors and Odd Jobs", "file": "rumors_odd_jobs.json" },
 

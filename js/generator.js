@@ -56,6 +56,48 @@ function weightedSampleWithoutReplacement(items, k) {
   return picks;
 }
 
+function weightedSampleWithGroupFiltering(items, k) {
+  const picks = [];
+  const usedGroups = new Set();
+  const usedItems = new Set(); // Track used items by reference
+  const maxAttempts = k * 10; // Prevent infinite loops
+  let attempts = 0;
+  
+  while (picks.length < k && attempts < maxAttempts) {
+    attempts++;
+    
+    // Filter items that don't conflict with already used groups or items
+    const availableItems = items.filter(item => {
+      // Skip if this exact item was already picked
+      if (usedItems.has(item)) return false;
+      // If item has no group, it's always available
+      if (!item.group) return true;
+      // If item has a group, only allow if group hasn't been used
+      return !usedGroups.has(item.group);
+    });
+    
+    // If no available items remain, break out
+    if (availableItems.length === 0) break;
+    
+    // Sample one item from available items using weighted selection
+    const sampled = weightedSampleWithoutReplacement(availableItems, 1);
+    if (sampled.length === 0) break;
+    
+    const selectedItem = sampled[0];
+    picks.push(selectedItem);
+    
+    // Mark this item's group as used (if it has one)
+    if (selectedItem.group) {
+      usedGroups.add(selectedItem.group);
+    }
+    
+    // Mark this specific item as used
+    usedItems.add(selectedItem);
+  }
+  
+  return picks;
+}
+
 function deriveQuantity(item) {
   // Use explicit dice if present, else try to parse from name
   const spec = parseDice(item.dice) || parseDiceInName(item.name);
@@ -67,7 +109,7 @@ function formatResultLine(item) {
   if (qty != null) {
     // Try basic pluralization when the base name looks pluralizable (e.g., "Dagger(s)")
     const name = item.name.replace(/\s*\((?:\d+\s*[dD]\s*\d+).*\)\s*$/, '').trim();
-    return `${name}${qty > 1 ? ' x' + qty : ' x' + qty}`; // always show the number rolled
+    return `${name}${qty > 1 ? ' [x ' + qty + ']' : ' [x ' + qty + ']'}`; // always show the number rolled
   }
   return item.name;
 }
@@ -357,6 +399,7 @@ export {
   rollDiceSpec,
   itemWeight,
   weightedSampleWithoutReplacement,
+  weightedSampleWithGroupFiltering,
   deriveQuantity,
   formatResultLine,
   clamp,
