@@ -81,57 +81,189 @@ function computeCount(minVal, maxVal) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
+function createResultItem(item, isPinned = false) {
+  const li = document.createElement('li');
+  li.className = 'px-3 py-2 bg-slate-900/60 border border-slate-700 rounded-lg flex items-center gap-3';
+  
+  const line = formatResultLine(item);
+  
+  // SVG icons for pin states
+  const unpinnedIcon = `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+    <path d="M12 17v5"/>
+    <path d="M9 10.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 7.89 17H16.1a2 2 0 0 0 1.78-2.55l-1.78-.9A2 2 0 0 1 15 10.76V7a1 1 0 0 0-1-1H10a1 1 0 0 0-1 1z"/>
+  </svg>`;
+  
+  const pinnedIcon = `<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2">
+    <path d="M12 17v5"/>
+    <path d="M9 10.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 7.89 17H16.1a2 2 0 0 0 1.78-2.55l-1.78-.9A2 2 0 0 1 15 10.76V7a1 1 0 0 0-1-1H10a1 1 0 0 0-1 1z"/>
+  </svg>`;
+  
+  // Create pin button
+  const pinBtn = document.createElement('button');
+  pinBtn.className = `text-gray-400 hover:text-blue-400 transition-colors ${isPinned ? 'text-blue-400' : ''}`;
+  pinBtn.innerHTML = isPinned ? pinnedIcon : unpinnedIcon;
+  pinBtn.title = isPinned ? 'Unpin this item' : 'Pin this item';
+  pinBtn.onclick = () => {
+    const currentlyPinned = li.getAttribute('data-pinned') === 'true';
+    const newPinnedState = !currentlyPinned;
+    li.setAttribute('data-pinned', newPinnedState.toString());
+    pinBtn.innerHTML = newPinnedState ? pinnedIcon : unpinnedIcon;
+    pinBtn.title = newPinnedState ? 'Unpin this item' : 'Pin this item';
+    pinBtn.className = `text-gray-400 hover:text-blue-400 transition-colors ${newPinnedState ? 'text-blue-400' : ''}`;
+    
+    // Update UI
+    const event = new Event('pinStateChanged');
+    document.dispatchEvent(event);
+  };
+  
+  // Create text span for the result
+  const textSpan = document.createElement('span');
+  textSpan.textContent = line;
+  textSpan.className = 'flex-1';
+  
+  // Create delete button
+  const deleteBtn = document.createElement('button');
+  deleteBtn.innerHTML = '×';
+  deleteBtn.className = 'text-red-400 hover:text-red-300 hover:bg-red-900/30 rounded px-2 py-1 text-lg font-bold transition-colors';
+  deleteBtn.title = 'Remove this item';
+  deleteBtn.onclick = () => {
+    li.remove();
+    const event = new Event('pinStateChanged');
+    document.dispatchEvent(event);
+  };
+  
+  // Store data attributes
+  li.setAttribute('data-result-text', line);
+  li.setAttribute('data-pinned', isPinned.toString());
+  li.setAttribute('data-item-group', item.group || '');
+  
+  li.appendChild(pinBtn);
+  li.appendChild(textSpan);
+  li.appendChild(deleteBtn);
+  
+  return li;
+}
+
+function createClearButton() {
+  const clearBtn = document.createElement('button');
+  clearBtn.id = 'clearAllBtn';
+  clearBtn.className = 'ml-2 px-3 py-2 bg-red-600 hover:bg-red-700 text-white rounded transition-all duration-300';
+  clearBtn.style.opacity = '0';
+  clearBtn.style.pointerEvents = 'none';
+  clearBtn.innerHTML = `
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="inline mr-1">
+      <polyline points="3,6 5,6 21,6"/>
+      <path d="m19,6v14a2,2 0 0,1-2,2H7a2,2 0 0,1-2-2V6m3,0V4a2,2 0 0,1,2-2h4a2,2 0 0,1,2,2v2"/>
+    </svg>
+    Clear All
+  `;
+  clearBtn.title = 'Clear all items (including pinned)';
+  clearBtn.onclick = () => {
+    els.results.innerHTML = '';
+    const event = new Event('pinStateChanged');
+    document.dispatchEvent(event);
+  };
+  
+  // Add next to the generate button
+  els.generateBtn.parentNode.appendChild(clearBtn);
+  
+  return clearBtn;
+}
+
+// Listen for pin state changes to update UI
+document.addEventListener('pinStateChanged', () => {
+  const remainingItems = els.results.querySelectorAll('li').length;
+  const pinnedCount = els.results.querySelectorAll('li[data-pinned="true"]').length;
+  if (els.rollMeta) {
+    els.rollMeta.textContent = `${remainingItems} item(s) (${pinnedCount} pinned)`;
+  }
+  
+  // Update clear button visibility
+  const clearBtn = document.getElementById('clearAllBtn');
+  if (pinnedCount > 0) {
+    if (!clearBtn) {
+      createClearButton();
+    } else {
+      clearBtn.style.opacity = '1';
+      clearBtn.style.pointerEvents = 'auto';
+    }
+  } else if (clearBtn) {
+    clearBtn.style.opacity = '0';
+    clearBtn.style.pointerEvents = 'none';
+  }
+});
+
 function generate() {
   if (!currentModule) return;
   const items = currentModule.items || [];
   const count = computeCount(els.minItems.value, els.maxItems.value);
   
+  // Get currently pinned items
+  const pinnedItems = Array.from(els.results.querySelectorAll('li[data-pinned="true"]'));
+  const pinnedCount = pinnedItems.length;
+  
+  // Calculate how many new items to generate
+  const newItemsNeeded = Math.max(0, count - pinnedCount);
+  
   // Check if any items in this module use the group attribute
   const hasGroupedItems = items.some(item => item.group);
   
-  // Use group filtering if any items have groups, otherwise use standard sampling
-  const picks = hasGroupedItems 
-    ? weightedSampleWithGroupFiltering(items, count)
-    : weightedSampleWithoutReplacement(items, count);
+  // Get groups from pinned items to avoid duplicates
+  const pinnedGroups = new Set();
+  pinnedItems.forEach(li => {
+    const group = li.getAttribute('data-item-group');
+    if (group) pinnedGroups.add(group);
+  });
+  
+  // Filter items to avoid pinned groups if group filtering is enabled
+  let availableItems = items;
+  if (hasGroupedItems && pinnedGroups.size > 0) {
+    availableItems = items.filter(item => !item.group || !pinnedGroups.has(item.group));
+  }
+  
+  // Generate new items only if needed
+  let newPicks = [];
+  if (newItemsNeeded > 0 && availableItems.length > 0) {
+    newPicks = hasGroupedItems 
+      ? weightedSampleWithGroupFiltering(availableItems, newItemsNeeded)
+      : weightedSampleWithoutReplacement(availableItems, newItemsNeeded);
+  }
 
-  els.results.innerHTML = '';
-  for (const item of picks) {
-    const li = document.createElement('li');
-    li.className = 'px-3 py-2 bg-slate-900/60 border border-slate-700 rounded-lg flex justify-between items-center';
-    
-    const line = formatResultLine(item);
-    
-    // Create text span for the result
-    const textSpan = document.createElement('span');
-    textSpan.textContent = line;
-    textSpan.className = 'flex-1';
-    
-    // Create delete button
-    const deleteBtn = document.createElement('button');
-    deleteBtn.innerHTML = '×';
-    deleteBtn.className = 'ml-3 text-red-400 hover:text-red-300 hover:bg-red-900/30 rounded px-2 py-1 text-lg font-bold transition-colors';
-    deleteBtn.title = 'Remove this item';
-    deleteBtn.onclick = () => {
-      li.remove();
-      updateRollMeta();
-    };
-    
-    // Store the original text for copy functionality
-    li.setAttribute('data-result-text', line);
-    li.setAttribute('data-deleted', 'false');
-    
-    li.appendChild(textSpan);
-    li.appendChild(deleteBtn);
+  // Remove unpinned items, keep pinned ones
+  const unpinnedItems = els.results.querySelectorAll('li[data-pinned="false"], li:not([data-pinned])');
+  unpinnedItems.forEach(li => li.remove());
+  
+  // Add new items
+  for (const item of newPicks) {
+    const li = createResultItem(item, false); // false = not pinned initially
     els.results.appendChild(li);
   }
 
   function updateRollMeta() {
     const remainingItems = els.results.querySelectorAll('li').length;
-    els.rollMeta.textContent = `${remainingItems} item(s) remaining from ${count} rolled (${items.length} total items)`;
+    const pinnedCount = els.results.querySelectorAll('li[data-pinned="true"]').length;
+    els.rollMeta.textContent = `${remainingItems} item(s) (${pinnedCount} pinned) from ${count} target (${items.length} total items)`;
+    updateClearButton();
+  }
+
+  function updateClearButton() {
+    const pinnedCount = els.results.querySelectorAll('li[data-pinned="true"]').length;
+    const clearBtn = document.getElementById('clearAllBtn');
+    if (pinnedCount > 0) {
+      if (!clearBtn) {
+        createClearButton();
+      } else {
+        clearBtn.style.opacity = '1';
+        clearBtn.style.pointerEvents = 'auto';
+      }
+    } else if (clearBtn) {
+      clearBtn.style.opacity = '0';
+      clearBtn.style.pointerEvents = 'none';
+    }
   }
 
   updateRollMeta();
-  els.resultsCard.classList.toggle('hidden', picks.length === 0);
+  els.resultsCard.classList.toggle('hidden', els.results.children.length === 0);
 
   els.exportBtn.onclick = () => {
     // Get only non-deleted items
