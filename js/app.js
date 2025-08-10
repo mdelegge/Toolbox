@@ -95,20 +95,55 @@ function generate() {
     : weightedSampleWithoutReplacement(items, count);
 
   els.results.innerHTML = '';
-  const lines = [];
   for (const item of picks) {
     const li = document.createElement('li');
-    li.className = 'px-3 py-2 bg-slate-900/60 border border-slate-700 rounded-lg';
+    li.className = 'px-3 py-2 bg-slate-900/60 border border-slate-700 rounded-lg flex justify-between items-center';
+    
     const line = formatResultLine(item);
-    li.textContent = line;
+    
+    // Create text span for the result
+    const textSpan = document.createElement('span');
+    textSpan.textContent = line;
+    textSpan.className = 'flex-1';
+    
+    // Create delete button
+    const deleteBtn = document.createElement('button');
+    deleteBtn.innerHTML = '×';
+    deleteBtn.className = 'ml-3 text-red-400 hover:text-red-300 hover:bg-red-900/30 rounded px-2 py-1 text-lg font-bold transition-colors';
+    deleteBtn.title = 'Remove this item';
+    deleteBtn.onclick = () => {
+      li.remove();
+      updateRollMeta();
+    };
+    
+    // Store the original text for copy functionality
+    li.setAttribute('data-result-text', line);
+    li.setAttribute('data-deleted', 'false');
+    
+    li.appendChild(textSpan);
+    li.appendChild(deleteBtn);
     els.results.appendChild(li);
-    lines.push(line);
   }
 
-  els.rollMeta.textContent = `${count} item(s) rolled from ${items.length}`;
+  function updateRollMeta() {
+    const remainingItems = els.results.querySelectorAll('li').length;
+    els.rollMeta.textContent = `${remainingItems} item(s) remaining from ${count} rolled (${items.length} total items)`;
+  }
+
+  updateRollMeta();
   els.resultsCard.classList.toggle('hidden', picks.length === 0);
 
   els.exportBtn.onclick = () => {
+    // Get only non-deleted items
+    const remainingItems = Array.from(els.results.querySelectorAll('li'));
+    const lines = remainingItems.map(li => li.getAttribute('data-result-text'));
+    
+    if (lines.length === 0) {
+      els.exportBtn.textContent = 'No items to copy';
+      setTimeout(() => (els.exportBtn.textContent = 'Copy Results'), 1200);
+      return;
+    }
+    
     const blob = new Blob([lines.join('\n')], { type: 'text/plain' });
     navigator.clipboard.writeText(lines.join('\n')).then(() => {
       els.exportBtn.textContent = 'Copied!';
