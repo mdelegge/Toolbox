@@ -1,6 +1,43 @@
 [
   { "name": "Jobs Board (Town Quests)", "file": "jobs_board.json" },
-  { "name": "Troll's Cave (Loot)", "file": "trolls_cave.json" },
+  { "name": "Rumors and Odd Jobs", "file": "rumors_odd_jobs.json" },
+
+
   { "name": "Goblin Names", "file": "goblin_names.json" },
-  { "name": "Items in a Smithy", "file": "smithy.json" }
+  
+  { "name": "Female Names", "file": "female_names_table_1.json" },
+  { "name": "Male Names", "file": "male_names_table_1.json" },
+  { "name": "Gemstones", "file": "gemstones_table_1.json" },
+
+  { "name": "Items in a Troll's Cave", "file": "trolls_cave.json" },
+  { "name": "Items in a Smithy", "file": "smithy.json" },
+  { "name": "Items in a Bandit Hideout", "file": "items_in_a_bandit_hideout.json" },
+  { "name": "Items in a Cottage", "file": "items_in_a_cottage.json" },
+  { "name": "Items in a Hunters Camp", "file": "items_in_a_hunters_camp.json" },
+  { "name": "Items in a Nobles Bedchamber", "file": "items_in_a_nobles_bedchamber.json" },
+  { "name": "Items in a Port Masters Office", "file": "items_in_a_port_masters_office.json" },
+  { "name": "Items in a Royal Tomb", "file": "items_in_a_royal_tomb.json" },
+  { "name": "Items in a Ship Captains Quarters", "file": "items_in_a_ship_captains_quarters.json" },
+  { "name": "Items in a Warehouse", "file": "items_in_a_warehouse.json" },
+  { "name": "Items in a Wizards Chamber", "file": "items_in_a_wizards_chamber.json" },
+  { "name": "Items in a Alchemists_Lab", "file": "items_in_an_alchemists_lab.json" },
+  { "name": "Items in a Inns Kitchen", "file": "items_in_an_inns_kitchen.json" },
+  { "name": "Items in an Office", "file": "items_in_an_office.json" },
+  { "name": "Items in a Fantasy Desk", "file": "items_in_fantasy_desk.json" },
+  { "name": "Items on a Dead Goblin", "file": "items_on_a_dead_goblin.json" },
+  { "name": "Items on an Adventurers Dead Body ", "file": "items_on_an_adventurers_dead_body.json" },
+
+  { "name": "Mountain Encounters", "file": "mountain_encounters.json" },
+  { "name": "Seafaring Encounters", "file": "seafaring_encounters.json" },
+  { "name": "Swamp Encounters", "file": "swamp_encounters.json" },
+  { "name": "Forest Encounters", "file": "forest_encounters.json" },
+
+  { "name": "Book Titles", "file": "book_titles.json" },
+  { "name": "Catastrophes", "file": "catastrophes.json" },
+  { "name": "Culinary Herbs Spices", "file": "culinary_herbs_spices.json" },
+  { "name": "Medicinal Herbs", "file": "medicinal_herbs.json" },
+  { "name": "Potion Ingredients", "file": "potion_ingredients.json" },
+  { "name": "Weapons, Armor, and Equipment", "file": "weapons_armor_and_equipment.json" }
+  
 ]
+
