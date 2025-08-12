@@ -1,0 +1,406 @@
+{
+  "name": "Dungeon Health Side Effects",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Malaise",
+      "rarity": "common"
+    },
+    {
+      "name": "Boils on exposed skin",
+      "rarity": "common"
+    },
+    {
+      "name": "Earache",
+      "rarity": "common"
+    },
+    {
+      "name": "Anxiety",
+      "rarity": "common"
+    },
+    {
+      "name": "Fish odor syndrome",
+      "rarity": "common"
+    },
+    {
+      "name": "Blisters on exposed skin",
+      "rarity": "common"
+    },
+    {
+      "name": "Gout",
+      "rarity": "common"
+    },
+    {
+      "name": "Mild rash on exposed skin",
+      "rarity": "common"
+    },
+    {
+      "name": "Mood swings",
+      "rarity": "common"
+    },
+    {
+      "name": "Laughing fits",
+      "rarity": "common"
+    },
+    {
+      "name": "Moderate rash on unexposed skin",
+      "rarity": "common"
+    },
+    {
+      "name": "Dry eyes",
+      "rarity": "common"
+    },
+    {
+      "name": "Heart palpitations",
+      "rarity": "common"
+    },
+    {
+      "name": "Joint swelling",
+      "rarity": "common"
+    },
+    {
+      "name": "Loss of coordination",
+      "rarity": "common"
+    },
+    {
+      "name": "Eye pain",
+      "rarity": "common"
+    },
+    {
+      "name": "Severe rash on unexposed skin",
+      "rarity": "common"
+    },
+    {
+      "name": "Photophobia",
+      "rarity": "common"
+    },
+    {
+      "name": "Bleeding under finnger and toenails",
+      "rarity": "common"
+    },
+    {
+      "name": "Headache",
+      "rarity": "common"
+    },
+    {
+      "name": "Pimples",
+      "rarity": "common"
+    },
+    {
+      "name": "Sores on the soles of the feet",
+      "rarity": "common"
+    },
+    {
+      "name": "Nervousness",
+      "rarity": "common"
+    },
+    {
+      "name": "Productive cough",
+      "rarity": "common"
+    },
+    {
+      "name": "Warts",
+      "rarity": "common"
+    },
+    {
+      "name": "Sores around the mouth",
+      "rarity": "common"
+    },
+    {
+      "name": "Boils on unexposed skin",
+      "rarity": "common"
+    },
+    {
+      "name": "Anger",
+      "rarity": "common"
+    },
+    {
+      "name": "Severe muscle aches",
+      "rarity": "common"
+    },
+    {
+      "name": "Lethargy",
+      "rarity": "common"
+    },
+    {
+      "name": "Confusion",
+      "rarity": "common"
+    },
+    {
+      "name": "Mild rash on unexposed skin",
+      "rarity": "common"
+    },
+    {
+      "name": "Mild muscle aches",
+      "rarity": "common"
+    },
+    {
+      "name": "Hallucinations",
+      "rarity": "common"
+    },
+    {
+      "name": "Mild joint pain",
+      "rarity": "common"
+    },
+    {
+      "name": "Easy bruising",
+      "rarity": "common"
+    },
+    {
+      "name": "Sneezing",
+      "rarity": "common"
+    },
+    {
+      "name": "Hopelessness",
+      "rarity": "common"
+    },
+    {
+      "name": "Hyperekplexia",
+      "rarity": "common"
+    },
+    {
+      "name": "Mild thirst",
+      "rarity": "common"
+    },
+    {
+      "name": "Coughing fits",
+      "rarity": "common"
+    },
+    {
+      "name": "Severe rash on exposed skin",
+      "rarity": "common"
+    },
+    {
+      "name": "Desire to weep",
+      "rarity": "common"
+    },
+    {
+      "name": "Trouble breathing",
+      "rarity": "common"
+    },
+    {
+      "name": "Coughing up blood",
+      "rarity": "common"
+    },
+    {
+      "name": "Trouble swallowing",
+      "rarity": "common"
+    },
+    {
+      "name": "Lice",
+      "rarity": "common"
+    },
+    {
+      "name": "Random seizure",
+      "rarity": "common"
+    },
+    {
+      "name": "Fungal infection in the nose",
+      "rarity": "common"
+    },
+    {
+      "name": "Alien hand syndrome",
+      "rarity": "common"
+    },
+    {
+      "name": "Moderate joint pain",
+      "rarity": "common"
+    },
+    {
+      "name": "Bleeding from the ears",
+      "rarity": "common"
+    },
+    {
+      "name": "Feet swelling",
+      "rarity": "common"
+    },
+    {
+      "name": "Nose bleeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Runny nose",
+      "rarity": "common"
+    },
+    {
+      "name": "Sore throat",
+      "rarity": "common"
+    },
+    {
+      "name": "Muscle tremors",
+      "rarity": "common"
+    },
+    {
+      "name": "Fainting spells",
+      "rarity": "common"
+    },
+    {
+      "name": "Athletes foot",
+      "rarity": "common"
+    },
+    {
+      "name": "Fever",
+      "rarity": "common"
+    },
+    {
+      "name": "Moderate rash on exposed skin",
+      "rarity": "common"
+    },
+    {
+      "name": "Fungal infection in the mouth",
+      "rarity": "common"
+    },
+    {
+      "name": "Moderate thirst",
+      "rarity": "common"
+    },
+    {
+      "name": "Hand swelling",
+      "rarity": "common"
+    },
+    {
+      "name": "Moderate muscle aches",
+      "rarity": "common"
+    },
+    {
+      "name": "Vomiting",
+      "rarity": "common"
+    },
+    {
+      "name": "Blurred vision",
+      "rarity": "common"
+    },
+    {
+      "name": "Sneezing fits",
+      "rarity": "common"
+    },
+    {
+      "name": "Lightheadedness",
+      "rarity": "common"
+    },
+    {
+      "name": "Uncontrollable desire to sing",
+      "rarity": "common"
+    },
+    {
+      "name": "Aggression",
+      "rarity": "common"
+    },
+    {
+      "name": "Fatigue",
+      "rarity": "common"
+    },
+    {
+      "name": "Extreme thirst",
+      "rarity": "common"
+    },
+    {
+      "name": "Excessive sweating",
+      "rarity": "common"
+    },
+    {
+      "name": "Hyperactivity",
+      "rarity": "common"
+    },
+    {
+      "name": "Sadness",
+      "rarity": "common"
+    },
+    {
+      "name": "Wheezing",
+      "rarity": "common"
+    },
+    {
+      "name": "Uncontrollable weeping",
+      "rarity": "common"
+    },
+    {
+      "name": "Nausea",
+      "rarity": "common"
+    },
+    {
+      "name": "Tourettes",
+      "rarity": "common"
+    },
+    {
+      "name": "White blisters on the tongue",
+      "rarity": "common"
+    },
+    {
+      "name": "Migraine",
+      "rarity": "common"
+    },
+    {
+      "name": "Blisters on unexposed skin",
+      "rarity": "common"
+    },
+    {
+      "name": "Dizziness",
+      "rarity": "common"
+    },
+    {
+      "name": "Upset stomach",
+      "rarity": "common"
+    },
+    {
+      "name": "Dry skin",
+      "rarity": "common"
+    },
+    {
+      "name": "Dry mouth",
+      "rarity": "common"
+    },
+    {
+      "name": "Dry cough",
+      "rarity": "common"
+    },
+    {
+      "name": "Facial swelling",
+      "rarity": "common"
+    },
+    {
+      "name": "Diarrhea",
+      "rarity": "common"
+    },
+    {
+      "name": "Severe joint pain",
+      "rarity": "common"
+    },
+    {
+      "name": "Lack of appetite",
+      "rarity": "common"
+    },
+    {
+      "name": "Stuffy nose",
+      "rarity": "common"
+    },
+    {
+      "name": "Giddiness",
+      "rarity": "common"
+    },
+    {
+      "name": "Burning eyes",
+      "rarity": "common"
+    },
+    {
+      "name": "Bleeding gums",
+      "rarity": "common"
+    },
+    {
+      "name": "Desire to sing",
+      "rarity": "common"
+    },
+    {
+      "name": "Slurred speech",
+      "rarity": "common"
+    },
+    {
+      "name": "Threadworms",
+      "rarity": "common"
+    },
+    {
+      "name": "Difficulty sleeping",
+      "rarity": "common"
+    }
+  ]
+}

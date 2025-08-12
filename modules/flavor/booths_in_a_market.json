@@ -1,0 +1,406 @@
+{
+  "name": "Booths in a Market",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Beans",
+      "rarity": "common"
+    },
+    {
+      "name": "Street food (noodles)",
+      "rarity": "common"
+    },
+    {
+      "name": "Scrolls",
+      "rarity": "common"
+    },
+    {
+      "name": "Co\ufb00ee",
+      "rarity": "common"
+    },
+    {
+      "name": "Cheeses",
+      "rarity": "common"
+    },
+    {
+      "name": "Locks",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold items",
+      "rarity": "common"
+    },
+    {
+      "name": "Cookware (pewter)",
+      "rarity": "common"
+    },
+    {
+      "name": "Clothes",
+      "rarity": "common"
+    },
+    {
+      "name": "Teas",
+      "rarity": "common"
+    },
+    {
+      "name": "Ink",
+      "rarity": "common"
+    },
+    {
+      "name": "Fabric",
+      "rarity": "common"
+    },
+    {
+      "name": "Lamps",
+      "rarity": "common"
+    },
+    {
+      "name": "Street food (rice)",
+      "rarity": "common"
+    },
+    {
+      "name": "Pastries",
+      "rarity": "common"
+    },
+    {
+      "name": "Oats",
+      "rarity": "common"
+    },
+    {
+      "name": "Tents",
+      "rarity": "common"
+    },
+    {
+      "name": "Wood carvings",
+      "rarity": "common"
+    },
+    {
+      "name": "Opium",
+      "rarity": "common"
+    },
+    {
+      "name": "Herbs",
+      "rarity": "common"
+    },
+    {
+      "name": "Street food (stew)",
+      "rarity": "common"
+    },
+    {
+      "name": "Moneylender",
+      "rarity": "common"
+    },
+    {
+      "name": "Books",
+      "rarity": "common"
+    },
+    {
+      "name": "Fresh vegetables",
+      "rarity": "common"
+    },
+    {
+      "name": "Lager",
+      "rarity": "common"
+    },
+    {
+      "name": "Blankets",
+      "rarity": "common"
+    },
+    {
+      "name": "Shoes",
+      "rarity": "common"
+    },
+    {
+      "name": "Bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Glass items",
+      "rarity": "common"
+    },
+    {
+      "name": "Street food (fried meats)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dried fruits",
+      "rarity": "common"
+    },
+    {
+      "name": "Paint",
+      "rarity": "common"
+    },
+    {
+      "name": "Fish",
+      "rarity": "common"
+    },
+    {
+      "name": "Rugs",
+      "rarity": "common"
+    },
+    {
+      "name": "Honey",
+      "rarity": "common"
+    },
+    {
+      "name": "Rope",
+      "rarity": "common"
+    },
+    {
+      "name": "Pelts",
+      "rarity": "common"
+    },
+    {
+      "name": "Cabbage",
+      "rarity": "common"
+    },
+    {
+      "name": "Armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Idols",
+      "rarity": "common"
+    },
+    {
+      "name": "Canvas",
+      "rarity": "common"
+    },
+    {
+      "name": "Charms",
+      "rarity": "common"
+    },
+    {
+      "name": "Meat pies",
+      "rarity": "common"
+    },
+    {
+      "name": "Wool",
+      "rarity": "common"
+    },
+    {
+      "name": "Weapons",
+      "rarity": "common"
+    },
+    {
+      "name": "Oils",
+      "rarity": "common"
+    },
+    {
+      "name": "Trotters",
+      "rarity": "common"
+    },
+    {
+      "name": "Eggs",
+      "rarity": "common"
+    },
+    {
+      "name": "Music instruments",
+      "rarity": "common"
+    },
+    {
+      "name": "Biscuits",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Items",
+      "rarity": "common"
+    },
+    {
+      "name": "Fortune teller",
+      "rarity": "common"
+    },
+    {
+      "name": "Oysters",
+      "rarity": "common"
+    },
+    {
+      "name": "Ceramics",
+      "rarity": "common"
+    },
+    {
+      "name": "Lumber",
+      "rarity": "common"
+    },
+    {
+      "name": "Games",
+      "rarity": "common"
+    },
+    {
+      "name": "Medicines",
+      "rarity": "common"
+    },
+    {
+      "name": "Fresh meats",
+      "rarity": "common"
+    },
+    {
+      "name": "Fish pasties",
+      "rarity": "common"
+    },
+    {
+      "name": "Eels",
+      "rarity": "common"
+    },
+    {
+      "name": "Potions",
+      "rarity": "common"
+    },
+    {
+      "name": "Crabs",
+      "rarity": "common"
+    },
+    {
+      "name": "Fruit pies",
+      "rarity": "common"
+    },
+    {
+      "name": "Jade items",
+      "rarity": "common"
+    },
+    {
+      "name": "Snake oil",
+      "rarity": "common"
+    },
+    {
+      "name": "Griddle cakes",
+      "rarity": "common"
+    },
+    {
+      "name": "Baskets",
+      "rarity": "common"
+    },
+    {
+      "name": "Smoked meats",
+      "rarity": "common"
+    },
+    {
+      "name": "Wafers",
+      "rarity": "common"
+    },
+    {
+      "name": "Cookware (iron)",
+      "rarity": "common"
+    },
+    {
+      "name": "Spiced meat pasties",
+      "rarity": "common"
+    },
+    {
+      "name": "Nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Spices",
+      "rarity": "common"
+    },
+    {
+      "name": "Flan",
+      "rarity": "common"
+    },
+    {
+      "name": "Incense",
+      "rarity": "common"
+    },
+    {
+      "name": "Hookah",
+      "rarity": "common"
+    },
+    {
+      "name": "Mussels",
+      "rarity": "common"
+    },
+    {
+      "name": "Tarts",
+      "rarity": "common"
+    },
+    {
+      "name": "Dried meats",
+      "rarity": "common"
+    },
+    {
+      "name": "Pipes",
+      "rarity": "common"
+    },
+    {
+      "name": "Soap",
+      "rarity": "common"
+    },
+    {
+      "name": "Gemstones",
+      "rarity": "common"
+    },
+    {
+      "name": "Silk",
+      "rarity": "common"
+    },
+    {
+      "name": "Salt",
+      "rarity": "common"
+    },
+    {
+      "name": "Fresh fruits",
+      "rarity": "common"
+    },
+    {
+      "name": "Fans",
+      "rarity": "common"
+    },
+    {
+      "name": "Snails",
+      "rarity": "common"
+    },
+    {
+      "name": "Sponges",
+      "rarity": "common"
+    },
+    {
+      "name": "Jewelry",
+      "rarity": "common"
+    },
+    {
+      "name": "Street food (kabobs)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Goats",
+      "rarity": "common"
+    },
+    {
+      "name": "Clams",
+      "rarity": "common"
+    },
+    {
+      "name": "Ivory items",
+      "rarity": "common"
+    },
+    {
+      "name": "Wines",
+      "rarity": "common"
+    },
+    {
+      "name": "Seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Chickens",
+      "rarity": "common"
+    },
+    {
+      "name": "Street food (soup)",
+      "rarity": "common"
+    },
+    {
+      "name": "Grains",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather items",
+      "rarity": "common"
+    }
+  ]
+}

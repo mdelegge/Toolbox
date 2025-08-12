@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pinning Feature Test</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white p-6">
+    <h1 class="text-2xl font-bold mb-4">Pinning Feature Test</h1>
+    
+    <div class="bg-gray-800 rounded-lg p-4 mb-4">
+        <h2 class="text-xl mb-4">Test Scenarios</h2>
+        <div class="space-y-2">
+            <p>✅ Pin/unpin items with push-pin icon</p>
+            <p>✅ Generate new items while keeping pinned ones</p>
+            <p>✅ Group filtering respects pinned items</p>
+            <p>✅ Clear button appears when items are pinned</p>
+            <p>✅ Clear button removes all items including pinned</p>
+        </div>
+    </div>
+
+    <div class="bg-gray-800 rounded-lg p-4">
+        <h2 class="text-xl mb-4">Simulated Results</h2>
+        <div class="mb-4">
+            <button id="simulateGenerate" class="px-4 py-2 bg-blue-600 hover:bg-blue-700 rounded mr-2">Generate Items</button>
+            <button id="clearAllBtn" class="px-3 py-2 bg-red-600 hover:bg-red-700 text-white rounded transition-all duration-300" style="opacity: 0; pointer-events: none;">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="inline mr-1">
+                    <polyline points="3,6 5,6 21,6"/>
+                    <path d="m19,6v14a2,2 0 0,1-2,2H7a2,2 0 0,1-2-2V6m3,0V4a2,2 0 0,1,2-2h4a2,2 0 0,1,2,2v2"/>
+                </svg>
+                Clear All
+            </button>
+        </div>
+        <div id="rollMeta" class="text-sm text-gray-400 mb-2"></div>
+        <ul id="results" class="space-y-2"></ul>
+    </div>
+
+    <script>
+        const testItems = [
+            { name: "Gold pieces (1d20)", group: "gold", rarity: "common" },
+            { name: "Silver pieces (1d100)", group: "silver", rarity: "common" },
+            { name: "Copper pieces (1d50)", group: "copper", rarity: "common" },
+            { name: "Magic Sword +1", rarity: "uncommon" },
+            { name: "Potion of Healing", rarity: "common" },
+            { name: "Shield +1", rarity: "uncommon" }
+        ];
+
+        let generationCount = 0;
+
+        function createResultItem(item, isPinned = false) {
+            const li = document.createElement('li');
+            li.className = 'px-3 py-2 bg-slate-900/60 border border-slate-700 rounded-lg flex items-center gap-3';
+            
+            // SVG icons for pin states
+            const unpinnedIcon = `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M12 17v5"/>
+                <path d="M9 10.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 7.89 17H16.1a2 2 0 0 0 1.78-2.55l-1.78-.9A2 2 0 0 1 15 10.76V7a1 1 0 0 0-1-1H10a1 1 0 0 0-1 1z"/>
+            </svg>`;
+            
+            const pinnedIcon = `<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2">
+                <path d="M12 17v5"/>
+                <path d="M9 10.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 7.89 17H16.1a2 2 0 0 0 1.78-2.55l-1.78-.9A2 2 0 0 1 15 10.76V7a1 1 0 0 0-1-1H10a1 1 0 0 0-1 1z"/>
+            </svg>`;
+            
+            // Create pin button
+            const pinBtn = document.createElement('button');
+            pinBtn.className = `text-gray-400 hover:text-blue-400 transition-colors ${isPinned ? 'text-blue-400' : ''}`;
+            pinBtn.innerHTML = isPinned ? pinnedIcon : unpinnedIcon;
+            pinBtn.title = isPinned ? 'Unpin this item' : 'Pin this item';
+            pinBtn.onclick = () => {
+                const currentlyPinned = li.getAttribute('data-pinned') === 'true';
+                const newPinnedState = !currentlyPinned;
+                li.setAttribute('data-pinned', newPinnedState.toString());
+                pinBtn.innerHTML = newPinnedState ? pinnedIcon : unpinnedIcon;
+                pinBtn.title = newPinnedState ? 'Unpin this item' : 'Pin this item';
+                pinBtn.className = `text-gray-400 hover:text-blue-400 transition-colors ${newPinnedState ? 'text-blue-400' : ''}`;
+                updateUI();
+            };
+            
+            // Create text span for the result
+            const textSpan = document.createElement('span');
+            textSpan.textContent = item.name;
+            textSpan.className = 'flex-1';
+            
+            // Create delete button
+            const deleteBtn = document.createElement('button');
+            deleteBtn.innerHTML = '×';
+            deleteBtn.className = 'text-red-400 hover:text-red-300 hover:bg-red-900/30 rounded px-2 py-1 text-lg font-bold transition-colors';
+            deleteBtn.title = 'Remove this item';
+            deleteBtn.onclick = () => {
+                li.remove();
+                updateUI();
+            };
+            
+            // Store data attributes
+            li.setAttribute('data-result-text', item.name);
+            li.setAttribute('data-pinned', isPinned.toString());
+            li.setAttribute('data-item-group', item.group || '');
+            
+            li.appendChild(pinBtn);
+            li.appendChild(textSpan);
+            li.appendChild(deleteBtn);
+            
+            return li;
+        }
+
+        function updateUI() {
+            const results = document.getElementById('results');
+            const rollMeta = document.getElementById('rollMeta');
+            const clearBtn = document.getElementById('clearAllBtn');
+            
+            const remainingItems = results.querySelectorAll('li').length;
+            const pinnedCount = results.querySelectorAll('li[data-pinned="true"]').length;
+            
+            rollMeta.textContent = `${remainingItems} item(s) (${pinnedCount} pinned) - Generation ${generationCount}`;
+            
+            // Update clear button visibility
+            if (pinnedCount > 0) {
+                clearBtn.style.opacity = '1';
+                clearBtn.style.pointerEvents = 'auto';
+            } else {
+                clearBtn.style.opacity = '0';
+                clearBtn.style.pointerEvents = 'none';
+            }
+        }
+
+        function simulateGenerate() {
+            const results = document.getElementById('results');
+            const maxItems = 4;
+            
+            // Get pinned items
+            const pinnedItems = Array.from(results.querySelectorAll('li[data-pinned="true"]'));
+            const pinnedCount = pinnedItems.length;
+            const newItemsNeeded = Math.max(0, maxItems - pinnedCount);
+            
+            // Remove unpinned items
+            const unpinnedItems = results.querySelectorAll('li[data-pinned="false"], li:not([data-pinned])');
+            unpinnedItems.forEach(li => li.remove());
+            
+            // Get pinned groups to avoid duplicates
+            const pinnedGroups = new Set();
+            pinnedItems.forEach(li => {
+                const group = li.getAttribute('data-item-group');
+                if (group) pinnedGroups.add(group);
+            });
+            
+            // Filter available items to avoid pinned groups
+            const availableItems = testItems.filter(item => !item.group || !pinnedGroups.has(item.group));
+            
+            // Add new items
+            for (let i = 0; i < newItemsNeeded && i < availableItems.length; i++) {
+                const randomItem = availableItems[Math.floor(Math.random() * availableItems.length)];
+                const li = createResultItem(randomItem, false);
+                results.appendChild(li);
+            }
+            
+            generationCount++;
+            updateUI();
+        }
+
+        // Event listeners
+        document.getElementById('simulateGenerate').onclick = simulateGenerate;
+        document.getElementById('clearAllBtn').onclick = () => {
+            document.getElementById('results').innerHTML = '';
+            generationCount = 0;
+            updateUI();
+        };
+
+        // Initial generation
+        simulateGenerate();
+    </script>
+</body>
+</html>

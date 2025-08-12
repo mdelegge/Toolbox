@@ -1,0 +1,402 @@
+{
+  "name": "Items in a Wine Cellar",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Barrels of wine (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Candles (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Candles (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Torn bloody shirt",
+      "rarity": "common"
+    },
+    {
+      "name": "Champagne (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken chair",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottles of wine (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken table",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty wine bottles (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wine bottle corks (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wine bottle corks (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Two kitchen scullions playing cards",
+      "rarity": "common"
+    },
+    {
+      "name": "Shovel",
+      "rarity": "common"
+    },
+    {
+      "name": "Beer kegs (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hiding child",
+      "rarity": "common"
+    },
+    {
+      "name": "Secret door",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken wine bottle",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottles of wine (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Candles (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wine bottle corks (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrels of wine (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "New excavations in one corner",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty wine bottle sealed with a note inside",
+      "rarity": "common"
+    },
+    {
+      "name": "Remnants of a servants card game",
+      "rarity": "common"
+    },
+    {
+      "name": "Champagne (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Book hidden behind a wine bottle",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead body",
+      "rarity": "common"
+    },
+    {
+      "name": "One gold piece",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty wine bottles (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty wine bottles (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottles of wine (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Beer kegs (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Corkscrews (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hidden key",
+      "rarity": "common"
+    },
+    {
+      "name": "Towels (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty wine bottles (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Recipe for wine",
+      "rarity": "common"
+    },
+    {
+      "name": "One silver peace",
+      "rarity": "common"
+    },
+    {
+      "name": "Short swords hidden in a wine barrel",
+      "rarity": "common"
+    },
+    {
+      "name": "Champagne (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Beer keg",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottles of wine (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wine bottle corks (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty wine barrels (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty wine barrels (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Locked metal chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty wine barrels (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty wine bottles (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hiding halfl2ing",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty wine bottles (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Locked wooden chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrels of wine (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wine cellar inventory list",
+      "rarity": "common"
+    },
+    {
+      "name": "Towels(1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wine bottle corks (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty wine barrels (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny emblem of an eagle made out of gold",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottles of wine (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Corkscrews (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rags (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty wine barrels (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rare vintage wine (200 gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wine bottle corks (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Portrait of the cellars owner",
+      "rarity": "common"
+    },
+    {
+      "name": "Books hidden in a wine barrel",
+      "rarity": "common"
+    },
+    {
+      "name": "Hidden stack of letters",
+      "rarity": "common"
+    },
+    {
+      "name": "Man pouring some liquid into a full wine bottle",
+      "rarity": "common"
+    },
+    {
+      "name": "Rags (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Young girl reading a huge book",
+      "rarity": "common"
+    },
+    {
+      "name": "Long sword hidden behind a rack",
+      "rarity": "common"
+    },
+    {
+      "name": "Small statue of a young girl",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrels of wine (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger with a jeweled hilt",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrels of wine (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Small wooden box containing notes",
+      "rarity": "common"
+    },
+    {
+      "name": "Scroll hidden behind a wine bottle",
+      "rarity": "common"
+    },
+    {
+      "name": "Wine barrel full of daggers",
+      "rarity": "common"
+    },
+    {
+      "name": "Rags (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Corkscrews (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Towel (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rare vintage wine (400 gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottles of wine (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Old man sleeping in the corner",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottles of wine (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Thin copper chain with a symbol of the serpent",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty wine bottles (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rare vintage wine (100 gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lanterns (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Supply list",
+      "rarity": "common"
+    },
+    {
+      "name": "Two young boys trying to smoke a pipe",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrels of wine (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty wine barrels (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sub cellar door",
+      "rarity": "common"
+    },
+    {
+      "name": "Torches (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Flint and tinder",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold goblet set upon a small alter",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrels of wine (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottle of 1000-year-old wine (2000 gp)",
+      "rarity": "common"
+    }
+  ]
+}

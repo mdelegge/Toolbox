@@ -1,0 +1,406 @@
+{
+  "name": "Non-Combat Encounters",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Unconscious man",
+      "rarity": "common"
+    },
+    {
+      "name": "Injured woman",
+      "rarity": "common"
+    },
+    {
+      "name": "Injured gnome female",
+      "rarity": "common"
+    },
+    {
+      "name": "A group of dwarves carrying a large stone",
+      "rarity": "common"
+    },
+    {
+      "name": "A woodcutter felling a tree",
+      "rarity": "common"
+    },
+    {
+      "name": "A wishing well",
+      "rarity": "common"
+    },
+    {
+      "name": "Unconscious gnome male",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead hal\ufb02ing male",
+      "rarity": "common"
+    },
+    {
+      "name": "A shepherd with sheep",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead gnome female",
+      "rarity": "common"
+    },
+    {
+      "name": "Injured man",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear caught in a bear trap",
+      "rarity": "common"
+    },
+    {
+      "name": "A young boy looking for a sword",
+      "rarity": "common"
+    },
+    {
+      "name": "A snake coiled around a sword",
+      "rarity": "common"
+    },
+    {
+      "name": "A golden arrow stuck in a tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Unconscious hal\ufb02ing male",
+      "rarity": "common"
+    },
+    {
+      "name": "A talking raven",
+      "rarity": "common"
+    },
+    {
+      "name": "A man asks, \"Where is Tanerlay?\"",
+      "rarity": "common"
+    },
+    {
+      "name": "A man carrying a heavy sack",
+      "rarity": "common"
+    },
+    {
+      "name": "A hunter's campsite",
+      "rarity": "common"
+    },
+    {
+      "name": "A fallen tree blocks the path",
+      "rarity": "common"
+    },
+    {
+      "name": "A dagger stuck into a tree",
+      "rarity": "common"
+    },
+    {
+      "name": "A wanted poster nailed to a tree",
+      "rarity": "common"
+    },
+    {
+      "name": "A woman gives one character a ring then dies",
+      "rarity": "common"
+    },
+    {
+      "name": "A large rectangular stone lies in the path",
+      "rarity": "common"
+    },
+    {
+      "name": "An elf hands a character a book then runs off",
+      "rarity": "common"
+    },
+    {
+      "name": "A lost sheep",
+      "rarity": "common"
+    },
+    {
+      "name": "Injured elf male",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild horses",
+      "rarity": "common"
+    },
+    {
+      "name": "Injured halfling female",
+      "rarity": "common"
+    },
+    {
+      "name": "A caravan of elves",
+      "rarity": "common"
+    },
+    {
+      "name": "Unconscious woman",
+      "rarity": "common"
+    },
+    {
+      "name": "A man hanging upside down from a tree",
+      "rarity": "common"
+    },
+    {
+      "name": "A trade caravan",
+      "rarity": "common"
+    },
+    {
+      "name": "A child carrying a large bundle of straw",
+      "rarity": "common"
+    },
+    {
+      "name": "A talking tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Gallows with a body swaying in the breeze",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead woman",
+      "rarity": "common"
+    },
+    {
+      "name": "An overturned wagon",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty gallows",
+      "rarity": "common"
+    },
+    {
+      "name": "Pregnant woman weeping",
+      "rarity": "common"
+    },
+    {
+      "name": "A family traveling to a new town",
+      "rarity": "common"
+    },
+    {
+      "name": "A human skeleton",
+      "rarity": "common"
+    },
+    {
+      "name": "Injured halfling male",
+      "rarity": "common"
+    },
+    {
+      "name": "Injured gnome male",
+      "rarity": "common"
+    },
+    {
+      "name": "Tinker with a wagon selling wares",
+      "rarity": "common"
+    },
+    {
+      "name": "Unconscious dwarf male",
+      "rarity": "common"
+    },
+    {
+      "name": "A herd of pigs",
+      "rarity": "common"
+    },
+    {
+      "name": "A group of elven children playing",
+      "rarity": "common"
+    },
+    {
+      "name": "A talking snake",
+      "rarity": "common"
+    },
+    {
+      "name": "Unconscious elf male",
+      "rarity": "common"
+    },
+    {
+      "name": "An abandoned cottage",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead halfling female",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead gnome male",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead child",
+      "rarity": "common"
+    },
+    {
+      "name": "Injured dwarf female",
+      "rarity": "common"
+    },
+    {
+      "name": "A wedding caravan",
+      "rarity": "common"
+    },
+    {
+      "name": "Unconscious dwarf female",
+      "rarity": "common"
+    },
+    {
+      "name": "Loaded pack mule with no owner to be seen",
+      "rarity": "common"
+    },
+    {
+      "name": "A child has fallen into a well",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead elf female",
+      "rarity": "common"
+    },
+    {
+      "name": "A talking dog",
+      "rarity": "common"
+    },
+    {
+      "name": "A hunter gutting a bear",
+      "rarity": "common"
+    },
+    {
+      "name": "A child is lost in a cave",
+      "rarity": "common"
+    },
+    {
+      "name": "An orphan steals from a character",
+      "rarity": "common"
+    },
+    {
+      "name": "A women asks for directions",
+      "rarity": "common"
+    },
+    {
+      "name": "Injured dog",
+      "rarity": "common"
+    },
+    {
+      "name": "A young adventurer on a quest",
+      "rarity": "common"
+    },
+    {
+      "name": "An old woman asks for water",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead dwarf male",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead dwarf female",
+      "rarity": "common"
+    },
+    {
+      "name": "A wizard looking for his spellbook",
+      "rarity": "common"
+    },
+    {
+      "name": "A sword in a stone",
+      "rarity": "common"
+    },
+    {
+      "name": "Child asks for bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Injured dwarf male",
+      "rarity": "common"
+    },
+    {
+      "name": "A trail of breadcrumbs",
+      "rarity": "common"
+    },
+    {
+      "name": "Abandoned campsite",
+      "rarity": "common"
+    },
+    {
+      "name": "A golden book lies on the ground",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead horse with riding gear scattered about",
+      "rarity": "common"
+    },
+    {
+      "name": "Unconscious halfling female",
+      "rarity": "common"
+    },
+    {
+      "name": "A hunter gutting a deer",
+      "rarity": "common"
+    },
+    {
+      "name": "Dog runs up to be petted",
+      "rarity": "common"
+    },
+    {
+      "name": "A shallow grave",
+      "rarity": "common"
+    },
+    {
+      "name": "Unconscious elf female",
+      "rarity": "common"
+    },
+    {
+      "name": "A group of monks on a pilgrimage",
+      "rarity": "common"
+    },
+    {
+      "name": "A cat starts hanging around",
+      "rarity": "common"
+    },
+    {
+      "name": "Weeping child",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead man",
+      "rarity": "common"
+    },
+    {
+      "name": "Unconscious child",
+      "rarity": "common"
+    },
+    {
+      "name": "A well-kept cottage",
+      "rarity": "common"
+    },
+    {
+      "name": "An old beggar asks for a coin",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead elf male",
+      "rarity": "common"
+    },
+    {
+      "name": "A dwarf looking at broken warhammer",
+      "rarity": "common"
+    },
+    {
+      "name": "A blood trail",
+      "rarity": "common"
+    },
+    {
+      "name": "Elf princess riding an elk",
+      "rarity": "common"
+    },
+    {
+      "name": "A child is lost in the forest",
+      "rarity": "common"
+    },
+    {
+      "name": "Survivors of an attack",
+      "rarity": "common"
+    },
+    {
+      "name": "A table set for two",
+      "rarity": "common"
+    },
+    {
+      "name": "Unconscious gnome female",
+      "rarity": "common"
+    },
+    {
+      "name": "Injured elf female",
+      "rarity": "common"
+    }
+  ]
+}

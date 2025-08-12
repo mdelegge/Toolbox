@@ -3,6 +3,7 @@ import { weightedSampleWithoutReplacement, weightedSampleWithGroupFiltering, for
 import { loadManifest, loadModuleByFile } from './modules.js';
 
 const els = {
+  categorySelect: document.getElementById('categorySelect'),
   moduleSelect: document.getElementById('moduleSelect'),
   minItems: document.getElementById('minItems'),
   maxItems: document.getElementById('maxItems'),
@@ -26,8 +27,9 @@ const els = {
   regenerateDungeonBtn: document.getElementById('regenerateDungeonBtn')
 };
 
-let manifest = [];
+let manifest = { categories: [] };
 let currentModule = null;
+let currentCategory = null;
 
 function renderModuleInfo(mod) {
   els.infoName.textContent = mod.name || '(unnamed module)';
@@ -35,13 +37,54 @@ function renderModuleInfo(mod) {
   els.infoMax.textContent = mod.maxItems ?? 5;
 }
 
+function renderCategoryOptions() {
+  els.categorySelect.innerHTML = '';
+  
+  manifest.categories.forEach(category => {
+    const opt = document.createElement('option');
+    opt.value = category.id;
+    opt.textContent = category.name;
+    if (category.default) {
+      opt.selected = true;
+      currentCategory = category;
+    }
+    els.categorySelect.appendChild(opt);
+  });
+  
+  // Enable the category select now that it's populated
+  els.categorySelect.disabled = false;
+  
+  // If we have a default category, render its tables
+  if (currentCategory) {
+    renderModuleOptions();
+  }
+}
+
 function renderModuleOptions() {
   els.moduleSelect.innerHTML = '';
-  for (const entry of manifest) {
+  
+  if (!currentCategory) {
     const opt = document.createElement('option');
-    opt.value = entry.file;
-    opt.textContent = entry.name;
+    opt.value = '';
+    opt.textContent = 'No category selected';
     els.moduleSelect.appendChild(opt);
+    els.moduleSelect.disabled = true;
+    return;
+  }
+  
+  currentCategory.tables.forEach(table => {
+    const opt = document.createElement('option');
+    opt.value = table.file;
+    opt.textContent = table.name;
+    els.moduleSelect.appendChild(opt);
+  });
+  
+  // Enable the module select now that it's populated
+  els.moduleSelect.disabled = false;
+  
+  // If there's a selected module, update the module info
+  if (els.moduleSelect.value) {
+    onModuleChange();
   }
 }
 
@@ -389,12 +432,30 @@ function exportDungeonImage() {
 }
 
 async function main() {
-  manifest = await loadManifest();
-  renderModuleOptions();
-  if (manifest.length) {
-    els.moduleSelect.value = manifest[0].file;
-    await onModuleChange();
+  const manifestData = await loadManifest();
+  // Handle both old and new manifest formats
+  if (Array.isArray(manifestData)) {
+    // Convert old format to new format
+    manifest = {
+      categories: [{
+        id: 'default',
+        name: 'All Tables',
+        default: true,
+        tables: manifestData
+      }]
+    };
+  } else {
+    manifest = manifestData;
   }
+  
+  renderCategoryOptions();
+  syncMinMax();
+  
+  // Add event listener for category changes
+  els.categorySelect.addEventListener('change', (e) => {
+    currentCategory = manifest.categories.find(cat => cat.id === e.target.value);
+    renderModuleOptions();
+  });
 }
 
 // Dungeon Generator Variables

@@ -1,0 +1,406 @@
+{
+  "name": "Desert Encounters",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Talking cactus",
+      "rarity": "common"
+    },
+    {
+      "name": "Lost courier",
+      "rarity": "common"
+    },
+    {
+      "name": "Camel (dead)",
+      "rarity": "common"
+    },
+    {
+      "name": "Chest marked \"Do not open under any circumstance.\"",
+      "rarity": "common"
+    },
+    {
+      "name": "Half-buried halfling",
+      "rarity": "common"
+    },
+    {
+      "name": "Traveling merchants with exotic wares",
+      "rarity": "common"
+    },
+    {
+      "name": "Lone skeleton clutching a rusty sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Old boot with a map inside",
+      "rarity": "common"
+    },
+    {
+      "name": "Sandstorm (1D20 turns until it arrives)",
+      "rarity": "common"
+    },
+    {
+      "name": "Trading caravan",
+      "rarity": "common"
+    },
+    {
+      "name": "Beautiful oasis",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant scorpions (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Camel tracks",
+      "rarity": "common"
+    },
+    {
+      "name": "Handsome man that dissipates when approached",
+      "rarity": "common"
+    },
+    {
+      "name": "Deserted campsite",
+      "rarity": "common"
+    },
+    {
+      "name": "Remnants of a defeated army",
+      "rarity": "common"
+    },
+    {
+      "name": "Small cave entrance",
+      "rarity": "common"
+    },
+    {
+      "name": "Signs of a battle",
+      "rarity": "common"
+    },
+    {
+      "name": "Tracks of an orc war party",
+      "rarity": "common"
+    },
+    {
+      "name": "Reanimated skeleton sweeping",
+      "rarity": "common"
+    },
+    {
+      "name": "Circular cacti grove",
+      "rarity": "common"
+    },
+    {
+      "name": "Swordsman challenges any who pass by to a duel",
+      "rarity": "common"
+    },
+    {
+      "name": "Small watch tower",
+      "rarity": "common"
+    },
+    {
+      "name": "Bones of a horse",
+      "rarity": "common"
+    },
+    {
+      "name": "Poachers (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Cultists (2D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sinkhole (6' diameter)",
+      "rarity": "common"
+    },
+    {
+      "name": "Coyotes (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Decaying corpses (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ongoing duel between two swordsmen",
+      "rarity": "common"
+    },
+    {
+      "name": "Knight weeping over his dead squire",
+      "rarity": "common"
+    },
+    {
+      "name": "Shrubbery laden with berries",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken wagon with rotten goods inside",
+      "rarity": "common"
+    },
+    {
+      "name": "Traveling merchants with common wares",
+      "rarity": "common"
+    },
+    {
+      "name": "Road sign too weatherworn to read",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant scorpion tracks",
+      "rarity": "common"
+    },
+    {
+      "name": "Group of children clad in armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Man grieving for his dead horse",
+      "rarity": "common"
+    },
+    {
+      "name": "Crater with a meteor inside",
+      "rarity": "common"
+    },
+    {
+      "name": "Beautiful woman that disappears when approached",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone statue of a man clad in armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Dried up oasis",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant trying to sell a map to a forgotten library",
+      "rarity": "common"
+    },
+    {
+      "name": "Long forgotten temple",
+      "rarity": "common"
+    },
+    {
+      "name": "Hunter and her faithful dog",
+      "rarity": "common"
+    },
+    {
+      "name": "Ongoing battle",
+      "rarity": "common"
+    },
+    {
+      "name": "Wanderer seeking vengeance",
+      "rarity": "common"
+    },
+    {
+      "name": "Skeleton clutching a piece of parchment",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden statue of a woman holding a spear",
+      "rarity": "common"
+    },
+    {
+      "name": "Windswept ruins of a castle",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken siege equipment",
+      "rarity": "common"
+    },
+    {
+      "name": "Pilgrims on their way to a holy site",
+      "rarity": "common"
+    },
+    {
+      "name": "Caravan campsite",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant stone arm sticking out of the sand",
+      "rarity": "common"
+    },
+    {
+      "name": "Oasis occupied by a group of travelers",
+      "rarity": "common"
+    },
+    {
+      "name": "Coyotes (2D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wizard mumbling to himself",
+      "rarity": "common"
+    },
+    {
+      "name": "Paladin searching for an evil cult",
+      "rarity": "common"
+    },
+    {
+      "name": "Glass bottle with a love letter inside",
+      "rarity": "common"
+    },
+    {
+      "name": "Unmarked grave",
+      "rarity": "common"
+    },
+    {
+      "name": "Remnants of a stone road",
+      "rarity": "common"
+    },
+    {
+      "name": "Hermit that wants to be left alone",
+      "rarity": "common"
+    },
+    {
+      "name": "Demon looking to make a deal",
+      "rarity": "common"
+    },
+    {
+      "name": "Vultures picking an elf carcass clean",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead courier with undelivered messages",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblins (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Traveling minstrel",
+      "rarity": "common"
+    },
+    {
+      "name": "Sphinx",
+      "rarity": "common"
+    },
+    {
+      "name": "Familiar tracks, you may be lost",
+      "rarity": "common"
+    },
+    {
+      "name": "Rock in the shape of a crowned head",
+      "rarity": "common"
+    },
+    {
+      "name": "Abandoned quarry",
+      "rarity": "common"
+    },
+    {
+      "name": "Naked man complaining about witches",
+      "rarity": "common"
+    },
+    {
+      "name": "Squire weeping for his dead knight",
+      "rarity": "common"
+    },
+    {
+      "name": "Camels (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "A single flourishing tree (30' tall)",
+      "rarity": "common"
+    },
+    {
+      "name": "Coyotes (3D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant trying to sell 'a magic lamp'",
+      "rarity": "common"
+    },
+    {
+      "name": "Campsite of pilgrims",
+      "rarity": "common"
+    },
+    {
+      "name": "Severed head stuck on a pike",
+      "rarity": "common"
+    },
+    {
+      "name": "Woman dying of a mortal wound",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusty sword with 'Honor' engraved on the blade",
+      "rarity": "common"
+    },
+    {
+      "name": "Sand golem",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty crater",
+      "rarity": "common"
+    },
+    {
+      "name": "Cask of wine (dated 1D100 years old)",
+      "rarity": "common"
+    },
+    {
+      "name": "Twin statues weathered by time",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon skeleton",
+      "rarity": "common"
+    },
+    {
+      "name": "Table set for a feast, not a soul in sight",
+      "rarity": "common"
+    },
+    {
+      "name": "Smoldering remains of a caravan",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandits (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Portal to an unknown destination",
+      "rarity": "common"
+    },
+    {
+      "name": "Necromancy ritual in progress",
+      "rarity": "common"
+    },
+    {
+      "name": "Man dying of thirst",
+      "rarity": "common"
+    },
+    {
+      "name": "Archeological dig site",
+      "rarity": "common"
+    },
+    {
+      "name": "Rock formation with strange carvings",
+      "rarity": "common"
+    },
+    {
+      "name": "Horse carrying a dead rider",
+      "rarity": "common"
+    },
+    {
+      "name": "Blood stained sand",
+      "rarity": "common"
+    },
+    {
+      "name": "Group of adventurers returning home",
+      "rarity": "common"
+    },
+    {
+      "name": "Army campground",
+      "rarity": "common"
+    },
+    {
+      "name": "Fox",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon",
+      "rarity": "common"
+    }
+  ]
+}

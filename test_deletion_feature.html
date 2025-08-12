@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deletion Feature Test</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .test-section { margin: 20px 0; padding: 15px; border: 1px solid #ccc; }
+    </style>
+</head>
+<body class="bg-gray-900 text-white">
+    <h1 class="text-2xl font-bold mb-4">Deletion Feature Test</h1>
+    
+    <div class="test-section bg-gray-800 rounded-lg">
+        <h2 class="text-xl mb-4">Test Results with Delete Buttons</h2>
+        <ul id="test-results" class="space-y-2"></ul>
+        <button id="copy-test" class="mt-4 px-4 py-2 bg-blue-600 hover:bg-blue-700 rounded">Copy Remaining Items</button>
+        <div id="copy-output" class="mt-2 p-2 bg-gray-700 rounded hidden"></div>
+    </div>
+
+    <script>
+        // Simulate the deletion functionality
+        const testResults = [
+            "Gold pieces (1d20) [x 15]",
+            "Silver pieces (1d100) [x 67]",
+            "Copper pieces (1d50) [x 23]",
+            "Potion of Healing",
+            "Magic Sword +1"
+        ];
+
+        const resultsContainer = document.getElementById('test-results');
+        const copyBtn = document.getElementById('copy-test');
+        const copyOutput = document.getElementById('copy-output');
+
+        // Create test result items with delete buttons
+        testResults.forEach((result, index) => {
+            const li = document.createElement('li');
+            li.className = 'px-3 py-2 bg-slate-900/60 border border-slate-700 rounded-lg flex justify-between items-center';
+            
+            // Create text span for the result
+            const textSpan = document.createElement('span');
+            textSpan.textContent = result;
+            textSpan.className = 'flex-1';
+            
+            // Create delete button
+            const deleteBtn = document.createElement('button');
+            deleteBtn.innerHTML = '×';
+            deleteBtn.className = 'ml-3 text-red-400 hover:text-red-300 hover:bg-red-900/30 rounded px-2 py-1 text-lg font-bold transition-colors';
+            deleteBtn.title = 'Remove this item';
+            deleteBtn.onclick = () => {
+                li.remove();
+                updateStatus();
+            };
+            
+            // Store the original text for copy functionality
+            li.setAttribute('data-result-text', result);
+            
+            li.appendChild(textSpan);
+            li.appendChild(deleteBtn);
+            resultsContainer.appendChild(li);
+        });
+
+        function updateStatus() {
+            const remainingCount = resultsContainer.querySelectorAll('li').length;
+            document.title = `Deletion Test - ${remainingCount} items remaining`;
+        }
+
+        // Copy functionality test
+        copyBtn.onclick = () => {
+            const remainingItems = Array.from(resultsContainer.querySelectorAll('li'));
+            const lines = remainingItems.map(li => li.getAttribute('data-result-text'));
+            
+            if (lines.length === 0) {
+                copyOutput.textContent = 'No items to copy';
+                copyOutput.classList.remove('hidden');
+                setTimeout(() => copyOutput.classList.add('hidden'), 2000);
+                return;
+            }
+            
+            const resultText = lines.join('\n');
+            navigator.clipboard.writeText(resultText).then(() => {
+                copyOutput.textContent = `Copied ${lines.length} items:\n${resultText}`;
+                copyOutput.classList.remove('hidden');
+                setTimeout(() => copyOutput.classList.add('hidden'), 3000);
+            });
+        };
+
+        updateStatus();
+    </script>
+</body>
+</html>

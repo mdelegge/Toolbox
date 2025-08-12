@@ -1,0 +1,406 @@
+{
+  "name": "Dungeon Room - Table #4",
+  "maxItems": 5,
+  "items": [
+    {
+      "name": "'Gulwulf' scratched into the floor",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver brooch with a leaf design",
+      "rarity": "common"
+    },
+    {
+      "name": "Small green glass bottle",
+      "rarity": "common"
+    },
+    {
+      "name": "Pile of dead bodies",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper button with a crown design",
+      "rarity": "common"
+    },
+    {
+      "name": "Piece of coral",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead dog",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ivory button with a whale design",
+      "rarity": "common"
+    },
+    {
+      "name": "Puddle of blood",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver fork",
+      "rarity": "common"
+    },
+    {
+      "name": "Crystal shard",
+      "rarity": "common"
+    },
+    {
+      "name": "Square gold coin with a torch design",
+      "rarity": "common"
+    },
+    {
+      "name": "Severed kobold head",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken abacus",
+      "rarity": "common"
+    },
+    {
+      "name": "Bust of an ancient queen",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead cat",
+      "rarity": "common"
+    },
+    {
+      "name": "Burnt dwarf body",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny glowing stone",
+      "rarity": "common"
+    },
+    {
+      "name": "Child's rag doll",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Brass spoon",
+      "rarity": "common"
+    },
+    {
+      "name": "Moldy piece of cheese",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead weasel",
+      "rarity": "common"
+    },
+    {
+      "name": "Elephant tusk",
+      "rarity": "common"
+    },
+    {
+      "name": "Glass slipper",
+      "rarity": "common"
+    },
+    {
+      "name": "Small stone statue of a dwarven warrior",
+      "rarity": "common"
+    },
+    {
+      "name": "Ball bearings (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Burnt elf body",
+      "rarity": "common"
+    },
+    {
+      "name": "Severed human head",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead goblin",
+      "rarity": "common"
+    },
+    {
+      "name": "Burnt halfling body",
+      "rarity": "common"
+    },
+    {
+      "name": "Ball bearings (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead chicken",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf tooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Fragments of a hatched egg (small)",
+      "rarity": "common"
+    },
+    {
+      "name": "Severed orc toe",
+      "rarity": "common"
+    },
+    {
+      "name": "Fragments of a hatched egg (large)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bloody goblin footprint",
+      "rarity": "common"
+    },
+    {
+      "name": "Pair of bone dice",
+      "rarity": "common"
+    },
+    {
+      "name": "Ripped and bloody jerkin",
+      "rarity": "common"
+    },
+    {
+      "name": "Piece of red glass",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny jade lion statue",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold button with a lion design",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusty horseshoe",
+      "rarity": "common"
+    },
+    {
+      "name": "Cocoon (1' x 3')",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver button with an anchor design",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Shattered onyx orb",
+      "rarity": "common"
+    },
+    {
+      "name": "Remains of a camp\ufb01re",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver key with a star on it",
+      "rarity": "common"
+    },
+    {
+      "name": "A bag of bones",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron key with a skull design",
+      "rarity": "common"
+    },
+    {
+      "name": "Mushrooms",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken vase",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Large cat paw print",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrowhead",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold necklace",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver coin from ancient kingdom",
+      "rarity": "common"
+    },
+    {
+      "name": "Rotten water skin",
+      "rarity": "common"
+    },
+    {
+      "name": "Small piece of quartz",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver spoon",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny silver dragon statue",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver necklace",
+      "rarity": "common"
+    },
+    {
+      "name": "Hat with 'Crilis' embroidered in it",
+      "rarity": "common"
+    },
+    {
+      "name": "'Morling' scratched on the wall",
+      "rarity": "common"
+    },
+    {
+      "name": "Brass key with a dragon head design",
+      "rarity": "common"
+    },
+    {
+      "name": "Half burned love letter",
+      "rarity": "common"
+    },
+    {
+      "name": "'Fuller' written in blood on the floor",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver button with a 'S' design",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold key with a shield design",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper coin from a legendary kingdom",
+      "rarity": "common"
+    },
+    {
+      "name": "Belt buckle",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather pouch (empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon scale",
+      "rarity": "common"
+    },
+    {
+      "name": "Rope (20')",
+      "rarity": "common"
+    },
+    {
+      "name": "Tin fork",
+      "rarity": "common"
+    },
+    {
+      "name": "Small clay figurine of an elven female",
+      "rarity": "common"
+    },
+    {
+      "name": "Map case (locked)",
+      "rarity": "common"
+    },
+    {
+      "name": "Cracked crystal orb",
+      "rarity": "common"
+    },
+    {
+      "name": "Burnt gnome body",
+      "rarity": "common"
+    },
+    {
+      "name": "Brass button",
+      "rarity": "common"
+    },
+    {
+      "name": "Melted gold piece",
+      "rarity": "common"
+    },
+    {
+      "name": "Bloody hand print (human)",
+      "rarity": "common"
+    },
+    {
+      "name": "Jawbone of a donkey",
+      "rarity": "common"
+    },
+    {
+      "name": "The History of Alchemy (book)",
+      "rarity": "common"
+    },
+    {
+      "name": "Pile of dead ants",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken spear",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper arm band with battle scene design",
+      "rarity": "common"
+    },
+    {
+      "name": "Small paintbrush",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken chain link",
+      "rarity": "common"
+    },
+    {
+      "name": "Bloody bandages",
+      "rarity": "common"
+    },
+    {
+      "name": "Lute string",
+      "rarity": "common"
+    }
+  ]
+}

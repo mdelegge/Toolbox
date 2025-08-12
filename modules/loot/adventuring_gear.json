@@ -1,0 +1,406 @@
+{
+  "name": "Adventuring Gear",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Soap",
+      "rarity": "common"
+    },
+    {
+      "name": "Ink (1 ounce bottle)",
+      "rarity": "common"
+    },
+    {
+      "name": "Manacles",
+      "rarity": "common"
+    },
+    {
+      "name": "Clothes, \ufb01ne",
+      "rarity": "common"
+    },
+    {
+      "name": "Kit, mess",
+      "rarity": "common"
+    },
+    {
+      "name": "Sprig of mistletoe",
+      "rarity": "common"
+    },
+    {
+      "name": "Lantern, bullseye",
+      "rarity": "common"
+    },
+    {
+      "name": "Clothes, costume",
+      "rarity": "common"
+    },
+    {
+      "name": "Rod",
+      "rarity": "common"
+    },
+    {
+      "name": "Yew wand",
+      "rarity": "common"
+    },
+    {
+      "name": "Kit, poisoner\u2019s",
+      "rarity": "common"
+    },
+    {
+      "name": "Perfume (vial)",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrows (20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hammer, sledge",
+      "rarity": "common"
+    },
+    {
+      "name": "Rope, hempen (50 feet)",
+      "rarity": "common"
+    },
+    {
+      "name": "Kit, disguise",
+      "rarity": "common"
+    },
+    {
+      "name": "Magnifying glass",
+      "rarity": "common"
+    },
+    {
+      "name": "Caltrops (bag of 20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ink pen",
+      "rarity": "common"
+    },
+    {
+      "name": "Reliquary",
+      "rarity": "common"
+    },
+    {
+      "name": "Sack",
+      "rarity": "common"
+    },
+    {
+      "name": "Hammer",
+      "rarity": "common"
+    },
+    {
+      "name": "Robes",
+      "rarity": "common"
+    },
+    {
+      "name": "Spikes, iron (10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Torch",
+      "rarity": "common"
+    },
+    {
+      "name": "Hunting trap",
+      "rarity": "common"
+    },
+    {
+      "name": "Mirror, steel",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottle, glass",
+      "rarity": "common"
+    },
+    {
+      "name": "Clothes, common",
+      "rarity": "common"
+    },
+    {
+      "name": "Blanket",
+      "rarity": "common"
+    },
+    {
+      "name": "Rope, silk (50 feet)",
+      "rarity": "common"
+    },
+    {
+      "name": "Chalk (1 piece)",
+      "rarity": "common"
+    },
+    {
+      "name": "Book",
+      "rarity": "common"
+    },
+    {
+      "name": "Sling bullets (20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sealing wax",
+      "rarity": "common"
+    },
+    {
+      "name": "Lamp",
+      "rarity": "common"
+    },
+    {
+      "name": "Tent, two-person",
+      "rarity": "common"
+    },
+    {
+      "name": "Grappling hook",
+      "rarity": "common"
+    },
+    {
+      "name": "Orb",
+      "rarity": "common"
+    },
+    {
+      "name": "Antitoxin (vial)",
+      "rarity": "common"
+    },
+    {
+      "name": "Kit, forgery",
+      "rarity": "common"
+    },
+    {
+      "name": "Parchment (one sheet)",
+      "rarity": "common"
+    },
+    {
+      "name": "Whetstone",
+      "rarity": "common"
+    },
+    {
+      "name": "Bell",
+      "rarity": "common"
+    },
+    {
+      "name": "Shovel",
+      "rarity": "common"
+    },
+    {
+      "name": "Flask or tankard",
+      "rarity": "common"
+    },
+    {
+      "name": "Blowgun needles (50)",
+      "rarity": "common"
+    },
+    {
+      "name": "Holy water (\ufb02ask)",
+      "rarity": "common"
+    },
+    {
+      "name": "Jug or pitcher",
+      "rarity": "common"
+    },
+    {
+      "name": "Ram, portable",
+      "rarity": "common"
+    },
+    {
+      "name": "Paper (one sheet)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bucket",
+      "rarity": "common"
+    },
+    {
+      "name": "Hourglass",
+      "rarity": "common"
+    },
+    {
+      "name": "Quiver",
+      "rarity": "common"
+    },
+    {
+      "name": "Amulet",
+      "rarity": "common"
+    },
+    {
+      "name": "Basket",
+      "rarity": "common"
+    },
+    {
+      "name": "Acid (vial)",
+      "rarity": "common"
+    },
+    {
+      "name": "Waterskin",
+      "rarity": "common"
+    },
+    {
+      "name": "Sta\ufb00",
+      "rarity": "common"
+    },
+    {
+      "name": "Clothes, traveler\u2019s",
+      "rarity": "common"
+    },
+    {
+      "name": "Alchemist\u2019s \ufb01re (\ufb02ask)",
+      "rarity": "common"
+    },
+    {
+      "name": "Pick, miner\u2019s",
+      "rarity": "common"
+    },
+    {
+      "name": "Crossbow bolts (20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Scale, merchant\u2019s",
+      "rarity": "common"
+    },
+    {
+      "name": "Emblem",
+      "rarity": "common"
+    },
+    {
+      "name": "Crystal",
+      "rarity": "common"
+    },
+    {
+      "name": "Pole (10-foot)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lock",
+      "rarity": "common"
+    },
+    {
+      "name": "Piton",
+      "rarity": "common"
+    },
+    {
+      "name": "Kit, herbalism",
+      "rarity": "common"
+    },
+    {
+      "name": "Crowbar",
+      "rarity": "common"
+    },
+    {
+      "name": "Spyglass",
+      "rarity": "common"
+    },
+    {
+      "name": "Case, crossbow bolt",
+      "rarity": "common"
+    },
+    {
+      "name": "Totem",
+      "rarity": "common"
+    },
+    {
+      "name": "Kit, healer\u2019s",
+      "rarity": "common"
+    },
+    {
+      "name": "Rations (1 day)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lantern, hooded",
+      "rarity": "common"
+    },
+    {
+      "name": "Component pouch",
+      "rarity": "common"
+    },
+    {
+      "name": "Abacus",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden sta\ufb00",
+      "rarity": "common"
+    },
+    {
+      "name": "Tinderbox",
+      "rarity": "common"
+    },
+    {
+      "name": "Case, map or scroll",
+      "rarity": "common"
+    },
+    {
+      "name": "Pot, iron",
+      "rarity": "common"
+    },
+    {
+      "name": "Fishing tackle",
+      "rarity": "common"
+    },
+    {
+      "name": "Vial",
+      "rarity": "common"
+    },
+    {
+      "name": "Kit, climber\u2019s",
+      "rarity": "common"
+    },
+    {
+      "name": "Candle",
+      "rarity": "common"
+    },
+    {
+      "name": "Signal whistle",
+      "rarity": "common"
+    },
+    {
+      "name": "Ball bearings (bag of 1,000)",
+      "rarity": "common"
+    },
+    {
+      "name": "Oil (\ufb02ask)",
+      "rarity": "common"
+    },
+    {
+      "name": "Chain (10 feet)",
+      "rarity": "common"
+    },
+    {
+      "name": "Block and tackle",
+      "rarity": "common"
+    },
+    {
+      "name": "Wand",
+      "rarity": "common"
+    },
+    {
+      "name": "Backpack",
+      "rarity": "common"
+    },
+    {
+      "name": "Chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrel",
+      "rarity": "common"
+    },
+    {
+      "name": "Bedroll",
+      "rarity": "common"
+    },
+    {
+      "name": "Poison, basic (vial)",
+      "rarity": "common"
+    },
+    {
+      "name": "Pouch",
+      "rarity": "common"
+    },
+    {
+      "name": "Potion of healing",
+      "rarity": "common"
+    }
+  ]
+}

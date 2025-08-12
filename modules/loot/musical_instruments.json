@@ -1,0 +1,406 @@
+{
+  "name": "Musical Instruments",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Hautboy",
+      "rarity": "common"
+    },
+    {
+      "name": "Pibgorn",
+      "rarity": "common"
+    },
+    {
+      "name": "Bagpipes",
+      "rarity": "common"
+    },
+    {
+      "name": "Flute",
+      "rarity": "common"
+    },
+    {
+      "name": "Lute",
+      "rarity": "common"
+    },
+    {
+      "name": "Cymbals",
+      "rarity": "common"
+    },
+    {
+      "name": "Sinfonye",
+      "rarity": "common"
+    },
+    {
+      "name": "Pipe",
+      "rarity": "common"
+    },
+    {
+      "name": "Sackbutt",
+      "rarity": "common"
+    },
+    {
+      "name": "Tympanon",
+      "rarity": "common"
+    },
+    {
+      "name": "Portative organ",
+      "rarity": "common"
+    },
+    {
+      "name": "Bellows pipe",
+      "rarity": "common"
+    },
+    {
+      "name": "Mandolin",
+      "rarity": "common"
+    },
+    {
+      "name": "Seistron",
+      "rarity": "common"
+    },
+    {
+      "name": "Horn",
+      "rarity": "common"
+    },
+    {
+      "name": "Lyre",
+      "rarity": "common"
+    },
+    {
+      "name": "Cornamuse",
+      "rarity": "common"
+    },
+    {
+      "name": "Bugle",
+      "rarity": "common"
+    },
+    {
+      "name": "Crwth",
+      "rarity": "common"
+    },
+    {
+      "name": "Gamba",
+      "rarity": "common"
+    },
+    {
+      "name": "Viol",
+      "rarity": "common"
+    },
+    {
+      "name": "Crumhorn",
+      "rarity": "common"
+    },
+    {
+      "name": "Tabor",
+      "rarity": "common"
+    },
+    {
+      "name": "Tambourine",
+      "rarity": "common"
+    },
+    {
+      "name": "Varvitos",
+      "rarity": "common"
+    },
+    {
+      "name": "Ryuteki",
+      "rarity": "common"
+    },
+    {
+      "name": "Bumbulum",
+      "rarity": "common"
+    },
+    {
+      "name": "Kacapi",
+      "rarity": "common"
+    },
+    {
+      "name": "Phorminx",
+      "rarity": "common"
+    },
+    {
+      "name": "Ney",
+      "rarity": "common"
+    },
+    {
+      "name": "Bombard",
+      "rarity": "common"
+    },
+    {
+      "name": "Thumb Piano",
+      "rarity": "common"
+    },
+    {
+      "name": "Lizard",
+      "rarity": "common"
+    },
+    {
+      "name": "Sarangi",
+      "rarity": "common"
+    },
+    {
+      "name": "Tro",
+      "rarity": "common"
+    },
+    {
+      "name": "Fiddle",
+      "rarity": "common"
+    },
+    {
+      "name": "Organistrum",
+      "rarity": "common"
+    },
+    {
+      "name": "Oud",
+      "rarity": "common"
+    },
+    {
+      "name": "Rebabl",
+      "rarity": "common"
+    },
+    {
+      "name": "Banjo",
+      "rarity": "common"
+    },
+    {
+      "name": "Adufe",
+      "rarity": "common"
+    },
+    {
+      "name": "Harmonica",
+      "rarity": "common"
+    },
+    {
+      "name": "Krotalon",
+      "rarity": "common"
+    },
+    {
+      "name": "Archlute",
+      "rarity": "common"
+    },
+    {
+      "name": "Zampogna",
+      "rarity": "common"
+    },
+    {
+      "name": "Balalaika",
+      "rarity": "common"
+    },
+    {
+      "name": "Bass recorder",
+      "rarity": "common"
+    },
+    {
+      "name": "Mouth harp",
+      "rarity": "common"
+    },
+    {
+      "name": "Harp",
+      "rarity": "common"
+    },
+    {
+      "name": "Cornett",
+      "rarity": "common"
+    },
+    {
+      "name": "Arghul",
+      "rarity": "common"
+    },
+    {
+      "name": "Hurdy-gurdy",
+      "rarity": "common"
+    },
+    {
+      "name": "Recorder",
+      "rarity": "common"
+    },
+    {
+      "name": "Rebec",
+      "rarity": "common"
+    },
+    {
+      "name": "Timbrel",
+      "rarity": "common"
+    },
+    {
+      "name": "Shawm",
+      "rarity": "common"
+    },
+    {
+      "name": "Buisine",
+      "rarity": "common"
+    },
+    {
+      "name": "Citole",
+      "rarity": "common"
+    },
+    {
+      "name": "Trumpet",
+      "rarity": "common"
+    },
+    {
+      "name": "Sitar",
+      "rarity": "common"
+    },
+    {
+      "name": "Gemshorn",
+      "rarity": "common"
+    },
+    {
+      "name": "Pandoura",
+      "rarity": "common"
+    },
+    {
+      "name": "Diavlos",
+      "rarity": "common"
+    },
+    {
+      "name": "Danbau",
+      "rarity": "common"
+    },
+    {
+      "name": "Buccin",
+      "rarity": "common"
+    },
+    {
+      "name": "Frame drum",
+      "rarity": "common"
+    },
+    {
+      "name": "Trombone",
+      "rarity": "common"
+    },
+    {
+      "name": "Carnyx",
+      "rarity": "common"
+    },
+    {
+      "name": "Dulcimer",
+      "rarity": "common"
+    },
+    {
+      "name": "Conch-shell",
+      "rarity": "common"
+    },
+    {
+      "name": "Helicon",
+      "rarity": "common"
+    },
+    {
+      "name": "Castanets",
+      "rarity": "common"
+    },
+    {
+      "name": "Ukulele",
+      "rarity": "common"
+    },
+    {
+      "name": "Latin guitar",
+      "rarity": "common"
+    },
+    {
+      "name": "Mandore",
+      "rarity": "common"
+    },
+    {
+      "name": "Pipe & tabor",
+      "rarity": "common"
+    },
+    {
+      "name": "Bells",
+      "rarity": "common"
+    },
+    {
+      "name": "Shofar",
+      "rarity": "common"
+    },
+    {
+      "name": "Kitharis",
+      "rarity": "common"
+    },
+    {
+      "name": "Shehnai",
+      "rarity": "common"
+    },
+    {
+      "name": "Zink",
+      "rarity": "common"
+    },
+    {
+      "name": "Pan \ufb02ute",
+      "rarity": "common"
+    },
+    {
+      "name": "Vielle",
+      "rarity": "common"
+    },
+    {
+      "name": "Violin",
+      "rarity": "common"
+    },
+    {
+      "name": "Serpent",
+      "rarity": "common"
+    },
+    {
+      "name": "Finger cymbals",
+      "rarity": "common"
+    },
+    {
+      "name": "Bladder pipe",
+      "rarity": "common"
+    },
+    {
+      "name": "Glockenspiel",
+      "rarity": "common"
+    },
+    {
+      "name": "Gittern",
+      "rarity": "common"
+    },
+    {
+      "name": "Fife",
+      "rarity": "common"
+    },
+    {
+      "name": "Ocarina",
+      "rarity": "common"
+    },
+    {
+      "name": "Drum",
+      "rarity": "common"
+    },
+    {
+      "name": "Tuba",
+      "rarity": "common"
+    },
+    {
+      "name": "Flageolet",
+      "rarity": "common"
+    },
+    {
+      "name": "Kymvalon",
+      "rarity": "common"
+    },
+    {
+      "name": "Psaltery",
+      "rarity": "common"
+    },
+    {
+      "name": "Kokyu",
+      "rarity": "common"
+    },
+    {
+      "name": "Triangle",
+      "rarity": "common"
+    },
+    {
+      "name": "Oboe",
+      "rarity": "common"
+    },
+    {
+      "name": "Flumpet",
+      "rarity": "common"
+    }
+  ]
+}

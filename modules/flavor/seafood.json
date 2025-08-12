@@ -1,0 +1,406 @@
+{
+  "name": "Seafood",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Snails",
+      "rarity": "common"
+    },
+    {
+      "name": "Basa",
+      "rarity": "common"
+    },
+    {
+      "name": "John Dory",
+      "rarity": "common"
+    },
+    {
+      "name": "Black cod",
+      "rarity": "common"
+    },
+    {
+      "name": "Shad",
+      "rarity": "common"
+    },
+    {
+      "name": "Blowfish",
+      "rarity": "common"
+    },
+    {
+      "name": "Halibut",
+      "rarity": "common"
+    },
+    {
+      "name": "Crayfish",
+      "rarity": "common"
+    },
+    {
+      "name": "Sardine",
+      "rarity": "common"
+    },
+    {
+      "name": "Mullet",
+      "rarity": "common"
+    },
+    {
+      "name": "Lumpfish roe",
+      "rarity": "common"
+    },
+    {
+      "name": "Haddock",
+      "rarity": "common"
+    },
+    {
+      "name": "Whiting",
+      "rarity": "common"
+    },
+    {
+      "name": "Oyster",
+      "rarity": "common"
+    },
+    {
+      "name": "Rockfish",
+      "rarity": "common"
+    },
+    {
+      "name": "Dogfish",
+      "rarity": "common"
+    },
+    {
+      "name": "Shad roe",
+      "rarity": "common"
+    },
+    {
+      "name": "Shark",
+      "rarity": "common"
+    },
+    {
+      "name": "Mussel",
+      "rarity": "common"
+    },
+    {
+      "name": "Swordfish",
+      "rarity": "common"
+    },
+    {
+      "name": "Anchovy",
+      "rarity": "common"
+    },
+    {
+      "name": "Salmon",
+      "rarity": "common"
+    },
+    {
+      "name": "Sea fig",
+      "rarity": "common"
+    },
+    {
+      "name": "Octopus",
+      "rarity": "common"
+    },
+    {
+      "name": "Lingcod",
+      "rarity": "common"
+    },
+    {
+      "name": "Snapper",
+      "rarity": "common"
+    },
+    {
+      "name": "Loco",
+      "rarity": "common"
+    },
+    {
+      "name": "Alewife",
+      "rarity": "common"
+    },
+    {
+      "name": "Hake",
+      "rarity": "common"
+    },
+    {
+      "name": "Salmon roe",
+      "rarity": "common"
+    },
+    {
+      "name": "Sand crab",
+      "rarity": "common"
+    },
+    {
+      "name": "Albacore tuna",
+      "rarity": "common"
+    },
+    {
+      "name": "Bream",
+      "rarity": "common"
+    },
+    {
+      "name": "King crab",
+      "rarity": "common"
+    },
+    {
+      "name": "Tilapia",
+      "rarity": "common"
+    },
+    {
+      "name": "Smelt",
+      "rarity": "common"
+    },
+    {
+      "name": "Mackerel",
+      "rarity": "common"
+    },
+    {
+      "name": "Snow crab",
+      "rarity": "common"
+    },
+    {
+      "name": "Sea cucumber",
+      "rarity": "common"
+    },
+    {
+      "name": "Rainbow trout",
+      "rarity": "common"
+    },
+    {
+      "name": "Bigeye tuna",
+      "rarity": "common"
+    },
+    {
+      "name": "Bombay duck",
+      "rarity": "common"
+    },
+    {
+      "name": "Sole",
+      "rarity": "common"
+    },
+    {
+      "name": "Dorade",
+      "rarity": "common"
+    },
+    {
+      "name": "Mud crab",
+      "rarity": "common"
+    },
+    {
+      "name": "Prawn",
+      "rarity": "common"
+    },
+    {
+      "name": "Periwinkle",
+      "rarity": "common"
+    },
+    {
+      "name": "Sprat",
+      "rarity": "common"
+    },
+    {
+      "name": "Dungeness crab",
+      "rarity": "common"
+    },
+    {
+      "name": "Cuttlefish",
+      "rarity": "common"
+    },
+    {
+      "name": "Brill",
+      "rarity": "common"
+    },
+    {
+      "name": "Catfish",
+      "rarity": "common"
+    },
+    {
+      "name": "Sablefish",
+      "rarity": "common"
+    },
+    {
+      "name": "Jellyfish",
+      "rarity": "common"
+    },
+    {
+      "name": "Shrimp",
+      "rarity": "common"
+    },
+    {
+      "name": "Bass",
+      "rarity": "common"
+    },
+    {
+      "name": "Trout",
+      "rarity": "common"
+    },
+    {
+      "name": "Grouper",
+      "rarity": "common"
+    },
+    {
+      "name": "Sturgeon",
+      "rarity": "common"
+    },
+    {
+      "name": "Butter fish",
+      "rarity": "common"
+    },
+    {
+      "name": "Kingfish",
+      "rarity": "common"
+    },
+    {
+      "name": "Pompano",
+      "rarity": "common"
+    },
+    {
+      "name": "Skate",
+      "rarity": "common"
+    },
+    {
+      "name": "Pollock",
+      "rarity": "common"
+    },
+    {
+      "name": "Sea urchin roe",
+      "rarity": "common"
+    },
+    {
+      "name": "Squid",
+      "rarity": "common"
+    },
+    {
+      "name": "Snakehead",
+      "rarity": "common"
+    },
+    {
+      "name": "Pilchard",
+      "rarity": "common"
+    },
+    {
+      "name": "Capelin roe",
+      "rarity": "common"
+    },
+    {
+      "name": "Turbot",
+      "rarity": "common"
+    },
+    {
+      "name": "Orange roughy",
+      "rarity": "common"
+    },
+    {
+      "name": "Caviar (sturgeon roe)",
+      "rarity": "common"
+    },
+    {
+      "name": "Flying-fish roe",
+      "rarity": "common"
+    },
+    {
+      "name": "Cod",
+      "rarity": "common"
+    },
+    {
+      "name": "Sanddab",
+      "rarity": "common"
+    },
+    {
+      "name": "Surimi",
+      "rarity": "common"
+    },
+    {
+      "name": "Suiter-fish",
+      "rarity": "common"
+    },
+    {
+      "name": "Yellowfin tuna",
+      "rarity": "common"
+    },
+    {
+      "name": "Eel",
+      "rarity": "common"
+    },
+    {
+      "name": "Bluefin tuna",
+      "rarity": "common"
+    },
+    {
+      "name": "Flounder",
+      "rarity": "common"
+    },
+    {
+      "name": "Pomfret",
+      "rarity": "common"
+    },
+    {
+      "name": "Herring",
+      "rarity": "common"
+    },
+    {
+      "name": "Tilefish",
+      "rarity": "common"
+    },
+    {
+      "name": "Scallop",
+      "rarity": "common"
+    },
+    {
+      "name": "Ilish",
+      "rarity": "common"
+    },
+    {
+      "name": "Cockle",
+      "rarity": "common"
+    },
+    {
+      "name": "Parrotfish",
+      "rarity": "common"
+    },
+    {
+      "name": "Bluefish",
+      "rarity": "common"
+    },
+    {
+      "name": "Prawn",
+      "rarity": "common"
+    },
+    {
+      "name": "Toothfish",
+      "rarity": "common"
+    },
+    {
+      "name": "Whitefish",
+      "rarity": "common"
+    },
+    {
+      "name": "Lamprey",
+      "rarity": "common"
+    },
+    {
+      "name": "Monkfish",
+      "rarity": "common"
+    },
+    {
+      "name": "Lobster",
+      "rarity": "common"
+    },
+    {
+      "name": "Pike",
+      "rarity": "common"
+    },
+    {
+      "name": "Sea bass",
+      "rarity": "common"
+    },
+    {
+      "name": "Wahoo",
+      "rarity": "common"
+    },
+    {
+      "name": "Herring roe",
+      "rarity": "common"
+    },
+    {
+      "name": "Mahi Mahi",
+      "rarity": "common"
+    }
+  ]
+}

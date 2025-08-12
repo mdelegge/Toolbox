@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Group Filtering Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .test-section { margin: 20px 0; padding: 15px; border: 1px solid #ccc; }
+        .result { margin: 10px 0; padding: 10px; background: #f5f5f5; }
+        .pass { background: #d4edda; }
+        .fail { background: #f8d7da; }
+    </style>
+</head>
+<body>
+    <h1>Group Filtering Test</h1>
+    
+    <div class="test-section">
+        <h2>Test 1: Items with Groups</h2>
+        <button onclick="testWithGroups()">Run Test</button>
+        <div id="test1-results"></div>
+    </div>
+    
+    <div class="test-section">
+        <h2>Test 2: Items without Groups</h2>
+        <button onclick="testWithoutGroups()">Run Test</button>
+        <div id="test2-results"></div>
+    </div>
+    
+    <div class="test-section">
+        <h2>Test 3: Mixed Items (some with groups, some without)</h2>
+        <button onclick="testMixedItems()">Run Test</button>
+        <div id="test3-results"></div>
+    </div>
+
+    <script type="module">
+        import { weightedSampleWithGroupFiltering, weightedSampleWithoutReplacement } from './js/generator.js';
+        
+        // Test data
+        const itemsWithGroups = [
+            { name: "Gold 1", group: "gold", rarity: "common" },
+            { name: "Gold 2", group: "gold", rarity: "common" },
+            { name: "Silver 1", group: "silver", rarity: "common" },
+            { name: "Silver 2", group: "silver", rarity: "common" },
+            { name: "Copper 1", group: "copper", rarity: "common" },
+            { name: "Copper 2", group: "copper", rarity: "common" }
+        ];
+        
+        const itemsWithoutGroups = [
+            { name: "Sword", rarity: "common" },
+            { name: "Shield", rarity: "common" },
+            { name: "Potion", rarity: "common" },
+            { name: "Scroll", rarity: "common" }
+        ];
+        
+        const mixedItems = [
+            { name: "Gold 1", group: "gold", rarity: "common" },
+            { name: "Gold 2", group: "gold", rarity: "common" },
+            { name: "Sword", rarity: "common" },
+            { name: "Shield", rarity: "common" },
+            { name: "Silver 1", group: "silver", rarity: "common" }
+        ];
+        
+        function displayResults(containerId, results, testName) {
+            const container = document.getElementById(containerId);
+            container.innerHTML = `<h3>${testName} Results:</h3>`;
+            
+            results.forEach((result, index) => {
+                const div = document.createElement('div');
+                div.className = `result ${result.pass ? 'pass' : 'fail'}`;
+                div.innerHTML = `
+                    <strong>Run ${index + 1}:</strong> ${result.pass ? 'PASS' : 'FAIL'}<br>
+                    Items: ${result.items.map(item => `${item.name}${item.group ? ` (${item.group})` : ''}`).join(', ')}<br>
+                    ${result.message}
+                `;
+                container.appendChild(div);
+            });
+        }
+        
+        window.testWithGroups = function() {
+            const results = [];
+            
+            // Run test multiple times to check consistency
+            for (let i = 0; i < 5; i++) {
+                const picks = weightedSampleWithGroupFiltering(itemsWithGroups.slice(), 3);
+                const groups = picks.filter(item => item.group).map(item => item.group);
+                const uniqueGroups = new Set(groups);
+                
+                const pass = groups.length === uniqueGroups.size; // No duplicate groups
+                results.push({
+                    pass,
+                    items: picks,
+                    message: pass ? 'No duplicate groups found' : `Duplicate groups found: ${groups.join(', ')}`
+                });
+            }
+            
+            displayResults('test1-results', results, 'Group Filtering');
+        };
+        
+        window.testWithoutGroups = function() {
+            const results = [];
+            
+            // Run test multiple times
+            for (let i = 0; i < 5; i++) {
+                const picks = weightedSampleWithGroupFiltering(itemsWithoutGroups.slice(), 3);
+                
+                const pass = picks.length === 3; // Should get 3 items
+                results.push({
+                    pass,
+                    items: picks,
+                    message: pass ? 'Correct number of items selected' : `Expected 3 items, got ${picks.length}`
+                });
+            }
+            
+            displayResults('test2-results', results, 'No Groups');
+        };
+        
+        window.testMixedItems = function() {
+            const results = [];
+            
+            // Run test multiple times
+            for (let i = 0; i < 5; i++) {
+                const picks = weightedSampleWithGroupFiltering(mixedItems.slice(), 4);
+                const groups = picks.filter(item => item.group).map(item => item.group);
+                const uniqueGroups = new Set(groups);
+                
+                const pass = groups.length === uniqueGroups.size; // No duplicate groups
+                results.push({
+                    pass,
+                    items: picks,
+                    message: pass ? 'No duplicate groups, mixed items handled correctly' : `Duplicate groups found: ${groups.join(', ')}`
+                });
+            }
+            
+            displayResults('test3-results', results, 'Mixed Items');
+        };
+    </script>
+</body>
+</html>

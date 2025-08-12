@@ -1,0 +1,31 @@
+{
+  "name": "Gemstones (Simple)",
+  "maxItems": 1,
+  "items": [
+    { "name": "Diamond", "rarity": "very_rare" },
+    { "name": "Ruby", "rarity": "very_rare" },
+    { "name": "Emerald", "rarity": "very_rare" },
+    { "name": "Sapphire", "rarity": "rare" },
+    { "name": "Amethyst", "rarity": "rare" },
+    { "name": "Topaz", "rarity": "rare" },
+    { "name": "Opal", "rarity": "rare" },
+    { "name": "Garnet", "rarity": "uncommon" },
+    { "name": "Turquoise", "rarity": "uncommon" },
+    { "name": "Jade", "rarity": "uncommon" },
+    { "name": "Onyx", "rarity": "uncommon" },
+    { "name": "Moonstone", "rarity": "uncommon" },
+    { "name": "Peridot", "rarity": "uncommon" },
+    { "name": "Aquamarine", "rarity": "uncommon" },
+    { "name": "Citrine", "rarity": "uncommon" },
+    { "name": "Bloodstone", "rarity": "uncommon" },
+    { "name": "Carnelian", "rarity": "uncommon" },
+    { "name": "Lapis Lazuli", "rarity": "uncommon" },
+    { "name": "Malachite", "rarity": "uncommon" },
+    { "name": "Obsidian", "rarity": "uncommon" },
+    { "name": "Quartz", "rarity": "common" },
+    { "name": "Agate", "rarity": "common" },
+    { "name": "Jasper", "rarity": "common" },
+    { "name": "Hematite", "rarity": "common" },
+    { "name": "Tiger's Eye", "rarity": "common" }
+  ]
+}

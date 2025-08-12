@@ -1,45 +1,101 @@
-[
-  { "name": "Assorted Money", "file": "money.json" },
-
-  { "name": "Jobs Board (Town Quests)", "file": "jobs_board.json" },
-  { "name": "Rumors and Odd Jobs", "file": "rumors_odd_jobs.json" },
-
-
-  { "name": "Goblin Names", "file": "goblin_names.json" },
-  
-  { "name": "Female Names", "file": "female_names_table_1.json" },
-  { "name": "Male Names", "file": "male_names_table_1.json" },
-  { "name": "Gemstones", "file": "gemstones_table_1.json" },
-
-  { "name": "Items in a Troll's Cave", "file": "trolls_cave.json" },
-  { "name": "Items in a Smithy", "file": "smithy.json" },
-  { "name": "Items in a Bandit Hideout", "file": "items_in_a_bandit_hideout.json" },
-  { "name": "Items in a Cottage", "file": "items_in_a_cottage.json" },
-  { "name": "Items in a Hunters Camp", "file": "items_in_a_hunters_camp.json" },
-  { "name": "Items in a Nobles Bedchamber", "file": "items_in_a_nobles_bedchamber.json" },
-  { "name": "Items in a Port Masters Office", "file": "items_in_a_port_masters_office.json" },
-  { "name": "Items in a Royal Tomb", "file": "items_in_a_royal_tomb.json" },
-  { "name": "Items in a Ship Captains Quarters", "file": "items_in_a_ship_captains_quarters.json" },
-  { "name": "Items in a Warehouse", "file": "items_in_a_warehouse.json" },
-  { "name": "Items in a Wizards Chamber", "file": "items_in_a_wizards_chamber.json" },
-  { "name": "Items in a Alchemists_Lab", "file": "items_in_an_alchemists_lab.json" },
-  { "name": "Items in a Inns Kitchen", "file": "items_in_an_inns_kitchen.json" },
-  { "name": "Items in an Office", "file": "items_in_an_office.json" },
-  { "name": "Items in a Fantasy Desk", "file": "items_in_fantasy_desk.json" },
-  { "name": "Items on a Dead Goblin", "file": "items_on_a_dead_goblin.json" },
-  { "name": "Items on an Adventurers Dead Body ", "file": "items_on_an_adventurers_dead_body.json" },
-
-  { "name": "Mountain Encounters", "file": "mountain_encounters.json" },
-  { "name": "Seafaring Encounters", "file": "seafaring_encounters.json" },
-  { "name": "Swamp Encounters", "file": "swamp_encounters.json" },
-  { "name": "Forest Encounters", "file": "forest_encounters.json" },
-
-  { "name": "Book Titles", "file": "book_titles.json" },
-  { "name": "Catastrophes", "file": "catastrophes.json" },
-  { "name": "Culinary Herbs Spices", "file": "culinary_herbs_spices.json" },
-  { "name": "Medicinal Herbs", "file": "medicinal_herbs.json" },
-  { "name": "Potion Ingredients", "file": "potion_ingredients.json" },
-  { "name": "Weapons, Armor, and Equipment", "file": "weapons_armor_and_equipment.json" }
-  
-]
+{
+  "categories": [
+    {
+      "id": "loot",
+      "name": "Loot & Treasure",
+      "default": true,
+      "tables": [
+        { "name": "Assorted Money", "file": "loot/money.json" },
+        { "name": "Weapons, Armor, and Equipment", "file": "loot/weapons_armor_and_equipment.json" },
+        { "name": "Gemstones (Simple)", "file": "loot/gemstones_table_simple.json" },
+        { "name": "Gemstones (Detailed)", "file": "loot/gemstones_table_1.json" },
+        { "name": "Dungeon Room - Table #1", "file": "loot/Dungeon_Room___Table__1.json" },
+        { "name": "Dungeon Room - Table #2", "file": "loot/Dungeon_Room___Table__2.json" },
+        { "name": "Dungeon Room - Table #3", "file": "loot/Dungeon_Room___Table__3.json" },
+        { "name": "Dungeon Room - Table #4", "file": "loot/Dungeon_Room___Table__4.json" },
+        { "name": "Items in a Troll's Cave", "file": "loot/trolls_cave.json" },
+        { "name": "Items in a Smithy", "file": "loot/smithy.json" },
+        { "name": "Items in a Bandit Hideout", "file": "loot/items_in_a_bandit_hideout.json" },
+        { "name": "Items in a Cottage", "file": "loot/items_in_a_cottage.json" },
+        { "name": "Items in a Hunters Camp", "file": "loot/items_in_a_hunters_camp.json" },
+        { "name": "Items in a Nobles Bedchamber", "file": "loot/items_in_a_nobles_bedchamber.json" },
+        { "name": "Items in a Port Masters Office", "file": "loot/items_in_a_port_masters_office.json" },
+        { "name": "Items in a Royal Tomb", "file": "loot/items_in_a_royal_tomb.json" },
+        { "name": "Items in a Tavern", "file": "loot/items_in_a_tavern.json" },
+        { "name": "Items on a Dead Orc", "file": "loot/items_on_a_dead_orc.json" },
+        { "name": "Items in a Chest", "file": "loot/items_in_a_chest.json" },
+        { "name": "Items in a Cell", "file": "loot/item_in_a_cell.json" },
+        { "name": "Items in a Hunters Camp", "file": "loot/items_in_a_hunters_camp.json" },
+        { "name": "Items in a Nobles Bedchamber", "file": "loot/items_in_a_nobles_bedchamber.json" },
+        { "name": "Items in a Port Masters Office", "file": "loot/items_in_a_port_masters_office.json" },
+        { "name": "Items in a Royal Tomb", "file": "loot/items_in_a_royal_tomb.json" },
+        { "name": "Items in a Ship Captains Quarters", "file": "loot/items_in_a_ship_captains_quarters.json" },
+        { "name": "Items in a Warehouse", "file": "loot/items_in_a_warehouse.json" },
+        { "name": "Items in a Wizards Chamber", "file": "loot/items_in_a_wizards_chamber.json" },
+        { "name": "Items in a Alchemists_Lab", "file": "loot/items_in_an_alchemists_lab.json" },
+        { "name": "Items in a Inns Kitchen", "file": "loot/items_in_an_inns_kitchen.json" },
+        { "name": "Items in an Office", "file": "loot/items_in_an_office.json" },
+        { "name": "Items in a Fantasy Desk", "file": "loot/items_in_fantasy_desk.json" },
+        { "name": "Items on a Dead Goblin", "file": "loot/items_on_a_dead_goblin.json" },
+        { "name": "Items on an Adventurers Dead Body ", "file": "loot/items_on_an_adventurers_dead_body.json" },
+        { "name": "Adventuring Gear", "file": "loot/adventuring_gear.json" },
+        { "name": "Musical Instruments", "file": "loot/musical_instruments.json" },
+        { "name": "Jewelry", "file": "loot/jewelry.json" },
+        { "name": "Items in an Adventurers Saddlebags", "file": "loot/items_in_adventurers_saddlebags.json" },
+        { "name": "Items in a Wagon", "file": "loot/items_in_a_wagon.json" },
+        { "name": "Items in a Wine Cellar", "file": "loot/items_in_a_wine_cellar.json" }
+      ]
+    },
+    {
+      "id": "encounters",
+      "name": "Encounters",
+      "tables": [
+        { "name": "Mountain Encounters", "file": "encounters/mountain_encounters.json" },
+        { "name": "Seafaring Encounters", "file": "encounters/seafaring_encounters.json" },
+        { "name": "Swamp Encounters", "file": "encounters/swamp_encounters.json" },
+        { "name": "Forest Encounters", "file": "encounters/forest_encounters.json" },
+        { "name": "Non-Combat Encounters", "file": "encounters/non_combat_encounters.json" },
+        { "name": "Road Encounters", "file": "encounters/road_encounters.json" },
+        { "name": "Desert Encounters", "file": "encounters/desert_encounters.json" },
+        { "name": "Forest Locations", "file": "encounters/forest_locations.json" },
+        { "name": "Mountain Locations", "file": "encounters/mountain_locations.json" }
+      ]
+    },
+    {
+      "id": "flavor",
+      "name": "Flavor & Worldbuilding",
+      "tables": [
+        { "name": "Book Titles", "file": "flavor/book_titles.json" },
+        { "name": "Catastrophes", "file": "flavor/catastrophes.json" },
+        { "name": "Culinary Herbs Spices", "file": "flavor/culinary_herbs_spices.json" },
+        { "name": "Medicinal Herbs", "file": "flavor/medicinal_herbs.json" },
+        { "name": "Potion Ingredients", "file": "flavor/potion_ingredients.json" },
+        { "name": "Jobs Board (Town Quests)", "file": "flavor/jobs_board.json" },
+        { "name": "Rumors and Odd Jobs", "file": "flavor/rumors_odd_jobs.json" },
+        { "name": "Non-Player Characters", "file": "flavor/non_player_characters.json" },
+        { "name": "Fortunes", "file": "flavor/fortunes.json" },
+        { "name": "Insults", "file": "flavor/insults.json" },
+        { "name": "Booths in a Market", "file": "flavor/booths_in_a_market.json" },
+        { "name": "Dungeon Health Side Effects", "file": "flavor/dungeon_health_side_effects.json" },
+        { "name": "Epitaphs", "file": "flavor/epitaphs.json" },
+        { "name": "Seafood", "file": "flavor/seafood.json" },
+        { "name": "Beers", "file": "flavor/beers.json" },
+        { "name": "Inn Names", "file": "flavor/inn_names.json" },
+        { "name": "Names of Knightly Orders", "file": "flavor/names_of_knightly_orders.json" }
+      ]
+    },
+    {
+      "id": "names",
+      "name": "Names",
+      "tables": [
+        { "name": "Goblin Names", "file": "names/goblin_names.json" },
+        { "name": "Female Names", "file": "names/female_names_table_1.json" },
+        { "name": "Male Names", "file": "names/male_names_table_1.json" },
+        { "name": "Town Names", "file": "names/town_names_table.json" },
+        { "name": "Kobold Names", "file": "names/kobold_names.json" },
+        { "name": "Orc Names", "file": "names/orc_names.json" }
+      ]
+    }
+  ]
+}
 

@@ -1,0 +1,406 @@
+{
+  "name": "Inn Names",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "The Hare And The Hound",
+      "rarity": "common"
+    },
+    {
+      "name": "The Rainbow Trout",
+      "rarity": "common"
+    },
+    {
+      "name": "The Sweet And Salty",
+      "rarity": "common"
+    },
+    {
+      "name": "The Pig In The Cow",
+      "rarity": "common"
+    },
+    {
+      "name": "The Chick And The Tadpole",
+      "rarity": "common"
+    },
+    {
+      "name": "The Hook And Line",
+      "rarity": "common"
+    },
+    {
+      "name": "The Public House",
+      "rarity": "common"
+    },
+    {
+      "name": "The Mulberry Inn",
+      "rarity": "common"
+    },
+    {
+      "name": "The Whetstone",
+      "rarity": "common"
+    },
+    {
+      "name": "The Skipping Faun",
+      "rarity": "common"
+    },
+    {
+      "name": "The Sleeping Dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "The Sleeping Cat",
+      "rarity": "common"
+    },
+    {
+      "name": "Elm Tree Inn",
+      "rarity": "common"
+    },
+    {
+      "name": "The White Stag",
+      "rarity": "common"
+    },
+    {
+      "name": "The Red Boar",
+      "rarity": "common"
+    },
+    {
+      "name": "The Hind's Heart",
+      "rarity": "common"
+    },
+    {
+      "name": "The Smoke And The Fire",
+      "rarity": "common"
+    },
+    {
+      "name": "The Eagle And The Child",
+      "rarity": "common"
+    },
+    {
+      "name": "The Rowdy Badger",
+      "rarity": "common"
+    },
+    {
+      "name": "The Bronnie Lion",
+      "rarity": "common"
+    },
+    {
+      "name": "The Pheasant And The Pigeon",
+      "rarity": "common"
+    },
+    {
+      "name": "The Overflowing Flagon",
+      "rarity": "common"
+    },
+    {
+      "name": "The Fat Sow",
+      "rarity": "common"
+    },
+    {
+      "name": "The Stay Warm Inn",
+      "rarity": "common"
+    },
+    {
+      "name": "The Old Ship",
+      "rarity": "common"
+    },
+    {
+      "name": "The Sand Dollar",
+      "rarity": "common"
+    },
+    {
+      "name": "The Flower And The Bud",
+      "rarity": "common"
+    },
+    {
+      "name": "The White Lion",
+      "rarity": "common"
+    },
+    {
+      "name": "Three Coppers",
+      "rarity": "common"
+    },
+    {
+      "name": "The Apple Orchard Inn",
+      "rarity": "common"
+    },
+    {
+      "name": "The Watering Hole",
+      "rarity": "common"
+    },
+    {
+      "name": "The Lazy Goat",
+      "rarity": "common"
+    },
+    {
+      "name": "The Quick Rabbit",
+      "rarity": "common"
+    },
+    {
+      "name": "The Arrow And The Quiver",
+      "rarity": "common"
+    },
+    {
+      "name": "The Crooked Chimney",
+      "rarity": "common"
+    },
+    {
+      "name": "The Queen's Servant",
+      "rarity": "common"
+    },
+    {
+      "name": "Sailor's Mess",
+      "rarity": "common"
+    },
+    {
+      "name": "The Black Gryphon",
+      "rarity": "common"
+    },
+    {
+      "name": "The Friendly Nag",
+      "rarity": "common"
+    },
+    {
+      "name": "The Lazy Goat",
+      "rarity": "common"
+    },
+    {
+      "name": "Traveler's Rest",
+      "rarity": "common"
+    },
+    {
+      "name": "The Croaking Toad",
+      "rarity": "common"
+    },
+    {
+      "name": "The White Elephant",
+      "rarity": "common"
+    },
+    {
+      "name": "The Hilt And Blade",
+      "rarity": "common"
+    },
+    {
+      "name": "The Dog And Duck",
+      "rarity": "common"
+    },
+    {
+      "name": "The Watchful Owl",
+      "rarity": "common"
+    },
+    {
+      "name": "The Goose And Gander",
+      "rarity": "common"
+    },
+    {
+      "name": "The Blind Beggar",
+      "rarity": "common"
+    },
+    {
+      "name": "Wanderer's Haven",
+      "rarity": "common"
+    },
+    {
+      "name": "The White Bear",
+      "rarity": "common"
+    },
+    {
+      "name": "The Red Ship",
+      "rarity": "common"
+    },
+    {
+      "name": "The Merry Dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "Four Arrows",
+      "rarity": "common"
+    },
+    {
+      "name": "The Root And Branch",
+      "rarity": "common"
+    },
+    {
+      "name": "The Grape And The Hops",
+      "rarity": "common"
+    },
+    {
+      "name": "The Hungry Squirrel",
+      "rarity": "common"
+    },
+    {
+      "name": "The King's Friend",
+      "rarity": "common"
+    },
+    {
+      "name": "The Restless Adder",
+      "rarity": "common"
+    },
+    {
+      "name": "The Broken Arrow",
+      "rarity": "common"
+    },
+    {
+      "name": "The Happy Home",
+      "rarity": "common"
+    },
+    {
+      "name": "The Silver Fox",
+      "rarity": "common"
+    },
+    {
+      "name": "The Playful Unicorn",
+      "rarity": "common"
+    },
+    {
+      "name": "The Horse And Mule",
+      "rarity": "common"
+    },
+    {
+      "name": "The Half Moon",
+      "rarity": "common"
+    },
+    {
+      "name": "The Leaping Lizard",
+      "rarity": "common"
+    },
+    {
+      "name": "The Singing Siren",
+      "rarity": "common"
+    },
+    {
+      "name": "The Jumping Donkey",
+      "rarity": "common"
+    },
+    {
+      "name": "The Sparkling Starfish",
+      "rarity": "common"
+    },
+    {
+      "name": "The Plough And Spade",
+      "rarity": "common"
+    },
+    {
+      "name": "The Whale And The Grouse",
+      "rarity": "common"
+    },
+    {
+      "name": "The Swordfish",
+      "rarity": "common"
+    },
+    {
+      "name": "The Babbling Brook",
+      "rarity": "common"
+    },
+    {
+      "name": "The Lost Key",
+      "rarity": "common"
+    },
+    {
+      "name": "The Graceful Deer",
+      "rarity": "common"
+    },
+    {
+      "name": "The Happytime Inn",
+      "rarity": "common"
+    },
+    {
+      "name": "The Feather And The Comb",
+      "rarity": "common"
+    },
+    {
+      "name": "The Black Swan",
+      "rarity": "common"
+    },
+    {
+      "name": "The Gathering Place",
+      "rarity": "common"
+    },
+    {
+      "name": "The Moon Under Water",
+      "rarity": "common"
+    },
+    {
+      "name": "The Gold Piece",
+      "rarity": "common"
+    },
+    {
+      "name": "The Rose And Crown",
+      "rarity": "common"
+    },
+    {
+      "name": "The Full Pint",
+      "rarity": "common"
+    },
+    {
+      "name": "The Hero And The Thief",
+      "rarity": "common"
+    },
+    {
+      "name": "The Brass Button",
+      "rarity": "common"
+    },
+    {
+      "name": "The Black Horse",
+      "rarity": "common"
+    },
+    {
+      "name": "The Knife And Fork",
+      "rarity": "common"
+    },
+    {
+      "name": "The Barrel And Mug",
+      "rarity": "common"
+    },
+    {
+      "name": "Fisherman's Spot",
+      "rarity": "common"
+    },
+    {
+      "name": "The Bell And Beak",
+      "rarity": "common"
+    },
+    {
+      "name": "The Oak And The Alder",
+      "rarity": "common"
+    },
+    {
+      "name": "The Lazy River",
+      "rarity": "common"
+    },
+    {
+      "name": "The Knight And The Lad",
+      "rarity": "common"
+    },
+    {
+      "name": "The Roasted Hen",
+      "rarity": "common"
+    },
+    {
+      "name": "The Happy Hound",
+      "rarity": "common"
+    },
+    {
+      "name": "The Dew Drop",
+      "rarity": "common"
+    },
+    {
+      "name": "The Suds And Foam",
+      "rarity": "common"
+    },
+    {
+      "name": "The Buccaneer's Room",
+      "rarity": "common"
+    },
+    {
+      "name": "The Red Lion",
+      "rarity": "common"
+    },
+    {
+      "name": "The Flint And Steel",
+      "rarity": "common"
+    },
+    {
+      "name": "The Silver Stallion",
+      "rarity": "common"
+    }
+  ]
+}

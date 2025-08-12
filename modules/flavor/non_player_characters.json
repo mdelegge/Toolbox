@@ -1,0 +1,406 @@
+{
+  "name": "Non-Player Characters",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Afton Crewe, Merchant, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Gerry Cromwell, Herbalist, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Erline Tarrant, Clerk, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Hampton Twyford, Baker, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Edwina Calder, Cook, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Wanetta Paxton, Herbalist, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Roden Chadwick, Midwife, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Mead Wistan, Cook, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Rushford Ulfred, Engineer, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Whitley Gresham, Tailor, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Unwin Aldridge, Clerk, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Wendelle Ru\ufb00ord, Engineer, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Seaborne Lane, Priest, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Elsdon Ravinger, Trapper, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Reynold Thormund, Courtesan, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Holmes Ramsden, Scribe, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Janelle Byford, Courtesan, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Whitney Ormond, Miller, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Patience Hayden, Baker, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Vane Nickson, Merchant, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Reginald Prentice, Merchant, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Ainsley Hedley, Miller, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Devona Scott, Herbalist, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Goddard Chetwin, Brewer, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Audrey Hamilton, Farmer, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Fairley Heathcote, Fisherman, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Linwood Walwyn, Miller, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Rowell Livingston, Fisherman, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Ridgeway Kemp, Merchant, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Norvella Stan\ufb01eld, Architect, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Robyn Morley, Soldier, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Pebbles Whitby, Butcher, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Millard Seabrook, Soldier, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Unity Pollock, Cook, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Felberta Prescott, Innkeeper, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Leanne Elwood, Brewer, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Milbourn Brett, Farmer, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Twyla Waite, Merchant, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Edda Rockley, Scribe, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Edbert Edlin, Woodcutter, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Wren Vane, Librarian, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Lawford Harlan, Merchant, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Maida Fielding, Priestess, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Sherborne Upwood, Soldier, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Teal Stanhope, Courtesan, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Warburton Jamieson, Courtesan, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Townsend Huxley, Entertainer, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Tarrant Kenton, Scribe, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Sa\ufb00ord Norville, Merchant, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Lane Standish, Sailor, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Earna Webster, Innkeeper, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Tennyson Radcli\ufb00e, Miner, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Upton Remington, Entertainer, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Fuller Thorne, Courtesan, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Norwood Hardwin, Sailor, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Shepherd Derward, Soldier, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Cromwell Starr, Entertainer, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Lauren Renfred, Merchant, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Ryesen Marlow, Courtesan, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Imogene Orman, Priestess, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Calder Stockton, Miner, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Randal Rochester, Brewer, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Ellery Reilly, Entertainer, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Lynn Oxford, Merchant, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Warmund Blaxton, Innkeeper, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Hedley Wheeler, Stable master, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Fulton Kirkwood, Librarian, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Thornley Hadley, Butcher, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Ronald Packard, Soldier, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Zelene Huntley, Farmer, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Radella Burke, Merchant, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Stanford Pelton, Herbalist, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Norma Vail, Entertainer, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Rutledge Seabert, Priest, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Orford Saxon, Innkeeper, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Eda Elwin, Baker, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Blake Randell, Tanner, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Merrill Langley, Cook, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Madison Millard, Innkeeper, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Stratford Wyndham, Tailor, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Norvin Haslett, Shepherd , Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Haralda Everard, Gambler, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Fayre Radcli\ufb00, Entertainer, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Raynold Gladstone, Merchant, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Kenley Lester, Gardener, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Byford Rowley, Porter, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Shelley Whitcombe, Innkeeper, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Edrea Upton, Soldier, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Routledge Wainwright, Librarian, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Fern Riston, Clerk, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Renshaw Kingston, Stable master, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Walby Mervyn, Scribe, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Ivy Saunderson, Farmer, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Thatcher Leverton, Farmer, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Birdie Locke, Tailor, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Daralis Freeman, Midwife, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Doanne Alger, Tailor, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Egerton Sherwood, Entertainer, Male",
+      "rarity": "common"
+    },
+    {
+      "name": "Lee Raven, Entertainer, Female",
+      "rarity": "common"
+    },
+    {
+      "name": "Lona Hollis, Gardener, Female",
+      "rarity": "common"
+    }
+  ]
+}
