@@ -1,0 +1,406 @@
+{
+  "name": "Sea-related Encounters",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Seashell with voices inside",
+      "rarity": "common"
+    },
+    {
+      "name": "Message in a bottle",
+      "rarity": "common"
+    },
+    {
+      "name": "Hundreds of jellyfish",
+      "rarity": "common"
+    },
+    {
+      "name": "Sand dollar",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrel of fish",
+      "rarity": "common"
+    },
+    {
+      "name": "Deep underwater trench",
+      "rarity": "common"
+    },
+    {
+      "name": "Talking boat",
+      "rarity": "common"
+    },
+    {
+      "name": "Mermaid caught in a net",
+      "rarity": "common"
+    },
+    {
+      "name": "Singing clam",
+      "rarity": "common"
+    },
+    {
+      "name": "Tasty looking fish",
+      "rarity": "common"
+    },
+    {
+      "name": "Sea snake",
+      "rarity": "common"
+    },
+    {
+      "name": "Underwater stone road",
+      "rarity": "common"
+    },
+    {
+      "name": "Lighthouse",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall tower sticking out of the water",
+      "rarity": "common"
+    },
+    {
+      "name": "Tornado filled with sharks",
+      "rarity": "common"
+    },
+    {
+      "name": "Seagulls that peck at party",
+      "rarity": "common"
+    },
+    {
+      "name": "Cursed gold coins",
+      "rarity": "common"
+    },
+    {
+      "name": "Very pinchy crabs (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Surfacing dwarf",
+      "rarity": "common"
+    },
+    {
+      "name": "Oysters (1D4 pearls)",
+      "rarity": "common"
+    },
+    {
+      "name": "Man in a boat with a goat",
+      "rarity": "common"
+    },
+    {
+      "name": "Old human wizard walking on the water",
+      "rarity": "common"
+    },
+    {
+      "name": "Crab holding a knife",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold statue of a man holding a trident",
+      "rarity": "common"
+    },
+    {
+      "name": "Woman in the water holding a sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Two ships in combat",
+      "rarity": "common"
+    },
+    {
+      "name": "Mermen mounted on porpoises (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Friendly water elemental",
+      "rarity": "common"
+    },
+    {
+      "name": "Single tree growing out of the water",
+      "rarity": "common"
+    },
+    {
+      "name": "City in a giant bubble",
+      "rarity": "common"
+    },
+    {
+      "name": "Underwater volcano",
+      "rarity": "common"
+    },
+    {
+      "name": "Loch Ness monster",
+      "rarity": "common"
+    },
+    {
+      "name": "Wife waiting for her sailor husband",
+      "rarity": "common"
+    },
+    {
+      "name": "Sunken ironclad ship from a lost time",
+      "rarity": "common"
+    },
+    {
+      "name": "Sharks (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Skeleton holding a broken oar",
+      "rarity": "common"
+    },
+    {
+      "name": "Beautiful woman clinging to wreckage",
+      "rarity": "common"
+    },
+    {
+      "name": "Tsunami (1D20 turns till it arrives)",
+      "rarity": "common"
+    },
+    {
+      "name": "Shark carcass with a sword piercing its head",
+      "rarity": "common"
+    },
+    {
+      "name": "Floating island",
+      "rarity": "common"
+    },
+    {
+      "name": "Sunken ship",
+      "rarity": "common"
+    },
+    {
+      "name": "Siren song",
+      "rarity": "common"
+    },
+    {
+      "name": "Whales (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Waterlogged treasure chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Coral reef",
+      "rarity": "common"
+    },
+    {
+      "name": "Sea urchin",
+      "rarity": "common"
+    },
+    {
+      "name": "Leeches",
+      "rarity": "common"
+    },
+    {
+      "name": "Fish with polished mirror scales",
+      "rarity": "common"
+    },
+    {
+      "name": "Corpse tied to a rock",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant octopuses (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Coastal druid talking to some fish",
+      "rarity": "common"
+    },
+    {
+      "name": "Aquatic elf fighting a giant squid",
+      "rarity": "common"
+    },
+    {
+      "name": "Young boy frozen in an iceberg",
+      "rarity": "common"
+    },
+    {
+      "name": "Group of sea turtles",
+      "rarity": "common"
+    },
+    {
+      "name": "Ship with black flags in the distance",
+      "rarity": "common"
+    },
+    {
+      "name": "Underwater cave entrance",
+      "rarity": "common"
+    },
+    {
+      "name": "Mermen (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Skeleton holding a trident",
+      "rarity": "common"
+    },
+    {
+      "name": "Viking longship",
+      "rarity": "common"
+    },
+    {
+      "name": "Shipwrecked crew of sailors",
+      "rarity": "common"
+    },
+    {
+      "name": "Long scaly tail disappears just out of sight",
+      "rarity": "common"
+    },
+    {
+      "name": "Hippocampus (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sinking island",
+      "rarity": "common"
+    },
+    {
+      "name": "Stranded halfling bard",
+      "rarity": "common"
+    },
+    {
+      "name": "Water witch looking to make a trade",
+      "rarity": "common"
+    },
+    {
+      "name": "Small mysterious child swimming",
+      "rarity": "common"
+    },
+    {
+      "name": "Slaver ship",
+      "rarity": "common"
+    },
+    {
+      "name": "Skeleton holding a treasure chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted old cannon",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottle of rum",
+      "rarity": "common"
+    },
+    {
+      "name": "Ship in a bottle",
+      "rarity": "common"
+    },
+    {
+      "name": "Strange man looking for a lost child",
+      "rarity": "common"
+    },
+    {
+      "name": "Floating town",
+      "rarity": "common"
+    },
+    {
+      "name": "Old man that gives you a fishing pole",
+      "rarity": "common"
+    },
+    {
+      "name": "Coconut with a gold coin inside",
+      "rarity": "common"
+    },
+    {
+      "name": "Old abandoned castle",
+      "rarity": "common"
+    },
+    {
+      "name": "Chest with the sound of a beating heart",
+      "rarity": "common"
+    },
+    {
+      "name": "Sunken temple",
+      "rarity": "common"
+    },
+    {
+      "name": "Red tide",
+      "rarity": "common"
+    },
+    {
+      "name": "Massive sand castle large enough to live in",
+      "rarity": "common"
+    },
+    {
+      "name": "The Flying Dutchman",
+      "rarity": "common"
+    },
+    {
+      "name": "Ghost of a woman in a long flowing dress",
+      "rarity": "common"
+    },
+    {
+      "name": "Paladin on a whale hunt",
+      "rarity": "common"
+    },
+    {
+      "name": "Starfish that suctions to a character",
+      "rarity": "common"
+    },
+    {
+      "name": "Manta rays (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bones of a massive dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant squid",
+      "rarity": "common"
+    },
+    {
+      "name": "Sunken city",
+      "rarity": "common"
+    },
+    {
+      "name": "Ghost of a man who died at sea",
+      "rarity": "common"
+    },
+    {
+      "name": "Kelp forest",
+      "rarity": "common"
+    },
+    {
+      "name": "Hurricane (1D20 turns till it arrives)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ghost ship",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone statue of a woman dressed in robes",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate of wine",
+      "rarity": "common"
+    },
+    {
+      "name": "Small boat with supplies but no sailors",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon turtle",
+      "rarity": "common"
+    },
+    {
+      "name": "Human who believes he is a merman",
+      "rarity": "common"
+    },
+    {
+      "name": "Statue army",
+      "rarity": "common"
+    },
+    {
+      "name": "Beautiful seashells (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Leviathan",
+      "rarity": "common"
+    }
+  ]
+}

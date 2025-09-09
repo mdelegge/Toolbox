@@ -1,0 +1,406 @@
+{
+  "name": "Items in a Bandit\u2019s Hideout",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Gold pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Slaves (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Short sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Bag of human teeth",
+      "rarity": "common"
+    },
+    {
+      "name": "Cheese wheel",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron helmet",
+      "rarity": "common"
+    },
+    {
+      "name": "Long sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Cloak (worn)",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrows (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Great sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear pelt",
+      "rarity": "common"
+    },
+    {
+      "name": "Keg of ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Stu\ufb00ed bear",
+      "rarity": "common"
+    },
+    {
+      "name": "Morningstar",
+      "rarity": "common"
+    },
+    {
+      "name": "Studded leather armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Caged wolf",
+      "rarity": "common"
+    },
+    {
+      "name": "Kidnapped child",
+      "rarity": "common"
+    },
+    {
+      "name": "Smooth stone",
+      "rarity": "common"
+    },
+    {
+      "name": "Pike",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden circlet",
+      "rarity": "common"
+    },
+    {
+      "name": "Blueprints of the local outpost",
+      "rarity": "common"
+    },
+    {
+      "name": "Normal clothing",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Spear",
+      "rarity": "common"
+    },
+    {
+      "name": "Caged rats",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken helmet",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1d20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Slaves (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Vial of poison",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruby",
+      "rarity": "common"
+    },
+    {
+      "name": "Helmet with deer antlers",
+      "rarity": "common"
+    },
+    {
+      "name": "Elf skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrow (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf pelt",
+      "rarity": "common"
+    },
+    {
+      "name": "Cooper pieces (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Peg leg",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandages",
+      "rarity": "common"
+    },
+    {
+      "name": "Caged squirrel",
+      "rarity": "common"
+    },
+    {
+      "name": "Basket of apples",
+      "rarity": "common"
+    },
+    {
+      "name": "Deer pelts (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon claw",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Town guard patrol routes",
+      "rarity": "common"
+    },
+    {
+      "name": "Chest of bones",
+      "rarity": "common"
+    },
+    {
+      "name": "Gloves",
+      "rarity": "common"
+    },
+    {
+      "name": "Pearl",
+      "rarity": "common"
+    },
+    {
+      "name": "Incriminating letter",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf pelts (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Drums",
+      "rarity": "common"
+    },
+    {
+      "name": "Deer alters",
+      "rarity": "common"
+    },
+    {
+      "name": "Keg of mead",
+      "rarity": "common"
+    },
+    {
+      "name": "Beef jerky (1D8 sticks)",
+      "rarity": "common"
+    },
+    {
+      "name": "Noble\u2019s ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Foreign sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Emerald",
+      "rarity": "common"
+    },
+    {
+      "name": "Falsi\ufb01ed city papers",
+      "rarity": "common"
+    },
+    {
+      "name": "Cloak (new)",
+      "rarity": "common"
+    },
+    {
+      "name": "Jade",
+      "rarity": "common"
+    },
+    {
+      "name": "Wizard\u2019s sta\ufb00",
+      "rarity": "common"
+    },
+    {
+      "name": "Venison steaks (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Boots",
+      "rarity": "common"
+    },
+    {
+      "name": "Tinderbox",
+      "rarity": "common"
+    },
+    {
+      "name": "Caged bear",
+      "rarity": "common"
+    },
+    {
+      "name": "Cloak (new)",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrows (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Journal",
+      "rarity": "common"
+    },
+    {
+      "name": "Lute",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Torture tools",
+      "rarity": "common"
+    },
+    {
+      "name": "Cooper pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Locked chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Wand",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf pelts (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mace",
+      "rarity": "common"
+    },
+    {
+      "name": "Fishing gear",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden sword",
+      "rarity": "common"
+    },
+    {
+      "name": "War axe",
+      "rarity": "common"
+    },
+    {
+      "name": "Deer pelts (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sapphire",
+      "rarity": "common"
+    },
+    {
+      "name": "Caged snake (venomous)",
+      "rarity": "common"
+    },
+    {
+      "name": "Treasure map",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrows (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Prisoner",
+      "rarity": "common"
+    },
+    {
+      "name": "Loaf of moldy bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Battleax",
+      "rarity": "common"
+    },
+    {
+      "name": "Unsent letter",
+      "rarity": "common"
+    },
+    {
+      "name": "Scimitar",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear skin cloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear pelts (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Slaves (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bag of gems",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon egg",
+      "rarity": "common"
+    },
+    {
+      "name": "Diamond",
+      "rarity": "common"
+    },
+    {
+      "name": "Spell book",
+      "rarity": "common"
+    }
+  ]
+}

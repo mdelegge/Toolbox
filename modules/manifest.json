@@ -9,10 +9,9 @@
         { "name": "Weapons, Armor, and Equipment", "file": "loot/weapons_armor_and_equipment.json" },
         { "name": "Gemstones (Simple)", "file": "loot/gemstones_table_simple.json" },
         { "name": "Gemstones (Detailed)", "file": "loot/gemstones_table_1.json" },
-        { "name": "Dungeon Room - Table #1", "file": "loot/Dungeon_Room___Table__1.json" },
-        { "name": "Dungeon Room - Table #2", "file": "loot/Dungeon_Room___Table__2.json" },
-        { "name": "Dungeon Room - Table #3", "file": "loot/Dungeon_Room___Table__3.json" },
-        { "name": "Dungeon Room - Table #4", "file": "loot/Dungeon_Room___Table__4.json" },
+        { "name": "Jewelry", "file": "loot/jewelry.json" },
+        { "name": "Adventuring Gear", "file": "loot/adventuring_gear.json" },
+        { "name": "Musical Instruments", "file": "loot/musical_instruments.json" },
         { "name": "Items in a Troll's Cave", "file": "loot/trolls_cave.json" },
         { "name": "Items in a Smithy", "file": "loot/smithy.json" },
         { "name": "Items in a Bandit Hideout", "file": "loot/items_in_a_bandit_hideout.json" },
@@ -38,12 +37,15 @@
         { "name": "Items in a Fantasy Desk", "file": "loot/items_in_fantasy_desk.json" },
         { "name": "Items on a Dead Goblin", "file": "loot/items_on_a_dead_goblin.json" },
         { "name": "Items on an Adventurers Dead Body ", "file": "loot/items_on_an_adventurers_dead_body.json" },
-        { "name": "Adventuring Gear", "file": "loot/adventuring_gear.json" },
-        { "name": "Musical Instruments", "file": "loot/musical_instruments.json" },
-        { "name": "Jewelry", "file": "loot/jewelry.json" },
         { "name": "Items in an Adventurers Saddlebags", "file": "loot/items_in_adventurers_saddlebags.json" },
+        { "name": "Items in a Dragon's Lair", "file": "loot/items_in_a_dragons_lair.json" },
         { "name": "Items in a Wagon", "file": "loot/items_in_a_wagon.json" },
-        { "name": "Items in a Wine Cellar", "file": "loot/items_in_a_wine_cellar.json" }
+        { "name": "Items in a Wine Cellar", "file": "loot/items_in_a_wine_cellar.json" },
+        { "name": "Dungeon Room - Table #1", "file": "loot/Dungeon_Room___Table__1.json" },
+        { "name": "Dungeon Room - Table #2", "file": "loot/Dungeon_Room___Table__2.json" },
+        { "name": "Dungeon Room - Table #3", "file": "loot/Dungeon_Room___Table__3.json" },
+        { "name": "Dungeon Room - Table #4", "file": "loot/Dungeon_Room___Table__4.json" },
+        { "name": "Magic Items", "file": "loot/magic_items.json" }
       ]
     },
     {
@@ -58,7 +60,11 @@
         { "name": "Road Encounters", "file": "encounters/road_encounters.json" },
         { "name": "Desert Encounters", "file": "encounters/desert_encounters.json" },
         { "name": "Forest Locations", "file": "encounters/forest_locations.json" },
-        { "name": "Mountain Locations", "file": "encounters/mountain_locations.json" }
+        { "name": "Mountain Locations", "file": "encounters/mountain_locations.json" },
+        { "name": "Sea Related Encounters", "file": "encounters/sea_related_encounters.json" },
+        { "name": "Inn Encounters", "file": "encounters/inn_encounters.json" },
+        { "name": "Jungle Encounters", "file": "encounters/jungle_encounters.json" },
+        { "name": "Underground Encounters", "file": "encounters/underground_encounters.json" }
       ]
     },
     {
@@ -81,7 +87,18 @@
         { "name": "Seafood", "file": "flavor/seafood.json" },
         { "name": "Beers", "file": "flavor/beers.json" },
         { "name": "Inn Names", "file": "flavor/inn_names.json" },
-        { "name": "Names of Knightly Orders", "file": "flavor/names_of_knightly_orders.json" }
+        { "name": "Names of Knightly Orders", "file": "flavor/names_of_knightly_orders.json" },
+        { "name": "Critical Success For Spell Attacks", "file": "flavor/critical_success_for_spell_attacks.json" },
+        { "name": "Critical Fails For Spell Attacks", "file": "flavor/critical_fails_for_spell_attacks.json" },
+        { "name": "Curses", "file": "flavor/curses.json" },
+        { "name": "Mutations", "file": "flavor/mutations.json" },
+        { "name": "Goals", "file": "flavor/goals.json" },
+        { "name": "NPC Physical Descriptions", "file": "flavor/npc_physical_descriptions.json" },
+        { "name": "Cause of Death", "file": "flavor/cause_of_death.json" },
+        { "name": "Notes In A Bottle", "file": "flavor/notes_in_a_bottle.json" },
+        { "name": "Bounty Board", "file": "flavor/bounty_board.json" },
+        { "name": "Song Titles", "file": "flavor/song_titles.json" },
+        { "name": "Fictional Spices", "file": "flavor/fictional_spices.json" }
       ]
     },
     {
@@ -93,7 +110,11 @@
         { "name": "Male Names", "file": "names/male_names_table_1.json" },
         { "name": "Town Names", "file": "names/town_names_table.json" },
         { "name": "Kobold Names", "file": "names/kobold_names.json" },
-        { "name": "Orc Names", "file": "names/orc_names.json" }
+        { "name": "Orc Names", "file": "names/orc_names.json" },
+        { "name": "Dwarf Clan Names", "file": "names/dwarf_clan_names.json" },
+        { "name": "Dwarf Names", "file": "names/dwarf_names.json" },
+        { "name": "Halfing Names", "file": "names/halfing_names.json" },
+        { "name": "Elf Names", "file": "names/elf_names.json" }
       ]
     }
   ]

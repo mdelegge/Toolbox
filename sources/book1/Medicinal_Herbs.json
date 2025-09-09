@@ -1,0 +1,406 @@
+{
+  "name": "Medicinal Herbs",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Abscess Root",
+      "rarity": "common"
+    },
+    {
+      "name": "A\u00e7ai",
+      "rarity": "common"
+    },
+    {
+      "name": "Alfalfa",
+      "rarity": "common"
+    },
+    {
+      "name": "Aloe Vera",
+      "rarity": "common"
+    },
+    {
+      "name": "Arnica",
+      "rarity": "common"
+    },
+    {
+      "name": "Asafoetida",
+      "rarity": "common"
+    },
+    {
+      "name": "Ashoka Tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Asthma-plant",
+      "rarity": "common"
+    },
+    {
+      "name": "Astragalus",
+      "rarity": "common"
+    },
+    {
+      "name": "Barberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Belladonna",
+      "rarity": "common"
+    },
+    {
+      "name": "Bilberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Bitter Gourd",
+      "rarity": "common"
+    },
+    {
+      "name": "Bitter Leaf",
+      "rarity": "common"
+    },
+    {
+      "name": "Bitter Orange",
+      "rarity": "common"
+    },
+    {
+      "name": "Black Cohosh",
+      "rarity": "common"
+    },
+    {
+      "name": "Blessed Thistle",
+      "rarity": "common"
+    },
+    {
+      "name": "Burdock",
+      "rarity": "common"
+    },
+    {
+      "name": "Cat\u2019s Claw",
+      "rarity": "common"
+    },
+    {
+      "name": "Cayenne",
+      "rarity": "common"
+    },
+    {
+      "name": "Celery",
+      "rarity": "common"
+    },
+    {
+      "name": "Anthemis Nobilis",
+      "rarity": "common"
+    },
+    {
+      "name": "Chaparral",
+      "rarity": "common"
+    },
+    {
+      "name": "Chasteberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Cinchona",
+      "rarity": "common"
+    },
+    {
+      "name": "Comfrey",
+      "rarity": "common"
+    },
+    {
+      "name": "Digitalis (Foxglove)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dong Quai",
+      "rarity": "common"
+    },
+    {
+      "name": "Elderberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Ephedra",
+      "rarity": "common"
+    },
+    {
+      "name": "Eucalyptus",
+      "rarity": "common"
+    },
+    {
+      "name": "European Mistletoe",
+      "rarity": "common"
+    },
+    {
+      "name": "Evening Primrose Oil",
+      "rarity": "common"
+    },
+    {
+      "name": "Fenugreek",
+      "rarity": "common"
+    },
+    {
+      "name": "Feverfew",
+      "rarity": "common"
+    },
+    {
+      "name": "Flaxseed",
+      "rarity": "common"
+    },
+    {
+      "name": "Garlic",
+      "rarity": "common"
+    },
+    {
+      "name": "Ginger",
+      "rarity": "common"
+    },
+    {
+      "name": "Ginkgo",
+      "rarity": "common"
+    },
+    {
+      "name": "Ginseng",
+      "rarity": "common"
+    },
+    {
+      "name": "Goldenseal",
+      "rarity": "common"
+    },
+    {
+      "name": "Guava",
+      "rarity": "common"
+    },
+    {
+      "name": "Gum Arabic",
+      "rarity": "common"
+    },
+    {
+      "name": "Hawthorn",
+      "rarity": "common"
+    },
+    {
+      "name": "Henna",
+      "rarity": "common"
+    },
+    {
+      "name": "Hibiscus",
+      "rarity": "common"
+    },
+    {
+      "name": "Hoodia",
+      "rarity": "common"
+    },
+    {
+      "name": "Horse Chestnut",
+      "rarity": "common"
+    },
+    {
+      "name": "Horsetail",
+      "rarity": "common"
+    },
+    {
+      "name": "Jamaica Dogwood",
+      "rarity": "common"
+    },
+    {
+      "name": "Kava",
+      "rarity": "common"
+    },
+    {
+      "name": "Khat",
+      "rarity": "common"
+    },
+    {
+      "name": "Konjac",
+      "rarity": "common"
+    },
+    {
+      "name": "Kratom",
+      "rarity": "common"
+    },
+    {
+      "name": "Kanna",
+      "rarity": "common"
+    },
+    {
+      "name": "Lavender",
+      "rarity": "common"
+    },
+    {
+      "name": "Licorice Root",
+      "rarity": "common"
+    },
+    {
+      "name": "Lotus",
+      "rarity": "common"
+    },
+    {
+      "name": "Marigold",
+      "rarity": "common"
+    },
+    {
+      "name": "Marsh-mallow",
+      "rarity": "common"
+    },
+    {
+      "name": "Moringa Oleifera",
+      "rarity": "common"
+    },
+    {
+      "name": "Milk Thistle",
+      "rarity": "common"
+    },
+    {
+      "name": "Neem",
+      "rarity": "common"
+    },
+    {
+      "name": "Noni",
+      "rarity": "common"
+    },
+    {
+      "name": "Opium Poppy",
+      "rarity": "common"
+    },
+    {
+      "name": "Oregano",
+      "rarity": "common"
+    },
+    {
+      "name": "Papaya",
+      "rarity": "common"
+    },
+    {
+      "name": "Peppermint Oil",
+      "rarity": "common"
+    },
+    {
+      "name": "Purple Cone\ufb02ower",
+      "rarity": "common"
+    },
+    {
+      "name": "Passion Flower",
+      "rarity": "common"
+    },
+    {
+      "name": "Red Clover",
+      "rarity": "common"
+    },
+    {
+      "name": "Rosemary",
+      "rarity": "common"
+    },
+    {
+      "name": "Sage",
+      "rarity": "common"
+    },
+    {
+      "name": "Syrian Rue (Harmal)",
+      "rarity": "common"
+    },
+    {
+      "name": "St. John\u2019s Wort",
+      "rarity": "common"
+    },
+    {
+      "name": "Saw palmetto",
+      "rarity": "common"
+    },
+    {
+      "name": "Summer Savory",
+      "rarity": "common"
+    },
+    {
+      "name": "Tea Tree Oil",
+      "rarity": "common"
+    },
+    {
+      "name": "Thunder God Vine",
+      "rarity": "common"
+    },
+    {
+      "name": "Thyme",
+      "rarity": "common"
+    },
+    {
+      "name": "Tulsi (Holy Basil)",
+      "rarity": "common"
+    },
+    {
+      "name": "Turmeric",
+      "rarity": "common"
+    },
+    {
+      "name": "Umckaloabo",
+      "rarity": "common"
+    },
+    {
+      "name": "Valerian",
+      "rarity": "common"
+    },
+    {
+      "name": "Velvetleaf",
+      "rarity": "common"
+    },
+    {
+      "name": "Verbena",
+      "rarity": "common"
+    },
+    {
+      "name": "Veronica",
+      "rarity": "common"
+    },
+    {
+      "name": "Vetiver",
+      "rarity": "common"
+    },
+    {
+      "name": "Wafer Ash (Hoptree)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wahoo",
+      "rarity": "common"
+    },
+    {
+      "name": "Wall\ufb02ower",
+      "rarity": "common"
+    },
+    {
+      "name": "Water Dropwort",
+      "rarity": "common"
+    },
+    {
+      "name": "Water Germander",
+      "rarity": "common"
+    },
+    {
+      "name": "Water Hemlock",
+      "rarity": "common"
+    },
+    {
+      "name": "Water Plantain",
+      "rarity": "common"
+    },
+    {
+      "name": "Watercress",
+      "rarity": "common"
+    },
+    {
+      "name": "Wheatgrass",
+      "rarity": "common"
+    },
+    {
+      "name": "White Willow",
+      "rarity": "common"
+    },
+    {
+      "name": "Xanthoparmelia Scabrosa",
+      "rarity": "common"
+    },
+    {
+      "name": "Yerba Santa",
+      "rarity": "common"
+    }
+  ]
+}

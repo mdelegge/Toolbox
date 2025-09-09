@@ -1,0 +1,406 @@
+{
+  "name": "Dwarf Names",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Drolf",
+      "rarity": "common"
+    },
+    {
+      "name": "Borful",
+      "rarity": "common"
+    },
+    {
+      "name": "Boffin",
+      "rarity": "common"
+    },
+    {
+      "name": "Rasdrur",
+      "rarity": "common"
+    },
+    {
+      "name": "Kellyg",
+      "rarity": "common"
+    },
+    {
+      "name": "Khetrek",
+      "rarity": "common"
+    },
+    {
+      "name": "Groumret",
+      "rarity": "common"
+    },
+    {
+      "name": "Lokgruli",
+      "rarity": "common"
+    },
+    {
+      "name": "Brodrous",
+      "rarity": "common"
+    },
+    {
+      "name": "Boggol",
+      "rarity": "common"
+    },
+    {
+      "name": "Mognac",
+      "rarity": "common"
+    },
+    {
+      "name": "Nomoli",
+      "rarity": "common"
+    },
+    {
+      "name": "Dalen",
+      "rarity": "common"
+    },
+    {
+      "name": "Thignus",
+      "rarity": "common"
+    },
+    {
+      "name": "Reistac",
+      "rarity": "common"
+    },
+    {
+      "name": "Bosteg",
+      "rarity": "common"
+    },
+    {
+      "name": "Yugrif",
+      "rarity": "common"
+    },
+    {
+      "name": "Kraznog",
+      "rarity": "common"
+    },
+    {
+      "name": "Tuddaek",
+      "rarity": "common"
+    },
+    {
+      "name": "Dobrik",
+      "rarity": "common"
+    },
+    {
+      "name": "Khemdar",
+      "rarity": "common"
+    },
+    {
+      "name": "Gomnick",
+      "rarity": "common"
+    },
+    {
+      "name": "Araman",
+      "rarity": "common"
+    },
+    {
+      "name": "Wemrun",
+      "rarity": "common"
+    },
+    {
+      "name": "Kitmor",
+      "rarity": "common"
+    },
+    {
+      "name": "Broughol",
+      "rarity": "common"
+    },
+    {
+      "name": "Dadgroth",
+      "rarity": "common"
+    },
+    {
+      "name": "Golock",
+      "rarity": "common"
+    },
+    {
+      "name": "Darez",
+      "rarity": "common"
+    },
+    {
+      "name": "Torgred",
+      "rarity": "common"
+    },
+    {
+      "name": "Hezzuk",
+      "rarity": "common"
+    },
+    {
+      "name": "Yusut",
+      "rarity": "common"
+    },
+    {
+      "name": "Snathleg",
+      "rarity": "common"
+    },
+    {
+      "name": "Grufek",
+      "rarity": "common"
+    },
+    {
+      "name": "Khurge",
+      "rarity": "common"
+    },
+    {
+      "name": "Alfond",
+      "rarity": "common"
+    },
+    {
+      "name": "Yodrick",
+      "rarity": "common"
+    },
+    {
+      "name": "Norrim",
+      "rarity": "common"
+    },
+    {
+      "name": "Throndik",
+      "rarity": "common"
+    },
+    {
+      "name": "Bhakel",
+      "rarity": "common"
+    },
+    {
+      "name": "Norsum",
+      "rarity": "common"
+    },
+    {
+      "name": "Umidin",
+      "rarity": "common"
+    },
+    {
+      "name": "Yarram",
+      "rarity": "common"
+    },
+    {
+      "name": "Girnat",
+      "rarity": "common"
+    },
+    {
+      "name": "Kudrol",
+      "rarity": "common"
+    },
+    {
+      "name": "Hevrad",
+      "rarity": "common"
+    },
+    {
+      "name": "Tutrik",
+      "rarity": "common"
+    },
+    {
+      "name": "Hurhel",
+      "rarity": "common"
+    },
+    {
+      "name": "Whuldruf",
+      "rarity": "common"
+    },
+    {
+      "name": "Darsek",
+      "rarity": "common"
+    },
+    {
+      "name": "Grunsun",
+      "rarity": "common"
+    },
+    {
+      "name": "Halat",
+      "rarity": "common"
+    },
+    {
+      "name": "Tholgut",
+      "rarity": "common"
+    },
+    {
+      "name": "Hestun",
+      "rarity": "common"
+    },
+    {
+      "name": "Bolin",
+      "rarity": "common"
+    },
+    {
+      "name": "Dhossim",
+      "rarity": "common"
+    },
+    {
+      "name": "Domnig",
+      "rarity": "common"
+    },
+    {
+      "name": "Deghed",
+      "rarity": "common"
+    },
+    {
+      "name": "Bruvis",
+      "rarity": "common"
+    },
+    {
+      "name": "Therdrum",
+      "rarity": "common"
+    },
+    {
+      "name": "Fotmeck",
+      "rarity": "common"
+    },
+    {
+      "name": "Brubrem",
+      "rarity": "common"
+    },
+    {
+      "name": "Dalom",
+      "rarity": "common"
+    },
+    {
+      "name": "Kovir",
+      "rarity": "common"
+    },
+    {
+      "name": "Nolgrol",
+      "rarity": "common"
+    },
+    {
+      "name": "Ottom",
+      "rarity": "common"
+    },
+    {
+      "name": "Delmar",
+      "rarity": "common"
+    },
+    {
+      "name": "Umitt",
+      "rarity": "common"
+    },
+    {
+      "name": "Weznick",
+      "rarity": "common"
+    },
+    {
+      "name": "Jabrom",
+      "rarity": "common"
+    },
+    {
+      "name": "Bognur",
+      "rarity": "common"
+    },
+    {
+      "name": "Groudin",
+      "rarity": "common"
+    },
+    {
+      "name": "Bhaddor",
+      "rarity": "common"
+    },
+    {
+      "name": "Jandrac",
+      "rarity": "common"
+    },
+    {
+      "name": "Grakim",
+      "rarity": "common"
+    },
+    {
+      "name": "Dorol",
+      "rarity": "common"
+    },
+    {
+      "name": "Groznin",
+      "rarity": "common"
+    },
+    {
+      "name": "Vorsuk",
+      "rarity": "common"
+    },
+    {
+      "name": "Durmas",
+      "rarity": "common"
+    },
+    {
+      "name": "Thragg",
+      "rarity": "common"
+    },
+    {
+      "name": "Bredneg",
+      "rarity": "common"
+    },
+    {
+      "name": "Lokdin",
+      "rarity": "common"
+    },
+    {
+      "name": "Godmid",
+      "rarity": "common"
+    },
+    {
+      "name": "Grondrek",
+      "rarity": "common"
+    },
+    {
+      "name": "Durock",
+      "rarity": "common"
+    },
+    {
+      "name": "Sigril",
+      "rarity": "common"
+    },
+    {
+      "name": "Kirdum",
+      "rarity": "common"
+    },
+    {
+      "name": "Thernak",
+      "rarity": "common"
+    },
+    {
+      "name": "Gazzan",
+      "rarity": "common"
+    },
+    {
+      "name": "Luthyr",
+      "rarity": "common"
+    },
+    {
+      "name": "Jarn",
+      "rarity": "common"
+    },
+    {
+      "name": "Dhold",
+      "rarity": "common"
+    },
+    {
+      "name": "Thasdan",
+      "rarity": "common"
+    },
+    {
+      "name": "Fimnok",
+      "rarity": "common"
+    },
+    {
+      "name": "Bromoul",
+      "rarity": "common"
+    },
+    {
+      "name": "Yuggor",
+      "rarity": "common"
+    },
+    {
+      "name": "Thezzus",
+      "rarity": "common"
+    },
+    {
+      "name": "Ogrum",
+      "rarity": "common"
+    },
+    {
+      "name": "Bronad",
+      "rarity": "common"
+    },
+    {
+      "name": "Norfeth",
+      "rarity": "common"
+    }
+  ]
+}

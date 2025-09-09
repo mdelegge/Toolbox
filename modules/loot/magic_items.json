@@ -1,0 +1,406 @@
+{
+  "name": "Magic Items",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Cloak of Shadow- The wearer gains a bonus to stealth. If the hood is up, the wearer can see clearly",
+      "rarity": "common"
+    },
+    {
+      "name": "Wand of Wonders- This wand allows its wielder to use one low-level spell without cost any number",
+      "rarity": "common"
+    },
+    {
+      "name": "Sword of Storms- This longsword deals only lightning damage. On a critical hit it deals half damage",
+      "rarity": "common"
+    },
+    {
+      "name": "Hammer of Doom- This unwieldy hammer is -10 to hit, but deals 4d12 corruption damage on a hit.",
+      "rarity": "common"
+    },
+    {
+      "name": "Gauntlets of Destruction- These gauntlets add 1d4 of fire damage to all melee attacks.",
+      "rarity": "common"
+    },
+    {
+      "name": "Bipolar Axe- This battleaxe adds an extra 1d6 to its damage rolls. This damage alternates between",
+      "rarity": "common"
+    },
+    {
+      "name": "Crown of Storms- This crown grants resistance to storm damage. As a bonus, it can deal 1d6",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon's Tail- This tail was made from the heart of a dragon. When found roll 1d6= 1)fire 2)frost",
+      "rarity": "common"
+    },
+    {
+      "name": "Bracers of Battle- These bracers can magically store one shield and one melee weapon. When",
+      "rarity": "common"
+    },
+    {
+      "name": "Flask of Xengarth- This flask has unlimited uses. When a character drinks, they regain 1d6 health",
+      "rarity": "common"
+    },
+    {
+      "name": "Enchanted Spoon- This spoon makes every meal taste like it was prepared by the gods. When any character eats from it, they gain +1 to all saving throws for 1d6 hours.",
+      "rarity": "common"
+    },
+    {
+      "name": "Boots of Blazing Speed- When activated, these boots grant the wearer a base speed of 120ft.",
+      "rarity": "common"
+    },
+    {
+      "name": "Mask of Glaring- This mask gives proficiency in intimidation. If already skilled, it gives double bonus.",
+      "rarity": "common"
+    },
+    {
+      "name": "Death's Scythe- Damage: 1d10 slashing + 2d8 corruption damage. The wielder of this scythe heals 1d6 hit points per round.",
+      "rarity": "common"
+    },
+    {
+      "name": "Mace of Embers- This mace deals 1d8 damage and 2d8 fire damage. If the damage dealt exceeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Lute Of Legends- This lute gives the wielder double bonus in performance. The wielder also gains",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger of Shadows- A +2 dagger that deals an additional 1d6 corruption damage. If the wielder is",
+      "rarity": "common"
+    },
+    {
+      "name": "Survivor's Amulet- Each time the wear takes damage roll 1d20. On a roll or 15-20, the wear only",
+      "rarity": "common"
+    },
+    {
+      "name": "Toy Soldier- This object is a 6in tall representation of a soldier. Upon issuing the command word this",
+      "rarity": "common"
+    },
+    {
+      "name": "Crown of Embers- This crown allows the wearer to breathe fire three times per day. The line is 5ft",
+      "rarity": "common"
+    },
+    {
+      "name": "Glass Eye- This glass eye can be placed anywhere. Once placed, say its command word. This eye",
+      "rarity": "common"
+    },
+    {
+      "name": "Magic Broom- This broom can be mounted. It has a flying speed of 60ft.",
+      "rarity": "common"
+    },
+    {
+      "name": "Armor of Storms- This set of light armor grants +3. When the wearer is hit with a melee attack, the",
+      "rarity": "common"
+    },
+    {
+      "name": "Throne of Xarexoth- This throne can be placed into the palm of your hand. When placed on the ground, its",
+      "rarity": "common"
+    },
+    {
+      "name": "Shield of Embers- This shield grants immunity to fire damage",
+      "rarity": "common"
+    },
+    {
+      "name": "Svaldr's Lucky Dagger- This dagger critical hits on a roll of 18-20. On a critical hit, it deals an extra",
+      "rarity": "common"
+    },
+    {
+      "name": "Helmet of Breathing- This helmet allows the wearer to breath underwater and keeps them from",
+      "rarity": "common"
+    },
+    {
+      "name": "Shield of Wrath- When the wielder is hit with a melee attack, they can use a reaction to bash the",
+      "rarity": "common"
+    },
+    {
+      "name": "Rock of Ages- This rock can be thrown (60ft) or used as a melee weapon. The rock deals 1d8",
+      "rarity": "common"
+    },
+    {
+      "name": "Harp of Sleep- This harp can be used to cast 1d6 sleep spells per day",
+      "rarity": "common"
+    },
+    {
+      "name": "Mace of Hazards- This mace gives an advantage to all melee attacks against the wielder, but",
+      "rarity": "common"
+    },
+    {
+      "name": "Robe of Dragonhide- This robe awards resistance to whichever dragon the hide is made of",
+      "rarity": "common"
+    },
+    {
+      "name": "Ring of Ice- This ring lets the wearer cast an ice spell at will",
+      "rarity": "common"
+    },
+    {
+      "name": "Helm of Adontag- This helmet grants immunity to being charmed, or put to sleep",
+      "rarity": "common"
+    },
+    {
+      "name": "Ring of Storms- This ring allows the wearer to cast a thunder spell four times a day",
+      "rarity": "common"
+    },
+    {
+      "name": "Amulet of Death- This amulet holds a small piece of the wearers soul. When the wearer is",
+      "rarity": "common"
+    },
+    {
+      "name": "Book of Summoning- This book allows the wielder to summon a single creature from a different plane of existence",
+      "rarity": "common"
+    },
+    {
+      "name": "Cloak of Flying- Allows the wearer 5 minutes of flight, once per day. Their flying speed is 60ft",
+      "rarity": "common"
+    },
+    {
+      "name": "Boots of Swimming- These boots give the wearer a swimming speed of 60ft.",
+      "rarity": "common"
+    },
+    {
+      "name": "Gloves of Striking- Unarmed damage is doubled",
+      "rarity": "common"
+    },
+    {
+      "name": "Blade of Dehydration- After one successful attack the target has a 50% chance of being",
+      "rarity": "common"
+    },
+    {
+      "name": "Ring of Death- When the wearer kills something, they can use an action to turn that person or",
+      "rarity": "common"
+    },
+    {
+      "name": "Doll House- This doll house is 5lbs, and about 10in tall by 10in wide. If set on the ground, its",
+      "rarity": "common"
+    },
+    {
+      "name": "Bow of Storms- This bow deals 1d10 lightning damage. It has a range of 60/300ft. Arrows of",
+      "rarity": "common"
+    },
+    {
+      "name": "Mask of Revik- Revik forged this mask with his mischievous essence. The wearer can shape shift",
+      "rarity": "common"
+    },
+    {
+      "name": "Staff of Heresy- If used in melee it deals 1d8, plus an additional 2d6 corruption damage. It can",
+      "rarity": "common"
+    },
+    {
+      "name": "Amulet of Radiance- When activated, it emits a radiant aura in a radius of 15ft around the wearer.",
+      "rarity": "common"
+    },
+    {
+      "name": "Skewer of the Gods- This spear deals 1d12 damage. If the wielder downs an enemy with it, as a",
+      "rarity": "common"
+    },
+    {
+      "name": "Crown of Ice- Three times a day the wearer can breathe icy cold air in a 15ft cone dealing 4d6 cold",
+      "rarity": "common"
+    },
+    {
+      "name": "Amulet of Embers- The wearer releases a burst of fire in a 10ft radius each time they take 25",
+      "rarity": "common"
+    },
+    {
+      "name": "Bag of Sleeping- Allows a creature to survive inside of it indefinitely in a very deep sleep. Only",
+      "rarity": "common"
+    },
+    {
+      "name": "Orb of Destruction- This silver orb is 6in wide in diameter. Once per day the user can cause the orb",
+      "rarity": "common"
+    },
+    {
+      "name": "Robes of Insight- These robes grant +3 to intelligence to the wearer",
+      "rarity": "common"
+    },
+    {
+      "name": "Toy Horse- As an action, the owner of this horse can say its command word. The horse changes",
+      "rarity": "common"
+    },
+    {
+      "name": "Pair of Skeletal Feet- These feet can be placed anywhere on the same plane of existence, however",
+      "rarity": "common"
+    },
+    {
+      "name": "Key of Secrets- When used on any keyhole there is a 5% chance it will unlock that object. There is",
+      "rarity": "common"
+    },
+    {
+      "name": "Belt of Determination- This belt grants an advantage to all strength-based non-attack rolls",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottle of Lightning- This bottle can be thrown 60ft. Once it hits the ground, it will shatter dealing",
+      "rarity": "common"
+    },
+    {
+      "name": "Helmet of Silence- This helmet renders the wearer mute, however they can now speak to anyone",
+      "rarity": "common"
+    },
+    {
+      "name": "Charred Collar- This dog collar must be worn. As an action, the wearer can summon a hellhound.",
+      "rarity": "common"
+    },
+    {
+      "name": "Ring of Reaching- This ring allows you to extend your reach out to 10ft",
+      "rarity": "common"
+    },
+    {
+      "name": "Ring of Sorcery- Gives the wearer the ability to cast any two spells at will. Determine randomly",
+      "rarity": "common"
+    },
+    {
+      "name": "Chakram Of Devotion- A thrown weapon with a maximum range of 100ft and it deals 1d6 damage.",
+      "rarity": "common"
+    },
+    {
+      "name": "Goggles of Reading- These goggles allow the user to understand any written language.",
+      "rarity": "common"
+    },
+    {
+      "name": "Skull of a Demon Helm- It allows the wearer to take the form of a demon once a week, for 1 hour",
+      "rarity": "common"
+    },
+    {
+      "name": "Necromancer's Stone- This stone can raise up to 1d20 corpses the grave once a week. The zombies",
+      "rarity": "common"
+    },
+    {
+      "name": "Control rod- This rod grants the wielder the ability to summon a stone golem. This golem springs",
+      "rarity": "common"
+    },
+    {
+      "name": "Crown of Spiders- This crown allows the wearer to transform into a spider centaur at will.",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger of Blinding- This dagger deals 1d4 damage, 25% chance the target is blinded for 2 turns",
+      "rarity": "common"
+    },
+    {
+      "name": "Socks of Comfort- These socks keep the wearer warm in extreme cold, and cool in extreme heat",
+      "rarity": "common"
+    },
+    {
+      "name": "Cowl of Luck- While equipped, this Cowl grants the wearer good luck. Once per round, when the",
+      "rarity": "common"
+    },
+    {
+      "name": "Toy Ship- This ship can be set in the water. After its owner says the command word, it becomes",
+      "rarity": "common"
+    },
+    {
+      "name": "Rod of Detection- This rod allows the wielder to know the location of any unseen creature within",
+      "rarity": "common"
+    },
+    {
+      "name": "Ring of Spiders- This ring allows the wearer to summon 1d4 giant spiders. These spiders are",
+      "rarity": "common"
+    },
+    {
+      "name": "Hiking Boots- These boots remove any penalties to movement caused by terrain and increase",
+      "rarity": "common"
+    },
+    {
+      "name": "Armor of Notes- Doubles the wearer's musical bonus and allows the wearer to cast a charm",
+      "rarity": "common"
+    },
+    {
+      "name": "Staff of Radiance- If used in melee it deals 1d8, plus an additional 2d6 holy damage. Plus it can",
+      "rarity": "common"
+    },
+    {
+      "name": "Amulet of Heresy- When activated, it emits a radiant aura in a radius of 15ft around the wearer.",
+      "rarity": "common"
+    },
+    {
+      "name": "Remorse- This mace refuses to kill. It deals 1d6 nonlethal damage",
+      "rarity": "common"
+    },
+    {
+      "name": "Toy Dragon- As an action, its owner may say the command word. This toy dragon will grow to",
+      "rarity": "common"
+    },
+    {
+      "name": "Maggot King's Crown- This crown allows the wearer to summon 1d6 zombies. The zombies act",
+      "rarity": "common"
+    },
+    {
+      "name": "Enchanted Vial Of Blood- When ingested, afflicts the drinker with lycanthropy. Roll 1d6. 1)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mask of Elements- While this mask is equipped, the wearer may use an action to harness the",
+      "rarity": "common"
+    },
+    {
+      "name": "Rapier of the Vampire- This rapier drains the life force of its victims, and gifts it to its master.",
+      "rarity": "common"
+    },
+    {
+      "name": "Amulet of Memories- This amulet allows the user to store their memories inside of it. These",
+      "rarity": "common"
+    },
+    {
+      "name": "Jar of Ooze- This jar contains an ooze-like blob monster. If this jar is smashed on the ground the",
+      "rarity": "common"
+    },
+    {
+      "name": "Soulbound Weapon- The wielder may use an action to summon this weapon in their empty",
+      "rarity": "common"
+    },
+    {
+      "name": "Gloves of Healing- These gloves allow the user to cast a heal spell at will",
+      "rarity": "common"
+    },
+    {
+      "name": "Cloak of Feathers- This cloak allows the user to fly at a 60ft speed for up to four hours per day",
+      "rarity": "common"
+    },
+    {
+      "name": "Armor of Rage- Made from a mythical animal hide this armor grants an extra 1d4 to any",
+      "rarity": "common"
+    },
+    {
+      "name": "Soulbound Spellbook- This spellbook is blank, indestructible, and can't be read by anyone but",
+      "rarity": "common"
+    },
+    {
+      "name": "Mysterious Concoction- This small glass vial has a strange liquid inside. If ingested, roll 1d6. 1)",
+      "rarity": "common"
+    },
+    {
+      "name": "Cloak of Time- This cloak allows the user glimpse into the future. Any attack against them has is",
+      "rarity": "common"
+    },
+    {
+      "name": "Bow of Smiting- This longbow has a range of 650ft. It deals 1d8 damage, plus an additional 2d6",
+      "rarity": "common"
+    },
+    {
+      "name": "Raven's Feather - A seemly normal raven's feather attached to a bit of cord. The user can",
+      "rarity": "common"
+    },
+    {
+      "name": "Great Sword of Dane - Whoever is attuned to this great sword can summon three war dogs",
+      "rarity": "common"
+    },
+    {
+      "name": "Bow of Thunder - A normal looking longbow with an engraved lightning pattern. The bow",
+      "rarity": "common"
+    },
+    {
+      "name": "Helm of the Bull - A helmet with bull horns. Gives the wearer bonus on all strength related",
+      "rarity": "common"
+    },
+    {
+      "name": "Ring of Clarity - Grants the wearer +2 to all skill rolls.",
+      "rarity": "common"
+    },
+    {
+      "name": "Rabbit's Foot - A seemly ordinary lucky rabbit's foot. Reroll all critical fails in the same",
+      "rarity": "common"
+    }
+  ]
+}

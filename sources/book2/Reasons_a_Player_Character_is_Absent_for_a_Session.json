@@ -1,0 +1,406 @@
+{
+  "name": "Reasons a Player Character is Absent for a Session",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "O\ufb00 birdwatching",
+      "rarity": "common"
+    },
+    {
+      "name": "Gathering herbs",
+      "rarity": "common"
+    },
+    {
+      "name": "Helping a local farmer around the farm",
+      "rarity": "common"
+    },
+    {
+      "name": "Helping a group of kids get a cat out of a tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Has become \u201cunstuck\u201d in time",
+      "rarity": "common"
+    },
+    {
+      "name": "Sleeping it o\ufb00",
+      "rarity": "common"
+    },
+    {
+      "name": "\u201cQuick job won\u2019t be long.\u201d",
+      "rarity": "common"
+    },
+    {
+      "name": "Lost lucky charm, still looking for it",
+      "rarity": "common"
+    },
+    {
+      "name": "Getting a boil lanced",
+      "rarity": "common"
+    },
+    {
+      "name": "Baking bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Sucked into a magical portal",
+      "rarity": "common"
+    },
+    {
+      "name": "O\ufb00 looking for \u201cclues\u201d",
+      "rarity": "common"
+    },
+    {
+      "name": "Toothache",
+      "rarity": "common"
+    },
+    {
+      "name": "Went wild had to be tied up and left at an inn",
+      "rarity": "common"
+    },
+    {
+      "name": "Freak spell accident",
+      "rarity": "common"
+    },
+    {
+      "name": "Headache",
+      "rarity": "common"
+    },
+    {
+      "name": "Nightmares has them sleeping during the day",
+      "rarity": "common"
+    },
+    {
+      "name": "Hiding from the local authorities",
+      "rarity": "common"
+    },
+    {
+      "name": "Horse ran away",
+      "rarity": "common"
+    },
+    {
+      "name": "Sulking",
+      "rarity": "common"
+    },
+    {
+      "name": "Disappeared, gold coin with viper design left",
+      "rarity": "common"
+    },
+    {
+      "name": "Sprained ankle",
+      "rarity": "common"
+    },
+    {
+      "name": "O\ufb00 hunting",
+      "rarity": "common"
+    },
+    {
+      "name": "Called as a witness in a court case",
+      "rarity": "common"
+    },
+    {
+      "name": "Freak potion mishap",
+      "rarity": "common"
+    },
+    {
+      "name": "Malaria \ufb02are up",
+      "rarity": "common"
+    },
+    {
+      "name": "Gout \ufb02are up",
+      "rarity": "common"
+    },
+    {
+      "name": "Freak whetstone mishap",
+      "rarity": "common"
+    },
+    {
+      "name": "Lost in thought",
+      "rarity": "common"
+    },
+    {
+      "name": "Taking care of sick pet",
+      "rarity": "common"
+    },
+    {
+      "name": "On a snipe hunt",
+      "rarity": "common"
+    },
+    {
+      "name": "High fever",
+      "rarity": "common"
+    },
+    {
+      "name": "Drugged",
+      "rarity": "common"
+    },
+    {
+      "name": "Turned into a pig",
+      "rarity": "common"
+    },
+    {
+      "name": "Couldn\u2019t decide what to wear",
+      "rarity": "common"
+    },
+    {
+      "name": "Nasty hangnail",
+      "rarity": "common"
+    },
+    {
+      "name": "Things got a little crazy last night\u2026",
+      "rarity": "common"
+    },
+    {
+      "name": "Wash day, nothing clean to wear",
+      "rarity": "common"
+    },
+    {
+      "name": "Gone \ufb01shing",
+      "rarity": "common"
+    },
+    {
+      "name": "Wanted to \ufb01nish writing a poem",
+      "rarity": "common"
+    },
+    {
+      "name": "Looking for \u201csomething\u201d will be back later",
+      "rarity": "common"
+    },
+    {
+      "name": "Having that nasty wolf bite looked at",
+      "rarity": "common"
+    },
+    {
+      "name": "Hand stuck in a troll as it turned to stone",
+      "rarity": "common"
+    },
+    {
+      "name": "Over slept",
+      "rarity": "common"
+    },
+    {
+      "name": "Just couldn\u2019t put that book down",
+      "rarity": "common"
+    },
+    {
+      "name": "Transported to another dimension",
+      "rarity": "common"
+    },
+    {
+      "name": "Attending a town meeting",
+      "rarity": "common"
+    },
+    {
+      "name": "Out of body experience",
+      "rarity": "common"
+    },
+    {
+      "name": "Being held for ransom",
+      "rarity": "common"
+    },
+    {
+      "name": "Stuck in a tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Lost a bet",
+      "rarity": "common"
+    },
+    {
+      "name": "Spending time in the library",
+      "rarity": "common"
+    },
+    {
+      "name": "Jury duty",
+      "rarity": "common"
+    },
+    {
+      "name": "Attending a royal court event",
+      "rarity": "common"
+    },
+    {
+      "name": "Attending sporting event",
+      "rarity": "common"
+    },
+    {
+      "name": "Down by the creek catching lizards",
+      "rarity": "common"
+    },
+    {
+      "name": "Working o\ufb00 bar tab",
+      "rarity": "common"
+    },
+    {
+      "name": "In a hypnotic trance",
+      "rarity": "common"
+    },
+    {
+      "name": "Family emergency",
+      "rarity": "common"
+    },
+    {
+      "name": "Gathering berries",
+      "rarity": "common"
+    },
+    {
+      "name": "Missing, there are goblin tracks",
+      "rarity": "common"
+    },
+    {
+      "name": "Sleeping and cannot be awakened",
+      "rarity": "common"
+    },
+    {
+      "name": "Rethinking their life",
+      "rarity": "common"
+    },
+    {
+      "name": "Venereal disease \ufb02are up",
+      "rarity": "common"
+    },
+    {
+      "name": "Freak armor accident",
+      "rarity": "common"
+    },
+    {
+      "name": "Got lost",
+      "rarity": "common"
+    },
+    {
+      "name": "Disappeared without a trace",
+      "rarity": "common"
+    },
+    {
+      "name": "Attending a wedding",
+      "rarity": "common"
+    },
+    {
+      "name": "Ate something funny",
+      "rarity": "common"
+    },
+    {
+      "name": "Disappeared, but their shadow remains",
+      "rarity": "common"
+    },
+    {
+      "name": "Chopping wood",
+      "rarity": "common"
+    },
+    {
+      "name": "On a religious pilgrimage",
+      "rarity": "common"
+    },
+    {
+      "name": "Freak sword accident",
+      "rarity": "common"
+    },
+    {
+      "name": "Sprayed by a skunk",
+      "rarity": "common"
+    },
+    {
+      "name": "Had to check in with Mom and Dad",
+      "rarity": "common"
+    },
+    {
+      "name": "Depressed",
+      "rarity": "common"
+    },
+    {
+      "name": "Attending funeral",
+      "rarity": "common"
+    },
+    {
+      "name": "Mother-in-law came for a visit",
+      "rarity": "common"
+    },
+    {
+      "name": "Shopping",
+      "rarity": "common"
+    },
+    {
+      "name": "Missing, there are blood stains",
+      "rarity": "common"
+    },
+    {
+      "name": "Checking out a local geological feature",
+      "rarity": "common"
+    },
+    {
+      "name": "Missing, rock with a circle carved in it is left",
+      "rarity": "common"
+    },
+    {
+      "name": "Taking a bath",
+      "rarity": "common"
+    },
+    {
+      "name": "Attending religious service",
+      "rarity": "common"
+    },
+    {
+      "name": "\u201cStupid porcupine!\u201d",
+      "rarity": "common"
+    },
+    {
+      "name": "Throw in jail",
+      "rarity": "common"
+    },
+    {
+      "name": "Last seen running away from the group",
+      "rarity": "common"
+    },
+    {
+      "name": "On a short walkabout",
+      "rarity": "common"
+    },
+    {
+      "name": "Attending a play",
+      "rarity": "common"
+    },
+    {
+      "name": "Turned into a mouse",
+      "rarity": "common"
+    },
+    {
+      "name": "Caught a cold",
+      "rarity": "common"
+    },
+    {
+      "name": "Took too many sleeping potions",
+      "rarity": "common"
+    },
+    {
+      "name": "Turned into dust and blown away",
+      "rarity": "common"
+    },
+    {
+      "name": "Needed \u201cme\u201d time",
+      "rarity": "common"
+    },
+    {
+      "name": "Working on their tan",
+      "rarity": "common"
+    },
+    {
+      "name": "Called to see the king",
+      "rarity": "common"
+    },
+    {
+      "name": "Upset stomach",
+      "rarity": "common"
+    },
+    {
+      "name": "Handling correspondence",
+      "rarity": "common"
+    },
+    {
+      "name": "Practicing origami",
+      "rarity": "common"
+    },
+    {
+      "name": "Praying",
+      "rarity": "common"
+    }
+  ]
+}

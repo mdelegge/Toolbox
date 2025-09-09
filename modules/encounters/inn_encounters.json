@@ -1,0 +1,402 @@
+{
+  "name": "Inn Encounters",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Rough-looking dwarf jumps behind the bar and grabs the till",
+      "rarity": "common"
+    },
+    {
+      "name": "A bard is performing but one patron is heckling them terribly",
+      "rarity": "common"
+    },
+    {
+      "name": "Sign: 'Humans, we don't serve your kind.'",
+      "rarity": "common"
+    },
+    {
+      "name": "Sign: 'Help wanted.'",
+      "rarity": "common"
+    },
+    {
+      "name": "Fire breaks out in the common room",
+      "rarity": "common"
+    },
+    {
+      "name": "Patron bumps into one character and then warns them to watch their step",
+      "rarity": "common"
+    },
+    {
+      "name": "Sign: 'Half-elves, we don't serve your kind.'",
+      "rarity": "common"
+    },
+    {
+      "name": "All patrons stare at the party",
+      "rarity": "common"
+    },
+    {
+      "name": "Party is told the elf in the corner bought them all drinks",
+      "rarity": "common"
+    },
+    {
+      "name": "Fire breaks out in the kitchen",
+      "rarity": "common"
+    },
+    {
+      "name": "Drunk man brags about his smoking hot fairy wife and their daughter that spins straw into gold",
+      "rarity": "common"
+    },
+    {
+      "name": "Party is told the gnome in the corner bought them all drinks",
+      "rarity": "common"
+    },
+    {
+      "name": "The party sees a pickpocket lift a man's coin purse",
+      "rarity": "common"
+    },
+    {
+      "name": "Barmaid drops a tray of drinks on the player's table creating a huge mess",
+      "rarity": "common"
+    },
+    {
+      "name": "Party is told the dwarf in the corner bought them all drinks",
+      "rarity": "common"
+    },
+    {
+      "name": "A man bursts in raving about a headless horseman chasing him down the road",
+      "rarity": "common"
+    },
+    {
+      "name": "Sign: 'Halflings, we don't serve your kind.',",
+      "rarity": "common"
+    },
+    {
+      "name": "Common room erupts into a huge brawl",
+      "rarity": "common"
+    },
+    {
+      "name": "When the party pays, the innkeeper says he can't take money from you folks",
+      "rarity": "common"
+    },
+    {
+      "name": "Drunk patron pesters the party",
+      "rarity": "common"
+    },
+    {
+      "name": "There's a man dressed in hunter's garb apparently sleeping at his table. In his hand is a strange",
+      "rarity": "common"
+    },
+    {
+      "name": "Fire breaks out in a guest room",
+      "rarity": "common"
+    },
+    {
+      "name": "Gang demands protection money from the innkeeper",
+      "rarity": "common"
+    },
+    {
+      "name": "Sign: 'No vacancy.',",
+      "rarity": "common"
+    },
+    {
+      "name": "A finely dressed elf asks if anyone is interested in a game of cards",
+      "rarity": "common"
+    },
+    {
+      "name": "A strange, tiny man is going around peeking in everyone's shoes. He seems to be looking for",
+      "rarity": "common"
+    },
+    {
+      "name": "A troupe is performing a play, the beautiful and handsome actors are enchanting",
+      "rarity": "common"
+    },
+    {
+      "name": "Sign: 'Bard Wanted.',",
+      "rarity": "common"
+    },
+    {
+      "name": "Fight breaks out on the other side of the common room",
+      "rarity": "common"
+    },
+    {
+      "name": "Guards come in and announce that mayor has ordered the inn closed",
+      "rarity": "common"
+    },
+    {
+      "name": "Innkeeper and patron get into a heated argument, it may come to blows",
+      "rarity": "common"
+    },
+    {
+      "name": "Sign: 'Out of mead.',",
+      "rarity": "common"
+    },
+    {
+      "name": "Party is told the man in the corner bought them all drinks",
+      "rarity": "common"
+    },
+    {
+      "name": "Innkeeper demands triple the price for everything the party orders",
+      "rarity": "common"
+    },
+    {
+      "name": "Sign: 'Bouncer wanted.',",
+      "rarity": "common"
+    },
+    {
+      "name": "There is a group of formidable-looking women playing cards. One of them keeps eyeing your",
+      "rarity": "common"
+    },
+    {
+      "name": "Barmaid collapses",
+      "rarity": "common"
+    },
+    {
+      "name": "A halfling seems to be having trouble lighting his pipe",
+      "rarity": "common"
+    },
+    {
+      "name": "There is an ancient woman sitting by the fire, muttering. She has a strange shard of ice in her",
+      "rarity": "common"
+    },
+    {
+      "name": "Patron hands the party a sealed letter and says to keep it safe",
+      "rarity": "common"
+    },
+    {
+      "name": "A woman with a strange hat is approaching every table and asking if they are adventurers for hire",
+      "rarity": "common"
+    },
+    {
+      "name": "A woman asks the party if they would like to buy some 'sweet leaf'",
+      "rarity": "common"
+    },
+    {
+      "name": "One character's chair breaks",
+      "rarity": "common"
+    },
+    {
+      "name": "A rather ugly young maiden bursts into the room yelling in a strange tongue. Shortly after,",
+      "rarity": "common"
+    },
+    {
+      "name": "Patron asks the party for a gold piece",
+      "rarity": "common"
+    },
+    {
+      "name": "The bard stops playing and runs out the door",
+      "rarity": "common"
+    },
+    {
+      "name": "Group of halflings begin singing loudly",
+      "rarity": "common"
+    },
+    {
+      "name": "Sign: 'Inn for sale.',",
+      "rarity": "common"
+    },
+    {
+      "name": "A knife thrower is performing, asks for a volunteer",
+      "rarity": "common"
+    },
+    {
+      "name": "Sign: 'Cook wanted.',",
+      "rarity": "common"
+    },
+    {
+      "name": "There is a child going about serving tables. She keeps her head down and averts her eyes when she sees the party",
+      "rarity": "common"
+    },
+    {
+      "name": "A fabulously wealthy (but hammered) man gets his hand stuck in a wine barrel",
+      "rarity": "common"
+    },
+    {
+      "name": "A bard asks the party if they happen to have a lutestring",
+      "rarity": "common"
+    },
+    {
+      "name": "A wizard is sitting at the bar. He is in a heated discussion with a tiny, wispy fairy perched upon",
+      "rarity": "common"
+    },
+    {
+      "name": "Fight breaks out next to the party",
+      "rarity": "common"
+    },
+    {
+      "name": "Drunk patron passes out on the party's table",
+      "rarity": "common"
+    },
+    {
+      "name": "A young lady in a flamboyant costume is speaking to a mysterious pale-skinned man. She is",
+      "rarity": "common"
+    },
+    {
+      "name": "A man in pied attire saunters into the room and announces the upcoming dance competition.",
+      "rarity": "common"
+    },
+    {
+      "name": "The innkeeper puts a bottle of wine on the party's table and says this one's on the house and",
+      "rarity": "common"
+    },
+    {
+      "name": "Sign: 'Elves, we don't serve your kind.',",
+      "rarity": "common"
+    },
+    {
+      "name": "A headless chicken runs through the common room and then collapses",
+      "rarity": "common"
+    },
+    {
+      "name": "Two patrons draw swords and face each other",
+      "rarity": "common"
+    },
+    {
+      "name": "A sword swallower is performing",
+      "rarity": "common"
+    },
+    {
+      "name": "Innkeeper collapses",
+      "rarity": "common"
+    },
+    {
+      "name": "Eight angry gnomes enter and appear to be looking for someone",
+      "rarity": "common"
+    },
+    {
+      "name": "Sign: 'Dwarves, we don't serve your kind.',",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblin war party bursts in (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sign: 'Half-orcs, we don't serve your kind.',",
+      "rarity": "common"
+    },
+    {
+      "name": "A dwarf keeps staring at the party",
+      "rarity": "common"
+    },
+    {
+      "name": "Party finds a child hiding under their table",
+      "rarity": "common"
+    },
+    {
+      "name": "Huge rough-looking human announces, 'Every bard in here needs to leave now.'",
+      "rarity": "common"
+    },
+    {
+      "name": "The party notices a dirty child stealing bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Innkeeper asks the party to deliver a package",
+      "rarity": "common"
+    },
+    {
+      "name": "A man bursts in and demands if anyone has seen a person matching this description. He",
+      "rarity": "common"
+    },
+    {
+      "name": "Several loud crashes shake the inn, they came from the kitchen",
+      "rarity": "common"
+    },
+    {
+      "name": "Sign: 'Gnomes, we don't serve your kind.',",
+      "rarity": "common"
+    },
+    {
+      "name": "An elf keeps staring at the party",
+      "rarity": "common"
+    },
+    {
+      "name": "Seemly drunk patron slips a map into one character's hand",
+      "rarity": "common"
+    },
+    {
+      "name": "In a dark corner, a man is sitting alone with his face buried in his hands. Before him is a book.",
+      "rarity": "common"
+    },
+    {
+      "name": "Sign: 'Out of mutton.',",
+      "rarity": "common"
+    },
+    {
+      "name": "Party is told the woman in the corner bought them all drinks",
+      "rarity": "common"
+    },
+    {
+      "name": "Barmaid slips a character a note, it says meet me in the wine cellar",
+      "rarity": "common"
+    },
+    {
+      "name": "Innkeeper asks for help gathering firewood",
+      "rarity": "common"
+    },
+    {
+      "name": "Stable boy runs in and says someone is stealing the horses",
+      "rarity": "common"
+    },
+    {
+      "name": "A man weeps uncontrollably at the bar",
+      "rarity": "common"
+    },
+    {
+      "name": "A woman asks the party if they have seen her daughter",
+      "rarity": "common"
+    },
+    {
+      "name": "A wizard shouts at the innkeeper, 'You'll rue this day!' as he storms out",
+      "rarity": "common"
+    },
+    {
+      "name": "Cook shouts, 'I quit!' and storms out",
+      "rarity": "common"
+    },
+    {
+      "name": "When the party enters, everyone else leaves",
+      "rarity": "common"
+    },
+    {
+      "name": "Heated argument at next to the party",
+      "rarity": "common"
+    },
+    {
+      "name": "As a character sits down, they notice a bundle of letters in the chair",
+      "rarity": "common"
+    },
+    {
+      "name": "A frightened horse crashes through the common room",
+      "rarity": "common"
+    },
+    {
+      "name": "Barmaid spills drinks on a nearby table, the patrons begin yelling at her",
+      "rarity": "common"
+    },
+    {
+      "name": "Rocious game of darts involving most in the common room",
+      "rarity": "common"
+    },
+    {
+      "name": "A rock flies through a window, shattering it. There is a note tied to it",
+      "rarity": "common"
+    },
+    {
+      "name": "Innkeeper announces the inn will close permanently tomorrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Bare-knuckle fights are being held in the common room",
+      "rarity": "common"
+    },
+    {
+      "name": "Fire breaks out in wine cellar",
+      "rarity": "common"
+    },
+    {
+      "name": "Party notices a single gold piece under the table",
+      "rarity": "common"
+    }
+  ]
+}

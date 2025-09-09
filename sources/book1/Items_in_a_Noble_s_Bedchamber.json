@@ -1,0 +1,406 @@
+{
+  "name": "Items in a Noble\u2019s Bedchamber",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Family sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Sapphire ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Chamber pot",
+      "rarity": "common"
+    },
+    {
+      "name": "Family Crest",
+      "rarity": "common"
+    },
+    {
+      "name": "Suit of Armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Portrait of Ancestor",
+      "rarity": "common"
+    },
+    {
+      "name": "Signet ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Ornate chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Large wardrobe",
+      "rarity": "common"
+    },
+    {
+      "name": "Emerald ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Locked door",
+      "rarity": "common"
+    },
+    {
+      "name": "Mounted \ufb01sh",
+      "rarity": "common"
+    },
+    {
+      "name": "Stu\ufb00ed Minotaur",
+      "rarity": "common"
+    },
+    {
+      "name": "Inkwell",
+      "rarity": "common"
+    },
+    {
+      "name": "Lavish chair",
+      "rarity": "common"
+    },
+    {
+      "name": "Combination to safe",
+      "rarity": "common"
+    },
+    {
+      "name": "Self portrait",
+      "rarity": "common"
+    },
+    {
+      "name": "Undergarments",
+      "rarity": "common"
+    },
+    {
+      "name": "Silk pantaloons",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Urn",
+      "rarity": "common"
+    },
+    {
+      "name": "Painting of noble lineage",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of local area",
+      "rarity": "common"
+    },
+    {
+      "name": "Shelf of hunting trophies",
+      "rarity": "common"
+    },
+    {
+      "name": "Noble\u2019s Journal",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold statuette",
+      "rarity": "common"
+    },
+    {
+      "name": "Decorative Axe",
+      "rarity": "common"
+    },
+    {
+      "name": "Large Ruby",
+      "rarity": "common"
+    },
+    {
+      "name": "Stu\ufb00ed falcon",
+      "rarity": "common"
+    },
+    {
+      "name": "Bundle of love letters",
+      "rarity": "common"
+    },
+    {
+      "name": "Platter of exotic fruits",
+      "rarity": "common"
+    },
+    {
+      "name": "Small safe",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver bathtub",
+      "rarity": "common"
+    },
+    {
+      "name": "Burning letters",
+      "rarity": "common"
+    },
+    {
+      "name": "Large bed with curtains",
+      "rarity": "common"
+    },
+    {
+      "name": "Family Shield",
+      "rarity": "common"
+    },
+    {
+      "name": "Painting of noble\u2019s home",
+      "rarity": "common"
+    },
+    {
+      "name": "Diamond ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Painting of beautiful woman",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold urn",
+      "rarity": "common"
+    },
+    {
+      "name": "Stu\ufb00ed wolf",
+      "rarity": "common"
+    },
+    {
+      "name": "Large Emerald",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold trimmed desk",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather bindings",
+      "rarity": "common"
+    },
+    {
+      "name": "Unopened letter",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver trimmed robes",
+      "rarity": "common"
+    },
+    {
+      "name": "Model ship",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold trimmed fan",
+      "rarity": "common"
+    },
+    {
+      "name": "Exquisite rug",
+      "rarity": "common"
+    },
+    {
+      "name": "Painting easel",
+      "rarity": "common"
+    },
+    {
+      "name": "Mortar and pestle",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold animal skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver trimmed fan",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottle of rare liquor",
+      "rarity": "common"
+    },
+    {
+      "name": "Coin purse",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Locket",
+      "rarity": "common"
+    },
+    {
+      "name": "Decorative armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Family axe",
+      "rarity": "common"
+    },
+    {
+      "name": "Scepter",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver rose",
+      "rarity": "common"
+    },
+    {
+      "name": "Bookshelf of family lineage",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancestor\u2019s spear",
+      "rarity": "common"
+    },
+    {
+      "name": "Exquisite vase",
+      "rarity": "common"
+    },
+    {
+      "name": "Statue of noble",
+      "rarity": "common"
+    },
+    {
+      "name": "Pearl necklace",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold bathtub",
+      "rarity": "common"
+    },
+    {
+      "name": "Con\ufb01scated journal",
+      "rarity": "common"
+    },
+    {
+      "name": "Painting of dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold lion statuette",
+      "rarity": "common"
+    },
+    {
+      "name": "Shrine to a God",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of neighboring city",
+      "rarity": "common"
+    },
+    {
+      "name": "List of \u201crivals\u201d",
+      "rarity": "common"
+    },
+    {
+      "name": "Plan to usurp",
+      "rarity": "common"
+    },
+    {
+      "name": "Large sapphire",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruby ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold locket",
+      "rarity": "common"
+    },
+    {
+      "name": "Embroidered pajamas",
+      "rarity": "common"
+    },
+    {
+      "name": "Expensive wine",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden rose",
+      "rarity": "common"
+    },
+    {
+      "name": "Wedding attire",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold trimmed clothing",
+      "rarity": "common"
+    },
+    {
+      "name": "Decorative sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Hidden Vault",
+      "rarity": "common"
+    },
+    {
+      "name": "Mounted deer head",
+      "rarity": "common"
+    },
+    {
+      "name": "Alchemical notes",
+      "rarity": "common"
+    },
+    {
+      "name": "Enchanted ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Slippers",
+      "rarity": "common"
+    },
+    {
+      "name": "Door to balcony",
+      "rarity": "common"
+    },
+    {
+      "name": "Caged falcon",
+      "rarity": "common"
+    },
+    {
+      "name": "Hunting bow",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden dragon skull (ruby eyes)",
+      "rarity": "common"
+    },
+    {
+      "name": "Statue of ancestor",
+      "rarity": "common"
+    },
+    {
+      "name": "Jewelry chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Large safe",
+      "rarity": "common"
+    },
+    {
+      "name": "Discarded clothing",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancestral Sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Shrine to ancestors",
+      "rarity": "common"
+    },
+    {
+      "name": "Key to vault",
+      "rarity": "common"
+    },
+    {
+      "name": "Assassin",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver dragon skull (sapphire eyes)",
+      "rarity": "common"
+    },
+    {
+      "name": "Noble\u2019s corpse",
+      "rarity": "common"
+    }
+  ]
+}

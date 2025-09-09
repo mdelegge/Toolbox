@@ -1,0 +1,402 @@
+{
+  "name": "Underground Encounters",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Dead gnome",
+      "rarity": "common"
+    },
+    {
+      "name": "Dark elves (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Spider centaur leading a pack of spiders",
+      "rarity": "common"
+    },
+    {
+      "name": "Kobolds (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Small hole in the wall",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant worms (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Talking mushroom",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarf carrying a bag of gems",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant spider in its lair",
+      "rarity": "common"
+    },
+    {
+      "name": "Pile of dead dwarf bodies (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Monopods (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Frightened man running for his life",
+      "rarity": "common"
+    },
+    {
+      "name": "Toxic mushroom in front of a narrow tunnel",
+      "rarity": "common"
+    },
+    {
+      "name": "Dissonant music coming from a nearby cave",
+      "rarity": "common"
+    },
+    {
+      "name": "Gnomish hunter",
+      "rarity": "common"
+    },
+    {
+      "name": "Bluecaps (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Curious, friendly goblin",
+      "rarity": "common"
+    },
+    {
+      "name": "Large, seemingly bottomless pit",
+      "rarity": "common"
+    },
+    {
+      "name": "Spider centaur ranting furiously",
+      "rarity": "common"
+    },
+    {
+      "name": "Unconscious dark elf",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden door in the wall of a cave",
+      "rarity": "common"
+    },
+    {
+      "name": "Dark elves (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bright flash of light",
+      "rarity": "common"
+    },
+    {
+      "name": "Woman looking for her lost caravan",
+      "rarity": "common"
+    },
+    {
+      "name": "Frantic writings etched into the wall",
+      "rarity": "common"
+    },
+    {
+      "name": "Active gnomish mining operation",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblins (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gnome wizard sculpting a clay golem",
+      "rarity": "common"
+    },
+    {
+      "name": "Lost trader",
+      "rarity": "common"
+    },
+    {
+      "name": "Skeletons (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Woman running and shrieking",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden trapdoor on the ground",
+      "rarity": "common"
+    },
+    {
+      "name": "Distant howls echoing through the deep",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarf looking for precious stones",
+      "rarity": "common"
+    },
+    {
+      "name": "Massive spider webs",
+      "rarity": "common"
+    },
+    {
+      "name": "Dark elves (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Trail of blood leading up the wall and ceiling",
+      "rarity": "common"
+    },
+    {
+      "name": "Kobolds (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblins (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gnomes transporting a cart of rubies",
+      "rarity": "common"
+    },
+    {
+      "name": "Impenetrable darkness",
+      "rarity": "common"
+    },
+    {
+      "name": "Troll",
+      "rarity": "common"
+    },
+    {
+      "name": "Thousands of eyes peering from darkness",
+      "rarity": "common"
+    },
+    {
+      "name": "Numerous toxic mushrooms",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruins of an old dark elf prison",
+      "rarity": "common"
+    },
+    {
+      "name": "Man driven mad by the darkness",
+      "rarity": "common"
+    },
+    {
+      "name": "Toxic gasses leaking from the walls",
+      "rarity": "common"
+    },
+    {
+      "name": "Tunnel full of rock spikes",
+      "rarity": "common"
+    },
+    {
+      "name": "Dark elf battling a giant ant",
+      "rarity": "common"
+    },
+    {
+      "name": "Screams and shrieks nearby",
+      "rarity": "common"
+    },
+    {
+      "name": "Bulbous rock-like creature tunneling",
+      "rarity": "common"
+    },
+    {
+      "name": "Talking statue",
+      "rarity": "common"
+    },
+    {
+      "name": "Ghost of a girl looking for her parents",
+      "rarity": "common"
+    },
+    {
+      "name": "Massive rope hanging from the ceiling",
+      "rarity": "common"
+    },
+    {
+      "name": "Large pit filled to the brim with bones",
+      "rarity": "common"
+    },
+    {
+      "name": "Dark elves (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Deep scratches on the walls and floor",
+      "rarity": "common"
+    },
+    {
+      "name": "Seemingly abandoned mining tunnels",
+      "rarity": "common"
+    },
+    {
+      "name": "Injured gnome",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant worms (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ground and walls begin shifting",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarf fighting a dark elf war party",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon turned to stone",
+      "rarity": "common"
+    },
+    {
+      "name": "Back entrance to a dungeon",
+      "rarity": "common"
+    },
+    {
+      "name": "Chest in the middle of a large cavern",
+      "rarity": "common"
+    },
+    {
+      "name": "Sleeping dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "Bluecaps (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Unconscious dwarf",
+      "rarity": "common"
+    },
+    {
+      "name": "Trolls (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Large stone doorway",
+      "rarity": "common"
+    },
+    {
+      "name": "Toxic dust in the air",
+      "rarity": "common"
+    },
+    {
+      "name": "Statue of a massive spider-like queen",
+      "rarity": "common"
+    },
+    {
+      "name": "Kobolds (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wall paintings of spider centaurs fighting",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarves mining for gemstones",
+      "rarity": "common"
+    },
+    {
+      "name": "Natural cave-in",
+      "rarity": "common"
+    },
+    {
+      "name": "Mysterious lever on the wall",
+      "rarity": "common"
+    },
+    {
+      "name": "Talking giant spider",
+      "rarity": "common"
+    },
+    {
+      "name": "Mad wizard's laboratory",
+      "rarity": "common"
+    },
+    {
+      "name": "Orge",
+      "rarity": "common"
+    },
+    {
+      "name": "Cavern filled with billions of tiny spiders",
+      "rarity": "common"
+    },
+    {
+      "name": "Foul stench from a narrow tunnel",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant worms (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Pile of dead adventurers (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruins of an ancient city",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant",
+      "rarity": "common"
+    },
+    {
+      "name": "Adventurers who are shells of what they once were",
+      "rarity": "common"
+    },
+    {
+      "name": "Kobolds (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Well-kept house and yard in a large cavern",
+      "rarity": "common"
+    },
+    {
+      "name": "Treasure hunter seeking allies",
+      "rarity": "common"
+    },
+    {
+      "name": "Lost adventuring party looking for a map",
+      "rarity": "common"
+    },
+    {
+      "name": "Light barely visible from a far away tunnel",
+      "rarity": "common"
+    },
+    {
+      "name": "Dark elves (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Drums echoing throughout the deep",
+      "rarity": "common"
+    },
+    {
+      "name": "Cheerful man says he looking for a city",
+      "rarity": "common"
+    },
+    {
+      "name": "Monopods (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hand and footholds leading up a wall",
+      "rarity": "common"
+    },
+    {
+      "name": "Entrance to a huge dark elf city",
+      "rarity": "common"
+    },
+    {
+      "name": "Zombies (1D100)",
+      "rarity": "common"
+    }
+  ]
+}

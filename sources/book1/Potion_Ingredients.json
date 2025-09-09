@@ -1,0 +1,406 @@
+{
+  "name": "Potion Ingredients",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Toe of frog",
+      "rarity": "common"
+    },
+    {
+      "name": "Wheat",
+      "rarity": "common"
+    },
+    {
+      "name": "Oak Maze Gill",
+      "rarity": "common"
+    },
+    {
+      "name": "Butter\ufb02y wings",
+      "rarity": "common"
+    },
+    {
+      "name": "Barley",
+      "rarity": "common"
+    },
+    {
+      "name": "Bone of cat",
+      "rarity": "common"
+    },
+    {
+      "name": "Baies rose",
+      "rarity": "common"
+    },
+    {
+      "name": "Salt",
+      "rarity": "common"
+    },
+    {
+      "name": "Tail of squirrel",
+      "rarity": "common"
+    },
+    {
+      "name": "Blood of man",
+      "rarity": "common"
+    },
+    {
+      "name": "Veiled Panus",
+      "rarity": "common"
+    },
+    {
+      "name": "Sa\ufb00ron",
+      "rarity": "common"
+    },
+    {
+      "name": "Salamander skin (dried)",
+      "rarity": "common"
+    },
+    {
+      "name": "Holly berries",
+      "rarity": "common"
+    },
+    {
+      "name": "Dandelion seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Ethanol",
+      "rarity": "common"
+    },
+    {
+      "name": "Wormwood",
+      "rarity": "common"
+    },
+    {
+      "name": "Wool of bat",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear claw",
+      "rarity": "common"
+    },
+    {
+      "name": "Sumac (dried leaves)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mandrake",
+      "rarity": "common"
+    },
+    {
+      "name": "Eye of newt",
+      "rarity": "common"
+    },
+    {
+      "name": "Sugar",
+      "rarity": "common"
+    },
+    {
+      "name": "Beak of dove",
+      "rarity": "common"
+    },
+    {
+      "name": "Lamb\u2019s ear (dried leaves)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lavender",
+      "rarity": "common"
+    },
+    {
+      "name": "Poppy seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Furitake",
+      "rarity": "common"
+    },
+    {
+      "name": "Tree moss",
+      "rarity": "common"
+    },
+    {
+      "name": "Bone powder",
+      "rarity": "common"
+    },
+    {
+      "name": "Ginger root",
+      "rarity": "common"
+    },
+    {
+      "name": "Crow feather",
+      "rarity": "common"
+    },
+    {
+      "name": "Artist\u2019s Conk",
+      "rarity": "common"
+    },
+    {
+      "name": "Horse tail hair",
+      "rarity": "common"
+    },
+    {
+      "name": "Tooth of wolf",
+      "rarity": "common"
+    },
+    {
+      "name": "Liverwort",
+      "rarity": "common"
+    },
+    {
+      "name": "Grasshopper spit",
+      "rarity": "common"
+    },
+    {
+      "name": "Hops",
+      "rarity": "common"
+    },
+    {
+      "name": "Milk of hairless cat",
+      "rarity": "common"
+    },
+    {
+      "name": "Hen of the Woods",
+      "rarity": "common"
+    },
+    {
+      "name": "Nightshade",
+      "rarity": "common"
+    },
+    {
+      "name": "Spider\u2019s venom",
+      "rarity": "common"
+    },
+    {
+      "name": "Vinegar",
+      "rarity": "common"
+    },
+    {
+      "name": "Pearl powder",
+      "rarity": "common"
+    },
+    {
+      "name": "Chicken tooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Terebinth oil",
+      "rarity": "common"
+    },
+    {
+      "name": "Red Cushion Hypoxylon",
+      "rarity": "common"
+    },
+    {
+      "name": "Tongue of dog",
+      "rarity": "common"
+    },
+    {
+      "name": "Oil of Spikenard",
+      "rarity": "common"
+    },
+    {
+      "name": "Cat\u2019s eye",
+      "rarity": "common"
+    },
+    {
+      "name": "Myrrh",
+      "rarity": "common"
+    },
+    {
+      "name": "Pumpkin seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Pig\u2019s foot",
+      "rarity": "common"
+    },
+    {
+      "name": "Blood of woman",
+      "rarity": "common"
+    },
+    {
+      "name": "Blind worm\u2019s venom",
+      "rarity": "common"
+    },
+    {
+      "name": "Belladonna",
+      "rarity": "common"
+    },
+    {
+      "name": "Billy goat whiskers",
+      "rarity": "common"
+    },
+    {
+      "name": "Hair of a princess",
+      "rarity": "common"
+    },
+    {
+      "name": "Toadstool",
+      "rarity": "common"
+    },
+    {
+      "name": "Violet Toothed Polypore",
+      "rarity": "common"
+    },
+    {
+      "name": "Rooster\u2019s spur",
+      "rarity": "common"
+    },
+    {
+      "name": "Tobacco leaf",
+      "rarity": "common"
+    },
+    {
+      "name": "Bark of oak",
+      "rarity": "common"
+    },
+    {
+      "name": "Trembling Merulius",
+      "rarity": "common"
+    },
+    {
+      "name": "Persian rose",
+      "rarity": "common"
+    },
+    {
+      "name": "Rabbit\u2019s foot",
+      "rarity": "common"
+    },
+    {
+      "name": "Octopus ink",
+      "rarity": "common"
+    },
+    {
+      "name": "Pelt of mink",
+      "rarity": "common"
+    },
+    {
+      "name": "Fennel pollen",
+      "rarity": "common"
+    },
+    {
+      "name": "Wasp stinger",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf saliva",
+      "rarity": "common"
+    },
+    {
+      "name": "Chicken liver",
+      "rarity": "common"
+    },
+    {
+      "name": "Thorn of rose",
+      "rarity": "common"
+    },
+    {
+      "name": "Adder\u2019s vemon",
+      "rarity": "common"
+    },
+    {
+      "name": "Buttercup squash",
+      "rarity": "common"
+    },
+    {
+      "name": "Styrax",
+      "rarity": "common"
+    },
+    {
+      "name": "Hemlock root",
+      "rarity": "common"
+    },
+    {
+      "name": "Calamus root",
+      "rarity": "common"
+    },
+    {
+      "name": "Frankincense",
+      "rarity": "common"
+    },
+    {
+      "name": "Blood of rat",
+      "rarity": "common"
+    },
+    {
+      "name": "Nose of fox",
+      "rarity": "common"
+    },
+    {
+      "name": "Bumblebee wings",
+      "rarity": "common"
+    },
+    {
+      "name": "Gall",
+      "rarity": "common"
+    },
+    {
+      "name": "Labdanum",
+      "rarity": "common"
+    },
+    {
+      "name": "Sheep bladder",
+      "rarity": "common"
+    },
+    {
+      "name": "Foxglove",
+      "rarity": "common"
+    },
+    {
+      "name": "Spider\u2019s silk",
+      "rarity": "common"
+    },
+    {
+      "name": "Raven\u2019s claw",
+      "rarity": "common"
+    },
+    {
+      "name": "Wood Clitocybe",
+      "rarity": "common"
+    },
+    {
+      "name": "Goat\u2019s milk",
+      "rarity": "common"
+    },
+    {
+      "name": "Rose petals",
+      "rarity": "common"
+    },
+    {
+      "name": "Renaissance Stardust",
+      "rarity": "common"
+    },
+    {
+      "name": "Caput Mortuum",
+      "rarity": "common"
+    },
+    {
+      "name": "Owl\u2019s wing",
+      "rarity": "common"
+    },
+    {
+      "name": "Lizard tail",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon\ufb02y eggs",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon\u2019s scale",
+      "rarity": "common"
+    },
+    {
+      "name": "Grains of paradise",
+      "rarity": "common"
+    },
+    {
+      "name": "Alabaster",
+      "rarity": "common"
+    },
+    {
+      "name": "Ambergris",
+      "rarity": "common"
+    }
+  ]
+}

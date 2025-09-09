@@ -1,0 +1,402 @@
+{
+  "name": "Items in a Warehouse",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Empty cages (1d8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Kegs of mead (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Caged wolf",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden bar stools (1d10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Casks of wine (1d12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Stu\ufb00ed Owlbear",
+      "rarity": "common"
+    },
+    {
+      "name": "Baskets of carrots (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Cauldrons (1d6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate marked \u201cfragile\u201d",
+      "rarity": "common"
+    },
+    {
+      "name": "Unused co\ufb03n",
+      "rarity": "common"
+    },
+    {
+      "name": "Foreign spices (worth 1d10 gold)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of swords (1d6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of leather armor (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ornate chest (locked)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bolts of satin (1d8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of blacksmithing tools (1d8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Amateur artist\u2019s paintings (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Old mounted wolf head",
+      "rarity": "common"
+    },
+    {
+      "name": "Cartons of eggs (1d8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Jars of pickles (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of local area",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of steel ingots (1d6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of raw iron ore (1d12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of mining supplies (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Jars of marbles (1d20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of \ufb01shing gear (1d6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of painting supplies (1d12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Timber beams (30, oak, 6\u201dx6\u201dx20\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Caged Owlbear",
+      "rarity": "common"
+    },
+    {
+      "name": "Bolts of cotton cloth (1d8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of alchemy tools (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Paintings (1d4, worth 1d12 silver each)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hired assassin (attacks party)",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken cage",
+      "rarity": "common"
+    },
+    {
+      "name": "Cooking pots (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Extravagant bed frame",
+      "rarity": "common"
+    },
+    {
+      "name": "Large decorative egg (silver with sapphires)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of dried meat (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bolts of velvet (1d8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of goldsmith tools (1d6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Baskets of apples (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Kegs of ale (1d10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted chest (locked)",
+      "rarity": "common"
+    },
+    {
+      "name": "Small pouch of diamonds (1d6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone bust (local ruler)",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrel of mushrooms",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate of goat horns",
+      "rarity": "common"
+    },
+    {
+      "name": "Ornate chairs (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead body (crushed by fallen crates)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of wool blankets (1d6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Master painter\u2019s paintings (1d8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of iron ingots (1d8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Small pouch of sapphires (1d8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of coal (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Large decorative egg (gold with rubies)",
+      "rarity": "common"
+    },
+    {
+      "name": "Small jewelry chest (empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of vegetable seeds (1d10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of parchment (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Caged geese (1d8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of furs (1d6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of tanned hides (1d8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Jars of pickled frog legs (1d20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Large mattress",
+      "rarity": "common"
+    },
+    {
+      "name": "Bolts of velvet (1d20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Expensive ball gowns (1d8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate of exotic spices (1d100 gold)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of leather boots (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Health potions (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crumpled note",
+      "rarity": "common"
+    },
+    {
+      "name": "Logs (20, cedar, 1\u2019x10\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Small pouch of emeralds (1d10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Old throne",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of doctors supplies (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Woven baskets (1d20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Panes of glass (1d8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Small pouch of rubies (1d20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Casks of wine (1d8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wagon of soil",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate marked with coat of arms",
+      "rarity": "common"
+    },
+    {
+      "name": "Baskets of apples (1d6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bar stools (3d10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate of ivory (1d10 pieces)",
+      "rarity": "common"
+    },
+    {
+      "name": "Granite slab",
+      "rarity": "common"
+    },
+    {
+      "name": "Large stone statue (ancient ruler)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden bust (sea god)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of seashells (1d8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of farming tools (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Anvil",
+      "rarity": "common"
+    },
+    {
+      "name": "Anchors (1d6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of split \ufb01rewood (1d20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Large decorative egg (bronze with emeralds)",
+      "rarity": "common"
+    },
+    {
+      "name": "Small chest of assorted jewelry",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty crates (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Co\ufb03n(in use)",
+      "rarity": "common"
+    },
+    {
+      "name": "Boxes of alchemical reagents (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Custom sign (\u201cThe Lazy Sow Inn\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Extravagant chair",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate of silver ingots (1d100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate of gold ingots (1d20)",
+      "rarity": "common"
+    }
+  ]
+}

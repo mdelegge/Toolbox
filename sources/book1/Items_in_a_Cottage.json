@@ -1,0 +1,406 @@
+{
+  "name": "Items in a Cottage",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Rodent droppings",
+      "rarity": "common"
+    },
+    {
+      "name": "Mushrooms (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Deer pelt",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken longbow",
+      "rarity": "common"
+    },
+    {
+      "name": "Boiling soup",
+      "rarity": "common"
+    },
+    {
+      "name": "Freshly picked \ufb02owers",
+      "rarity": "common"
+    },
+    {
+      "name": "Carrots (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dried herbs",
+      "rarity": "common"
+    },
+    {
+      "name": "Basket of rotten vegetables",
+      "rarity": "common"
+    },
+    {
+      "name": "Fresh corpse",
+      "rarity": "common"
+    },
+    {
+      "name": "Single rose",
+      "rarity": "common"
+    },
+    {
+      "name": "Fine cloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Beer mug",
+      "rarity": "common"
+    },
+    {
+      "name": "Dying \ufb01re",
+      "rarity": "common"
+    },
+    {
+      "name": "Lone hunter",
+      "rarity": "common"
+    },
+    {
+      "name": "Melons 1D6",
+      "rarity": "common"
+    },
+    {
+      "name": "A magic mirror",
+      "rarity": "common"
+    },
+    {
+      "name": "Completely empty",
+      "rarity": "common"
+    },
+    {
+      "name": "Freshly baked apple pie",
+      "rarity": "common"
+    },
+    {
+      "name": "Mounted goblin head",
+      "rarity": "common"
+    },
+    {
+      "name": "Stu\ufb00ed bear",
+      "rarity": "common"
+    },
+    {
+      "name": "Bloodstains",
+      "rarity": "common"
+    },
+    {
+      "name": "Partially sewn dress",
+      "rarity": "common"
+    },
+    {
+      "name": "Recipe for hangover elixir",
+      "rarity": "common"
+    },
+    {
+      "name": "Hermit (unintelligible)",
+      "rarity": "common"
+    },
+    {
+      "name": "Intoxicating smell",
+      "rarity": "common"
+    },
+    {
+      "name": "Child\u2019s skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Unsent love letter",
+      "rarity": "common"
+    },
+    {
+      "name": "Un\ufb01nished meal",
+      "rarity": "common"
+    },
+    {
+      "name": "Fishing gear",
+      "rarity": "common"
+    },
+    {
+      "name": "Hunters (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken rocking chair",
+      "rarity": "common"
+    },
+    {
+      "name": "Hatch in the \ufb02oor",
+      "rarity": "common"
+    },
+    {
+      "name": "Crystal ball",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty cauldron",
+      "rarity": "common"
+    },
+    {
+      "name": "Adventurer\u2019s journal",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken table",
+      "rarity": "common"
+    },
+    {
+      "name": "Fresh loaf of bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Apples (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bucket of lard",
+      "rarity": "common"
+    },
+    {
+      "name": "Lynched man",
+      "rarity": "common"
+    },
+    {
+      "name": "Hot cider",
+      "rarity": "common"
+    },
+    {
+      "name": "Kegs of ale (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead rodents (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lute",
+      "rarity": "common"
+    },
+    {
+      "name": "Fresh raspberries",
+      "rarity": "common"
+    },
+    {
+      "name": "Romantic dinner for two",
+      "rarity": "common"
+    },
+    {
+      "name": "Torn up letter",
+      "rarity": "common"
+    },
+    {
+      "name": "Carrots (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Spiders",
+      "rarity": "common"
+    },
+    {
+      "name": "Lukewarm tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Bundle of \ufb01rewood",
+      "rarity": "common"
+    },
+    {
+      "name": "Rotten apples (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Book about plants",
+      "rarity": "common"
+    },
+    {
+      "name": "Mounted deer head",
+      "rarity": "common"
+    },
+    {
+      "name": "Animal cage",
+      "rarity": "common"
+    },
+    {
+      "name": "Fresh blueberries",
+      "rarity": "common"
+    },
+    {
+      "name": "Moldy raspberries",
+      "rarity": "common"
+    },
+    {
+      "name": "Incense",
+      "rarity": "common"
+    },
+    {
+      "name": "Clothesline",
+      "rarity": "common"
+    },
+    {
+      "name": "Dried chicken feet",
+      "rarity": "common"
+    },
+    {
+      "name": "Jar of eyes",
+      "rarity": "common"
+    },
+    {
+      "name": "Freshly brewed green tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Blood soaked journal",
+      "rarity": "common"
+    },
+    {
+      "name": "Gran\u2019s recipe book",
+      "rarity": "common"
+    },
+    {
+      "name": "Spindle",
+      "rarity": "common"
+    },
+    {
+      "name": "Bundles of cloth (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf pelt",
+      "rarity": "common"
+    },
+    {
+      "name": "Tattered old cloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Key ring (1D12 keys)",
+      "rarity": "common"
+    },
+    {
+      "name": "Locked cupboard",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Injured hunter",
+      "rarity": "common"
+    },
+    {
+      "name": "Water bucket",
+      "rarity": "common"
+    },
+    {
+      "name": "Lye soap",
+      "rarity": "common"
+    },
+    {
+      "name": "Moldy walls",
+      "rarity": "common"
+    },
+    {
+      "name": "Foreign spices",
+      "rarity": "common"
+    },
+    {
+      "name": "Maps of local area",
+      "rarity": "common"
+    },
+    {
+      "name": "Fresh herbs",
+      "rarity": "common"
+    },
+    {
+      "name": "Moldy blueberries",
+      "rarity": "common"
+    },
+    {
+      "name": "Tomatoes (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Potatoes (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Turnips (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Basket of wilted \ufb02owers",
+      "rarity": "common"
+    },
+    {
+      "name": "Torn up \ufb02oor boards",
+      "rarity": "common"
+    },
+    {
+      "name": "Shrine to a god",
+      "rarity": "common"
+    },
+    {
+      "name": "Baked beans",
+      "rarity": "common"
+    },
+    {
+      "name": "Needle and thread",
+      "rarity": "common"
+    },
+    {
+      "name": "Hooded cloak caked in mud",
+      "rarity": "common"
+    },
+    {
+      "name": "Old bear trap",
+      "rarity": "common"
+    },
+    {
+      "name": "Smoking pipe",
+      "rarity": "common"
+    },
+    {
+      "name": "Longbottom leaf (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Old rocking chair",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken bed",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear skin rug",
+      "rarity": "common"
+    },
+    {
+      "name": "Butter churn",
+      "rarity": "common"
+    },
+    {
+      "name": "Goat\u2019s milk",
+      "rarity": "common"
+    },
+    {
+      "name": "Whistling tea kettle",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken window pane",
+      "rarity": "common"
+    },
+    {
+      "name": "Family quilt",
+      "rarity": "common"
+    }
+  ]
+}

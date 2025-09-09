@@ -1,0 +1,406 @@
+{
+  "name": "Dungeon Room - Table #3",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Copper pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Holy symbol",
+      "rarity": "common"
+    },
+    {
+      "name": "Soap (half bar)",
+      "rarity": "common"
+    },
+    {
+      "name": "Colored pebbles (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Candles (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Severed human \ufb01nger",
+      "rarity": "common"
+    },
+    {
+      "name": "Chalk (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Scarecrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Handkerchief with an \u201cS\u201d on it",
+      "rarity": "common"
+    },
+    {
+      "name": "Book sealed with a wax",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger with a bone hilt",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken broom",
+      "rarity": "common"
+    },
+    {
+      "name": "Small wooden \ufb02ute",
+      "rarity": "common"
+    },
+    {
+      "name": "Beads (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken harp",
+      "rarity": "common"
+    },
+    {
+      "name": "Glass jar with an orc ear inside",
+      "rarity": "common"
+    },
+    {
+      "name": "Flask of oil",
+      "rarity": "common"
+    },
+    {
+      "name": "Chalk (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear trap",
+      "rarity": "common"
+    },
+    {
+      "name": "Chalk (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Stu\ufb00ed ox tail",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden sta\ufb00",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Chalk (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Candles (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken sta\ufb00",
+      "rarity": "common"
+    },
+    {
+      "name": "Moth-eaten jerkin",
+      "rarity": "common"
+    },
+    {
+      "name": "Colored pebbles (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Colored pebbles (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Signet ring of a missing noble",
+      "rarity": "common"
+    },
+    {
+      "name": "Lantern",
+      "rarity": "common"
+    },
+    {
+      "name": "Candles (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ripped pouch",
+      "rarity": "common"
+    },
+    {
+      "name": "Cat of nine tails",
+      "rarity": "common"
+    },
+    {
+      "name": "Beads (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bone sta\ufb00",
+      "rarity": "common"
+    },
+    {
+      "name": "Bent crowbar",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tree branch",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone basin",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken hammer",
+      "rarity": "common"
+    },
+    {
+      "name": "Stu\ufb00ed beaver tail",
+      "rarity": "common"
+    },
+    {
+      "name": "Beads (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron tongs",
+      "rarity": "common"
+    },
+    {
+      "name": "Small glass globe with a \ufb01gurine inside",
+      "rarity": "common"
+    },
+    {
+      "name": "Beads (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Colored pebbles (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted lock",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lamp",
+      "rarity": "common"
+    },
+    {
+      "name": "Piece of coal",
+      "rarity": "common"
+    },
+    {
+      "name": "Whetstone",
+      "rarity": "common"
+    },
+    {
+      "name": "Stu\ufb00ed cat",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Chalk (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken lyre",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken shovel",
+      "rarity": "common"
+    },
+    {
+      "name": "Shovel",
+      "rarity": "common"
+    },
+    {
+      "name": "Message in a bottle",
+      "rarity": "common"
+    },
+    {
+      "name": "Hammer",
+      "rarity": "common"
+    },
+    {
+      "name": "Shattered hourglass",
+      "rarity": "common"
+    },
+    {
+      "name": "Old sack",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron arm bracelet",
+      "rarity": "common"
+    },
+    {
+      "name": "Broom",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Flower in a small vase",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Beads (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken viol",
+      "rarity": "common"
+    },
+    {
+      "name": "Colored pebbles (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Small glass swan",
+      "rarity": "common"
+    },
+    {
+      "name": "Dog tooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf tooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Colored pebbles (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Clay \ufb01gurine of a warrior",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather whip",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Severed dwarf \ufb01nger",
+      "rarity": "common"
+    },
+    {
+      "name": "Small seashell",
+      "rarity": "common"
+    },
+    {
+      "name": "Pan \ufb02ute",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Snake skin (4\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Candles (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ivory sta\ufb00",
+      "rarity": "common"
+    },
+    {
+      "name": "Chalk (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Cat tooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Moldy rations",
+      "rarity": "common"
+    },
+    {
+      "name": "Beads (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Flask of holy water",
+      "rarity": "common"
+    },
+    {
+      "name": "Pouch (empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Un\ufb01nished poem on vellum",
+      "rarity": "common"
+    }
+  ]
+}

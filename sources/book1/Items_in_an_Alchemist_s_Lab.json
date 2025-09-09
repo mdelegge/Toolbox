@@ -1,0 +1,406 @@
+{
+  "name": "Items in an Alchemist\u2019s Lab",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Lead ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Lye (powder)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wax",
+      "rarity": "common"
+    },
+    {
+      "name": "Alembic",
+      "rarity": "common"
+    },
+    {
+      "name": "Astrology chart",
+      "rarity": "common"
+    },
+    {
+      "name": "Aludel",
+      "rarity": "common"
+    },
+    {
+      "name": "Blood (1 vial)",
+      "rarity": "common"
+    },
+    {
+      "name": "Athanor",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Balance",
+      "rarity": "common"
+    },
+    {
+      "name": "Manganese ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Tungsten ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Quicksilver ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Beaker",
+      "rarity": "common"
+    },
+    {
+      "name": "Quartz crystals",
+      "rarity": "common"
+    },
+    {
+      "name": "Electrum ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Burette",
+      "rarity": "common"
+    },
+    {
+      "name": "Phlegm (1 vial)",
+      "rarity": "common"
+    },
+    {
+      "name": "Fool\u2019s gold ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Nickel ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Tantalum ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Mirror",
+      "rarity": "common"
+    },
+    {
+      "name": "Jade",
+      "rarity": "common"
+    },
+    {
+      "name": "Moonstone",
+      "rarity": "common"
+    },
+    {
+      "name": "Charcoal biscuits",
+      "rarity": "common"
+    },
+    {
+      "name": "Tin ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Algarot",
+      "rarity": "common"
+    },
+    {
+      "name": "Salt",
+      "rarity": "common"
+    },
+    {
+      "name": "Cadmium ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Prism",
+      "rarity": "common"
+    },
+    {
+      "name": "Centrifuge",
+      "rarity": "common"
+    },
+    {
+      "name": "Alchemist\u2019s journal",
+      "rarity": "common"
+    },
+    {
+      "name": "Onyx",
+      "rarity": "common"
+    },
+    {
+      "name": "Lime (powder)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iridium ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Clay vessel",
+      "rarity": "common"
+    },
+    {
+      "name": "Magnifying glass",
+      "rarity": "common"
+    },
+    {
+      "name": "Cobalt ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Yellow bile (1 vial)",
+      "rarity": "common"
+    },
+    {
+      "name": "White phosphorus (powder)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crucible",
+      "rarity": "common"
+    },
+    {
+      "name": "Talc crystals",
+      "rarity": "common"
+    },
+    {
+      "name": "Sulfur blocks",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Cupel",
+      "rarity": "common"
+    },
+    {
+      "name": "Telescope",
+      "rarity": "common"
+    },
+    {
+      "name": "Amethyst crystals",
+      "rarity": "common"
+    },
+    {
+      "name": "Glass vial",
+      "rarity": "common"
+    },
+    {
+      "name": "Clay",
+      "rarity": "common"
+    },
+    {
+      "name": "Constellation chart",
+      "rarity": "common"
+    },
+    {
+      "name": "Granite work surface",
+      "rarity": "common"
+    },
+    {
+      "name": "Quicksilver (liquid)",
+      "rarity": "common"
+    },
+    {
+      "name": "Brass ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Hessian crucible",
+      "rarity": "common"
+    },
+    {
+      "name": "Black bile (1 vial)",
+      "rarity": "common"
+    },
+    {
+      "name": "Calcite",
+      "rarity": "common"
+    },
+    {
+      "name": "Saltpeter",
+      "rarity": "common"
+    },
+    {
+      "name": "Cloth \ufb01lter",
+      "rarity": "common"
+    },
+    {
+      "name": "Cyanide",
+      "rarity": "common"
+    },
+    {
+      "name": "Talcum powder",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient text",
+      "rarity": "common"
+    },
+    {
+      "name": "Potassium block",
+      "rarity": "common"
+    },
+    {
+      "name": "Garnet",
+      "rarity": "common"
+    },
+    {
+      "name": "Palladium ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Smelling salts",
+      "rarity": "common"
+    },
+    {
+      "name": "Obsidian",
+      "rarity": "common"
+    },
+    {
+      "name": "Calamine cream",
+      "rarity": "common"
+    },
+    {
+      "name": "Agate",
+      "rarity": "common"
+    },
+    {
+      "name": "Scroll of transmutation circles",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Bloodstone",
+      "rarity": "common"
+    },
+    {
+      "name": "Mortar and pestle",
+      "rarity": "common"
+    },
+    {
+      "name": "Amber",
+      "rarity": "common"
+    },
+    {
+      "name": "Bronze ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Occult symbol",
+      "rarity": "common"
+    },
+    {
+      "name": "Abacus",
+      "rarity": "common"
+    },
+    {
+      "name": "Magnesium ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Rhodium (powder)",
+      "rarity": "common"
+    },
+    {
+      "name": "Zinc ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Retort",
+      "rarity": "common"
+    },
+    {
+      "name": "Lapis lazuli",
+      "rarity": "common"
+    },
+    {
+      "name": "Arsenic",
+      "rarity": "common"
+    },
+    {
+      "name": "Spider silk",
+      "rarity": "common"
+    },
+    {
+      "name": "Pearl",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Red phosphorus (powder)",
+      "rarity": "common"
+    },
+    {
+      "name": "Retort stand",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruthenium ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Bismuth ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Aqua Fortis",
+      "rarity": "common"
+    },
+    {
+      "name": "Sand bath",
+      "rarity": "common"
+    },
+    {
+      "name": "Platinum ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Show globe",
+      "rarity": "common"
+    },
+    {
+      "name": "Still",
+      "rarity": "common"
+    },
+    {
+      "name": "Orichalcum ingot",
+      "rarity": "common"
+    },
+    {
+      "name": "Scrying stone",
+      "rarity": "common"
+    },
+    {
+      "name": "Alkahest",
+      "rarity": "common"
+    },
+    {
+      "name": "Panacea",
+      "rarity": "common"
+    },
+    {
+      "name": "Elixir of life",
+      "rarity": "common"
+    },
+    {
+      "name": "Philosopher\u2019s stone",
+      "rarity": "common"
+    }
+  ]
+}

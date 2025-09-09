@@ -1,0 +1,406 @@
+{
+  "name": "Fictional Spices",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Kabsalt",
+      "rarity": "common"
+    },
+    {
+      "name": "Bowroot",
+      "rarity": "common"
+    },
+    {
+      "name": "Guaram Salt",
+      "rarity": "common"
+    },
+    {
+      "name": "Harica Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Kaffyr Root",
+      "rarity": "common"
+    },
+    {
+      "name": "Melongrass",
+      "rarity": "common"
+    },
+    {
+      "name": "Pigella Seed",
+      "rarity": "common"
+    },
+    {
+      "name": "Papyla Pepper",
+      "rarity": "common"
+    },
+    {
+      "name": "Quatra Salt",
+      "rarity": "common"
+    },
+    {
+      "name": "Trandosi Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Saffiron Powder",
+      "rarity": "common"
+    },
+    {
+      "name": "Trubino Sugar",
+      "rarity": "common"
+    },
+    {
+      "name": "Ursa Flakes",
+      "rarity": "common"
+    },
+    {
+      "name": "Wiji Wiri Root",
+      "rarity": "common"
+    },
+    {
+      "name": "Za'atyr Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Suflac Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Rooimnos Leaf",
+      "rarity": "common"
+    },
+    {
+      "name": "Reyishi Root",
+      "rarity": "common"
+    },
+    {
+      "name": "Rac El Powder",
+      "rarity": "common"
+    },
+    {
+      "name": "Puluya Pepper",
+      "rarity": "common"
+    },
+    {
+      "name": "Pocini Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Mailake Leaf",
+      "rarity": "common"
+    },
+    {
+      "name": "Kukich Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Talite Root",
+      "rarity": "common"
+    },
+    {
+      "name": "Guailo Chile",
+      "rarity": "common"
+    },
+    {
+      "name": "Galga Root",
+      "rarity": "common"
+    },
+    {
+      "name": "Fleur De Selic",
+      "rarity": "common"
+    },
+    {
+      "name": "Daikobi Leaf",
+      "rarity": "common"
+    },
+    {
+      "name": "Jeelig Leaf",
+      "rarity": "common"
+    },
+    {
+      "name": "Ubeki Pepper",
+      "rarity": "common"
+    },
+    {
+      "name": "Casciam Bark",
+      "rarity": "common"
+    },
+    {
+      "name": "Abica Sugar",
+      "rarity": "common"
+    },
+    {
+      "name": "Boleppe Salt",
+      "rarity": "common"
+    },
+    {
+      "name": "Bebier Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Gyssam Salt",
+      "rarity": "common"
+    },
+    {
+      "name": "Alobo Pepper",
+      "rarity": "common"
+    },
+    {
+      "name": "Ajifa Chile",
+      "rarity": "common"
+    },
+    {
+      "name": "Guarni Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Fennli Seed",
+      "rarity": "common"
+    },
+    {
+      "name": "Malsya Weed",
+      "rarity": "common"
+    },
+    {
+      "name": "Tragon Seed",
+      "rarity": "common"
+    },
+    {
+      "name": "Ajwian Powder",
+      "rarity": "common"
+    },
+    {
+      "name": "Paldan Flower",
+      "rarity": "common"
+    },
+    {
+      "name": "Yyrba",
+      "rarity": "common"
+    },
+    {
+      "name": "Salip Salt",
+      "rarity": "common"
+    },
+    {
+      "name": "Zaytar Sugar",
+      "rarity": "common"
+    },
+    {
+      "name": "Perila Root",
+      "rarity": "common"
+    },
+    {
+      "name": "Paracre Pepper",
+      "rarity": "common"
+    },
+    {
+      "name": "Njanga Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Maheb Root",
+      "rarity": "common"
+    },
+    {
+      "name": "Keluako Root",
+      "rarity": "common"
+    },
+    {
+      "name": "Jymobu Powder",
+      "rarity": "common"
+    },
+    {
+      "name": "Akujura Seed",
+      "rarity": "common"
+    },
+    {
+      "name": "Oboldoroot",
+      "rarity": "common"
+    },
+    {
+      "name": "Jagulnroot",
+      "rarity": "common"
+    },
+    {
+      "name": "Olidasalt",
+      "rarity": "common"
+    },
+    {
+      "name": "Chiso Chile",
+      "rarity": "common"
+    },
+    {
+      "name": "Rattleseed",
+      "rarity": "common"
+    },
+    {
+      "name": "Goodluff Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Soreli Salt",
+      "rarity": "common"
+    },
+    {
+      "name": "Kosroot",
+      "rarity": "common"
+    },
+    {
+      "name": "Huata Flower",
+      "rarity": "common"
+    },
+    {
+      "name": "Toeroot",
+      "rarity": "common"
+    },
+    {
+      "name": "Jaraway Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Lostgary Sugar",
+      "rarity": "common"
+    },
+    {
+      "name": "Borge Root",
+      "rarity": "common"
+    },
+    {
+      "name": "Asafoda Seed",
+      "rarity": "common"
+    },
+    {
+      "name": "Jakhta Seed",
+      "rarity": "common"
+    },
+    {
+      "name": "Silum Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Sulhac Powder",
+      "rarity": "common"
+    },
+    {
+      "name": "Cheril Root",
+      "rarity": "common"
+    },
+    {
+      "name": "Dystril Seed",
+      "rarity": "common"
+    },
+    {
+      "name": "Beaufe Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Mei Yen Chile",
+      "rarity": "common"
+    },
+    {
+      "name": "Syzygum Powder",
+      "rarity": "common"
+    },
+    {
+      "name": "Arali Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Calynda Root",
+      "rarity": "common"
+    },
+    {
+      "name": "Omfre Salt",
+      "rarity": "common"
+    },
+    {
+      "name": "Epazi Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Bearshoe Flower",
+      "rarity": "common"
+    },
+    {
+      "name": "Gingk\u2019go Salt",
+      "rarity": "common"
+    },
+    {
+      "name": "Sultditch Salt",
+      "rarity": "common"
+    },
+    {
+      "name": "Filoba Weed",
+      "rarity": "common"
+    },
+    {
+      "name": "Appewort Flower",
+      "rarity": "common"
+    },
+    {
+      "name": "Nastuum Powder",
+      "rarity": "common"
+    },
+    {
+      "name": "Hyrtle Weed",
+      "rarity": "common"
+    },
+    {
+      "name": "Cupwort Bark",
+      "rarity": "common"
+    },
+    {
+      "name": "Dollafanca Flower",
+      "rarity": "common"
+    },
+    {
+      "name": "Stalina Salt",
+      "rarity": "common"
+    },
+    {
+      "name": "Valian Leaf",
+      "rarity": "common"
+    },
+    {
+      "name": "Yaroweed",
+      "rarity": "common"
+    },
+    {
+      "name": "Safli Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Filk Thistle",
+      "rarity": "common"
+    },
+    {
+      "name": "Turkider Root",
+      "rarity": "common"
+    },
+    {
+      "name": "Coldmany Sugar",
+      "rarity": "common"
+    },
+    {
+      "name": "Coltia Salt",
+      "rarity": "common"
+    },
+    {
+      "name": "Cilian Weed",
+      "rarity": "common"
+    },
+    {
+      "name": "Bunet Spice",
+      "rarity": "common"
+    },
+    {
+      "name": "Calapep Salt",
+      "rarity": "common"
+    },
+    {
+      "name": "Aflise Pepper",
+      "rarity": "common"
+    }
+  ]
+}

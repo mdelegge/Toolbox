@@ -1,0 +1,406 @@
+{
+  "name": "Items in a Hunter\u2019s Camp",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Wine Bottle (Empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Flint and Tinder",
+      "rarity": "common"
+    },
+    {
+      "name": "Blanket",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear Meat (1D4 Steaks)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Goat (Live)",
+      "rarity": "common"
+    },
+    {
+      "name": "Venison (Side)",
+      "rarity": "common"
+    },
+    {
+      "name": "Chicken Meat (1D4 Pieces)",
+      "rarity": "common"
+    },
+    {
+      "name": "Beaver Pelts (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Horse (Live)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bowl",
+      "rarity": "common"
+    },
+    {
+      "name": "Pack Mule (Live)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wine Skin (Empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Pot",
+      "rarity": "common"
+    },
+    {
+      "name": "Hawk Feathers (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrows (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Beaver Pelts (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Candles (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Raccoon Pelts (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rabbit Pelts (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Short Sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf Pelts (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wine Bottle (Half Full)",
+      "rarity": "common"
+    },
+    {
+      "name": "Axe",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Goat Meat (1D4 Steaks)",
+      "rarity": "common"
+    },
+    {
+      "name": "Blankets (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Beaver Pelts (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Oil (1 Vial)",
+      "rarity": "common"
+    },
+    {
+      "name": "Eagle Feathers (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Firewood (1D20 Logs)",
+      "rarity": "common"
+    },
+    {
+      "name": "Raccoon Pelts (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sharpening Stone",
+      "rarity": "common"
+    },
+    {
+      "name": "Chicken Feathers (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrows (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Club",
+      "rarity": "common"
+    },
+    {
+      "name": "Wine Skin (Half Full)",
+      "rarity": "common"
+    },
+    {
+      "name": "Chickens (1D4 Live)",
+      "rarity": "common"
+    },
+    {
+      "name": "Beaver Pelts (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Salt (1 Pound)",
+      "rarity": "common"
+    },
+    {
+      "name": "Raccoon Pelts (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Moose Pelts (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Donkey (Live)",
+      "rarity": "common"
+    },
+    {
+      "name": "Elk Pelts (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rabbit Pelts (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hatchet",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrows (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Beaver Pelts (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Blankets (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Deer Pelts (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Fishing Pole",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf Pelts (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Raccoon Pelts (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wine Bottle (Full)",
+      "rarity": "common"
+    },
+    {
+      "name": "Spear",
+      "rarity": "common"
+    },
+    {
+      "name": "Hawk Feathers (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Turkey Meat (1D4 Pieces)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hammer",
+      "rarity": "common"
+    },
+    {
+      "name": "Turkey Feathers (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lantern",
+      "rarity": "common"
+    },
+    {
+      "name": "Tent",
+      "rarity": "common"
+    },
+    {
+      "name": "Rabbit Pelts (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Water Skin (Full)",
+      "rarity": "common"
+    },
+    {
+      "name": "Canvas (4\u2019x4\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Shovel",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf Pelts (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Venison (1D6 Steaks)",
+      "rarity": "common"
+    },
+    {
+      "name": "Raccoon Pelts (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrows (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Elk Antlers",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rope (50\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tent Pegs (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Fish (1D6 Fillets)",
+      "rarity": "common"
+    },
+    {
+      "name": "Beaver Pelts (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hawk Feathers (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Chicken Eggs (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Fletching",
+      "rarity": "common"
+    },
+    {
+      "name": "Blankets (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Map to a Nearby Cave",
+      "rarity": "common"
+    },
+    {
+      "name": "Long Sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Deer Antlers",
+      "rarity": "common"
+    },
+    {
+      "name": "Lock of a Maiden\u2019s Hair",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrows (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Raccoon Pelts (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrowheads (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf Pelts (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Fishing Line (20\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear Pelts (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wine Skin (Full)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Beautifully Carved Small Wooden Box (Locked)",
+      "rarity": "common"
+    },
+    {
+      "name": "Blankets (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Moose Antlers",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrows (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Frying Pan",
+      "rarity": "common"
+    },
+    {
+      "name": "Knife with an Intricately Carved Whale Bone Handle",
+      "rarity": "common"
+    },
+    {
+      "name": "Huntsmen\u2019s Bow (+2 Against Animals)",
+      "rarity": "common"
+    }
+  ]
+}

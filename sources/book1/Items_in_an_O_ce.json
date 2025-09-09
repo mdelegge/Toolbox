@@ -1,0 +1,402 @@
+{
+  "name": "Items in an O\ufb03ce",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Quill",
+      "rarity": "common"
+    },
+    {
+      "name": "Ink jar (half full)",
+      "rarity": "common"
+    },
+    {
+      "name": "Blank parchments (3)",
+      "rarity": "common"
+    },
+    {
+      "name": "Platinum necklace (100gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Blank velum (5)",
+      "rarity": "common"
+    },
+    {
+      "name": "Signet ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Candles (2)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold torc (25pg)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wax (3 cubes)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron arm ring (10gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ledger",
+      "rarity": "common"
+    },
+    {
+      "name": "Diary",
+      "rarity": "common"
+    },
+    {
+      "name": "Note",
+      "rarity": "common"
+    },
+    {
+      "name": "Gems (1D4, 25gp each)",
+      "rarity": "common"
+    },
+    {
+      "name": "Secret message",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "String (3\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Blank paper (8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Large book",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Small book",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron circlet (15gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather pouch",
+      "rarity": "common"
+    },
+    {
+      "name": "Silk vest (50gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Satin pouch",
+      "rarity": "common"
+    },
+    {
+      "name": "Governmental documents",
+      "rarity": "common"
+    },
+    {
+      "name": "Silk pouch",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron torc (15pg)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold arm ring (75pg)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ink blotter",
+      "rarity": "common"
+    },
+    {
+      "name": "Scribe\u2019s knife",
+      "rarity": "common"
+    },
+    {
+      "name": "Polished pebbles (6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron statuette (5gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver bracelet (50gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Satin vest (50gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron bracelet (10gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold bracelet (15gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Jeweled dagger (+1 to hit)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver amulet (25gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Letters (5)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sealed letter",
+      "rarity": "common"
+    },
+    {
+      "name": "Tinder box",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wool scarf",
+      "rarity": "common"
+    },
+    {
+      "name": "Satin scarf",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold statuette (75pg)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silk scarf",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather gloves",
+      "rarity": "common"
+    },
+    {
+      "name": "Smoking pipe",
+      "rarity": "common"
+    },
+    {
+      "name": "Satin gloves",
+      "rarity": "common"
+    },
+    {
+      "name": "Short sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Silk gloves",
+      "rarity": "common"
+    },
+    {
+      "name": "Gems (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver arm ring (35gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wool cloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Spyglass",
+      "rarity": "common"
+    },
+    {
+      "name": "Satin cloak (80gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Flask of oil",
+      "rarity": "common"
+    },
+    {
+      "name": "Silk cloak (100gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Blank volume",
+      "rarity": "common"
+    },
+    {
+      "name": "Writing pigments (4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold amulet (50gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Antique book (30gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Map",
+      "rarity": "common"
+    },
+    {
+      "name": "Protractor",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver statuette (25gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Jeweled short sword (+1 to hit)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wool vest",
+      "rarity": "common"
+    },
+    {
+      "name": "Badge of o\ufb03ce (symbol on leather)",
+      "rarity": "common"
+    },
+    {
+      "name": "Cargo lists",
+      "rarity": "common"
+    },
+    {
+      "name": "Caravan timetables",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver circlet (30gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Supply manifest",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron ring (5gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Whetstone",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver ring (20gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crystal",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold ring (30gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Magnifying glass",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Monocle",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper ring (5gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Long Bottom Leaf (8 uses)",
+      "rarity": "common"
+    },
+    {
+      "name": "Star chart",
+      "rarity": "common"
+    },
+    {
+      "name": "Platinum ring (30gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold circlet (40gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Secret map",
+      "rarity": "common"
+    },
+    {
+      "name": "Bead necklace (10gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver torc (50gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Spectacles",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver necklace (60gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Platinum pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold necklace (90gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gems (1D12, 50gp each)",
+      "rarity": "common"
+    }
+  ]
+}

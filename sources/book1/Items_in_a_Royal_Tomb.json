@@ -1,0 +1,406 @@
+{
+  "name": "Items in a Royal Tomb",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Family crest",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone Gargoyle",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone carving of deceased",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone caskets (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bridge over giant chasm",
+      "rarity": "common"
+    },
+    {
+      "name": "Ceremonial urns (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver chalice",
+      "rarity": "common"
+    },
+    {
+      "name": "Decorative suits of armor (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone epitaph of achievements",
+      "rarity": "common"
+    },
+    {
+      "name": "Small child\u2019s casket",
+      "rarity": "common"
+    },
+    {
+      "name": "Ornate jewelry chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Antique Crown",
+      "rarity": "common"
+    },
+    {
+      "name": "Rosaries",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rival family\u2019s Shield",
+      "rarity": "common"
+    },
+    {
+      "name": "Smell of rotting \ufb02esh",
+      "rarity": "common"
+    },
+    {
+      "name": "Braziers (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Long sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Secret passage",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken sword hilt",
+      "rarity": "common"
+    },
+    {
+      "name": "Reanimated body",
+      "rarity": "common"
+    },
+    {
+      "name": "Antique sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Tattered cloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient blood stains",
+      "rarity": "common"
+    },
+    {
+      "name": "Labyrinth",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient mace",
+      "rarity": "common"
+    },
+    {
+      "name": "Family prayer book",
+      "rarity": "common"
+    },
+    {
+      "name": "Book of deeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Gravehound",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (2D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold chalice",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver candelabra",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone angels (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Cooper pieces (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty urn",
+      "rarity": "common"
+    },
+    {
+      "name": "Short sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver statue of dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "Mural of deceased",
+      "rarity": "common"
+    },
+    {
+      "name": "Prepared casket (empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone throne",
+      "rarity": "common"
+    },
+    {
+      "name": "Embalming tools",
+      "rarity": "common"
+    },
+    {
+      "name": "Linen wraps",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted crown",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (2D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ornate epitaph",
+      "rarity": "common"
+    },
+    {
+      "name": "Burial urns (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rival Family\u2019s crest",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone hound statue",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient shield",
+      "rarity": "common"
+    },
+    {
+      "name": "Burial herbs",
+      "rarity": "common"
+    },
+    {
+      "name": "Armor stand (empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Stained glass window",
+      "rarity": "common"
+    },
+    {
+      "name": "Open casket",
+      "rarity": "common"
+    },
+    {
+      "name": "Cooper pieces (3D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Royal scepter",
+      "rarity": "common"
+    },
+    {
+      "name": "Mummi\ufb01ed Hand",
+      "rarity": "common"
+    },
+    {
+      "name": "Widow(er) of deceased",
+      "rarity": "common"
+    },
+    {
+      "name": "Skull of loyal dog",
+      "rarity": "common"
+    },
+    {
+      "name": "Burial oils",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant\u2019s skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient crossbow",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancestral locket",
+      "rarity": "common"
+    },
+    {
+      "name": "Royal bones",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden statue of warhound",
+      "rarity": "common"
+    },
+    {
+      "name": "Genealogy records",
+      "rarity": "common"
+    },
+    {
+      "name": "Symbol of god(s)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken shield",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Royal crown",
+      "rarity": "common"
+    },
+    {
+      "name": "Deceased\u2019s spell book",
+      "rarity": "common"
+    },
+    {
+      "name": "Magic sta\ufb00",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of labyrinth",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "Blood stains (fresh)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ornate Casket",
+      "rarity": "common"
+    },
+    {
+      "name": "Opening into cavern",
+      "rarity": "common"
+    },
+    {
+      "name": "Royal garden",
+      "rarity": "common"
+    },
+    {
+      "name": "De\ufb01led corpse",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken circlet",
+      "rarity": "common"
+    },
+    {
+      "name": "Burial tools",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Ghost",
+      "rarity": "common"
+    },
+    {
+      "name": "Rival family\u2019s sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken urn",
+      "rarity": "common"
+    },
+    {
+      "name": "Cooper pieces (4D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mummi\ufb01ed soldiers (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancestral war axe",
+      "rarity": "common"
+    },
+    {
+      "name": "Engraving of past battles",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (2D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Royal cloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden statue of dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone gri\ufb03n statue",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver statue of warhound",
+      "rarity": "common"
+    },
+    {
+      "name": "Bones scattered across the \ufb02oor",
+      "rarity": "common"
+    },
+    {
+      "name": "Precious stones (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Book of burial customs",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancestral ring",
+      "rarity": "common"
+    }
+  ]
+}

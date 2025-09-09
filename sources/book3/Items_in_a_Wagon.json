@@ -1,0 +1,406 @@
+{
+  "name": "Items in a Wagon",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Square silver coin with a serpent design",
+      "rarity": "common"
+    },
+    {
+      "name": "Rope (100\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Map to a dungeon",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate of longswords",
+      "rarity": "common"
+    },
+    {
+      "name": "Prisoner",
+      "rarity": "common"
+    },
+    {
+      "name": "Chain (12\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf pelts (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead Goblin",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate of short swords",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear pelts (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate of cookware",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf in a cage",
+      "rarity": "common"
+    },
+    {
+      "name": "Jugs of rum (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Beaver pelts (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather (1\u2019 x 5\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gloves",
+      "rarity": "common"
+    },
+    {
+      "name": "Wax sealed letter",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate of daggers",
+      "rarity": "common"
+    },
+    {
+      "name": "Canvas (3\u2019 x 6\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead dwarf",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottles of oil (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead hal\ufb02ing",
+      "rarity": "common"
+    },
+    {
+      "name": "Workman\u2019s hat",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Burlap bags (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Books (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf pelts (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Detailed map of a nearby town",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold piece from a legendary Kingdom",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottles of whiskey (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sacks of seeds (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of Vellum",
+      "rarity": "common"
+    },
+    {
+      "name": "Canned fruit (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tanned goat hides (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate of vases",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrowhead with an \u201cS\u201d on it",
+      "rarity": "common"
+    },
+    {
+      "name": "Basket of eagle feathers",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead elf",
+      "rarity": "common"
+    },
+    {
+      "name": "Plate armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Weasel pelts (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mink pelts (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Straw bales (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Metal chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Small feather made of gold",
+      "rarity": "common"
+    },
+    {
+      "name": "Hidden child",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead falcon",
+      "rarity": "common"
+    },
+    {
+      "name": "Rope (50\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bundles of Wool",
+      "rarity": "common"
+    },
+    {
+      "name": "Books (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sacks of wheat (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Great sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Deed to a farm",
+      "rarity": "common"
+    },
+    {
+      "name": "Vegetables (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tanned cow hides (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hidden note",
+      "rarity": "common"
+    },
+    {
+      "name": "Hay bale",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken porcelain dishes",
+      "rarity": "common"
+    },
+    {
+      "name": "Rabbit pelts (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead body",
+      "rarity": "common"
+    },
+    {
+      "name": "Plate armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Wagon Wheel",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate of lanterns",
+      "rarity": "common"
+    },
+    {
+      "name": "Sacks of \ufb02our (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather (2\u2019 x 4\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Elf in a cage",
+      "rarity": "common"
+    },
+    {
+      "name": "Deed to a mine claim",
+      "rarity": "common"
+    },
+    {
+      "name": "Fruit (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Burned body",
+      "rarity": "common"
+    },
+    {
+      "name": "Sacks of sugar (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lumber (1D12 boards)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate of formal clothing",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger made of some black material",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottles of wine (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf pelts (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Human in a cage",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate of common clothing",
+      "rarity": "common"
+    },
+    {
+      "name": "Land claim",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead orc",
+      "rarity": "common"
+    },
+    {
+      "name": "Locked wooden chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Lumber (1D20 boards)",
+      "rarity": "common"
+    },
+    {
+      "name": "Firewood",
+      "rarity": "common"
+    },
+    {
+      "name": "Mountain lion in a cage",
+      "rarity": "common"
+    },
+    {
+      "name": "Sacks of grain (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crate of tin cups",
+      "rarity": "common"
+    },
+    {
+      "name": "Coyote pelts (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crates of parchment",
+      "rarity": "common"
+    },
+    {
+      "name": "Pots and pans",
+      "rarity": "common"
+    },
+    {
+      "name": "Piece torn from a formal women\u2019s dress",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead goat",
+      "rarity": "common"
+    },
+    {
+      "name": "Chainmail",
+      "rarity": "common"
+    },
+    {
+      "name": "Beaver pelts (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Partially burned foreign \ufb02ag",
+      "rarity": "common"
+    },
+    {
+      "name": "Basket of hawk feathers",
+      "rarity": "common"
+    },
+    {
+      "name": "Stack of letters bound with crimson ribbon",
+      "rarity": "common"
+    },
+    {
+      "name": "Canvas (4\u2019 x 4\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Empty sacks (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Flint and Tinder",
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "name": "Beers",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Dark Lager",
+      "rarity": "common"
+    },
+    {
+      "name": "Steam Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Sour Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Winter Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Strong Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Brown Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Foreign Extra Stout",
+      "rarity": "common"
+    },
+    {
+      "name": "Dortmunder Export",
+      "rarity": "common"
+    },
+    {
+      "name": "Robust Porter",
+      "rarity": "common"
+    },
+    {
+      "name": "Barley Wine",
+      "rarity": "common"
+    },
+    {
+      "name": "Strong Pale Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Black Lager",
+      "rarity": "common"
+    },
+    {
+      "name": "Sweet Stout",
+      "rarity": "common"
+    },
+    {
+      "name": "Blonde Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Dunkel",
+      "rarity": "common"
+    },
+    {
+      "name": "Fallwen Porter",
+      "rarity": "common"
+    },
+    {
+      "name": "Pale Mild Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Cocoa Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Selonna Sugar Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Wheat beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarven Barrel-Aged Strong Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Squash Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Imperial Stout",
+      "rarity": "common"
+    },
+    {
+      "name": "Vegetable beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Brown Porter",
+      "rarity": "common"
+    },
+    {
+      "name": "Premium Pale Lager",
+      "rarity": "common"
+    },
+    {
+      "name": "Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Gnome Strong Pale Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Malt Liquor",
+      "rarity": "common"
+    },
+    {
+      "name": "Hal\ufb02ing Cask Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Old Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Smoked Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Riker\u2019s Bock",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarven Dark Malt Liquor",
+      "rarity": "common"
+    },
+    {
+      "name": "Dry Stout",
+      "rarity": "common"
+    },
+    {
+      "name": "Field Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Extra Special Bitter",
+      "rarity": "common"
+    },
+    {
+      "name": "Low Town Bitter",
+      "rarity": "common"
+    },
+    {
+      "name": "Sour Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Co\ufb00ee Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Cream Stout",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrel-Aged Strong Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Sweet Summer Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrel-Aged Dark Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Barley Wine Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Rogue\u2019s Doppelbock",
+      "rarity": "common"
+    },
+    {
+      "name": "Imperial Double Pale Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Double Red Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Longhouse Rye Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Elven Summer Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Lager",
+      "rarity": "common"
+    },
+    {
+      "name": "Elven Pale Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Amber Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Oatmeal Stout",
+      "rarity": "common"
+    },
+    {
+      "name": "Cream Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Imperial Stout",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarven Steam Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Best Bitter",
+      "rarity": "common"
+    },
+    {
+      "name": "Pale Lager",
+      "rarity": "common"
+    },
+    {
+      "name": "Special Bitter",
+      "rarity": "common"
+    },
+    {
+      "name": "Light Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Koraduo Brown Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Cask Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Elven White Lager",
+      "rarity": "common"
+    },
+    {
+      "name": "Dark Mild Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrel-Aged Pale Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Porter",
+      "rarity": "common"
+    },
+    {
+      "name": "Smoke Porter",
+      "rarity": "common"
+    },
+    {
+      "name": "Dunkles Bock",
+      "rarity": "common"
+    },
+    {
+      "name": "Spice Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Tropical Stout",
+      "rarity": "common"
+    },
+    {
+      "name": "Stout",
+      "rarity": "common"
+    },
+    {
+      "name": "Chili Pepper Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Red Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Imperial Red Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Rye Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Summer Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Fruit Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Brown Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Helles Bock",
+      "rarity": "common"
+    },
+    {
+      "name": "Strong Bitter",
+      "rarity": "common"
+    },
+    {
+      "name": "Pale Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Imperial Porter",
+      "rarity": "common"
+    },
+    {
+      "name": "Barris Grain beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Autumn Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Red Imperial Porter",
+      "rarity": "common"
+    },
+    {
+      "name": "Session Pale Ale",
+      "rarity": "common"
+    },
+    {
+      "name": "Hal\ufb02ing Lambic",
+      "rarity": "common"
+    },
+    {
+      "name": "Wood-aged Gnome Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Pumpkin Spice Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Elven Ordinary Bitter",
+      "rarity": "common"
+    },
+    {
+      "name": "Honey beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Fruit Lambic",
+      "rarity": "common"
+    },
+    {
+      "name": "Dark Helles Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrel-Aged Sour Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarven Dark Lager",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrel-Aged Amber Beer",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarven Red Ale",
+      "rarity": "common"
+    }
+  ]
+}

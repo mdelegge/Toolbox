@@ -1,10 +1,10 @@
-#Title: DNDTools
+# Title: DNDTools
 A D&D Fifth Edition (5E) Loot Generator.
 
-##Purpose: 
+## Purpose: 
 	Support a list of random tables and loot generators, each generates contents of a fantasy loot event in-game, but each specialized to a theme or purpose (ex: Sailor, Goblin, Magic Shop, Commoners Pockets, Lost Backpack contents, etc.). 
 
-##Design Goals:
+## Design Goals:
 	- web interface, javascript, tailwind.css
 	- modern look, responsive design.
 	- Top level: Display a selectable list of possible generation Modules.
@@ -14,7 +14,7 @@ A D&D Fifth Edition (5E) Loot Generator.
 	- Follow DRY principles. Don't duplicate code if possible.
 	- I want to be able to add other types of modules later, like a random dungeon generator.
 
-##Method:
+## Method:
 	- generates beween 0 and selectable or default maximum number of items.
 	- common items are in the middle of the bell curve distribution of the list.
 	- the contents should be pulled from a JSON list of potential items

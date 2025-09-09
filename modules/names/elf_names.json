@@ -1,0 +1,406 @@
+{
+  "name": "Elf Names",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Lianthorn",
+      "rarity": "common"
+    },
+    {
+      "name": "Saleh",
+      "rarity": "common"
+    },
+    {
+      "name": "Pywaln",
+      "rarity": "common"
+    },
+    {
+      "name": "Vesstan",
+      "rarity": "common"
+    },
+    {
+      "name": "Darfin",
+      "rarity": "common"
+    },
+    {
+      "name": "Merellien",
+      "rarity": "common"
+    },
+    {
+      "name": "Alre",
+      "rarity": "common"
+    },
+    {
+      "name": "Tassarion",
+      "rarity": "common"
+    },
+    {
+      "name": "Khiiral",
+      "rarity": "common"
+    },
+    {
+      "name": "Lhoris",
+      "rarity": "common"
+    },
+    {
+      "name": "Katar",
+      "rarity": "common"
+    },
+    {
+      "name": "Inchel",
+      "rarity": "common"
+    },
+    {
+      "name": "Saelihn",
+      "rarity": "common"
+    },
+    {
+      "name": "Keryth",
+      "rarity": "common"
+    },
+    {
+      "name": "Aneirin",
+      "rarity": "common"
+    },
+    {
+      "name": "Alion",
+      "rarity": "common"
+    },
+    {
+      "name": "Orym",
+      "rarity": "common"
+    },
+    {
+      "name": "Myrdin",
+      "rarity": "common"
+    },
+    {
+      "name": "Wirenth",
+      "rarity": "common"
+    },
+    {
+      "name": "Tanyth",
+      "rarity": "common"
+    },
+    {
+      "name": "Cyran",
+      "rarity": "common"
+    },
+    {
+      "name": "Wynather",
+      "rarity": "common"
+    },
+    {
+      "name": "Adorellan",
+      "rarity": "common"
+    },
+    {
+      "name": "Halamar",
+      "rarity": "common"
+    },
+    {
+      "name": "Saida",
+      "rarity": "common"
+    },
+    {
+      "name": "Falenas",
+      "rarity": "common"
+    },
+    {
+      "name": "Rhalyf",
+      "rarity": "common"
+    },
+    {
+      "name": "Elyn",
+      "rarity": "common"
+    },
+    {
+      "name": "Alosrin",
+      "rarity": "common"
+    },
+    {
+      "name": "Sinaht",
+      "rarity": "common"
+    },
+    {
+      "name": "Larrel",
+      "rarity": "common"
+    },
+    {
+      "name": "Sharian",
+      "rarity": "common"
+    },
+    {
+      "name": "Iliphar",
+      "rarity": "common"
+    },
+    {
+      "name": "Darunia",
+      "rarity": "common"
+    },
+    {
+      "name": "Aelrindel",
+      "rarity": "common"
+    },
+    {
+      "name": "Thalanil",
+      "rarity": "common"
+    },
+    {
+      "name": "Kilyn",
+      "rarity": "common"
+    },
+    {
+      "name": "Elion",
+      "rarity": "common"
+    },
+    {
+      "name": "Bellas",
+      "rarity": "common"
+    },
+    {
+      "name": "Glynfir",
+      "rarity": "common"
+    },
+    {
+      "name": "Saelethil",
+      "rarity": "common"
+    },
+    {
+      "name": "Keenor",
+      "rarity": "common"
+    },
+    {
+      "name": "Dorvyre",
+      "rarity": "common"
+    },
+    {
+      "name": "Methild",
+      "rarity": "common"
+    },
+    {
+      "name": "Umero",
+      "rarity": "common"
+    },
+    {
+      "name": "Ivasaar",
+      "rarity": "common"
+    },
+    {
+      "name": "Petsys",
+      "rarity": "common"
+    },
+    {
+      "name": "Eldrin",
+      "rarity": "common"
+    },
+    {
+      "name": "Ensatra",
+      "rarity": "common"
+    },
+    {
+      "name": "Ashryn",
+      "rarity": "common"
+    },
+    {
+      "name": "Eilphine",
+      "rarity": "common"
+    },
+    {
+      "name": "Aien",
+      "rarity": "common"
+    },
+    {
+      "name": "Kendel",
+      "rarity": "common"
+    },
+    {
+      "name": "Vulen",
+      "rarity": "common"
+    },
+    {
+      "name": "Ararie",
+      "rarity": "common"
+    },
+    {
+      "name": "Yesanith",
+      "rarity": "common"
+    },
+    {
+      "name": "Elas",
+      "rarity": "common"
+    },
+    {
+      "name": "Alasse",
+      "rarity": "common"
+    },
+    {
+      "name": "Farryn",
+      "rarity": "common"
+    },
+    {
+      "name": "Reylynn",
+      "rarity": "common"
+    },
+    {
+      "name": "Shalanar",
+      "rarity": "common"
+    },
+    {
+      "name": "Perlen",
+      "rarity": "common"
+    },
+    {
+      "name": "Ryllae",
+      "rarity": "common"
+    },
+    {
+      "name": "Valfir",
+      "rarity": "common"
+    },
+    {
+      "name": "Namys",
+      "rarity": "common"
+    },
+    {
+      "name": "Paeral",
+      "rarity": "common"
+    },
+    {
+      "name": "Ermys",
+      "rarity": "common"
+    },
+    {
+      "name": "Vamir",
+      "rarity": "common"
+    },
+    {
+      "name": "Ciliren",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruven",
+      "rarity": "common"
+    },
+    {
+      "name": "Brytris",
+      "rarity": "common"
+    },
+    {
+      "name": "Irhaal",
+      "rarity": "common"
+    },
+    {
+      "name": "Ralora",
+      "rarity": "common"
+    },
+    {
+      "name": "Ayre",
+      "rarity": "common"
+    },
+    {
+      "name": "Valmenor",
+      "rarity": "common"
+    },
+    {
+      "name": "Fylson",
+      "rarity": "common"
+    },
+    {
+      "name": "Heidithas",
+      "rarity": "common"
+    },
+    {
+      "name": "Tyrael",
+      "rarity": "common"
+    },
+    {
+      "name": "Fenwenys",
+      "rarity": "common"
+    },
+    {
+      "name": "Sylvar",
+      "rarity": "common"
+    },
+    {
+      "name": "Elandorr",
+      "rarity": "common"
+    },
+    {
+      "name": "Ralorel",
+      "rarity": "common"
+    },
+    {
+      "name": "Miraphine",
+      "rarity": "common"
+    },
+    {
+      "name": "Fana",
+      "rarity": "common"
+    },
+    {
+      "name": "Paeris",
+      "rarity": "common"
+    },
+    {
+      "name": "Heizana",
+      "rarity": "common"
+    },
+    {
+      "name": "Lyari",
+      "rarity": "common"
+    },
+    {
+      "name": "Darieth",
+      "rarity": "common"
+    },
+    {
+      "name": "Azarya",
+      "rarity": "common"
+    },
+    {
+      "name": "Goren",
+      "rarity": "common"
+    },
+    {
+      "name": "Leorora",
+      "rarity": "common"
+    },
+    {
+      "name": "Naesatra",
+      "rarity": "common"
+    },
+    {
+      "name": "Taerel",
+      "rarity": "common"
+    },
+    {
+      "name": "Yinrel",
+      "rarity": "common"
+    },
+    {
+      "name": "Genlee",
+      "rarity": "common"
+    },
+    {
+      "name": "Ardreth",
+      "rarity": "common"
+    },
+    {
+      "name": "Sylphine",
+      "rarity": "common"
+    },
+    {
+      "name": "Aimer",
+      "rarity": "common"
+    },
+    {
+      "name": "Kharis",
+      "rarity": "common"
+    },
+    {
+      "name": "Iligwyn",
+      "rarity": "common"
+    }
+  ]
+}

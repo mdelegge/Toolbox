@@ -1,0 +1,406 @@
+{
+  "name": "Notes in a Bottle",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "They're coming.",
+      "rarity": "common"
+    },
+    {
+      "name": "Spell Scroll",
+      "rarity": "common"
+    },
+    {
+      "name": "Love letter",
+      "rarity": "common"
+    },
+    {
+      "name": "Map to a dungeon",
+      "rarity": "common"
+    },
+    {
+      "name": "Go to the nearest town.",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient legend about a fox wedding",
+      "rarity": "common"
+    },
+    {
+      "name": "The gods call you to battle.",
+      "rarity": "common"
+    },
+    {
+      "name": "Riddle",
+      "rarity": "common"
+    },
+    {
+      "name": "Heroic tale of a woman warrior",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of the area",
+      "rarity": "common"
+    },
+    {
+      "name": "Tale of misery and sorrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Instructions how to build a wooden table",
+      "rarity": "common"
+    },
+    {
+      "name": "Deed to a castle and a town",
+      "rarity": "common"
+    },
+    {
+      "name": "Half of a dungeon map",
+      "rarity": "common"
+    },
+    {
+      "name": "Blank piece of paper that bursts into flame",
+      "rarity": "common"
+    },
+    {
+      "name": "Wanted poster (large reward)",
+      "rarity": "common"
+    },
+    {
+      "name": "Missing child poster",
+      "rarity": "common"
+    },
+    {
+      "name": "Recipe for rabbit stew",
+      "rarity": "common"
+    },
+    {
+      "name": "List of good and bad berries",
+      "rarity": "common"
+    },
+    {
+      "name": "Recipe for a rare wine",
+      "rarity": "common"
+    },
+    {
+      "name": "Wanted poster of a character in the party",
+      "rarity": "common"
+    },
+    {
+      "name": "Tale of an ancient beast",
+      "rarity": "common"
+    },
+    {
+      "name": "Spell scroll",
+      "rarity": "common"
+    },
+    {
+      "name": "Quest to find a buried chest full of gold",
+      "rarity": "common"
+    },
+    {
+      "name": "Ad for an inn",
+      "rarity": "common"
+    },
+    {
+      "name": "Leaf identification chart",
+      "rarity": "common"
+    },
+    {
+      "name": "Whoever opened this is now king.",
+      "rarity": "common"
+    },
+    {
+      "name": "Footprint chart of eight different animals",
+      "rarity": "common"
+    },
+    {
+      "name": "Dungeon map",
+      "rarity": "common"
+    },
+    {
+      "name": "Letter from a character's family member",
+      "rarity": "common"
+    },
+    {
+      "name": "Have Sword, Will Travel. (contact included)",
+      "rarity": "common"
+    },
+    {
+      "name": "I'm watching you.",
+      "rarity": "common"
+    },
+    {
+      "name": "Letter written in Elven",
+      "rarity": "common"
+    },
+    {
+      "name": "Journal entry from a sailor",
+      "rarity": "common"
+    },
+    {
+      "name": "Detailed drawing of a mythical animal",
+      "rarity": "common"
+    },
+    {
+      "name": "Contract on black paper with white letters",
+      "rarity": "common"
+    },
+    {
+      "name": "The secret to life is found within yourself...",
+      "rarity": "common"
+    },
+    {
+      "name": "Is this adventure worth your life?",
+      "rarity": "common"
+    },
+    {
+      "name": "Look behind you.",
+      "rarity": "common"
+    },
+    {
+      "name": "Bounty hunter needed ASAP.",
+      "rarity": "common"
+    },
+    {
+      "name": "Story of an ancient relic",
+      "rarity": "common"
+    },
+    {
+      "name": "Doodles",
+      "rarity": "common"
+    },
+    {
+      "name": "Tale of a man who slew a dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "Recipe for deer stew",
+      "rarity": "common"
+    },
+    {
+      "name": "Letter written in Goblin",
+      "rarity": "common"
+    },
+    {
+      "name": "Recipe for a poison",
+      "rarity": "common"
+    },
+    {
+      "name": "Story of a man named Krimdar",
+      "rarity": "common"
+    },
+    {
+      "name": "Ad for a blacksmith shop",
+      "rarity": "common"
+    },
+    {
+      "name": "Abandon all hope. The Destroyer awaits.",
+      "rarity": "common"
+    },
+    {
+      "name": "Letter written in Dwarven",
+      "rarity": "common"
+    },
+    {
+      "name": "Tale of a powerful ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Picture of a masti\ufb00",
+      "rarity": "common"
+    },
+    {
+      "name": "Details of a lost people",
+      "rarity": "common"
+    },
+    {
+      "name": "Tale of a lady who lost her mind",
+      "rarity": "common"
+    },
+    {
+      "name": "Navigation chart to an island rich in spices",
+      "rarity": "common"
+    },
+    {
+      "name": "Detailed picture and description of a dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "Letter written in Draconic",
+      "rarity": "common"
+    },
+    {
+      "name": "Appears blank but has a hidden message",
+      "rarity": "common"
+    },
+    {
+      "name": "Piece of paper with a family crest of a boar",
+      "rarity": "common"
+    },
+    {
+      "name": "Recipe for waybread",
+      "rarity": "common"
+    },
+    {
+      "name": "A maiden is locked in a tower.",
+      "rarity": "common"
+    },
+    {
+      "name": "We need warriors. Come join us.",
+      "rarity": "common"
+    },
+    {
+      "name": "Song of an ancient battle",
+      "rarity": "common"
+    },
+    {
+      "name": "A jar of dirt would be better.",
+      "rarity": "common"
+    },
+    {
+      "name": "Recipe for an invisibility potion",
+      "rarity": "common"
+    },
+    {
+      "name": "Tavern's secret mead recipe",
+      "rarity": "common"
+    },
+    {
+      "name": "Gridlar is the killer.",
+      "rarity": "common"
+    },
+    {
+      "name": "I miss you, (insert a character's name).",
+      "rarity": "common"
+    },
+    {
+      "name": "Map that leads to a far away town",
+      "rarity": "common"
+    },
+    {
+      "name": "Letter written in thieve's cant",
+      "rarity": "common"
+    },
+    {
+      "name": "Map to a dungeon",
+      "rarity": "common"
+    },
+    {
+      "name": "Wanted poster (small reward)",
+      "rarity": "common"
+    },
+    {
+      "name": "Too late now.",
+      "rarity": "common"
+    },
+    {
+      "name": "Spell scroll",
+      "rarity": "common"
+    },
+    {
+      "name": "The goddess of disease shall curse you.",
+      "rarity": "common"
+    },
+    {
+      "name": "Never come back again.",
+      "rarity": "common"
+    },
+    {
+      "name": "Sdrawkcab eton a si sith. (ancient language)",
+      "rarity": "common"
+    },
+    {
+      "name": "You're dead.",
+      "rarity": "common"
+    },
+    {
+      "name": "Kidnapped! If you were to rescue me...",
+      "rarity": "common"
+    },
+    {
+      "name": "Page from a bestiary",
+      "rarity": "common"
+    },
+    {
+      "name": "Recipe of a potion of healing",
+      "rarity": "common"
+    },
+    {
+      "name": "Stranded on an island. (directions included)",
+      "rarity": "common"
+    },
+    {
+      "name": "Find Draco.",
+      "rarity": "common"
+    },
+    {
+      "name": "Tale of the fallen kingdom",
+      "rarity": "common"
+    },
+    {
+      "name": " The secret lies within yourself.",
+      "rarity": "common"
+    },
+    {
+      "name": "The Blue Devil Mercenaries are traitors!",
+      "rarity": "common"
+    },
+    {
+      "name": "Find the lost silver mine before Ulmek!",
+      "rarity": "common"
+    },
+    {
+      "name": "Tread carefully the path you walk.",
+      "rarity": "common"
+    },
+    {
+      "name": "The will of a wealthy merchant",
+      "rarity": "common"
+    },
+    {
+      "name": "Map to a sunken ship",
+      "rarity": "common"
+    },
+    {
+      "name": "I'm lost. My last known location was...",
+      "rarity": "common"
+    },
+    {
+      "name": "Once the piece of paper is touched it melts",
+      "rarity": "common"
+    },
+    {
+      "name": "Mavis has the key.",
+      "rarity": "common"
+    },
+    {
+      "name": "Map to a dungeon",
+      "rarity": "common"
+    },
+    {
+      "name": "Head to the hermit's shack.",
+      "rarity": "common"
+    },
+    {
+      "name": "You're now under my spell.",
+      "rarity": "common"
+    },
+    {
+      "name": "Directions to a secret fortress",
+      "rarity": "common"
+    },
+    {
+      "name": "This bottle is very valuable. Don't break it!",
+      "rarity": "common"
+    },
+    {
+      "name": "Hello.",
+      "rarity": "common"
+    },
+    {
+      "name": "Blank piece of paper",
+      "rarity": "common"
+    }
+  ]
+}

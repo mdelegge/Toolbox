@@ -1,0 +1,406 @@
+{
+  "name": "Items in a Wizard\u2019s Chamber",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Canary in a cage",
+      "rarity": "common"
+    },
+    {
+      "name": "Short sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Chicken eggs (6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bat in a cage",
+      "rarity": "common"
+    },
+    {
+      "name": "Spyglass",
+      "rarity": "common"
+    },
+    {
+      "name": "Tome of ancient history",
+      "rarity": "common"
+    },
+    {
+      "name": "Star Chart",
+      "rarity": "common"
+    },
+    {
+      "name": "Ink (2 jars)",
+      "rarity": "common"
+    },
+    {
+      "name": "Frog in a glass bowl",
+      "rarity": "common"
+    },
+    {
+      "name": "Crystal shard (6\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rat in a cage",
+      "rarity": "common"
+    },
+    {
+      "name": "Various personal letters",
+      "rarity": "common"
+    },
+    {
+      "name": "Map to a legendary library",
+      "rarity": "common"
+    },
+    {
+      "name": "Parchment (2, blank)",
+      "rarity": "common"
+    },
+    {
+      "name": "Robin eggs (2)",
+      "rarity": "common"
+    },
+    {
+      "name": "Glass vial",
+      "rarity": "common"
+    },
+    {
+      "name": "Healing potion",
+      "rarity": "common"
+    },
+    {
+      "name": "Globe",
+      "rarity": "common"
+    },
+    {
+      "name": "Small warrior \ufb01gurine",
+      "rarity": "common"
+    },
+    {
+      "name": "Quartz (2\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Candle (2)",
+      "rarity": "common"
+    },
+    {
+      "name": "Illustrated book about birds",
+      "rarity": "common"
+    },
+    {
+      "name": "Crystal ball",
+      "rarity": "common"
+    },
+    {
+      "name": "Quill",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Smoking Pipe",
+      "rarity": "common"
+    },
+    {
+      "name": "Various roots",
+      "rarity": "common"
+    },
+    {
+      "name": "Book of ancient runes",
+      "rarity": "common"
+    },
+    {
+      "name": "Poison (2 doses)",
+      "rarity": "common"
+    },
+    {
+      "name": "Finch in a cage",
+      "rarity": "common"
+    },
+    {
+      "name": "Owl (stu\ufb00ed)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wicks (5)",
+      "rarity": "common"
+    },
+    {
+      "name": "Illustrated book about dragons",
+      "rarity": "common"
+    },
+    {
+      "name": "Hourglass",
+      "rarity": "common"
+    },
+    {
+      "name": "Diary",
+      "rarity": "common"
+    },
+    {
+      "name": "Fossilized shark teeth (4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bee preserved in alcohol",
+      "rarity": "common"
+    },
+    {
+      "name": "Moss (dried)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bone powder",
+      "rarity": "common"
+    },
+    {
+      "name": "Scribe\u2019s knife",
+      "rarity": "common"
+    },
+    {
+      "name": "Oil (1 vial)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mushrooms growing in pot",
+      "rarity": "common"
+    },
+    {
+      "name": "Lizard in a cage",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottle cork (3)",
+      "rarity": "common"
+    },
+    {
+      "name": "White mice in a cage (7)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wax (3 blocks)",
+      "rarity": "common"
+    },
+    {
+      "name": "Frog legs (8, dried)",
+      "rarity": "common"
+    },
+    {
+      "name": "Packet of seeds (35)",
+      "rarity": "common"
+    },
+    {
+      "name": "Snake preserved in alcohol",
+      "rarity": "common"
+    },
+    {
+      "name": "Journal book (blank)",
+      "rarity": "common"
+    },
+    {
+      "name": "Butter\ufb02y net",
+      "rarity": "common"
+    },
+    {
+      "name": "Illustrated book about \ufb01sh",
+      "rarity": "common"
+    },
+    {
+      "name": "Vellum (4, blank)",
+      "rarity": "common"
+    },
+    {
+      "name": "Glass bottle",
+      "rarity": "common"
+    },
+    {
+      "name": "Ink blotter",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Book of magical theory",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Spider eggs in a jar (15)",
+      "rarity": "common"
+    },
+    {
+      "name": "Book of mythical beasts",
+      "rarity": "common"
+    },
+    {
+      "name": "Lamp",
+      "rarity": "common"
+    },
+    {
+      "name": "Book of potions",
+      "rarity": "common"
+    },
+    {
+      "name": "Collection of ancient scrolls",
+      "rarity": "common"
+    },
+    {
+      "name": "Small velvet bag",
+      "rarity": "common"
+    },
+    {
+      "name": "Small ruby",
+      "rarity": "common"
+    },
+    {
+      "name": "Hazelnuts (12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Human skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper tubing (3\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Book of folklore",
+      "rarity": "common"
+    },
+    {
+      "name": "Tome of recent history",
+      "rarity": "common"
+    },
+    {
+      "name": "Snake venom in a jar",
+      "rarity": "common"
+    },
+    {
+      "name": "Collection of leafs (dried)",
+      "rarity": "common"
+    },
+    {
+      "name": "Book of herbs",
+      "rarity": "common"
+    },
+    {
+      "name": "Small wooden spheres (6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Collection of small fossils",
+      "rarity": "common"
+    },
+    {
+      "name": "Alligator (stu\ufb00ed)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bat wings (8, dried)",
+      "rarity": "common"
+    },
+    {
+      "name": "Board with various insects pinned",
+      "rarity": "common"
+    },
+    {
+      "name": "Toadstools (7, dried)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hat",
+      "rarity": "common"
+    },
+    {
+      "name": "Illustrated book about plants",
+      "rarity": "common"
+    },
+    {
+      "name": "Salamander in a glass bowl",
+      "rarity": "common"
+    },
+    {
+      "name": "Collection of odd rocks",
+      "rarity": "common"
+    },
+    {
+      "name": "Signet ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Small leather pouch",
+      "rarity": "common"
+    },
+    {
+      "name": "Longbottom leaf (9, dried)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tome of magic history",
+      "rarity": "common"
+    },
+    {
+      "name": "Small wooden chest (empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Cay tablet with inscription",
+      "rarity": "common"
+    },
+    {
+      "name": "Book of astrology",
+      "rarity": "common"
+    },
+    {
+      "name": "Snake eggs preserved in alcohol",
+      "rarity": "common"
+    },
+    {
+      "name": "Healing potion (2)",
+      "rarity": "common"
+    },
+    {
+      "name": "Monkey (stu\ufb00ed)",
+      "rarity": "common"
+    },
+    {
+      "name": "Book of spirits and apparitions",
+      "rarity": "common"
+    },
+    {
+      "name": "Book of alchemy",
+      "rarity": "common"
+    },
+    {
+      "name": "Small mystic symbol",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient vellum manuscript",
+      "rarity": "common"
+    },
+    {
+      "name": "Telescope",
+      "rarity": "common"
+    },
+    {
+      "name": "Sta\ufb00",
+      "rarity": "common"
+    },
+    {
+      "name": "Spell book",
+      "rarity": "common"
+    }
+  ]
+}

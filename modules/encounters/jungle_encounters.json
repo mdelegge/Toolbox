@@ -1,0 +1,406 @@
+{
+  "name": "Jungle Encounters",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Fire ant nest",
+      "rarity": "common"
+    },
+    {
+      "name": "Horse without a rider",
+      "rarity": "common"
+    },
+    {
+      "name": "Rickety bridge over a chasm",
+      "rarity": "common"
+    },
+    {
+      "name": "Ongoing battle between two tribes",
+      "rarity": "common"
+    },
+    {
+      "name": "Young orc barbarian looking to prove himself",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden statuette of a monkey (ruby eyes)",
+      "rarity": "common"
+    },
+    {
+      "name": "Treetop village",
+      "rarity": "common"
+    },
+    {
+      "name": "Half-buried wagon and treasure chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant spider web",
+      "rarity": "common"
+    },
+    {
+      "name": "Wagon \ufb01lled with an ivory shipment",
+      "rarity": "common"
+    },
+    {
+      "name": "Net trap",
+      "rarity": "common"
+    },
+    {
+      "name": "Tree that walks and talks",
+      "rarity": "common"
+    },
+    {
+      "name": "Toucan",
+      "rarity": "common"
+    },
+    {
+      "name": "Curious monkey",
+      "rarity": "common"
+    },
+    {
+      "name": "Stampede of various animals",
+      "rarity": "common"
+    },
+    {
+      "name": "Pair of boots hanging from a vine",
+      "rarity": "common"
+    },
+    {
+      "name": "Tracks of a large predator",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden knight standing in the path",
+      "rarity": "common"
+    },
+    {
+      "name": "Man swinging from vines",
+      "rarity": "common"
+    },
+    {
+      "name": "Poisonous plants",
+      "rarity": "common"
+    },
+    {
+      "name": "Crusaders on a quest",
+      "rarity": "common"
+    },
+    {
+      "name": "Pit trap",
+      "rarity": "common"
+    },
+    {
+      "name": "Disease-carrying mosquitoes",
+      "rarity": "common"
+    },
+    {
+      "name": "Jaguar cub mewing for food",
+      "rarity": "common"
+    },
+    {
+      "name": "Party of big game hunters",
+      "rarity": "common"
+    },
+    {
+      "name": "Entangling and grasping vines",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant centipedes",
+      "rarity": "common"
+    },
+    {
+      "name": "Meat roasting over a fire",
+      "rarity": "common"
+    },
+    {
+      "name": "Talking parrot repeating ominous warnings",
+      "rarity": "common"
+    },
+    {
+      "name": "Skeleton intertwined with tree roots",
+      "rarity": "common"
+    },
+    {
+      "name": "Barbarians hunting a giant boar",
+      "rarity": "common"
+    },
+    {
+      "name": "Cave hidden behind a waterfall",
+      "rarity": "common"
+    },
+    {
+      "name": "Secret order of monks protecting a holy site",
+      "rarity": "common"
+    },
+    {
+      "name": "Circle of druids performing a ritual",
+      "rarity": "common"
+    },
+    {
+      "name": "Flying snake with a message tied to it",
+      "rarity": "common"
+    },
+    {
+      "name": "Skeleton of a large dinosaur",
+      "rarity": "common"
+    },
+    {
+      "name": "Young boy who acts like an ape",
+      "rarity": "common"
+    },
+    {
+      "name": "Ape carrying a spear",
+      "rarity": "common"
+    },
+    {
+      "name": "Shadow of a roc flying over",
+      "rarity": "common"
+    },
+    {
+      "name": "Sloth",
+      "rarity": "common"
+    },
+    {
+      "name": "Delicious looking fruit",
+      "rarity": "common"
+    },
+    {
+      "name": "Tribal warriors speaking a foreign language",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant constrictor snakes (1d6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Net trap",
+      "rarity": "common"
+    },
+    {
+      "name": "Scientist researching for a new book",
+      "rarity": "common"
+    },
+    {
+      "name": "Bounty hunter looking for an escaped convict",
+      "rarity": "common"
+    },
+    {
+      "name": "Monkeys trying to steal items (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Blind pack mule wandering",
+      "rarity": "common"
+    },
+    {
+      "name": "Man shouts for the party to run for their lives",
+      "rarity": "common"
+    },
+    {
+      "name": "Archeologists looking for ruins",
+      "rarity": "common"
+    },
+    {
+      "name": "Hyenas looking for a meal (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Staff entangled in vines high in the canopy",
+      "rarity": "common"
+    },
+    {
+      "name": "Tyrannosaurus rex stalks the party",
+      "rarity": "common"
+    },
+    {
+      "name": "Beautiful tribal woman being attacked by her own tribe",
+      "rarity": "common"
+    },
+    {
+      "name": "Undead pygmies (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Skulls on the tip of spears",
+      "rarity": "common"
+    },
+    {
+      "name": "Herd of triceratops",
+      "rarity": "common"
+    },
+    {
+      "name": "Halfling hanging upside down from a trap",
+      "rarity": "common"
+    },
+    {
+      "name": "Huge red powers",
+      "rarity": "common"
+    },
+    {
+      "name": "Curious group of catfolk",
+      "rarity": "common"
+    },
+    {
+      "name": "Small ship in the top of a tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Skeleton in a net",
+      "rarity": "common"
+    },
+    {
+      "name": "Eccentric hermit collecting herbs",
+      "rarity": "common"
+    },
+    {
+      "name": "Flowers with intoxicating pollen in the air",
+      "rarity": "common"
+    },
+    {
+      "name": "Treehouse",
+      "rarity": "common"
+    },
+    {
+      "name": "Glowing mushrooms covering the trees nearby",
+      "rarity": "common"
+    },
+    {
+      "name": "Snake people village",
+      "rarity": "common"
+    },
+    {
+      "name": "Large tree that appears to be bleeding",
+      "rarity": "common"
+    },
+    {
+      "name": "Large carnivorous plants",
+      "rarity": "common"
+    },
+    {
+      "name": "Bow and arrows hidden in a hollow tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Old woman",
+      "rarity": "common"
+    },
+    {
+      "name": "Piranha infested river",
+      "rarity": "common"
+    },
+    {
+      "name": "Cave opening to an underground lake",
+      "rarity": "common"
+    },
+    {
+      "name": "Highly venomous snake",
+      "rarity": "common"
+    },
+    {
+      "name": "Jaguar guarding its meal",
+      "rarity": "common"
+    },
+    {
+      "name": "Tribal warrior using poison darts",
+      "rarity": "common"
+    },
+    {
+      "name": "Quicksand",
+      "rarity": "common"
+    },
+    {
+      "name": "Friendly goblin offering to feed you at his home",
+      "rarity": "common"
+    },
+    {
+      "name": "Nest of harpies",
+      "rarity": "common"
+    },
+    {
+      "name": "Wizard trying to protect the trees",
+      "rarity": "common"
+    },
+    {
+      "name": "Temple overgrown with vines",
+      "rarity": "common"
+    },
+    {
+      "name": "Large stone with mysterious carvings",
+      "rarity": "common"
+    },
+    {
+      "name": "Elephants (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Cannibals",
+      "rarity": "common"
+    },
+    {
+      "name": "Old wooden hut",
+      "rarity": "common"
+    },
+    {
+      "name": "Cave with a lit fire inside",
+      "rarity": "common"
+    },
+    {
+      "name": "Tribe of lizardfolk",
+      "rarity": "common"
+    },
+    {
+      "name": "Ghostly figure of someone a character loves",
+      "rarity": "common"
+    },
+    {
+      "name": "Explorer dying of poison",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient pyramids",
+      "rarity": "common"
+    },
+    {
+      "name": "Apes (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Shed skin of a huge snake",
+      "rarity": "common"
+    },
+    {
+      "name": "Witch in disguise",
+      "rarity": "common"
+    },
+    {
+      "name": "Tarpit",
+      "rarity": "common"
+    },
+    {
+      "name": "Lit torches along a trail",
+      "rarity": "common"
+    },
+    {
+      "name": "Baboons (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant ape",
+      "rarity": "common"
+    },
+    {
+      "name": "Green dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "Parrot that follows the party and mocks them",
+      "rarity": "common"
+    },
+    {
+      "name": "Monkeys throwing debris (1D10)",
+      "rarity": "common"
+    }
+  ]
+}

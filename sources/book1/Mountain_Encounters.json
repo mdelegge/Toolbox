@@ -1,0 +1,406 @@
+{
+  "name": "Mountain Encounters",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Bear",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblins (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crevasse",
+      "rarity": "common"
+    },
+    {
+      "name": "Frozen body",
+      "rarity": "common"
+    },
+    {
+      "name": "Mountain goat",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear trap",
+      "rarity": "common"
+    },
+    {
+      "name": "Avalanche",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf",
+      "rarity": "common"
+    },
+    {
+      "name": "Camp\ufb01re (still warm)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear tracks",
+      "rarity": "common"
+    },
+    {
+      "name": "Orcs (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Distant smoke",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted chested",
+      "rarity": "common"
+    },
+    {
+      "name": "Traveling doctor",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandits (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ghost",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear cubs (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Band of dwarves (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sheer cli\ufb00",
+      "rarity": "common"
+    },
+    {
+      "name": "Bounty hunters (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Orc raiding party (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear droppings",
+      "rarity": "common"
+    },
+    {
+      "name": "Ice wall",
+      "rarity": "common"
+    },
+    {
+      "name": "Orphan",
+      "rarity": "common"
+    },
+    {
+      "name": "Tomb",
+      "rarity": "common"
+    },
+    {
+      "name": "Lost hunter",
+      "rarity": "common"
+    },
+    {
+      "name": "Strange \ufb02owers",
+      "rarity": "common"
+    },
+    {
+      "name": "Think fog",
+      "rarity": "common"
+    },
+    {
+      "name": "Saddled horse",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild donkeys (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Frozen pond",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandits (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Poachers (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Troll",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandits (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Messenger",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandits (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hunter\u2019s stack",
+      "rarity": "common"
+    },
+    {
+      "name": "Temple",
+      "rarity": "common"
+    },
+    {
+      "name": "Adventuring party (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblins (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Logging camp",
+      "rarity": "common"
+    },
+    {
+      "name": "Lost coin purse",
+      "rarity": "common"
+    },
+    {
+      "name": "Burning wagon",
+      "rarity": "common"
+    },
+    {
+      "name": "Fox",
+      "rarity": "common"
+    },
+    {
+      "name": "No trespassing sign",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant caravan (1D12 wagons)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandits (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Circling vultures",
+      "rarity": "common"
+    },
+    {
+      "name": "Old path",
+      "rarity": "common"
+    },
+    {
+      "name": "Nobles (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Traveling bard",
+      "rarity": "common"
+    },
+    {
+      "name": "Mountain goats (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Abandoned camp\ufb01re",
+      "rarity": "common"
+    },
+    {
+      "name": "Shrine",
+      "rarity": "common"
+    },
+    {
+      "name": "Exposed ore vein",
+      "rarity": "common"
+    },
+    {
+      "name": "Rabbits (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Snow cave",
+      "rarity": "common"
+    },
+    {
+      "name": "Rockslide",
+      "rarity": "common"
+    },
+    {
+      "name": "Foxes (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead bear",
+      "rarity": "common"
+    },
+    {
+      "name": "Elven outcast",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken statue",
+      "rarity": "common"
+    },
+    {
+      "name": "Abandoned food cart",
+      "rarity": "common"
+    },
+    {
+      "name": "Injured hunter",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead orc war party",
+      "rarity": "common"
+    },
+    {
+      "name": "Orcs (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mineshaft",
+      "rarity": "common"
+    },
+    {
+      "name": "Old abandoned fortress",
+      "rarity": "common"
+    },
+    {
+      "name": "Grove",
+      "rarity": "common"
+    },
+    {
+      "name": "Mudslide",
+      "rarity": "common"
+    },
+    {
+      "name": "Snowman",
+      "rarity": "common"
+    },
+    {
+      "name": "Bears (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear cave",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant caravan (1D20 wagons)",
+      "rarity": "common"
+    },
+    {
+      "name": "Traveling cleric",
+      "rarity": "common"
+    },
+    {
+      "name": "Trading outpost",
+      "rarity": "common"
+    },
+    {
+      "name": "Hunters (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mercenary camp",
+      "rarity": "common"
+    },
+    {
+      "name": "Traveling merchant",
+      "rarity": "common"
+    },
+    {
+      "name": "Orcs (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Stream",
+      "rarity": "common"
+    },
+    {
+      "name": "Eagle\u2019s nest",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Inn",
+      "rarity": "common"
+    },
+    {
+      "name": "Mountain lion",
+      "rarity": "common"
+    },
+    {
+      "name": "Wandering Wizard",
+      "rarity": "common"
+    },
+    {
+      "name": "Brunt down building",
+      "rarity": "common"
+    },
+    {
+      "name": "Blizzard",
+      "rarity": "common"
+    },
+    {
+      "name": "Mountain giant",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1d12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandits (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dire wolf",
+      "rarity": "common"
+    },
+    {
+      "name": "Trolls (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "Frost giant",
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "name": "Epitaphs",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "And the day has come.",
+      "rarity": "common"
+    },
+    {
+      "name": "A true original.",
+      "rarity": "common"
+    },
+    {
+      "name": "And the children shall lead.",
+      "rarity": "common"
+    },
+    {
+      "name": "There we stand.",
+      "rarity": "common"
+    },
+    {
+      "name": "Oathbreaker",
+      "rarity": "common"
+    },
+    {
+      "name": "She will always be my love.",
+      "rarity": "common"
+    },
+    {
+      "name": "Fortune favors the bold.",
+      "rarity": "common"
+    },
+    {
+      "name": "Here lies Gremdor. Tremble.",
+      "rarity": "common"
+    },
+    {
+      "name": "He died as miserably as he lived.",
+      "rarity": "common"
+    },
+    {
+      "name": "I\u2019ve seen \ufb01re.",
+      "rarity": "common"
+    },
+    {
+      "name": "I am scattered to the winds.",
+      "rarity": "common"
+    },
+    {
+      "name": "The blade is sharp but he was sharper still.",
+      "rarity": "common"
+    },
+    {
+      "name": "She died as she lived in a ball of \ufb02ame.",
+      "rarity": "common"
+    },
+    {
+      "name": "I tread where no one else dared.",
+      "rarity": "common"
+    },
+    {
+      "name": "The crown weighs heavy\u2026",
+      "rarity": "common"
+    },
+    {
+      "name": "Betrayed by a friend.",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken body, unbroken spirit.",
+      "rarity": "common"
+    },
+    {
+      "name": "Shadows too will fall.",
+      "rarity": "common"
+    },
+    {
+      "name": "Am I home now?",
+      "rarity": "common"
+    },
+    {
+      "name": "Faithful friend.",
+      "rarity": "common"
+    },
+    {
+      "name": "Know that I once lived.",
+      "rarity": "common"
+    },
+    {
+      "name": "All the gold in the world could not save my life.",
+      "rarity": "common"
+    },
+    {
+      "name": "Wait no longer.",
+      "rarity": "common"
+    },
+    {
+      "name": "Unbroken.",
+      "rarity": "common"
+    },
+    {
+      "name": "I shall sleep the last sleep.",
+      "rarity": "common"
+    },
+    {
+      "name": "Murdered by a treacherous wizard.",
+      "rarity": "common"
+    },
+    {
+      "name": "I\u2019d rather be killing goblins.",
+      "rarity": "common"
+    },
+    {
+      "name": "Death is not sleep. Sleep is sleep.",
+      "rarity": "common"
+    },
+    {
+      "name": "Wisdom comes with age and so does death.",
+      "rarity": "common"
+    },
+    {
+      "name": "Fueled by hate. Consumed by greed.",
+      "rarity": "common"
+    },
+    {
+      "name": "The memory is still fresh.",
+      "rarity": "common"
+    },
+    {
+      "name": "I had so much to say but now it is too late.",
+      "rarity": "common"
+    },
+    {
+      "name": "Can I have but one more chance?",
+      "rarity": "common"
+    },
+    {
+      "name": "I came. I saw. I died.",
+      "rarity": "common"
+    },
+    {
+      "name": "All is lost.",
+      "rarity": "common"
+    },
+    {
+      "name": "Do not weep, rejoice!",
+      "rarity": "common"
+    },
+    {
+      "name": "Hatred will be my fuel in the afterlife.",
+      "rarity": "common"
+    },
+    {
+      "name": "From dust to dust\u2026",
+      "rarity": "common"
+    },
+    {
+      "name": "One orc arrow too many.",
+      "rarity": "common"
+    },
+    {
+      "name": "And the tears \ufb02ow like rain.",
+      "rarity": "common"
+    },
+    {
+      "name": "Traitor.",
+      "rarity": "common"
+    },
+    {
+      "name": "I still love you.",
+      "rarity": "common"
+    },
+    {
+      "name": "Cursed is he who moves my bones.",
+      "rarity": "common"
+    },
+    {
+      "name": "He died well.",
+      "rarity": "common"
+    },
+    {
+      "name": "Do you understand me?",
+      "rarity": "common"
+    },
+    {
+      "name": "Dream the dream.",
+      "rarity": "common"
+    },
+    {
+      "name": "Rest after the journey.",
+      "rarity": "common"
+    },
+    {
+      "name": "He must be brave who wishes to wear my crown.",
+      "rarity": "common"
+    },
+    {
+      "name": "Weep.",
+      "rarity": "common"
+    },
+    {
+      "name": "She still loves them.",
+      "rarity": "common"
+    },
+    {
+      "name": "Until we meet again\u2026",
+      "rarity": "common"
+    },
+    {
+      "name": "What\u2019s next?",
+      "rarity": "common"
+    },
+    {
+      "name": "Here lies the king of fools.",
+      "rarity": "common"
+    },
+    {
+      "name": "He died before his time.",
+      "rarity": "common"
+    },
+    {
+      "name": "Even the young die.",
+      "rarity": "common"
+    },
+    {
+      "name": "He shrank from nothing, not even death.",
+      "rarity": "common"
+    },
+    {
+      "name": "Died saving innocent lives.",
+      "rarity": "common"
+    },
+    {
+      "name": "He should\u2019ve looked before he leapt.",
+      "rarity": "common"
+    },
+    {
+      "name": "Wife. Mother. Beloved daughter.",
+      "rarity": "common"
+    },
+    {
+      "name": "Food.",
+      "rarity": "common"
+    },
+    {
+      "name": "I tried.",
+      "rarity": "common"
+    },
+    {
+      "name": "The world was mine.",
+      "rarity": "common"
+    },
+    {
+      "name": "Even in life he was gone.",
+      "rarity": "common"
+    },
+    {
+      "name": "Husband. Father. Drunkard.",
+      "rarity": "common"
+    },
+    {
+      "name": "All is darkness.",
+      "rarity": "common"
+    },
+    {
+      "name": "Life had just begun...",
+      "rarity": "common"
+    },
+    {
+      "name": "No second chances.",
+      "rarity": "common"
+    },
+    {
+      "name": "Lost to us all.",
+      "rarity": "common"
+    },
+    {
+      "name": "Is it written in stone?",
+      "rarity": "common"
+    },
+    {
+      "name": "Husband. Father. Blacksmith.",
+      "rarity": "common"
+    },
+    {
+      "name": "I shall reclaim my throne in this life or the next.",
+      "rarity": "common"
+    },
+    {
+      "name": "He came home to his death.",
+      "rarity": "common"
+    },
+    {
+      "name": "The hero of Innsdale. Felled by an orc arrow.",
+      "rarity": "common"
+    },
+    {
+      "name": "They said it wouldn\u2019t hurt.",
+      "rarity": "common"
+    },
+    {
+      "name": "Does now the rest come?",
+      "rarity": "common"
+    },
+    {
+      "name": "I\u2019ve hidden my great wealth. I dare you to \ufb01nd it.",
+      "rarity": "common"
+    },
+    {
+      "name": "Has my pain ended?",
+      "rarity": "common"
+    },
+    {
+      "name": "All I can say is that she was good.",
+      "rarity": "common"
+    },
+    {
+      "name": "A king among men. A fool among fools.",
+      "rarity": "common"
+    },
+    {
+      "name": "To be or not to be\u2026",
+      "rarity": "common"
+    },
+    {
+      "name": "I welcome death\u2019s embrace.",
+      "rarity": "common"
+    },
+    {
+      "name": "I was the last one.",
+      "rarity": "common"
+    },
+    {
+      "name": "I robbed and I cheated. Now I regret it.",
+      "rarity": "common"
+    },
+    {
+      "name": "Is this the end?",
+      "rarity": "common"
+    },
+    {
+      "name": "All I ever needed was a good blade.",
+      "rarity": "common"
+    },
+    {
+      "name": "When magic goes wrong...",
+      "rarity": "common"
+    },
+    {
+      "name": "There is no doubt she was a queen.",
+      "rarity": "common"
+    },
+    {
+      "name": "I told you I was sick.",
+      "rarity": "common"
+    },
+    {
+      "name": "What is a name?",
+      "rarity": "common"
+    },
+    {
+      "name": "I put many in the grave, now I join them.",
+      "rarity": "common"
+    },
+    {
+      "name": "Finally.",
+      "rarity": "common"
+    },
+    {
+      "name": "What joys or horrors await me?",
+      "rarity": "common"
+    },
+    {
+      "name": "From hell\u2018s heart I spit at thee...",
+      "rarity": "common"
+    },
+    {
+      "name": "Did I waste it all?",
+      "rarity": "common"
+    },
+    {
+      "name": "Where did all the time go?",
+      "rarity": "common"
+    },
+    {
+      "name": "Our beloved child foully murdered by goblins.",
+      "rarity": "common"
+    },
+    {
+      "name": "My body lies but still I roam.",
+      "rarity": "common"
+    },
+    {
+      "name": "I oppose you even now.",
+      "rarity": "common"
+    },
+    {
+      "name": "Prepare for winter",
+      "rarity": "common"
+    },
+    {
+      "name": "He was not careful.",
+      "rarity": "common"
+    }
+  ]
+}

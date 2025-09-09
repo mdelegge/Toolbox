@@ -1,0 +1,406 @@
+{
+  "name": "Curses",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Your body releases a pheromone that attracts bees and hornets",
+      "rarity": "common"
+    },
+    {
+      "name": "You transform into a random animal during a full moon",
+      "rarity": "common"
+    },
+    {
+      "name": "You lose the ability to turn left",
+      "rarity": "common"
+    },
+    {
+      "name": "You are gripped with a constant fear of unknown origin",
+      "rarity": "common"
+    },
+    {
+      "name": "You shrink down to half your size",
+      "rarity": "common"
+    },
+    {
+      "name": "Your hands stick to anything they touch",
+      "rarity": "common"
+    },
+    {
+      "name": "You are haunted by a constant, uncontrollable sneeze",
+      "rarity": "common"
+    },
+    {
+      "name": "You have generally bad luck",
+      "rarity": "common"
+    },
+    {
+      "name": "You can't stop singing",
+      "rarity": "common"
+    },
+    {
+      "name": "You can't stop growing at an alarming rate",
+      "rarity": "common"
+    },
+    {
+      "name": "Your body parts swell up one by one",
+      "rarity": "common"
+    },
+    {
+      "name": "You fall asleep whenever you hear the word \"the\"",
+      "rarity": "common"
+    },
+    {
+      "name": "You can't speak to the opposite sex",
+      "rarity": "common"
+    },
+    {
+      "name": "You sweat profusely when indoors",
+      "rarity": "common"
+    },
+    {
+      "name": "You are gripped with terror at the thought of your own existence",
+      "rarity": "common"
+    },
+    {
+      "name": "You have horrible luck",
+      "rarity": "common"
+    },
+    {
+      "name": "You have an evil alternate personality who takes control often",
+      "rarity": "common"
+    },
+    {
+      "name": "You feel as if you are on fire",
+      "rarity": "common"
+    },
+    {
+      "name": "You can't maintain your balance",
+      "rarity": "common"
+    },
+    {
+      "name": "You have completely lost all sense of direction",
+      "rarity": "common"
+    },
+    {
+      "name": "Your hair won't stop growing at an alarmingly fast rate",
+      "rarity": "common"
+    },
+    {
+      "name": "You fall in love with every one you make eye contact with",
+      "rarity": "common"
+    },
+    {
+      "name": "You can't stop laughing",
+      "rarity": "common"
+    },
+    {
+      "name": "You feel very heavy",
+      "rarity": "common"
+    },
+    {
+      "name": "Your body releases a pheromone that attracts rats",
+      "rarity": "common"
+    },
+    {
+      "name": "Everything you touch turns to stone",
+      "rarity": "common"
+    },
+    {
+      "name": "You have no memory of your companions",
+      "rarity": "common"
+    },
+    {
+      "name": "You are slowly transforming into a swamp creature",
+      "rarity": "common"
+    },
+    {
+      "name": "You have forgotten how to breathe",
+      "rarity": "common"
+    },
+    {
+      "name": "You are unable to perform spells of any kind",
+      "rarity": "common"
+    },
+    {
+      "name": "You have an uncontrollable urge to steal cooking equipment",
+      "rarity": "common"
+    },
+    {
+      "name": "You have forgotten how to read or write",
+      "rarity": "common"
+    },
+    {
+      "name": "Everyone keeps forgetting who you are",
+      "rarity": "common"
+    },
+    {
+      "name": "You can't lie down",
+      "rarity": "common"
+    },
+    {
+      "name": "You smell nothing but sewage at all times",
+      "rarity": "common"
+    },
+    {
+      "name": "You are unable to sleep",
+      "rarity": "common"
+    },
+    {
+      "name": "All of your attacks are nonlethal",
+      "rarity": "common"
+    },
+    {
+      "name": "Your body releases a pheromone that attracts bears",
+      "rarity": "common"
+    },
+    {
+      "name": "You keep losing gold in inexplicable ways",
+      "rarity": "common"
+    },
+    {
+      "name": "You drop your weapon after every attack",
+      "rarity": "common"
+    },
+    {
+      "name": "You can't stop crying",
+      "rarity": "common"
+    },
+    {
+      "name": "Your dreams are haunted by a demon",
+      "rarity": "common"
+    },
+    {
+      "name": "Your spells have random targets",
+      "rarity": "common"
+    },
+    {
+      "name": "Everything you touch turns to ash",
+      "rarity": "common"
+    },
+    {
+      "name": "You are being hunted by a shadow",
+      "rarity": "common"
+    },
+    {
+      "name": "You become tired in the day and overly energetic at night",
+      "rarity": "common"
+    },
+    {
+      "name": "You feel the urge to attack everyone who looks at you",
+      "rarity": "common"
+    },
+    {
+      "name": "You become unconscious at the smell of hay",
+      "rarity": "common"
+    },
+    {
+      "name": "You can't stop reciting subpar poetry",
+      "rarity": "common"
+    },
+    {
+      "name": "Any armor you put on is unbearably heavy",
+      "rarity": "common"
+    },
+    {
+      "name": "You become convinced you are turning into a zombie",
+      "rarity": "common"
+    },
+    {
+      "name": "You emit an offensively repulsive odor",
+      "rarity": "common"
+    },
+    {
+      "name": "You have forgotten how to drink",
+      "rarity": "common"
+    },
+    {
+      "name": "Your spells may have the opposite of the intended effect",
+      "rarity": "common"
+    },
+    {
+      "name": "The weather is constantly bad wherever you go",
+      "rarity": "common"
+    },
+    {
+      "name": "Your body releases a pheromone that attracts monsters",
+      "rarity": "common"
+    },
+    {
+      "name": "You become overly sensitive to light",
+      "rarity": "common"
+    },
+    {
+      "name": "Your dreams are haunted by a ghost",
+      "rarity": "common"
+    },
+    {
+      "name": "You can't stop staring at people",
+      "rarity": "common"
+    },
+    {
+      "name": "You make a considerable amount of noise when trying to sneak",
+      "rarity": "common"
+    },
+    {
+      "name": "You have an uncontrollable urge to pickpocket town guards",
+      "rarity": "common"
+    },
+    {
+      "name": "You have become deaf",
+      "rarity": "common"
+    },
+    {
+      "name": "Everything you touch freezes over",
+      "rarity": "common"
+    },
+    {
+      "name": "Your personality shifts slightly",
+      "rarity": "common"
+    },
+    {
+      "name": "You are unable to resist speaking every thought you have out loud",
+      "rarity": "common"
+    },
+    {
+      "name": "You have forgotten how to speak",
+      "rarity": "common"
+    },
+    {
+      "name": "All but your head is invisible",
+      "rarity": "common"
+    },
+    {
+      "name": "You are a\ufb04icted with eternal, unrelenting hiccups",
+      "rarity": "common"
+    },
+    {
+      "name": "Your body releases a pheromone that attracts deer",
+      "rarity": "common"
+    },
+    {
+      "name": "Unattractive people can't help but fall madly in love with you",
+      "rarity": "common"
+    },
+    {
+      "name": "You have forgotten how to eat",
+      "rarity": "common"
+    },
+    {
+      "name": "You are being haunted by a wraith",
+      "rarity": "common"
+    },
+    {
+      "name": "You can\u2019t stop gaining weight at an alarming rate",
+      "rarity": "common"
+    },
+    {
+      "name": "You are unable to stop randomly shouting about rabbits",
+      "rarity": "common"
+    },
+    {
+      "name": "You become allergic to anything with fur",
+      "rarity": "common"
+    },
+    {
+      "name": "You are unable to distinguish between good and bad advice",
+      "rarity": "common"
+    },
+    {
+      "name": "You can't stop dancing",
+      "rarity": "common"
+    },
+    {
+      "name": "You have become blind",
+      "rarity": "common"
+    },
+    {
+      "name": "Your dreams are haunted by embarrassing memories",
+      "rarity": "common"
+    },
+    {
+      "name": "Everyone keeps mistaking you for a wanted criminal",
+      "rarity": "common"
+    },
+    {
+      "name": "You are being stalked by a vampire",
+      "rarity": "common"
+    },
+    {
+      "name": "You feel filthy no matter how much you bathe",
+      "rarity": "common"
+    },
+    {
+      "name": "You have forgotten how to walk",
+      "rarity": "common"
+    },
+    {
+      "name": "You now breathe water instead of air",
+      "rarity": "common"
+    },
+    {
+      "name": "Your dreams are haunted by all of your past misdeeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Everything you touch is set on fire",
+      "rarity": "common"
+    },
+    {
+      "name": "You can read minds, but only when inconvenient",
+      "rarity": "common"
+    },
+    {
+      "name": "You trip and fall constantly",
+      "rarity": "common"
+    },
+    {
+      "name": "You can't sit down",
+      "rarity": "common"
+    },
+    {
+      "name": "You see hellhounds everywhere you go",
+      "rarity": "common"
+    },
+    {
+      "name": "You are unable to trust even your closest friends",
+      "rarity": "common"
+    },
+    {
+      "name": "Your body releases a pheromone that attracts spiders",
+      "rarity": "common"
+    },
+    {
+      "name": "Your personality shifts drastically to the opposite of what it was",
+      "rarity": "common"
+    },
+    {
+      "name": "You are being stalked by a werewolf",
+      "rarity": "common"
+    },
+    {
+      "name": "You have forgotten how to fight",
+      "rarity": "common"
+    },
+    {
+      "name": "Everyone is convinced you are a doppelganger",
+      "rarity": "common"
+    },
+    {
+      "name": "If you stop moving you will die",
+      "rarity": "common"
+    },
+    {
+      "name": "You have an uncontrollable urge to stab anyone who talks to you",
+      "rarity": "common"
+    },
+    {
+      "name": "You are petrified and unable to move",
+      "rarity": "common"
+    },
+    {
+      "name": "You are completely oblivious to traps and can't stop setting them off",
+      "rarity": "common"
+    }
+  ]
+}

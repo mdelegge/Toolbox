@@ -1,0 +1,406 @@
+{
+  "name": "Items on an Adventurer\u2019s Dead Body",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Backpack (empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rope (50\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Club",
+      "rarity": "common"
+    },
+    {
+      "name": "Map to a dungeon",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Last will and testament",
+      "rarity": "common"
+    },
+    {
+      "name": "Rations (1D6 days)",
+      "rarity": "common"
+    },
+    {
+      "name": "Platinum pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold tooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rations (moldy)",
+      "rarity": "common"
+    },
+    {
+      "name": "Long sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Studded leather",
+      "rarity": "common"
+    },
+    {
+      "name": "Electrum pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Long bow",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient text describing a mythical city",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruby (50 gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of a dungeon",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Prayer book",
+      "rarity": "common"
+    },
+    {
+      "name": "Poison (1 vial)",
+      "rarity": "common"
+    },
+    {
+      "name": "Journal",
+      "rarity": "common"
+    },
+    {
+      "name": "Platinum pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Key engraved with a strange symbol",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather belt",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bestiary",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Letters",
+      "rarity": "common"
+    },
+    {
+      "name": "Ring (25% chance magical)",
+      "rarity": "common"
+    },
+    {
+      "name": "Short bow",
+      "rarity": "common"
+    },
+    {
+      "name": "Electrum pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Spell book",
+      "rarity": "common"
+    },
+    {
+      "name": "Short sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Beef jerky (1D4 sticks)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Chewing tobacco",
+      "rarity": "common"
+    },
+    {
+      "name": "Rations (1D4 days)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bearskin cloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Electrum pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Spear",
+      "rarity": "common"
+    },
+    {
+      "name": "Platinum pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crossbow blots (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Amulet (25% change magical)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon\u2019s tooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Water skin (full)",
+      "rarity": "common"
+    },
+    {
+      "name": "Shackles",
+      "rarity": "common"
+    },
+    {
+      "name": "Whisky (half full)",
+      "rarity": "common"
+    },
+    {
+      "name": "Odd scroll (25% change magical)",
+      "rarity": "common"
+    },
+    {
+      "name": "Spare bowstring",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrows (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Electrum pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sta\ufb00",
+      "rarity": "common"
+    },
+    {
+      "name": "Crossbow",
+      "rarity": "common"
+    },
+    {
+      "name": "Rations (1D8 days)",
+      "rarity": "common"
+    },
+    {
+      "name": "Locket with drawing of a person",
+      "rarity": "common"
+    },
+    {
+      "name": "Platinum pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Boots",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Contract",
+      "rarity": "common"
+    },
+    {
+      "name": "Great sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Dice set",
+      "rarity": "common"
+    },
+    {
+      "name": "Emerald (100 gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Electrum pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bounty notice",
+      "rarity": "common"
+    },
+    {
+      "name": "Chain shirt",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Handkerchief",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken bow",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Platinum pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Heavy Cloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hymnbook",
+      "rarity": "common"
+    },
+    {
+      "name": "Battleaxe",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrows (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Electrum pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Small wooden puzzle box",
+      "rarity": "common"
+    },
+    {
+      "name": "Keys (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Platinum pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Melted sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Locket with a lock of hair",
+      "rarity": "common"
+    },
+    {
+      "name": "Crossbow bolts (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Letter from someone begging for help",
+      "rarity": "common"
+    },
+    {
+      "name": "Electrum pieces (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Deed to a castle in a faraway land",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D100)",
+      "rarity": "common"
+    }
+  ]
+}

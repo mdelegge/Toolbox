@@ -1,0 +1,406 @@
+{
+  "name": "Hal\ufb02ing Names",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Tula",
+      "rarity": "common"
+    },
+    {
+      "name": "Dora",
+      "rarity": "common"
+    },
+    {
+      "name": "Hayla",
+      "rarity": "common"
+    },
+    {
+      "name": "Elrick",
+      "rarity": "common"
+    },
+    {
+      "name": "Dorrick",
+      "rarity": "common"
+    },
+    {
+      "name": "Brela",
+      "rarity": "common"
+    },
+    {
+      "name": "Samwise",
+      "rarity": "common"
+    },
+    {
+      "name": "Lewton",
+      "rarity": "common"
+    },
+    {
+      "name": "Bulford",
+      "rarity": "common"
+    },
+    {
+      "name": "Elrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Woodrick",
+      "rarity": "common"
+    },
+    {
+      "name": "Nivla",
+      "rarity": "common"
+    },
+    {
+      "name": "Trumbul",
+      "rarity": "common"
+    },
+    {
+      "name": "Tobias",
+      "rarity": "common"
+    },
+    {
+      "name": "Arlot",
+      "rarity": "common"
+    },
+    {
+      "name": "Rook",
+      "rarity": "common"
+    },
+    {
+      "name": "Norton",
+      "rarity": "common"
+    },
+    {
+      "name": "Welbin",
+      "rarity": "common"
+    },
+    {
+      "name": "Ella",
+      "rarity": "common"
+    },
+    {
+      "name": "Samwell",
+      "rarity": "common"
+    },
+    {
+      "name": "Crumly",
+      "rarity": "common"
+    },
+    {
+      "name": "Grover",
+      "rarity": "common"
+    },
+    {
+      "name": "Windy",
+      "rarity": "common"
+    },
+    {
+      "name": "Lewella",
+      "rarity": "common"
+    },
+    {
+      "name": "Rowrick",
+      "rarity": "common"
+    },
+    {
+      "name": "Willa",
+      "rarity": "common"
+    },
+    {
+      "name": "Lenrick",
+      "rarity": "common"
+    },
+    {
+      "name": "Arlon",
+      "rarity": "common"
+    },
+    {
+      "name": "Hilwell",
+      "rarity": "common"
+    },
+    {
+      "name": "Willow",
+      "rarity": "common"
+    },
+    {
+      "name": "Finrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Phina",
+      "rarity": "common"
+    },
+    {
+      "name": "Wendum",
+      "rarity": "common"
+    },
+    {
+      "name": "Windal",
+      "rarity": "common"
+    },
+    {
+      "name": "Willrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Rula",
+      "rarity": "common"
+    },
+    {
+      "name": "Binlow",
+      "rarity": "common"
+    },
+    {
+      "name": "Wintum",
+      "rarity": "common"
+    },
+    {
+      "name": "Fillgrin",
+      "rarity": "common"
+    },
+    {
+      "name": "Finmore",
+      "rarity": "common"
+    },
+    {
+      "name": "Maxrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Haygrin",
+      "rarity": "common"
+    },
+    {
+      "name": "Elras",
+      "rarity": "common"
+    },
+    {
+      "name": "Winlow",
+      "rarity": "common"
+    },
+    {
+      "name": "Dimrick",
+      "rarity": "common"
+    },
+    {
+      "name": "Wenlow",
+      "rarity": "common"
+    },
+    {
+      "name": "Elton",
+      "rarity": "common"
+    },
+    {
+      "name": "Woodlin",
+      "rarity": "common"
+    },
+    {
+      "name": "Welford",
+      "rarity": "common"
+    },
+    {
+      "name": "Samlot",
+      "rarity": "common"
+    },
+    {
+      "name": "Wells",
+      "rarity": "common"
+    },
+    {
+      "name": "Woodwil",
+      "rarity": "common"
+    },
+    {
+      "name": "Torlina",
+      "rarity": "common"
+    },
+    {
+      "name": "Maxwise",
+      "rarity": "common"
+    },
+    {
+      "name": "Hayton",
+      "rarity": "common"
+    },
+    {
+      "name": "Lavinia",
+      "rarity": "common"
+    },
+    {
+      "name": "Maxford",
+      "rarity": "common"
+    },
+    {
+      "name": "Lilly",
+      "rarity": "common"
+    },
+    {
+      "name": "Hamlow",
+      "rarity": "common"
+    },
+    {
+      "name": "Fillrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Sambul",
+      "rarity": "common"
+    },
+    {
+      "name": "Trebor",
+      "rarity": "common"
+    },
+    {
+      "name": "Wilser",
+      "rarity": "common"
+    },
+    {
+      "name": "Petunia",
+      "rarity": "common"
+    },
+    {
+      "name": "Corbin",
+      "rarity": "common"
+    },
+    {
+      "name": "Arly",
+      "rarity": "common"
+    },
+    {
+      "name": "Lorton",
+      "rarity": "common"
+    },
+    {
+      "name": "Torbin",
+      "rarity": "common"
+    },
+    {
+      "name": "Jilla",
+      "rarity": "common"
+    },
+    {
+      "name": "Fillmore",
+      "rarity": "common"
+    },
+    {
+      "name": "Bulton",
+      "rarity": "common"
+    },
+    {
+      "name": "Ricbin",
+      "rarity": "common"
+    },
+    {
+      "name": "Samlow",
+      "rarity": "common"
+    },
+    {
+      "name": "Rowan",
+      "rarity": "common"
+    },
+    {
+      "name": "Wellesly",
+      "rarity": "common"
+    },
+    {
+      "name": "Daisy",
+      "rarity": "common"
+    },
+    {
+      "name": "Samton",
+      "rarity": "common"
+    },
+    {
+      "name": "Nora",
+      "rarity": "common"
+    },
+    {
+      "name": "Wina",
+      "rarity": "common"
+    },
+    {
+      "name": "Arton",
+      "rarity": "common"
+    },
+    {
+      "name": "Bulmore",
+      "rarity": "common"
+    },
+    {
+      "name": "Haymore",
+      "rarity": "common"
+    },
+    {
+      "name": "Wenton",
+      "rarity": "common"
+    },
+    {
+      "name": "Hilmore",
+      "rarity": "common"
+    },
+    {
+      "name": "Lewin",
+      "rarity": "common"
+    },
+    {
+      "name": "Hama",
+      "rarity": "common"
+    },
+    {
+      "name": "Samrick",
+      "rarity": "common"
+    },
+    {
+      "name": "Bulrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Gaflin",
+      "rarity": "common"
+    },
+    {
+      "name": "Emma",
+      "rarity": "common"
+    },
+    {
+      "name": "Hayrick",
+      "rarity": "common"
+    },
+    {
+      "name": "Eldon",
+      "rarity": "common"
+    },
+    {
+      "name": "Willna",
+      "rarity": "common"
+    },
+    {
+      "name": "Groton",
+      "rarity": "common"
+    },
+    {
+      "name": "Rose",
+      "rarity": "common"
+    },
+    {
+      "name": "Willgrin",
+      "rarity": "common"
+    },
+    {
+      "name": "Woody",
+      "rarity": "common"
+    },
+    {
+      "name": "Ronan",
+      "rarity": "common"
+    },
+    {
+      "name": "Lowmin",
+      "rarity": "common"
+    },
+    {
+      "name": "Hilna",
+      "rarity": "common"
+    }
+  ]
+}
