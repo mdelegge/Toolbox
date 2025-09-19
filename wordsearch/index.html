@@ -69,6 +69,24 @@
       box-shadow: 0 15px 40px rgba(15, 23, 42, 0.45);
     }
 
+    @keyframes secret-rainbow-background {
+      0% {
+        background-position: 0% 50%;
+      }
+      50% {
+        background-position: 100% 50%;
+      }
+      100% {
+        background-position: 0% 50%;
+      }
+    }
+
+    body.secret-rainbow {
+      background: linear-gradient(120deg, #ff6b6b, #feca57, #1dd1a1, #54a0ff, #5f27cd, #ff9ff3);
+      background-size: 400% 400%;
+      animation: secret-rainbow-background 3s ease-in-out infinite;
+    }
+
     .word-list-item {
       border-radius: 0.5rem;
       padding: 0.35rem 0.75rem;

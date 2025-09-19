@@ -1,5 +1,8 @@
 'use strict';
 
+const SECRET_WORD = 'PERIDOT';
+const SECRET_DISPLAY = 'Peridot';
+
 const DEFAULT_WORDS = [
   'DRAGON',
   'SWORD',
@@ -47,10 +50,12 @@ const state = {
   placements: [],
   foundIds: new Set(),
   cellLookup: new Map(),
+  placementLookup: new Map(),
   wordListLookup: new Map(),
   wordEntries: [],
   gridDimensions: { rows: 0, cols: 0 },
-  cellSizeRaf: null
+  cellSizeRaf: null,
+  secretCelebrationTimeout: null
 };
 
 const selectionState = {
@@ -86,6 +91,7 @@ generatePuzzle();
 
 function generatePuzzle() {
   resetSelection();
+  resetSecretCelebration();
 
   const parsedRows = parseInt(rowsInputEl.value, 10);
   const parsedCols = parseInt(colsInputEl.value, 10);
@@ -95,7 +101,7 @@ function generatePuzzle() {
   colsInputEl.value = String(cols);
 
   const parsed = parseWordList(wordInputEl.value);
-  let entries = parsed.entries;
+  let entries = parsed.entries.filter((entry) => entry.sanitized !== SECRET_WORD);
   let usedDefaultWords = false;
 
   if (entries.length === 0) {
@@ -108,6 +114,9 @@ function generatePuzzle() {
   }
 
   const words = entries.map((entry) => entry.sanitized);
+  if (!words.includes(SECRET_WORD)) {
+    words.push(SECRET_WORD);
+  }
   const longestWord = words.reduce((max, word) => Math.max(max, word.length), 0);
   if (longestWord > rows && longestWord > cols) {
     setMessage('Your longest word is longer than the grid. Try increasing the size or shortening the word list.', 'warning');
@@ -123,14 +132,23 @@ function generatePuzzle() {
   }
 
   const entryLookup = new Map(entries.map((entry) => [entry.sanitized, entry]));
+  entryLookup.set(SECRET_WORD, {
+    original: SECRET_DISPLAY,
+    display: SECRET_DISPLAY,
+    sanitized: SECRET_WORD
+  });
   state.grid = puzzle.grid;
+  state.placementLookup = new Map();
   state.placements = puzzle.placements.map((placement) => {
     const entry = entryLookup.get(placement.word);
-    return {
+    const enrichedPlacement = {
       ...placement,
       id: placement.word,
-      display: entry ? entry.display : placement.word
+      display: entry ? entry.display : placement.word,
+      secret: placement.word === SECRET_WORD
     };
+    state.placementLookup.set(enrichedPlacement.id, enrichedPlacement);
+    return enrichedPlacement;
   });
   state.wordEntries = entries;
   state.foundIds.clear();
@@ -320,8 +338,9 @@ function renderWordList(entries) {
 }
 
 function updateFoundCount() {
-  foundCountEl.textContent = String(state.foundIds.size);
-  totalCountEl.textContent = String(state.placements.length);
+  const { foundVisible, totalVisible } = getVisiblePlacementStats();
+  foundCountEl.textContent = String(foundVisible);
+  totalCountEl.textContent = String(totalVisible);
 }
 
 function handlePointerDown(event) {
@@ -435,7 +454,15 @@ function finalizeSelection() {
 
   updateFoundCount();
 
-  if (state.foundIds.size === state.placements.length) {
+  const { foundVisible, totalVisible } = getVisiblePlacementStats();
+  const allVisibleFound = totalVisible > 0 && foundVisible === totalVisible;
+
+  if (match.secret) {
+    triggerSecretCelebration();
+    const baseMessage = `You uncovered the secret word "${SECRET_DISPLAY}"!`;
+    const suffix = allVisibleFound ? ' You found every word! Great job!' : '';
+    setMessage(`${baseMessage}${suffix}`, 'success');
+  } else if (allVisibleFound) {
     setMessage('You found every word! Great job!', 'success');
   } else {
     setMessage(`Found "${match.display}"!`, 'success');
@@ -591,4 +618,36 @@ function setMessage(text, tone = 'info') {
     toneClass = 'text-rose-300';
   }
   messageEl.classList.add(toneClass);
+}
+
+function getVisiblePlacementStats() {
+  const totalVisible = state.placements.reduce((count, placement) => (placement.secret ? count : count + 1), 0);
+  const foundVisible = Array.from(state.foundIds).reduce((count, id) => {
+    const placement = state.placementLookup.get(id);
+    return placement && !placement.secret ? count + 1 : count;
+  }, 0);
+  return { foundVisible, totalVisible };
+}
+
+function triggerSecretCelebration() {
+  if (state.secretCelebrationTimeout) {
+    clearTimeout(state.secretCelebrationTimeout);
+    state.secretCelebrationTimeout = null;
+  }
+  document.body.classList.remove('secret-rainbow');
+  // Force reflow so the animation restarts even if triggered consecutively.
+  void document.body.offsetWidth;
+  document.body.classList.add('secret-rainbow');
+  state.secretCelebrationTimeout = window.setTimeout(() => {
+    document.body.classList.remove('secret-rainbow');
+    state.secretCelebrationTimeout = null;
+  }, 3000);
+}
+
+function resetSecretCelebration() {
+  if (state.secretCelebrationTimeout) {
+    clearTimeout(state.secretCelebrationTimeout);
+    state.secretCelebrationTimeout = null;
+  }
+  document.body.classList.remove('secret-rainbow');
 }
