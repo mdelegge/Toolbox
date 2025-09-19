@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bonkersify - Random Case Converter</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(180deg, #596ab7 0%, #3d1268 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 600px;
+            animation: slideUp 0.6s ease-out;
+        }
+
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            color: #666;
+            font-size: 1.1rem;
+            font-weight: 400;
+        }
+
+        .input-section {
+            margin-bottom: 25px;
+        }
+
+        .label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: 600;
+            color: #333;
+            font-size: 1.1rem;
+        }
+
+        .text-input {
+            width: 100%;
+            min-height: 120px;
+            padding: 15px;
+            border: 2px solid #e1e5e9;
+            border-radius: 12px;
+            font-size: 16px;
+            font-family: inherit;
+            resize: vertical;
+            transition: all 0.3s ease;
+            background: #fafbfc;
+        }
+
+        .text-input:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+            background: #fff;
+        }
+
+        .convert-btn {
+            width: 100%;
+            padding: 15px 30px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-bottom: 25px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .convert-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.3);
+        }
+
+        .convert-btn:active {
+            transform: translateY(0);
+        }
+
+        .convert-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .output-section {
+            margin-top: 25px;
+        }
+
+        .output-container {
+            position: relative;
+        }
+
+        .text-output {
+            width: 100%;
+            min-height: 120px;
+            padding: 15px;
+            border: 2px solid #e1e5e9;
+            border-radius: 12px;
+            font-size: 16px;
+            font-family: inherit;
+            background: #f8f9fa;
+            color: #333;
+            resize: vertical;
+            line-height: 1.5;
+        }
+
+        .copy-notification {
+            position: absolute;
+            top: -40px;
+            right: 0;
+            background: #28a745;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            opacity: 0;
+            transform: translateY(10px);
+            transition: all 0.3s ease;
+            pointer-events: none;
+        }
+
+        .copy-notification.show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 15px;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 10px;
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-value {
+            display: block;
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #333;
+            margin-bottom: 2px;
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 25px;
+                margin: 10px;
+            }
+            
+            .title {
+                font-size: 2rem;
+            }
+            
+            .stats {
+                flex-direction: column;
+                gap: 10px;
+            }
+        }
+        /* Back button to match other tools (top-right placement) */
+        .back-btn {
+            position: fixed;
+            top: 16px;
+            right: 16px;
+            padding: 8px 12px;
+            border-radius: 8px;
+            border: 1px solid rgba(15, 23, 42, 0.35);
+            background: rgba(15, 23, 42, 0.85);
+            color: #e2e8f0;
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 600;
+            backdrop-filter: blur(6px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+            transition: background 0.2s ease, transform 0.05s ease;
+        }
+        .back-btn:hover { background: rgba(30, 41, 59, 0.9); }
+        .back-btn:active { transform: translateY(1px); }
+    </style>
+</head>
+<body>
+    <a href="../index.html" class="back-btn">Back</a>
+    <div class="container">
+        <div class="header">
+            <h1 class="title">Bonkersify</h1>
+            <p class="subtitle">Transform your text with random case chaos!</p>
+        </div>
+
+        <div class="input-section">
+            <label for="inputText" class="label">Enter your text:</label>
+            <textarea 
+                id="inputText" 
+                class="text-input" 
+                placeholder="Paste or type your text here..."
+                spellcheck="false"
+            ></textarea>
+        </div>
+
+        <button id="convertBtn" class="convert-btn">
+            🎲 Bonkersify It!
+        </button>
+
+        <div class="output-section">
+            <label for="outputText" class="label">Bonkersified text:</label>
+            <div class="output-container">
+                <textarea 
+                    id="outputText" 
+                    class="text-output" 
+                    readonly
+                    placeholder="Your bonkersified text will appear here..."
+                ></textarea>
+                <div id="copyNotification" class="copy-notification">
+                    ✓ Copied to clipboard!
+                </div>
+            </div>
+        </div>
+
+        <div class="stats" id="stats" style="display: none;">
+            <div class="stat-item">
+                <span class="stat-value" id="charCount">0</span>
+                <span>Characters</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value" id="upperCount">0</span>
+                <span>Uppercase</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value" id="lowerCount">0</span>
+                <span>Lowercase</span>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        class Bonkersify {
+            constructor() {
+                this.inputText = document.getElementById('inputText');
+                this.outputText = document.getElementById('outputText');
+                this.convertBtn = document.getElementById('convertBtn');
+                this.copyNotification = document.getElementById('copyNotification');
+                this.stats = document.getElementById('stats');
+                this.charCount = document.getElementById('charCount');
+                this.upperCount = document.getElementById('upperCount');
+                this.lowerCount = document.getElementById('lowerCount');
+                
+                this.initEventListeners();
+            }
+
+            initEventListeners() {
+                this.convertBtn.addEventListener('click', () => this.convertText());
+                
+                // Allow Enter + Ctrl/Cmd to trigger conversion
+                this.inputText.addEventListener('keydown', (e) => {
+                    if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
+                        this.convertText();
+                    }
+                });
+
+                // Auto-resize textarea
+                this.inputText.addEventListener('input', () => {
+                    this.autoResize(this.inputText);
+                });
+            }
+
+            autoResize(textarea) {
+                textarea.style.height = 'auto';
+                textarea.style.height = Math.max(120, textarea.scrollHeight) + 'px';
+            }
+
+            convertText() {
+                const input = this.inputText.value.trim();
+                
+                if (!input) {
+                    this.showNotification('Please enter some text first!', 'error');
+                    return;
+                }
+
+                // Disable button during conversion
+                this.convertBtn.disabled = true;
+                this.convertBtn.textContent = '🎲 Converting...';
+
+                // Add small delay for better UX
+                setTimeout(() => {
+                    const converted = this.bonkersifyText(input);
+                    this.outputText.value = converted;
+                    this.autoResize(this.outputText);
+                    this.updateStats(converted);
+                    this.copyToClipboard(converted);
+                    
+                    // Re-enable button
+                    this.convertBtn.disabled = false;
+                    this.convertBtn.textContent = '🎲 Bonkersify It!';
+                }, 300);
+            }
+
+            bonkersifyText(text) {
+                return text
+                    .split('')
+                    .map(char => {
+                        // Only convert alphabetic characters
+                        if (/[a-zA-Z]/.test(char)) {
+                            // 50/50 chance for uppercase or lowercase
+                            return Math.random() < 0.5 ? char.toLowerCase() : char.toUpperCase();
+                        }
+                        return char;
+                    })
+                    .join('');
+            }
+
+            async copyToClipboard(text) {
+                try {
+                    await navigator.clipboard.writeText(text);
+                    this.showCopyNotification();
+                } catch (err) {
+                    // Fallback for older browsers
+                    this.fallbackCopyToClipboard(text);
+                }
+            }
+
+            fallbackCopyToClipboard(text) {
+                const textArea = document.createElement('textarea');
+                textArea.value = text;
+                textArea.style.position = 'fixed';
+                textArea.style.left = '-999999px';
+                textArea.style.top = '-999999px';
+                document.body.appendChild(textArea);
+                textArea.focus();
+                textArea.select();
+                
+                try {
+                    document.execCommand('copy');
+                    this.showCopyNotification();
+                } catch (err) {
+                    console.error('Failed to copy text: ', err);
+                    this.showNotification('Failed to copy to clipboard', 'error');
+                }
+                
+                document.body.removeChild(textArea);
+            }
+
+            showCopyNotification() {
+                this.copyNotification.classList.add('show');
+                setTimeout(() => {
+                    this.copyNotification.classList.remove('show');
+                }, 2000);
+            }
+
+            showNotification(message, type = 'success') {
+                // Create temporary notification for errors
+                const notification = document.createElement('div');
+                notification.textContent = message;
+                notification.style.cssText = `
+                    position: fixed;
+                    top: 20px;
+                    right: 20px;
+                    background: ${type === 'error' ? '#dc3545' : '#28a745'};
+                    color: white;
+                    padding: 12px 20px;
+                    border-radius: 8px;
+                    font-weight: 600;
+                    z-index: 1000;
+                    animation: slideIn 0.3s ease-out;
+                `;
+                
+                document.body.appendChild(notification);
+                
+                setTimeout(() => {
+                    notification.style.animation = 'slideOut 0.3s ease-in forwards';
+                    setTimeout(() => document.body.removeChild(notification), 300);
+                }, 3000);
+            }
+
+            updateStats(text) {
+                const chars = text.split('').filter(char => /[a-zA-Z]/.test(char));
+                const uppercase = chars.filter(char => char === char.toUpperCase()).length;
+                const lowercase = chars.filter(char => char === char.toLowerCase()).length;
+                
+                this.charCount.textContent = chars.length;
+                this.upperCount.textContent = uppercase;
+                this.lowerCount.textContent = lowercase;
+                this.stats.style.display = 'flex';
+            }
+        }
+
+        // Add CSS animations
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes slideIn {
+                from { transform: translateX(100%); opacity: 0; }
+                to { transform: translateX(0); opacity: 1; }
+            }
+            @keyframes slideOut {
+                from { transform: translateX(0); opacity: 1; }
+                to { transform: translateX(100%); opacity: 0; }
+            }
+        `;
+        document.head.appendChild(style);
+
+        // Initialize the app when DOM is loaded
+        document.addEventListener('DOMContentLoaded', () => {
+            new Bonkersify();
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hacker L33t Converter</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <meta name="color-scheme" content="dark light" />
+</head>
+<body class="bg-slate-900 text-slate-100 min-h-screen">
+  <header class="border-b border-slate-800">
+    <div class="max-w-2xl mx-auto px-4 py-6">
+      <h1 class="text-2xl font-bold tracking-tight">Hacker L33t Converter</h1>
+      <p class="text-slate-400">Convert your text to classic hacker l33t speak.</p>
+      <a href="../index.html" class="text-sky-400 hover:underline text-sm">← Back to Toolbox</a>
+    </div>
+  </header>
+  <main class="max-w-2xl mx-auto px-4 py-8">
+    <div class="mb-6">
+      <label for="inputText" class="block mb-2 font-semibold">Input Text</label>
+      <textarea id="inputText" rows="5" class="w-full rounded-lg border border-slate-700 bg-slate-800 text-slate-100 p-3 focus:outline-none focus:ring-2 focus:ring-cyan-400/50" placeholder="Type or paste your text here..."></textarea>
+    </div>
+    <button id="convertBtn" class="px-4 py-2 rounded-lg bg-cyan-600 hover:bg-cyan-700 text-white font-semibold mb-6">Convert to L33t</button>
+    <div>
+      <label for="outputText" class="block mb-2 font-semibold">L33t Output</label>
+      <textarea id="outputText" rows="5" class="w-full rounded-lg border border-slate-700 bg-slate-800 text-cyan-300 p-3" readonly></textarea>
+    </div>
+  </main>
+  <script>
+    function toLeet(text) {
+      const leetMap = {
+        'A': '4', 'a': '4',
+        'E': '3', 'e': '3',
+        'I': '1', 'i': '1',
+        'O': '0', 'o': '0',
+        'S': '5', 's': '5',
+        'T': '7', 't': '7',
+        'B': '8', 'b': '8',
+        'G': '6', 'g': '6',
+        'Z': '2', 'z': '2',
+        'L': '1', 'l': '1',
+      };
+      tv = text.split('').map(c => leetMap[c] || c).join('');
+
+      copyToClipboard(tv);
+
+      return tv;
+    }
+    document.getElementById('convertBtn').addEventListener('click', function() {
+      const input = document.getElementById('inputText').value;
+      document.getElementById('outputText').value = toLeet(input);
+    });
+    function copyToClipboard(text) {
+      navigator.clipboard.writeText(text).then(() => {
+        console.log('Text copied to clipboard');
+      }).catch(err => {
+        console.error('Could not copy text: ', err);
+      });
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,323 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SVG → PNG Exporter</title>
+  <style>
+    :root { --bg:#0b0e13; --panel:#141a22; --ink:#e9eef6; --muted:#9fb0c5; --accent:#66d9ef; --line:#273142; }
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{margin:0;font:14px/1.4 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial, "Apple Color Emoji","Segoe UI Emoji"; background:var(--bg); color:var(--ink)}
+    .wrap{max-width:1100px;margin:0 auto;padding:24px 16px}
+    h1{font-size:22px;margin:0 0 12px}
+    .grid{display:grid;grid-template-columns:320px 1fr;gap:16px;align-items:start}
+    .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px}
+    label{display:block;font-weight:600;margin:12px 0 4px}
+    input[type="number"],input[type="text"]{width:100%;padding:8px 10px;border-radius:10px;border:1px solid var(--line);background:#0f141c;color:var(--ink)}
+    input[type="file"]{width:100%}
+    .hint{color:var(--muted);font-size:12px}
+    .row{display:flex;gap:8px;align-items:center}
+    .btn{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--line);background:#0f141c;color:var(--ink);padding:8px 12px;border-radius:10px;cursor:pointer}
+    .btn:hover{border-color:#3a4b69}
+    .btn[disabled]{opacity:.55;cursor:not-allowed}
+    .toolbar{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+    .drop{border:1px dashed var(--line);border-radius:12px;padding:14px;text-align:center;color:var(--muted)}
+    canvas{display:block;max-width:100%;border-radius:12px;background:#0a0f15;border:1px solid var(--line)}
+    .kv{display:grid;grid-template-columns:140px 1fr;gap:6px 10px;margin-top:8px;font-size:12px}
+    .kv div:nth-child(odd){color:var(--muted)}
+    .err{color:#ff8fa3}
+    .mono{font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace}
+    .badge{display:inline-block;padding:2px 8px;border-radius:999px;background:#0f141c;border:1px solid var(--line);font-size:12px;color:var(--muted)}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>SVG → PNG Exporter <span class="badge" id="badge">no file</span></h1>
+    <div class="grid">
+      <section class="card" id="controls">
+        <label for="file">SVG file</label>
+        <input id="file" type="file" accept="image/svg+xml,.svg" />
+        <div class="drop" id="drop">Drag & drop SVG here</div>
+
+        <label class="row" style="margin-top:12px"><input type="checkbox" id="preserve" checked /> Preserve aspect ratio</label>
+        <div class="row">
+          <div style="flex:1">
+            <label for="width">Width (px)</label>
+            <input type="number" id="width" min="1" placeholder="e.g. 1200" />
+          </div>
+          <div style="flex:1">
+            <label for="height">Height (px)</label>
+            <input type="number" id="height" min="1" placeholder="e.g. 628" />
+          </div>
+        </div>
+        <div class="row">
+          <div style="flex:1">
+            <label for="scale">Scale (@x)</label>
+            <input type="number" id="scale" min="0.1" step="0.1" value="1" />
+          </div>
+          <div style="flex:1">
+            <label for="bg">Background</label>
+            <input type="text" id="bg" class="mono" placeholder="transparent or CSS color" />
+          </div>
+        </div>
+        <div class="row">
+          <div style="flex:1">
+            <label for="margin">Margin (px)</label>
+            <input type="number" id="margin" min="0" value="0" />
+          </div>
+          <div style="flex:1"></div>
+        </div>
+
+        <div class="toolbar">
+          <button class="btn" id="renderBtn" disabled>Render to canvas</button>
+          <button class="btn" id="export1x" disabled>Export PNG (1×)</button>
+          <button class="btn" id="export2x" disabled>Export PNG (2×)</button>
+          <button class="btn" id="export3x" disabled>Export PNG (3×)</button>
+        </div>
+        <p class="hint">Tip: leave width and height blank to use the SVG's intrinsic size. Set one dimension with “Preserve aspect ratio” enabled to auto-compute the other.</p>
+        <p class="hint">Fonts and external images referenced in the SVG must be available to the browser for faithful rendering.</p>
+        <div class="err" id="err"></div>
+
+        <div class="kv" id="meta" hidden>
+          <div>File name</div><div id="mName">—</div>
+          <div>Intrinsic size</div><div id="mSize">—</div>
+          <div>ViewBox</div><div id="mVB">—</div>
+          <div>MIME</div><div id="mMime">—</div>
+        </div>
+      </section>
+
+      <section class="card">
+        <label>Canvas preview</label>
+        <canvas id="canvas" width="0" height="0"></canvas>
+      </section>
+    </div>
+  </div>
+
+<script>
+(function(){
+  const $ = (sel)=>document.querySelector(sel);
+  const fileInput = $('#file');
+  const drop = $('#drop');
+  const preserve = $('#preserve');
+  const widthIn = $('#width');
+  const heightIn = $('#height');
+  const scaleIn = $('#scale');
+  const bgIn = $('#bg');
+  const marginIn = $('#margin');
+  const renderBtn = $('#renderBtn');
+  const export1x = $('#export1x');
+  const export2x = $('#export2x');
+  const export3x = $('#export3x');
+  const err = $('#err');
+  const badge = $('#badge');
+  const meta = $('#meta');
+  const mName = $('#mName');
+  const mSize = $('#mSize');
+  const mVB = $('#mVB');
+  const mMime = $('#mMime');
+  const canvas = $('#canvas');
+  const ctx = canvas.getContext('2d');
+
+  let svgText = null;
+  let svgName = 'image';
+  let intrinsic = { w: null, h: null, vb: null };
+
+  // Helpers
+  function setError(msg){ err.textContent = msg || ''; }
+  function enableUI(enabled){
+    renderBtn.disabled = !enabled;
+    export1x.disabled = export2x.disabled = export3x.disabled = !enabled || !canvas.width;
+  }
+  function parseSvgSize(txt){
+    // Extract width/height attributes and viewBox to infer intrinsic size
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(txt, 'image/svg+xml');
+    const svgEl = doc.documentElement;
+    if (!svgEl || svgEl.tagName.toLowerCase() !== 'svg') return { w:null, h:null, vb:null };
+    const wAttr = svgEl.getAttribute('width');
+    const hAttr = svgEl.getAttribute('height');
+    const vbAttr = svgEl.getAttribute('viewBox');
+    let vb = null; if (vbAttr){ const p = vbAttr.trim().split(/\s+/).map(Number); if (p.length===4 && p.every(n=>Number.isFinite(n))) vb = p; }
+    function toPx(v){ if(!v) return null; const m = String(v).trim().match(/^([0-9]*\.?[0-9]+)\s*(px|pt|in|mm|cm)?$/i); if(!m) return null; const n = parseFloat(m[1]); const unit=(m[2]||'px').toLowerCase();
+      const DPI=96; switch(unit){ case 'px': return n; case 'pt': return n*DPI/72; case 'in': return n*DPI; case 'mm': return n*DPI/25.4; case 'cm': return n*DPI/2.54; default: return null; }
+    }
+    let w = toPx(wAttr), h = toPx(hAttr);
+    if (!w || !h) {
+      // If viewBox present but width/height missing, use its aspect with 512 default size
+      if (vb){ const vw = vb[2], vh = vb[3]; const aspect = vw && vh ? vw/vh : 1; if (!w && !h){ w = 512; h = Math.round(512/aspect); } else if (w && !h){ h = Math.round(w/aspect); } else if (h && !w){ w = Math.round(h*aspect); } }
+    }
+    return { w: w || null, h: h || null, vb };
+  }
+
+  async function loadFile(file){
+    setError('');
+    svgText = await file.text();
+    svgName = (file.name||'image').replace(/\.[^.]+$/,'');
+    const metaSize = parseSvgSize(svgText);
+    intrinsic = metaSize; // store
+    badge.textContent = file.name;
+    mName.textContent = file.name;
+    mMime.textContent = file.type || 'image/svg+xml';
+    mVB.textContent = metaSize.vb ? metaSize.vb.join(' ') : '—';
+    mSize.textContent = (metaSize.w && metaSize.h) ? `${Math.round(metaSize.w)} × ${Math.round(metaSize.h)} px` : 'unknown';
+    meta.hidden = false;
+    enableUI(true);
+  }
+
+  // File input
+  fileInput.addEventListener('change', (e)=>{
+    const f = e.target.files && e.target.files[0];
+    if (f) loadFile(f).catch(ex=>setError(String(ex)));
+  });
+
+  // Drag & drop
+  ;['dragenter','dragover'].forEach(evt=>drop.addEventListener(evt, (e)=>{e.preventDefault();drop.style.borderColor='#3a4b69'}));
+  ;['dragleave','drop'].forEach(evt=>drop.addEventListener(evt, (e)=>{e.preventDefault();drop.style.borderColor='var(--line)'}));
+  drop.addEventListener('drop', (e)=>{
+    const f = e.dataTransfer.files && e.dataTransfer.files[0];
+    if (f && /\.svg$/i.test(f.name)) loadFile(f).catch(ex=>setError(String(ex)));
+  });
+
+  function computeTargetSize(){
+    const preserveAR = preserve.checked;
+    const W = Number(widthIn.value)||null;
+    const H = Number(heightIn.value)||null;
+    const S = Number(scaleIn.value)||1;
+    const M = Number(marginIn.value)||0;
+
+    // Start from intrinsic if known; fallback to 512×512 if unknown
+    let baseW = intrinsic.w || 512; let baseH = intrinsic.h || 512;
+
+    let outW = baseW, outH = baseH;
+    if (W && H){
+      if (preserveAR){
+        const aspect = baseW/baseH;
+        // fit inside W×H (contain)
+        const fitW = W; const fitH = Math.round(W/aspect);
+        if (fitH<=H){ outW = fitW; outH = fitH; } else { outH = H; outW = Math.round(H*aspect); }
+      } else { outW = W; outH = H; }
+    } else if (W){ outW = W; outH = preserveAR ? Math.round(W*(baseH/baseW)) : baseH; }
+      else if (H){ outH = H; outW = preserveAR ? Math.round(H*(baseW/baseH)) : baseW; }
+
+    outW = Math.max(1, Math.round(outW*S));
+    outH = Math.max(1, Math.round(outH*S));
+    
+    // Add margins to final canvas size
+    const margin = Math.round(M * S);
+    return { w: outW + (margin * 2), h: outH + (margin * 2), svgW: outW, svgH: outH, margin };
+  }
+
+  function drawToCanvas(){
+    if (!svgText){ setError('Load an SVG first.'); return; }
+    const { w, h, svgW, svgH, margin } = computeTargetSize();
+    const dpr = window.devicePixelRatio || 1;
+
+    // Logical canvas size
+    canvas.width = Math.round(w * dpr);
+    canvas.height = Math.round(h * dpr);
+    canvas.style.width = w + 'px';
+    canvas.style.height = h + 'px';
+
+    // Optional background
+    const bg = (bgIn.value||'').trim();
+
+    // Create an Image from the SVG blob (safer than data URI for large files)
+    const blob = new Blob([svgText], { type: 'image/svg+xml' });
+    const url = URL.createObjectURL(blob);
+    const img = new Image();
+    // Important: set crossOrigin so external images with CORS will draw; otherwise taints canvas
+    img.crossOrigin = 'anonymous';
+    img.onload = () => {
+      URL.revokeObjectURL(url);
+      ctx.save();
+      ctx.setTransform(dpr,0,0,dpr,0,0); // scale for HiDPI
+      // paint background if requested
+      ctx.clearRect(0,0,canvas.width,canvas.height);
+      if (bg && bg.toLowerCase() !== 'transparent'){
+        ctx.fillStyle = bg; ctx.fillRect(0,0,w,h);
+      }
+      // Draw the SVG inset by margin
+      ctx.drawImage(img, margin, margin, svgW, svgH);
+      ctx.restore();
+      export1x.disabled = export2x.disabled = export3x.disabled = false;
+    };
+    img.onerror = (e)=>{
+      setError('Failed to load SVG. If your SVG references external images, ensure CORS is allowed or inline them.');
+      URL.revokeObjectURL(url);
+    };
+    img.src = url;
+  }
+
+  function download(scale=1){
+    if (!canvas.width){ setError('Render to canvas first.'); return; }
+    const w = Math.round(parseInt(canvas.style.width||'0'));
+    const h = Math.round(parseInt(canvas.style.height||'0'));
+
+    if (scale !== 1){
+      // Re-render at higher resolution for crisp export
+      const saved = { svgText: svgText, wIn: widthIn.value, hIn: heightIn.value, sIn: scaleIn.value, mIn: marginIn.value, bg: bgIn.value };
+      const tmpCanvas = document.createElement('canvas');
+      const tmpCtx = tmpCanvas.getContext('2d');
+      const targetW = Math.max(1, Math.round(w*scale));
+      const targetH = Math.max(1, Math.round(h*scale));
+      
+      // Compute margin and SVG size for scaled export
+      const tempScale = Number(saved.sIn) * scale;
+      const tempMargin = Math.round(Number(saved.mIn) * tempScale);
+      const svgW = targetW - (tempMargin * 2);
+      const svgH = targetH - (tempMargin * 2);
+      
+      tmpCanvas.width = targetW; tmpCanvas.height = targetH;
+      const blob = new Blob([svgText], { type:'image/svg+xml' });
+      const url = URL.createObjectURL(blob);
+      const img = new Image(); img.crossOrigin='anonymous';
+      img.onload = ()=>{
+        URL.revokeObjectURL(url);
+        if ((saved.bg||'').trim() && saved.bg.toLowerCase() !== 'transparent'){
+          tmpCtx.fillStyle = saved.bg; tmpCtx.fillRect(0,0,targetW,targetH);
+        } else { tmpCtx.clearRect(0,0,targetW,targetH); }
+        tmpCtx.drawImage(img, tempMargin, tempMargin, svgW, svgH);
+        tmpCanvas.toBlob((blob)=>{
+          triggerDownload(blob, `${svgName}-${targetW}x${targetH}.png`);
+        }, 'image/png');
+      };
+      img.onerror = ()=>{ setError('Failed to render at higher scale.'); URL.revokeObjectURL(url); };
+      img.src = url;
+      return;
+    }
+
+    canvas.toBlob((blob)=>{
+      triggerDownload(blob, `${svgName}-${w}x${h}.png`);
+    }, 'image/png');
+  }
+
+  function triggerDownload(blob, filename){
+    if (!blob){ setError('Export failed (no PNG blob).'); return; }
+    const a = document.createElement('a');
+    a.download = filename;
+    a.href = URL.createObjectURL(blob);
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(()=>{ URL.revokeObjectURL(a.href); a.remove(); }, 200);
+  }
+
+  // Wire up buttons
+  renderBtn.addEventListener('click', drawToCanvas);
+  export1x.addEventListener('click', ()=>download(1));
+  export2x.addEventListener('click', ()=>download(2));
+  export3x.addEventListener('click', ()=>download(3));
+
+  // Enable auto-update when inputs change after first render
+  [preserve,widthIn,heightIn,scaleIn,bgIn,marginIn].forEach(el=>{
+    el.addEventListener('change', ()=>{ if (svgText) drawToCanvas(); });
+  });
+
+  // Keyboard: Ctrl/Cmd+E to export 1x
+  window.addEventListener('keydown', (e)=>{
+    if ((e.ctrlKey||e.metaKey) && e.key.toLowerCase()==='e'){ e.preventDefault(); download(1); }
+  });
+})();
+</script>
+</body>
+</html>
