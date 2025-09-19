@@ -9,6 +9,8 @@
   <style>
     :root {
       color-scheme: dark;
+      --export-letter-offset: 0px;
+      --export-word-offset: 0px;
     }
 
     #board {
@@ -24,9 +26,6 @@
       position: relative;
       width: var(--cell-size);
       height: var(--cell-size);
-      display: flex;
-      align-items: center;
-      justify-content: center;
       background: rgba(15, 23, 42, 0.8);
       border: 1px solid rgba(71, 85, 105, 0.5);
       border-radius: 0.5rem;
@@ -35,10 +34,19 @@
       transition: background 0.15s ease, transform 0.1s ease;
       color: #e2e8f0;
       line-height: 1;
+      text-align: center;
+      overflow: hidden;
     }
 
     .cell-letter {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      display: inline-block;
+      transform: translate(-50%, calc(-50% - var(--export-letter-offset)));
       line-height: 1;
+      pointer-events: none;
+      white-space: nowrap;
     }
 
     .grid-cell:hover {
@@ -94,11 +102,23 @@
       display: flex;
       align-items: center;
       line-height: 1.1;
+      position: relative;
+    }
+
+    .word-list-item-text {
+      flex: 1;
+      display: inline-flex;
+      align-items: center;
+      transform: translateY(calc(-1 * var(--export-word-offset)));
+      transition: transform 0.15s ease;
     }
 
     .word-list-item.found {
       background: rgba(52, 211, 153, 0.2);
       color: #bbf7d0;
+    }
+
+    .word-list-item.found .word-list-item-text {
       text-decoration: line-through;
       text-decoration-thickness: 2px;
     }

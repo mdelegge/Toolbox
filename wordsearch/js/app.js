@@ -21,6 +21,9 @@ const DEFAULT_WORDS = [
   'TRAP'
 ];
 
+const EXPORT_LETTER_OFFSET_RATIO = 0.30;
+const EXPORT_WORD_OFFSET_RATIO = 0.30;
+
 const DIRECTIONS = [
   { dr: 0, dc: 1 },
   { dr: 0, dc: -1 },
@@ -330,7 +333,10 @@ function renderWordList(entries) {
   for (const entry of entries) {
     const item = document.createElement('li');
     item.className = 'word-list-item border border-slate-700/60 bg-slate-900/60';
-    item.textContent = entry.display;
+    const text = document.createElement('span');
+    text.className = 'word-list-item-text';
+    text.textContent = entry.display;
+    item.appendChild(text);
     item.dataset.word = entry.sanitized;
     wordListEl.appendChild(item);
     state.wordListLookup.set(entry.sanitized, item);
@@ -344,8 +350,11 @@ function updateFoundCount() {
 }
 
 function handlePointerDown(event) {
-  const cell = event.target instanceof HTMLElement ? event.target : null;
-  if (!cell || !cell.classList.contains('grid-cell')) {
+  if (!(event.target instanceof HTMLElement)) {
+    return;
+  }
+  const cell = event.target.closest('.grid-cell');
+  if (!cell || cell.closest('#board') !== boardEl) {
     return;
   }
 
@@ -567,10 +576,45 @@ function exportPuzzleAsPng() {
   const originalLabel = exportBtn.textContent;
   exportBtn.textContent = 'Exporting…';
 
-  window.html2canvas(puzzleWrapperEl, {
-    backgroundColor: '#0f172a',
-    scale: window.devicePixelRatio < 2 ? 2 : window.devicePixelRatio
-  })
+  const root = document.documentElement;
+  const previousLetterOffset = root.style.getPropertyValue('--export-letter-offset');
+  const previousWordOffset = root.style.getPropertyValue('--export-word-offset');
+  const cellSize = parseFloat(window.getComputedStyle(boardEl).getPropertyValue('--cell-size'));
+  const letterOffsetPx = Number.isFinite(cellSize) && cellSize > 0 ? Math.max(1, Math.round(cellSize * EXPORT_LETTER_OFFSET_RATIO)) : 3;
+  const firstWordItem = wordListEl.querySelector('.word-list-item');
+  const wordItemHeight = firstWordItem ? firstWordItem.getBoundingClientRect().height : 0;
+  const wordOffsetPx = Number.isFinite(wordItemHeight) && wordItemHeight > 0 ? Math.max(1, Math.round(wordItemHeight * EXPORT_WORD_OFFSET_RATIO)) : letterOffsetPx;
+  root.style.setProperty('--export-letter-offset', `${letterOffsetPx}px`);
+  root.style.setProperty('--export-word-offset', `${wordOffsetPx}px`);
+  const cleanupExportStyles = () => {
+    if (previousLetterOffset) {
+      root.style.setProperty('--export-letter-offset', previousLetterOffset);
+    } else {
+      root.style.removeProperty('--export-letter-offset');
+    }
+    if (previousWordOffset) {
+      root.style.setProperty('--export-word-offset', previousWordOffset);
+    } else {
+      root.style.removeProperty('--export-word-offset');
+    }
+  };
+
+  let capturePromise;
+  try {
+    capturePromise = window.html2canvas(puzzleWrapperEl, {
+      backgroundColor: '#0f172a',
+      scale: window.devicePixelRatio < 2 ? 2 : window.devicePixelRatio
+    });
+  } catch (error) {
+    cleanupExportStyles();
+    exportBtn.disabled = false;
+    exportBtn.textContent = originalLabel;
+    console.error(error);
+    setMessage('Could not export the puzzle. Please try again.', 'danger');
+    return;
+  }
+
+  capturePromise
     .then((canvas) => {
       const dataUrl = canvas.toDataURL('image/png');
       const link = document.createElement('a');
@@ -585,6 +629,7 @@ function exportPuzzleAsPng() {
       setMessage('Could not export the puzzle. Please try again.', 'danger');
     })
     .finally(() => {
+      cleanupExportStyles();
       exportBtn.disabled = false;
       exportBtn.textContent = originalLabel;
     });
