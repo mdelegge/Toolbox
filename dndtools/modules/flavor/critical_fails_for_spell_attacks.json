@@ -1,0 +1,406 @@
+{
+  "name": "Critical Fails for Spell Attacks",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "The caster becomes unconsciousness for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell back\ufb01res onto the caster",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell heals the target for 1d6 health",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell hits the nearest friendly target",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster is polymorphed into a chicken for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster is set on fire",
+      "rarity": "common"
+    },
+    {
+      "name": "The nearest ally is set on fire",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell hits the floor",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell hits the wall",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell hits the ceiling",
+      "rarity": "common"
+    },
+    {
+      "name": "Nothing happens",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell tears a hole in space/time, sending the caster five minutes into the future",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell tears a hole in space/time, sending the target five minutes into the past",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell alters reality: The caster is now five inches shorter",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell alters reality: The caster falls in love with the target",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell alters reality: The caster is now thirty pounds heavier",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell alters reality: The caster's hair color is now orange",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell alters reality: The caster's alignment shifts slightly",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell alters reality: The target is now directly behind the caster",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell alters reality: The target is now one size larger",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell alters reality: The target is duplicated 1d4 times",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell alters reality: The target is now a doppelganger of the caster",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell alters reality: The target is now stronger",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell alters reality: The target is now smarter",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell alters reality: The target is now fully healed",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell heals the target for 1d8 health",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster is polymorphed into a housecat for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The target dodges the spell",
+      "rarity": "common"
+    },
+    {
+      "name": "The target is unaffected by the spell",
+      "rarity": "common"
+    },
+    {
+      "name": "The target absorbs the spell and becomes more powerful",
+      "rarity": "common"
+    },
+    {
+      "name": "The target reflects the spell back at the caster",
+      "rarity": "common"
+    },
+    {
+      "name": "The target reflects the spell at a target of its choosing",
+      "rarity": "common"
+    },
+    {
+      "name": "The target rushes forward, surprising the caster",
+      "rarity": "common"
+    },
+    {
+      "name": "The target distracts the caster with a loud jarring noise",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster is gripped with irrational terror for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell heals the target for 1d10 health",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell blinds the caster for 1d10 minutes",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell causes a minor earthquake at the caster's location",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster is polymorphed into a pig for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell fizzles out with a pathetic whimper",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell fizzles out with a loud jarring noise",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell fizzles out with a spectacular display of lights",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell inflicts a random curse upon the caster",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell inflicts a random curse upon the nearest ally",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell burns the caster for 1d4 fire damage",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster is polymorphed into a rat for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell freezes the caster's hands together",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell heals the target for 1d12 health",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster is distracted by a vision",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster is unable to cast that spell again for one hour",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster is paralyzed for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell summons a demon",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell burns the caster for 1d6 fire damage",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell creates a pool of water that begins flooding the room",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell sets in motion the seemingly insignificant event that will inevitably lead to Armageddon",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell summons a shadow beast",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell heals the target for 1d20 health",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell alerts all nearby enemies to the caster's location",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell is erased from the caster's spell book",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell summons a bear",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster is blinded for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster is polymorphed into a rabbit for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster trips and falls",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell burns the caster for 1d8 fire damage",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell causes the nearest friendly target to drop their weapon",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell causes the target to become enraged",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell succeeds as if it were a critical success",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell causes the nearest friendly target to trip and fall",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell fully heals the target",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster is deafened and muted for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell causes water to begin flooding the immediate area",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell burns the caster for 1d10 fire damage",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster is polymorphed into a frog for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell equips the target with magical armor",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell equips the target with a magical weapon",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell causes the target to become invisible for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster becomes confused and disoriented for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster forgets how to cast that spell",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell supercharges into a more powerful spell that completely misses the target",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell burns the caster for 1d12 fire damage",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell brings a dead enemy back to life with one health",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster is polymorphed into a squirrel for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell knocks the caster back ten feet",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell causes the caster to float in the air for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell causes the caster to lose all memories of the last day",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell causes the target to become invulnerable for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell brings a dead enemy back to life with half of their health",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster's intelligence and wisdom scores are set to one for two hours",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell burns the caster for 1d20 fire damage",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell taunts the target",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster is polymorphed into a stag beetle for thirty seconds",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell brings two dead enemies back to life with one health",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster is sent thirty seconds into the future",
+      "rarity": "common"
+    },
+    {
+      "name": "The caster teleported directly in front of the target",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell taunts the target and any enemy adjacent to the target",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell increases all stats of the target by one point",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell brings a dead enemy back to life with full health",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell taunts all nearby enemies",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell kills the caster",
+      "rarity": "common"
+    },
+    {
+      "name": "The spell summons a dragon hostile to the caster",
+      "rarity": "common"
+    }
+  ]
+}

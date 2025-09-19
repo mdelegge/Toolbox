@@ -1,0 +1,406 @@
+{
+  "name": "Critical Success for Spell Attacks",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Pushing Blast- The target is pushed back 10ft",
+      "rarity": "common"
+    },
+    {
+      "name": "Launch- the target is pushed back 20ft",
+      "rarity": "common"
+    },
+    {
+      "name": "Powerful Blast- the target is knocked prone",
+      "rarity": "common"
+    },
+    {
+      "name": "Fear Me- the target is frightened of the caster",
+      "rarity": "common"
+    },
+    {
+      "name": "Energy Drain- energy is pulled from the target into user. Recover health equal to half damage dealt",
+      "rarity": "common"
+    },
+    {
+      "name": "Glowing Ray- for 1d6 rounds the target is wreathed in fire, does 1d6 damge per round",
+      "rarity": "common"
+    },
+    {
+      "name": "Guiding Ray- all attack rolls made against the target are +2 for one round",
+      "rarity": "common"
+    },
+    {
+      "name": "Cursed Strength- the target has a -2 on strength for 1d6 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Cursed Finesse- the target has a-2 on dexterity for 1d6 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Cursed Body- the target has a -2 on constitution for 1d6 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Cursed Mind- the target has a -2 on intelligence for 1d6 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Cursed Spirit- the target has a -2 on wisdom for 1d6 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Cursed Presence- the target has a -2 on charisma for 1d6 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Cursed Beauty- the target\u2019s face is horribly disfigured, has a -2 on persuasion for 1d12 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Aging Curse- the target is aged by 1d12 years",
+      "rarity": "common"
+    },
+    {
+      "name": "Protective Blast- the user gains the effect of magic armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Enchanting Spell- the target falls unconscious",
+      "rarity": "common"
+    },
+    {
+      "name": "Blinding Light- the target is blinded by a brilliant flash of light",
+      "rarity": "common"
+    },
+    {
+      "name": "Shrink Ray- the target is reduced in size",
+      "rarity": "common"
+    },
+    {
+      "name": "Zero Gravity- the target floats 5ft into the air for 1d6 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Dimensional Rift- the target is transported to a random plane for 1d4 rounds and then reappears",
+      "rarity": "common"
+    },
+    {
+      "name": "Sluggish- the target is slowed for 1d4 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Transformative Ray- the target is transformed into a beast of a small size",
+      "rarity": "common"
+    },
+    {
+      "name": "Disarming Ray- the target drops their weapon or shield",
+      "rarity": "common"
+    },
+    {
+      "name": "No Cost- the spell was used for free",
+      "rarity": "common"
+    },
+    {
+      "name": "Renewing Spell- recover 1d4 used spells",
+      "rarity": "common"
+    },
+    {
+      "name": "Invigorating Spell- recover 1d4 spells and receive 2d6 in healing",
+      "rarity": "common"
+    },
+    {
+      "name": "Distant Spell- double the range of caster's next spell",
+      "rarity": "common"
+    },
+    {
+      "name": "Extend Spell- double the duration of caster's next spell",
+      "rarity": "common"
+    },
+    {
+      "name": "Double Spells- cast a second spell on the same turn",
+      "rarity": "common"
+    },
+    {
+      "name": "Free Spell- the spell is cast as a bonus instead",
+      "rarity": "common"
+    },
+    {
+      "name": "Explosive Spell- the spell affects any other creature within 5ft of the target",
+      "rarity": "common"
+    },
+    {
+      "name": "Charming Spell- the target must make a wisdom roll or be charmed",
+      "rarity": "common"
+    },
+    {
+      "name": "Flaming Blade- any weapon the caster's chooses ignites into flames, does 1d6 fire damage for 1d6 turns",
+      "rarity": "common"
+    },
+    {
+      "name": "Deafening Blast- all creatures within 10ft of the target must make a roll or be deafened",
+      "rarity": "common"
+    },
+    {
+      "name": "Exhaustion- the target get -1 to all rolls until they rest",
+      "rarity": "common"
+    },
+    {
+      "name": "Concussive Blast- the target is stunned for one round",
+      "rarity": "common"
+    },
+    {
+      "name": "Paralyze- the target must make a wisdom roll or be paralyzed for 1d4 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Disappearing Act- the caster becomes invisible for 1d6 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Multiply- 1d4 duplicates of the caster appear",
+      "rarity": "common"
+    },
+    {
+      "name": "Enfeeble- the target does half damage on weapon attacks for 1d6 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Encircling Wind- a wall of wind appears encircling the target in a 10ft radius for 1d6 turns",
+      "rarity": "common"
+    },
+    {
+      "name": "Encircling Flames- a wall of fire appears encircling the target in a 10ft radius for 1d6 turns",
+      "rarity": "common"
+    },
+    {
+      "name": "Encircling Stone- a wall of stone appears encircling the target in a 10ft radius for 1d6 turns",
+      "rarity": "common"
+    },
+    {
+      "name": "Flight- the caster gains the ability to fly for 1d6 rounds.",
+      "rarity": "common"
+    },
+    {
+      "name": "Speedy- the caster gains an additional 10ft of movement for 1d4 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Fire Shield- flames wreathe the caster's body, causes 1d6 damage to creatures trying to touch the caster",
+      "rarity": "common"
+    },
+    {
+      "name": "Nightmare- the target's worst fear appears in front of it",
+      "rarity": "common"
+    },
+    {
+      "name": "Aggro- target must attack all creatures it sees. This lasts until the caster's next turn",
+      "rarity": "common"
+    },
+    {
+      "name": "Paranoia- the target sees everyone as an enemy and becomes hostile",
+      "rarity": "common"
+    },
+    {
+      "name": "Bound- magical threads entangle the target for 1d6 rounds.",
+      "rarity": "common"
+    },
+    {
+      "name": "Empower Allies- the caster and all allies within 30ft gain +2 on strength rolls for 1d6 turns",
+      "rarity": "common"
+    },
+    {
+      "name": "Quicken Allies- the caster and all allies within 30ft gain +2 on dexterity rolls for 1d6 turns",
+      "rarity": "common"
+    },
+    {
+      "name": "Toughen Allies- the caster and all allies within 30ft gain +2 on constitution rolls for 1d6 turns",
+      "rarity": "common"
+    },
+    {
+      "name": "Brainy Allies- the caster and all allies within 30ft gain +2 on intelligence rolls for 1d6 turns",
+      "rarity": "common"
+    },
+    {
+      "name": "Wise Allies- the caster and all allies within 30ft gain +2 on wisdom rolls for 1d6 turns",
+      "rarity": "common"
+    },
+    {
+      "name": "Charming Allies- the caster and all allies within 30ft gain +2 on charisma rolls for 1d6 turns",
+      "rarity": "common"
+    },
+    {
+      "name": "Baby Hand- one of the targets hands shrinks to infant size and can no longer hold anything greater than 5lbs",
+      "rarity": "common"
+    },
+    {
+      "name": "Magic Shield- the caster gains +2 to defense for 1d6 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Magic Barrage- the caster casts a missile of magic as a bonus, 2d4 damage",
+      "rarity": "common"
+    },
+    {
+      "name": "Storm Caller- the caster can call forth three bolts of lightning for 3d10 damage each",
+      "rarity": "common"
+    },
+    {
+      "name": "Tough Skin- the caster gains damage resistance for 1d6 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Adamant Bones- the caster gains damage resistance for 1d6 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Poisoned Blood- the target is poisoned for 1d6 rounds.",
+      "rarity": "common"
+    },
+    {
+      "name": "Healing Energy- the caster regains 2d10 hit points",
+      "rarity": "common"
+    },
+    {
+      "name": "Birthday Suit- the target's armor and clothing are blasted from them",
+      "rarity": "common"
+    },
+    {
+      "name": "Suggestion- the caster may make one suggestion to the target",
+      "rarity": "common"
+    },
+    {
+      "name": "Healing Aura- all friendly creatures within 30ft of the caster are healed for 2d10 health",
+      "rarity": "common"
+    },
+    {
+      "name": "Minion- if the target dies within 1d4 turns it is raised again as caster's ally",
+      "rarity": "common"
+    },
+    {
+      "name": "Magic Winds- caster gains control of the air around them.",
+      "rarity": "common"
+    },
+    {
+      "name": "Absorb Energy- absorb any energy attacks made against caster for 1d6 turns",
+      "rarity": "common"
+    },
+    {
+      "name": "Quick Feet- increase caster's base movement speed by 30ft for 1 hour",
+      "rarity": "common"
+    },
+    {
+      "name": "Long Arms- caster's arms stretch in length, increasing reach by 5ft",
+      "rarity": "common"
+    },
+    {
+      "name": "Strike True- caster can give any ally within sight a +20 on their next attack roll",
+      "rarity": "common"
+    },
+    {
+      "name": "Break- Break any non-magical item the target is holding or wearing",
+      "rarity": "common"
+    },
+    {
+      "name": "True Understanding- caster gains the ability to understand all languages for 1 hour",
+      "rarity": "common"
+    },
+    {
+      "name": "Déjà vu- target must repeat the specific actions it took this round again for 1d4 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Mind Read- secret thoughts and memories from the target feed the caster's mind",
+      "rarity": "common"
+    },
+    {
+      "name": "Interrogate- caster can ask the target one question they must answer truthfully",
+      "rarity": "common"
+    },
+    {
+      "name": "Bird Brain - target's intelligence reduced to 1 for 1d6 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Magic Weapons- the caster and all allies have a +2 on attack and damage rolls for 1 minute",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone Curse- the target slowly becomes stone. If not removed within 3 rounds the target is petrified",
+      "rarity": "common"
+    },
+    {
+      "name": "Web- the target becomes entangled in a sticky web",
+      "rarity": "common"
+    },
+    {
+      "name": "Fish Out of Water- the target can only breathe water for 1d6 turns",
+      "rarity": "common"
+    },
+    {
+      "name": "Fire Ants- the target perceives stinging ants biting their clothing and loses 1d6 turns scratching",
+      "rarity": "common"
+    },
+    {
+      "name": "Tether- the target is anchored to the ground for 1 minute and can only move 5ft from its current position",
+      "rarity": "common"
+    },
+    {
+      "name": "Steal Voice- the target loses the ability to speak until the curse is removed",
+      "rarity": "common"
+    },
+    {
+      "name": "Eruption- the target is thrown 60ft into the air and takes fall damage or impact damage if it hits a ceiling",
+      "rarity": "common"
+    },
+    {
+      "name": "Babble- the targets languages are replaced with random new languages",
+      "rarity": "common"
+    },
+    {
+      "name": "Dispel- all magical effects on the target are dispelled",
+      "rarity": "common"
+    },
+    {
+      "name": "Inner Beast- the target behaves as if enraged and confused for 1d6 turns",
+      "rarity": "common"
+    },
+    {
+      "name": "Flying Daggers- magic daggers spin around the caster in 5ft radius for 1d6 turns. They deal 5d4 damage",
+      "rarity": "common"
+    },
+    {
+      "name": "Wrecking Ball- throw the target at any creature within 30ft of it. Both targets take 3d6 damage",
+      "rarity": "common"
+    },
+    {
+      "name": "Envious Desire- the target must use his action to steal from any target nearby for 1d6 rounds",
+      "rarity": "common"
+    },
+    {
+      "name": "Amnesia- the target lapses into insanity and forgets his identity",
+      "rarity": "common"
+    },
+    {
+      "name": "Bloody Tears- target is blinded and begins to bleed from the eyes causing 2d6 damage for 1d6 turns",
+      "rarity": "common"
+    },
+    {
+      "name": "Stasis- the target becomes frozen in time for 1d6 turns and cannot be harmed until the effect ends",
+      "rarity": "common"
+    },
+    {
+      "name": "Invulnerable- the caster becomes immune to all damage for 1d6 turns.",
+      "rarity": "common"
+    },
+    {
+      "name": "Maze- the target is banished to a labyrinthine dimension.",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon Shape- caster is transformed into a young dragon for 1d6 turns",
+      "rarity": "common"
+    }
+  ]
+}

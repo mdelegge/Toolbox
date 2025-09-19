@@ -1,0 +1,406 @@
+{
+  "name": "Forest Locations",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Plank walkway over a chasm",
+      "rarity": "common"
+    },
+    {
+      "name": "Bridge over a river",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone property marker",
+      "rarity": "common"
+    },
+    {
+      "name": "Cottage burned to the ground",
+      "rarity": "common"
+    },
+    {
+      "name": "A village of an uncontacted people",
+      "rarity": "common"
+    },
+    {
+      "name": "Flint knapping site",
+      "rarity": "common"
+    },
+    {
+      "name": "Dry creek bed",
+      "rarity": "common"
+    },
+    {
+      "name": "Abandoned village",
+      "rarity": "common"
+    },
+    {
+      "name": "Natural stone arch",
+      "rarity": "common"
+    },
+    {
+      "name": "Cascading stream",
+      "rarity": "common"
+    },
+    {
+      "name": "Quicksand",
+      "rarity": "common"
+    },
+    {
+      "name": "Skeleton of a dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "Small pond",
+      "rarity": "common"
+    },
+    {
+      "name": "Pipe sticking out of the ground with water gushing out",
+      "rarity": "common"
+    },
+    {
+      "name": "Section of an ancient aqueduct",
+      "rarity": "common"
+    },
+    {
+      "name": "Campsite with the inhabitants slaughtered",
+      "rarity": "common"
+    },
+    {
+      "name": "Herbalist\u2019s Shack",
+      "rarity": "common"
+    },
+    {
+      "name": "Inn built into a huge old tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Loggers Camp",
+      "rarity": "common"
+    },
+    {
+      "name": "Abandoned gold sluice",
+      "rarity": "common"
+    },
+    {
+      "name": "Carne",
+      "rarity": "common"
+    },
+    {
+      "name": "Salt lick",
+      "rarity": "common"
+    },
+    {
+      "name": "Sword stuck in a stone",
+      "rarity": "common"
+    },
+    {
+      "name": "Sandpit quarry no one seems to be around",
+      "rarity": "common"
+    },
+    {
+      "name": "Entrance to a troll\u2019s cave",
+      "rarity": "common"
+    },
+    {
+      "name": "Waterfall",
+      "rarity": "common"
+    },
+    {
+      "name": "Lake",
+      "rarity": "common"
+    },
+    {
+      "name": "Wishing well",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone statue that weeps",
+      "rarity": "common"
+    },
+    {
+      "name": "Sacred grove",
+      "rarity": "common"
+    },
+    {
+      "name": "Geyser",
+      "rarity": "common"
+    },
+    {
+      "name": "Entrance to a hermit\u2019s cave",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient overgrown graveyard",
+      "rarity": "common"
+    },
+    {
+      "name": "Small pool with stones around the edges",
+      "rarity": "common"
+    },
+    {
+      "name": "Swift \ufb02owing creek with a man-made ford",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron cages hang from a tree with prisoners in them",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruins of a wooden tower",
+      "rarity": "common"
+    },
+    {
+      "name": "Village of orphaned children",
+      "rarity": "common"
+    },
+    {
+      "name": "Large stone cut into a perfect circle",
+      "rarity": "common"
+    },
+    {
+      "name": "Cave entrance",
+      "rarity": "common"
+    },
+    {
+      "name": "Grotto with a statue of a woman guarding a clear pool",
+      "rarity": "common"
+    },
+    {
+      "name": "Hermit shack",
+      "rarity": "common"
+    },
+    {
+      "name": "Single standing Stone",
+      "rarity": "common"
+    },
+    {
+      "name": "Talking tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient stone sarcophagus",
+      "rarity": "common"
+    },
+    {
+      "name": "Lean-to against the base of a tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Moss-covered wall of a collapsed Stone building",
+      "rarity": "common"
+    },
+    {
+      "name": "Witch tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient statue of a king",
+      "rarity": "common"
+    },
+    {
+      "name": "Hollow tree large enough to camp in",
+      "rarity": "common"
+    },
+    {
+      "name": "Well-maintained fruit orchard",
+      "rarity": "common"
+    },
+    {
+      "name": "Pleasant glade",
+      "rarity": "common"
+    },
+    {
+      "name": "Gallows tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Blue hole",
+      "rarity": "common"
+    },
+    {
+      "name": "Rocks jut from the forest \ufb02oor mimicking trees",
+      "rarity": "common"
+    },
+    {
+      "name": "Between knobby tree roots lies a crate of swords",
+      "rarity": "common"
+    },
+    {
+      "name": "Massive chain drawn between two immense stones",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient road covered with grass and leaves",
+      "rarity": "common"
+    },
+    {
+      "name": "Abandoned campsite",
+      "rarity": "common"
+    },
+    {
+      "name": "Freshly dug grave",
+      "rarity": "common"
+    },
+    {
+      "name": "Circle of Standing Stones",
+      "rarity": "common"
+    },
+    {
+      "name": "Treehouse village of small furry bipeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Foundation of stone of a once stout home",
+      "rarity": "common"
+    },
+    {
+      "name": "Alchemist\u2019s Cottage",
+      "rarity": "common"
+    },
+    {
+      "name": "Village of tiny people",
+      "rarity": "common"
+    },
+    {
+      "name": "Stream with a statue lying supine at the bottom",
+      "rarity": "common"
+    },
+    {
+      "name": "Tree covered with human skulls",
+      "rarity": "common"
+    },
+    {
+      "name": "Closed gate but no walls",
+      "rarity": "common"
+    },
+    {
+      "name": "Hill completely covered in soft thick moss",
+      "rarity": "common"
+    },
+    {
+      "name": "Fairy ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Forest canopy is so thick that light barely gets through",
+      "rarity": "common"
+    },
+    {
+      "name": "Cave with a secret cache of liquor",
+      "rarity": "common"
+    },
+    {
+      "name": "Homey cottage",
+      "rarity": "common"
+    },
+    {
+      "name": "Stones arranged in the shape of an arrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Stream with a beaver dam",
+      "rarity": "common"
+    },
+    {
+      "name": "Large tree stump serves a table set for tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruins of a castle",
+      "rarity": "common"
+    },
+    {
+      "name": "Abandoned treehouse",
+      "rarity": "common"
+    },
+    {
+      "name": "Lake with a dock and a rowboat",
+      "rarity": "common"
+    },
+    {
+      "name": "Badger den",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruins of a stone tower",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruins of a stockade",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient quarry",
+      "rarity": "common"
+    },
+    {
+      "name": "Grotto where the ghost of an elf princess resides",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear den",
+      "rarity": "common"
+    },
+    {
+      "name": "Fallen hollow tree large enough to walk through",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf pit",
+      "rarity": "common"
+    },
+    {
+      "name": "Fur trapper trading post",
+      "rarity": "common"
+    },
+    {
+      "name": "Ring of death",
+      "rarity": "common"
+    },
+    {
+      "name": "Entrance to an ogre lair",
+      "rarity": "common"
+    },
+    {
+      "name": "Field \ufb01lled with lifelike stone statues",
+      "rarity": "common"
+    },
+    {
+      "name": "Hot spring",
+      "rarity": "common"
+    },
+    {
+      "name": "River pouring into a subterranean cavern",
+      "rarity": "common"
+    },
+    {
+      "name": "Five piles of stones",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone about 8\u2019 in diameter stained with blood",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrows",
+      "rarity": "common"
+    },
+    {
+      "name": "Tar pits",
+      "rarity": "common"
+    },
+    {
+      "name": "Ship (there is no sea or water nearby)",
+      "rarity": "common"
+    },
+    {
+      "name": "Area of the forest is blighted",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone spiral staircase leading into the earth",
+      "rarity": "common"
+    }
+  ]
+}

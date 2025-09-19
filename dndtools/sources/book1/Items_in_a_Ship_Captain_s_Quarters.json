@@ -1,0 +1,406 @@
+{
+  "name": "Items in a Ship Captain\u2019s Quarters",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Molasses (1D4 jugs)",
+      "rarity": "common"
+    },
+    {
+      "name": "False Identity Papers",
+      "rarity": "common"
+    },
+    {
+      "name": "Tobacco (1D4 lbs.)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Spear",
+      "rarity": "common"
+    },
+    {
+      "name": "Feather Pillow",
+      "rarity": "common"
+    },
+    {
+      "name": "Sliver Pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Black Velvet Gloves",
+      "rarity": "common"
+    },
+    {
+      "name": "Star chart",
+      "rarity": "common"
+    },
+    {
+      "name": "My Life at Sea (un\ufb01nished manuscript)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Spyglass",
+      "rarity": "common"
+    },
+    {
+      "name": "Love Letter",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger with a Walrus Tusk Handle",
+      "rarity": "common"
+    },
+    {
+      "name": "Blanket",
+      "rarity": "common"
+    },
+    {
+      "name": "Letter from Cargo Owner",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sliver Pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Map to a Coastal Cave",
+      "rarity": "common"
+    },
+    {
+      "name": "Sliver Pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Finely Carved Jade Dolphin Statuette",
+      "rarity": "common"
+    },
+    {
+      "name": "Sliver Pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rope (20\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Boots",
+      "rarity": "common"
+    },
+    {
+      "name": "Rum (1D10 bottles)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sliver Pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Letter from a Wizard Seeking Passage",
+      "rarity": "common"
+    },
+    {
+      "name": "Rum (1D20 bottles)",
+      "rarity": "common"
+    },
+    {
+      "name": "Club",
+      "rarity": "common"
+    },
+    {
+      "name": "Whip",
+      "rarity": "common"
+    },
+    {
+      "name": "Green Cloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Great Sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Shoe Horn",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of Sea Currents",
+      "rarity": "common"
+    },
+    {
+      "name": "Short sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Book of Sea Shanties",
+      "rarity": "common"
+    },
+    {
+      "name": "Coded Letter",
+      "rarity": "common"
+    },
+    {
+      "name": "Log of Ship Repairs",
+      "rarity": "common"
+    },
+    {
+      "name": "Letter from another Captain",
+      "rarity": "common"
+    },
+    {
+      "name": "Harpoon",
+      "rarity": "common"
+    },
+    {
+      "name": "Vial of Seawater",
+      "rarity": "common"
+    },
+    {
+      "name": "Sliver Pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Red Silk Scarf",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gems (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "String (3\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Brass Belt Buckle",
+      "rarity": "common"
+    },
+    {
+      "name": "Candles (2)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Wanted Poster",
+      "rarity": "common"
+    },
+    {
+      "name": "Hourglass",
+      "rarity": "common"
+    },
+    {
+      "name": "Whale Bone Drinking Mug",
+      "rarity": "common"
+    },
+    {
+      "name": "Beer (1D4 barrels)",
+      "rarity": "common"
+    },
+    {
+      "name": "Strange Key made from Bone",
+      "rarity": "common"
+    },
+    {
+      "name": "Map to Buried Treasure",
+      "rarity": "common"
+    },
+    {
+      "name": "White Silk Sheets",
+      "rarity": "common"
+    },
+    {
+      "name": "Chest (locked)",
+      "rarity": "common"
+    },
+    {
+      "name": "Cargo Manifest",
+      "rarity": "common"
+    },
+    {
+      "name": "Smoking Pipe",
+      "rarity": "common"
+    },
+    {
+      "name": "Canvas (2\u2019 x 2\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Long sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Wanted Posters (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sextant",
+      "rarity": "common"
+    },
+    {
+      "name": "Conch Shell",
+      "rarity": "common"
+    },
+    {
+      "name": "Candle Snu\ufb00er",
+      "rarity": "common"
+    },
+    {
+      "name": "Ship\u2019s log",
+      "rarity": "common"
+    },
+    {
+      "name": "Rum (1D4 bottles)",
+      "rarity": "common"
+    },
+    {
+      "name": "Cutlass",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of Nearby Islands",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Shark Tooth (3\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wick Cutter",
+      "rarity": "common"
+    },
+    {
+      "name": "Letter from Ship Owner",
+      "rarity": "common"
+    },
+    {
+      "name": "Spices (1D4 lbs.)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ink (1D4 bottles)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "False Ship Records",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Globe",
+      "rarity": "common"
+    },
+    {
+      "name": "Compass",
+      "rarity": "common"
+    },
+    {
+      "name": "Ray Stinger inscribed with \u201cShadow from the Depths\u201d",
+      "rarity": "common"
+    },
+    {
+      "name": "Salted Fish (1D4 lbs.)",
+      "rarity": "common"
+    },
+    {
+      "name": "Herbs (1D4 lbs.)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Letter from a Political Leader",
+      "rarity": "common"
+    },
+    {
+      "name": "Basic Sailor Knots (book)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Candles (4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lantern",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Letter from a Port Master",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of Trade Routes",
+      "rarity": "common"
+    },
+    {
+      "name": "Vial of Strange Sand",
+      "rarity": "common"
+    },
+    {
+      "name": "Quill",
+      "rarity": "common"
+    },
+    {
+      "name": "Map to an Unknown Island",
+      "rarity": "common"
+    },
+    {
+      "name": "Wine (1D20 bottles)",
+      "rarity": "common"
+    },
+    {
+      "name": "Beautifully Carved Wooden Box (locked)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient Clay Tablet inscribed with an Unknown Language",
+      "rarity": "common"
+    }
+  ]
+}

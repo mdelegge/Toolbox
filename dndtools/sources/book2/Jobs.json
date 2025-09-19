@@ -1,0 +1,406 @@
+{
+  "name": "Jobs",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Find a nearby bandit hideout",
+      "rarity": "common"
+    },
+    {
+      "name": "Help a farmer \ufb01ght o\ufb00 a gang trying to steal his land",
+      "rarity": "common"
+    },
+    {
+      "name": "Help a merchant who is being hassled by gangsters",
+      "rarity": "common"
+    },
+    {
+      "name": "Help teach a teenager to \ufb01ght",
+      "rarity": "common"
+    },
+    {
+      "name": "Check out a nearby cave",
+      "rarity": "common"
+    },
+    {
+      "name": "Help a troubled spirit \ufb01nd peace",
+      "rarity": "common"
+    },
+    {
+      "name": "Locate a lost gemstone for a merchant",
+      "rarity": "common"
+    },
+    {
+      "name": "Help an innkeeper get a beehive out of the stables",
+      "rarity": "common"
+    },
+    {
+      "name": "Investigate a murder for the town council",
+      "rarity": "common"
+    },
+    {
+      "name": "Investigate the burning of a farmhouse",
+      "rarity": "common"
+    },
+    {
+      "name": "Find a rare herb for an herbalist",
+      "rarity": "common"
+    },
+    {
+      "name": "Help peasants do a controlled \ufb01eld burning",
+      "rarity": "common"
+    },
+    {
+      "name": "Clean a temple for the priest",
+      "rarity": "common"
+    },
+    {
+      "name": "Impersonate a noble at a party",
+      "rarity": "common"
+    },
+    {
+      "name": "Transport a dragon egg to a elven queen",
+      "rarity": "common"
+    },
+    {
+      "name": "Help out at the local quarry",
+      "rarity": "common"
+    },
+    {
+      "name": "Help dig a grave",
+      "rarity": "common"
+    },
+    {
+      "name": "Raid a troll\u2019s cave",
+      "rarity": "common"
+    },
+    {
+      "name": "Investigate a sinkhole",
+      "rarity": "common"
+    },
+    {
+      "name": "Guard a ship overnight",
+      "rarity": "common"
+    },
+    {
+      "name": "Help repair a dam",
+      "rarity": "common"
+    },
+    {
+      "name": "Capture a wanted outlaw",
+      "rarity": "common"
+    },
+    {
+      "name": "Cut timber for a businessman",
+      "rarity": "common"
+    },
+    {
+      "name": "Help an old lady across the street",
+      "rarity": "common"
+    },
+    {
+      "name": "Free a wrongly condemned prisoner",
+      "rarity": "common"
+    },
+    {
+      "name": "Help two teenagers elope",
+      "rarity": "common"
+    },
+    {
+      "name": "Help \ufb01x a widow\u2019s roof",
+      "rarity": "common"
+    },
+    {
+      "name": "Locate a missing merchant",
+      "rarity": "common"
+    },
+    {
+      "name": "Break up a gang of bootleggers",
+      "rarity": "common"
+    },
+    {
+      "name": "Represent a noble in an archery contest",
+      "rarity": "common"
+    },
+    {
+      "name": "Help tend an orchard",
+      "rarity": "common"
+    },
+    {
+      "name": "Return a ring to a noble family",
+      "rarity": "common"
+    },
+    {
+      "name": "Go to the underworld and bring someone back from the dead",
+      "rarity": "common"
+    },
+    {
+      "name": "Pick \ufb02owers for a wedding",
+      "rarity": "common"
+    },
+    {
+      "name": "In\ufb01ltrate the thieves\u2019 guild and pass information to the mayor",
+      "rarity": "common"
+    },
+    {
+      "name": "Rescue prisoners being held in a goblin lair",
+      "rarity": "common"
+    },
+    {
+      "name": "Load cargo on a ship for a sea captain",
+      "rarity": "common"
+    },
+    {
+      "name": "Round up escaped horses",
+      "rarity": "common"
+    },
+    {
+      "name": "Help raise a barn",
+      "rarity": "common"
+    },
+    {
+      "name": "Take care of horses at the stables",
+      "rarity": "common"
+    },
+    {
+      "name": "Help a noble \ufb01nd a lost key",
+      "rarity": "common"
+    },
+    {
+      "name": "Deliver a letter to the mayor of another town",
+      "rarity": "common"
+    },
+    {
+      "name": "Clear land for crops for a farmer",
+      "rarity": "common"
+    },
+    {
+      "name": "Help the king\u2019s mare give birth",
+      "rarity": "common"
+    },
+    {
+      "name": "Deliver medicine to ill person",
+      "rarity": "common"
+    },
+    {
+      "name": "Deliver an ancient book to a wizard",
+      "rarity": "common"
+    },
+    {
+      "name": "Transport goods for a merchant to another town",
+      "rarity": "common"
+    },
+    {
+      "name": "Get a cat out of a tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Track down a pickpocket",
+      "rarity": "common"
+    },
+    {
+      "name": "Find a little girl\u2019s doll",
+      "rarity": "common"
+    },
+    {
+      "name": "Deliver a package to the hermit of the hills",
+      "rarity": "common"
+    },
+    {
+      "name": "Find a rare book for a librarian",
+      "rarity": "common"
+    },
+    {
+      "name": "Investigate a \ufb01eld of dead birds",
+      "rarity": "common"
+    },
+    {
+      "name": "Escort a princess to her wedding",
+      "rarity": "common"
+    },
+    {
+      "name": "Dig a ditch for the mayor",
+      "rarity": "common"
+    },
+    {
+      "name": "Harvest crops for a farmer",
+      "rarity": "common"
+    },
+    {
+      "name": "Deliver a sword to a knight",
+      "rarity": "common"
+    },
+    {
+      "name": "Chop \ufb01rewood for the innkeeper",
+      "rarity": "common"
+    },
+    {
+      "name": "Set an ambush for bandits",
+      "rarity": "common"
+    },
+    {
+      "name": "Kill the rats in a warehouse",
+      "rarity": "common"
+    },
+    {
+      "name": "Investigate strange tracks by the lake",
+      "rarity": "common"
+    },
+    {
+      "name": "Find a kidnapped child",
+      "rarity": "common"
+    },
+    {
+      "name": "Find an escaped prisoner",
+      "rarity": "common"
+    },
+    {
+      "name": "Help a young page \ufb01nd his sword before the tournament",
+      "rarity": "common"
+    },
+    {
+      "name": "Guard the walls of the town overnight",
+      "rarity": "common"
+    },
+    {
+      "name": "Lend a hand in the mines",
+      "rarity": "common"
+    },
+    {
+      "name": "Investigate odd sightings in the tunnels under the town",
+      "rarity": "common"
+    },
+    {
+      "name": "Explore the ruins under the old saw mill",
+      "rarity": "common"
+    },
+    {
+      "name": "Investigate why the town\u2019s main water source dried up",
+      "rarity": "common"
+    },
+    {
+      "name": "Explore a ruin for a noble family",
+      "rarity": "common"
+    },
+    {
+      "name": "Help a general store with its grand opening",
+      "rarity": "common"
+    },
+    {
+      "name": "Protect a witness until the trial",
+      "rarity": "common"
+    },
+    {
+      "name": "Carry a message to another kingdom",
+      "rarity": "common"
+    },
+    {
+      "name": "Find the thief who stole the king\u2019s signet ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Investigate a strange door unearthed outside of town",
+      "rarity": "common"
+    },
+    {
+      "name": "Guard a trade caravan",
+      "rarity": "common"
+    },
+    {
+      "name": "Scout an orc camp for the queen",
+      "rarity": "common"
+    },
+    {
+      "name": "Deliver a ring to a certain gnome inventor",
+      "rarity": "common"
+    },
+    {
+      "name": "Escort a prisoner from one town to another",
+      "rarity": "common"
+    },
+    {
+      "name": "Plant crops for a widow",
+      "rarity": "common"
+    },
+    {
+      "name": "Dig a well",
+      "rarity": "common"
+    },
+    {
+      "name": "Bring a white stag to the king",
+      "rarity": "common"
+    },
+    {
+      "name": "Provide the entertainment at the princess\u2019s birthday party",
+      "rarity": "common"
+    },
+    {
+      "name": "Locate a runaway prince and return him to the queen",
+      "rarity": "common"
+    },
+    {
+      "name": "Investigate goblin tracks seen nearby",
+      "rarity": "common"
+    },
+    {
+      "name": "Provide security for a noble\u2019s party",
+      "rarity": "common"
+    },
+    {
+      "name": "Find the fountain of youth for a wealthy old man",
+      "rarity": "common"
+    },
+    {
+      "name": "Join an expedition to a lost city",
+      "rarity": "common"
+    },
+    {
+      "name": "Perform a prisoner exchange",
+      "rarity": "common"
+    },
+    {
+      "name": "Transport a chest to a dwarven stronghold",
+      "rarity": "common"
+    },
+    {
+      "name": "Milk the innkeeper\u2019s cows",
+      "rarity": "common"
+    },
+    {
+      "name": "Search the old city ruins for an artifact",
+      "rarity": "common"
+    },
+    {
+      "name": "Play matchmaker for two rival innkeepers",
+      "rarity": "common"
+    },
+    {
+      "name": "Deliver pies for an innkeeper",
+      "rarity": "common"
+    },
+    {
+      "name": "Map a forest for a noble",
+      "rarity": "common"
+    },
+    {
+      "name": "Investigate the sounds coming from the graveyard",
+      "rarity": "common"
+    },
+    {
+      "name": "Fix a wagon for a widow",
+      "rarity": "common"
+    },
+    {
+      "name": "Find a lost cat",
+      "rarity": "common"
+    },
+    {
+      "name": "Secretly deliver a message to a prisoner",
+      "rarity": "common"
+    },
+    {
+      "name": "Investigate recent burglaries",
+      "rarity": "common"
+    }
+  ]
+}

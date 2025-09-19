@@ -1,0 +1,406 @@
+{
+  "name": "Items in a Cell",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Thin bent copper plate",
+      "rarity": "common"
+    },
+    {
+      "name": "Beer stein",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted iron ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny wooden box",
+      "rarity": "common"
+    },
+    {
+      "name": "Raccoon skeleton",
+      "rarity": "common"
+    },
+    {
+      "name": "Straw doll",
+      "rarity": "common"
+    },
+    {
+      "name": "List of names written on parchment",
+      "rarity": "common"
+    },
+    {
+      "name": "Packet of letters hidden behind a loose stone",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken staff",
+      "rarity": "common"
+    },
+    {
+      "name": "Rotted mattress",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Shadow of a woman etched on the wall",
+      "rarity": "common"
+    },
+    {
+      "name": "'Willoughby' written in blood on the wall",
+      "rarity": "common"
+    },
+    {
+      "name": "Small sharpened piece of iron",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver earring",
+      "rarity": "common"
+    },
+    {
+      "name": "Dried rose",
+      "rarity": "common"
+    },
+    {
+      "name": "Face of a child drawn on the wall",
+      "rarity": "common"
+    },
+    {
+      "name": "Handkerchief with the Initials 'CJ'",
+      "rarity": "common"
+    },
+    {
+      "name": "Piece of chain (4')",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny symbol of a dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "Jailhouse calendar scratched into the wall",
+      "rarity": "common"
+    },
+    {
+      "name": "Rotted shirt",
+      "rarity": "common"
+    },
+    {
+      "name": "The skeleton of a prisoner",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron arrowhead",
+      "rarity": "common"
+    },
+    {
+      "name": "Madman's manifesto written on the wall",
+      "rarity": "common"
+    },
+    {
+      "name": "Small piece of 'lint'",
+      "rarity": "common"
+    },
+    {
+      "name": "Pile of quartz crystals on the bed",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of the prison",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny rock statue of a halfling",
+      "rarity": "common"
+    },
+    {
+      "name": "Child hiding under the bed",
+      "rarity": "common"
+    },
+    {
+      "name": "Oakleaf",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken board",
+      "rarity": "common"
+    },
+    {
+      "name": "Finger bone",
+      "rarity": "common"
+    },
+    {
+      "name": "Hilt of a dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Spool of red thread",
+      "rarity": "common"
+    },
+    {
+      "name": "Small brass gear",
+      "rarity": "common"
+    },
+    {
+      "name": "Single link of a tiny silver chain",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken arm band",
+      "rarity": "common"
+    },
+    {
+      "name": "Runes scratched into the wall",
+      "rarity": "common"
+    },
+    {
+      "name": "Polished disk used as a mirror",
+      "rarity": "common"
+    },
+    {
+      "name": "Parchment with a small hand print on it",
+      "rarity": "common"
+    },
+    {
+      "name": "Unconscious halfling",
+      "rarity": "common"
+    },
+    {
+      "name": "'Grildorf' scratched into the wall",
+      "rarity": "common"
+    },
+    {
+      "name": "Four leaf clover",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken flute",
+      "rarity": "common"
+    },
+    {
+      "name": "Pool of yellow slime in the corner",
+      "rarity": "common"
+    },
+    {
+      "name": "Outline of fire scratched on the floor",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken wine bottle",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Small puddle of oil",
+      "rarity": "common"
+    },
+    {
+      "name": "Pool of dried blood",
+      "rarity": "common"
+    },
+    {
+      "name": "Needle",
+      "rarity": "common"
+    },
+    {
+      "name": "Coin from a foreign land",
+      "rarity": "common"
+    },
+    {
+      "name": "Small padlock made of gold",
+      "rarity": "common"
+    },
+    {
+      "name": "Signet ring of a duchess",
+      "rarity": "common"
+    },
+    {
+      "name": "Small gold nugget",
+      "rarity": "common"
+    },
+    {
+      "name": "Flower in a vase",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper piece",
+      "rarity": "common"
+    },
+    {
+      "name": "Remnants of a fire",
+      "rarity": "common"
+    },
+    {
+      "name": "Rotted blanket",
+      "rarity": "common"
+    },
+    {
+      "name": "Brass button",
+      "rarity": "common"
+    },
+    {
+      "name": "Unconscious elf",
+      "rarity": "common"
+    },
+    {
+      "name": "Shiv",
+      "rarity": "common"
+    },
+    {
+      "name": "Tin cup",
+      "rarity": "common"
+    },
+    {
+      "name": "Inkwell (empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted nail",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver peace",
+      "rarity": "common"
+    },
+    {
+      "name": "Rotted leather pouch",
+      "rarity": "common"
+    },
+    {
+      "name": "Triangular shaped copper piece",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver key hidden behind a stone",
+      "rarity": "common"
+    },
+    {
+      "name": "Small tin box",
+      "rarity": "common"
+    },
+    {
+      "name": "Note",
+      "rarity": "common"
+    },
+    {
+      "name": "Shard of broken glass",
+      "rarity": "common"
+    },
+    {
+      "name": "Chicken feather carved into a rude quill",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Fishhook",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold piece",
+      "rarity": "common"
+    },
+    {
+      "name": "Single emerald",
+      "rarity": "common"
+    },
+    {
+      "name": "Blanket",
+      "rarity": "common"
+    },
+    {
+      "name": "Small crystal shard",
+      "rarity": "common"
+    },
+    {
+      "name": "Multi-colored marble",
+      "rarity": "common"
+    },
+    {
+      "name": "Letter 'R' scratched on the floor",
+      "rarity": "common"
+    },
+    {
+      "name": "Green dragon scale",
+      "rarity": "common"
+    },
+    {
+      "name": "Sealed letter",
+      "rarity": "common"
+    },
+    {
+      "name": "Marbles (D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken vase",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken pewter pitcher",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted manacles",
+      "rarity": "common"
+    },
+    {
+      "name": "Tin plate",
+      "rarity": "common"
+    },
+    {
+      "name": "Human femur",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny gold shavings",
+      "rarity": "common"
+    },
+    {
+      "name": "Scratches around one stone in the wall",
+      "rarity": "common"
+    },
+    {
+      "name": "Small figurine carved out of soap",
+      "rarity": "common"
+    },
+    {
+      "name": "Small copper disk",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottle of wine (half full)",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken quill",
+      "rarity": "common"
+    },
+    {
+      "name": "Strange red powder sprinkled on the floor",
+      "rarity": "common"
+    },
+    {
+      "name": "Small bit of string",
+      "rarity": "common"
+    },
+    {
+      "name": "Electrum piece",
+      "rarity": "common"
+    },
+    {
+      "name": "Tip of a dagger blade",
+      "rarity": "common"
+    }
+  ]
+}

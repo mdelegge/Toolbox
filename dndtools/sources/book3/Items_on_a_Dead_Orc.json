@@ -1,0 +1,406 @@
+{
+  "name": "Items on a Dead Orc",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Strange meat",
+      "rarity": "common"
+    },
+    {
+      "name": "Canvas sack",
+      "rarity": "common"
+    },
+    {
+      "name": "Rancid butter",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Chain (2\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Short sword made from a human femur",
+      "rarity": "common"
+    },
+    {
+      "name": "Weasel pelts (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Constable badge",
+      "rarity": "common"
+    },
+    {
+      "name": "Ring (25% chance magical)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear pelt",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Elf scalps (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Daggers (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Longsword",
+      "rarity": "common"
+    },
+    {
+      "name": "Letter",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Clay shard with strange symbols",
+      "rarity": "common"
+    },
+    {
+      "name": "Note",
+      "rarity": "common"
+    },
+    {
+      "name": "Bolo",
+      "rarity": "common"
+    },
+    {
+      "name": "Vial of blood",
+      "rarity": "common"
+    },
+    {
+      "name": "Moldy cheese",
+      "rarity": "common"
+    },
+    {
+      "name": "Waterskin",
+      "rarity": "common"
+    },
+    {
+      "name": "Human scalps (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron spikes (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crow wing",
+      "rarity": "common"
+    },
+    {
+      "name": "Horsetail",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear trap",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Map to a dungeon",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather pouch",
+      "rarity": "common"
+    },
+    {
+      "name": "Book",
+      "rarity": "common"
+    },
+    {
+      "name": "Maps (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead bat",
+      "rarity": "common"
+    },
+    {
+      "name": "Metal rod (25% chance magical)",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone pommel from a dwarf sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Longbow",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarf scalps (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wineskin",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron hook",
+      "rarity": "common"
+    },
+    {
+      "name": "Small pouch of salt",
+      "rarity": "common"
+    },
+    {
+      "name": "Rabbit pelt",
+      "rarity": "common"
+    },
+    {
+      "name": "Signet ring of a noble",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken key",
+      "rarity": "common"
+    },
+    {
+      "name": "Dice set",
+      "rarity": "common"
+    },
+    {
+      "name": "Deer pelt",
+      "rarity": "common"
+    },
+    {
+      "name": "Short sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Flint and tinder",
+      "rarity": "common"
+    },
+    {
+      "name": "Rolled up painting",
+      "rarity": "common"
+    },
+    {
+      "name": "Amulet (25% chance magical)",
+      "rarity": "common"
+    },
+    {
+      "name": "Vial of sparkly powder",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblet made from a hal\ufb02ing skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Human scalps (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Badger pelts (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Deed to a nearby farm",
+      "rarity": "common"
+    },
+    {
+      "name": "Human scalps (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron arm ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Rope (hempen, 50\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Map to a cave",
+      "rarity": "common"
+    },
+    {
+      "name": "Bone powder",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Totem",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf tooth necklace",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rabbit pelts (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Maggoty bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottle of wine (half full)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hawk feather headdress",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarf scalps (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Healing potion",
+      "rarity": "common"
+    },
+    {
+      "name": "Dog pelt",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrows (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Locked box with a coat of arms",
+      "rarity": "common"
+    },
+    {
+      "name": "Map",
+      "rarity": "common"
+    },
+    {
+      "name": "Obsidian ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Elven earring (25gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silk handkerchief embroidered with \u201cJM\u201d",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger (25% chance magical)",
+      "rarity": "common"
+    },
+    {
+      "name": "Pig bones",
+      "rarity": "common"
+    },
+    {
+      "name": "Human \ufb01ngers (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Horse pelt",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold tooth (2gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tin cup with a \u201cD\u201d stamped on it",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Elf ears (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sealed letter",
+      "rarity": "common"
+    },
+    {
+      "name": "Amulet",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather straps (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron nails (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sharpened stick",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Fishbones",
+      "rarity": "common"
+    },
+    {
+      "name": "Human ears (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Short bow",
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "name": "Weapons, Armor, and Equipment",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Clothes, common",
+      "rarity": "common"
+    },
+    {
+      "name": "Maul",
+      "rarity": "common"
+    },
+    {
+      "name": "Chain Shirt",
+      "rarity": "common"
+    },
+    {
+      "name": "Tinderbox",
+      "rarity": "common"
+    },
+    {
+      "name": "Lantern, hooded",
+      "rarity": "common"
+    },
+    {
+      "name": "Blowgun Needles (50)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crossbow, hand",
+      "rarity": "common"
+    },
+    {
+      "name": "Hourglass",
+      "rarity": "common"
+    },
+    {
+      "name": "Spyglass",
+      "rarity": "common"
+    },
+    {
+      "name": "Pick, miner\u2019s",
+      "rarity": "common"
+    },
+    {
+      "name": "Blanket",
+      "rarity": "common"
+    },
+    {
+      "name": "Pike",
+      "rarity": "common"
+    },
+    {
+      "name": "Shortbow",
+      "rarity": "common"
+    },
+    {
+      "name": "Chain Mail",
+      "rarity": "common"
+    },
+    {
+      "name": "Warhammer",
+      "rarity": "common"
+    },
+    {
+      "name": "Candle",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrows (20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Longbow",
+      "rarity": "common"
+    },
+    {
+      "name": "Alchemist\u2019s \ufb01re (\ufb02ask)",
+      "rarity": "common"
+    },
+    {
+      "name": "Scimitar",
+      "rarity": "common"
+    },
+    {
+      "name": "Soap",
+      "rarity": "common"
+    },
+    {
+      "name": "Waterskin",
+      "rarity": "common"
+    },
+    {
+      "name": "War Pick",
+      "rarity": "common"
+    },
+    {
+      "name": "Rope, hempen (50 feet)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tent, two-person",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather Armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Manacles",
+      "rarity": "common"
+    },
+    {
+      "name": "Backpack",
+      "rarity": "common"
+    },
+    {
+      "name": "Trident",
+      "rarity": "common"
+    },
+    {
+      "name": "Grappling hook",
+      "rarity": "common"
+    },
+    {
+      "name": "Splint Armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Breastplate",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Ring Mail",
+      "rarity": "common"
+    },
+    {
+      "name": "Poison, basic (vial)",
+      "rarity": "common"
+    },
+    {
+      "name": "Quiver",
+      "rarity": "common"
+    },
+    {
+      "name": "Shovel",
+      "rarity": "common"
+    },
+    {
+      "name": "Halberd",
+      "rarity": "common"
+    },
+    {
+      "name": "Javelin",
+      "rarity": "common"
+    },
+    {
+      "name": "Longsword",
+      "rarity": "common"
+    },
+    {
+      "name": "Flail",
+      "rarity": "common"
+    },
+    {
+      "name": "Rapier",
+      "rarity": "common"
+    },
+    {
+      "name": "Fishing tackle",
+      "rarity": "common"
+    },
+    {
+      "name": "Lantern, bullseye",
+      "rarity": "common"
+    },
+    {
+      "name": "Blowgun",
+      "rarity": "common"
+    },
+    {
+      "name": "Glaive",
+      "rarity": "common"
+    },
+    {
+      "name": "Hammer",
+      "rarity": "common"
+    },
+    {
+      "name": "Vial",
+      "rarity": "common"
+    },
+    {
+      "name": "Crossbow, heavy",
+      "rarity": "common"
+    },
+    {
+      "name": "Greataxe",
+      "rarity": "common"
+    },
+    {
+      "name": "Pouch",
+      "rarity": "common"
+    },
+    {
+      "name": "Case, crossbow bolt",
+      "rarity": "common"
+    },
+    {
+      "name": "Net",
+      "rarity": "common"
+    },
+    {
+      "name": "Rope, silk (50 feet)",
+      "rarity": "common"
+    },
+    {
+      "name": "Oil (\ufb02ask)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crowbar",
+      "rarity": "common"
+    },
+    {
+      "name": "Rations (1 day)",
+      "rarity": "common"
+    },
+    {
+      "name": "Handaxe",
+      "rarity": "common"
+    },
+    {
+      "name": "Battleaxe",
+      "rarity": "common"
+    },
+    {
+      "name": "Greatsword",
+      "rarity": "common"
+    },
+    {
+      "name": "Spikes, iron (10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Piton",
+      "rarity": "common"
+    },
+    {
+      "name": "Spear",
+      "rarity": "common"
+    },
+    {
+      "name": "Sling",
+      "rarity": "common"
+    },
+    {
+      "name": "Hide Armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Lance",
+      "rarity": "common"
+    },
+    {
+      "name": "Torch",
+      "rarity": "common"
+    },
+    {
+      "name": "Robes",
+      "rarity": "common"
+    },
+    {
+      "name": "Magnifying glass",
+      "rarity": "common"
+    },
+    {
+      "name": "Whetstone",
+      "rarity": "common"
+    },
+    {
+      "name": "Studded Leather Armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Pole (10-foot)",
+      "rarity": "common"
+    },
+    {
+      "name": "Shield",
+      "rarity": "common"
+    },
+    {
+      "name": "Shortsword",
+      "rarity": "common"
+    },
+    {
+      "name": "Club",
+      "rarity": "common"
+    },
+    {
+      "name": "Ball bearings (bag of 1,000)",
+      "rarity": "common"
+    },
+    {
+      "name": "Morningstar",
+      "rarity": "common"
+    },
+    {
+      "name": "Caltrops (bag of 20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Chalk (1 piece)",
+      "rarity": "common"
+    },
+    {
+      "name": "Clothes, traveler\u2019s",
+      "rarity": "common"
+    },
+    {
+      "name": "Greatclub",
+      "rarity": "common"
+    },
+    {
+      "name": "Sickle",
+      "rarity": "common"
+    },
+    {
+      "name": "Mace",
+      "rarity": "common"
+    },
+    {
+      "name": "Crossbow, light",
+      "rarity": "common"
+    },
+    {
+      "name": "Dart",
+      "rarity": "common"
+    },
+    {
+      "name": "Plate Armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Sling bullets (20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Whip",
+      "rarity": "common"
+    },
+    {
+      "name": "Light Hammer",
+      "rarity": "common"
+    },
+    {
+      "name": "Crossbow bolts (20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hunting trap",
+      "rarity": "common"
+    },
+    {
+      "name": "Half Plate Armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Holy Water (\ufb02ask)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bedroll",
+      "rarity": "common"
+    },
+    {
+      "name": "Hammer, sledge",
+      "rarity": "common"
+    },
+    {
+      "name": "Quartersta\ufb00",
+      "rarity": "common"
+    },
+    {
+      "name": "Case, map or scroll",
+      "rarity": "common"
+    },
+    {
+      "name": "Chain (10 feet)",
+      "rarity": "common"
+    },
+    {
+      "name": "Scale Mail",
+      "rarity": "common"
+    },
+    {
+      "name": "Padded Armor",
+      "rarity": "common"
+    }
+  ]
+}

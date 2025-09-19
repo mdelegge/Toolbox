@@ -1,0 +1,402 @@
+{
+  "name": "Items in a Chest",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Daggers (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottles of wine (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Decaying halfling head",
+      "rarity": "common"
+    },
+    {
+      "name": "Vials of yellow liquid (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottles of wine (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper ingots (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottles of wine (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Book",
+      "rarity": "common"
+    },
+    {
+      "name": "Bowls of clear liquid (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Vellum manuscripts (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Decaying human head",
+      "rarity": "common"
+    },
+    {
+      "name": "Mummified child",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Strange seed (4in diameter)",
+      "rarity": "common"
+    },
+    {
+      "name": "Smith's tools",
+      "rarity": "common"
+    },
+    {
+      "name": "Glittering powder",
+      "rarity": "common"
+    },
+    {
+      "name": "Candelabra",
+      "rarity": "common"
+    },
+    {
+      "name": "Decaying dwarf head",
+      "rarity": "common"
+    },
+    {
+      "name": "Bowl (empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Platinum pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Three polished stones sitting in a row",
+      "rarity": "common"
+    },
+    {
+      "name": "Candles (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Thin gold chain",
+      "rarity": "common"
+    },
+    {
+      "name": "Daggers (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "A short sword covered in dried blood",
+      "rarity": "common"
+    },
+    {
+      "name": "Small statue of a grizzly bear",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver key wrapped in an old rag",
+      "rarity": "common"
+    },
+    {
+      "name": "Monocle",
+      "rarity": "common"
+    },
+    {
+      "name": "Books (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Collection of letters",
+      "rarity": "common"
+    },
+    {
+      "name": "Electrum pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Drawing of a beautiful woman",
+      "rarity": "common"
+    },
+    {
+      "name": "Rose colored glasses",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (2D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lock of red hair tied with a blue ribbon",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottles of wine (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Torches (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Maps (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden thread",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Scrolls (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron ingots (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Remnants of burned manuscripts",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottles of wine (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Magic item",
+      "rarity": "common"
+    },
+    {
+      "name": "Vials of blue liquid (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Spell book",
+      "rarity": "common"
+    },
+    {
+      "name": "Books (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron wire",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Runes inscribed on a wooden stick",
+      "rarity": "common"
+    },
+    {
+      "name": "Papyrus manuscripts (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mirror",
+      "rarity": "common"
+    },
+    {
+      "name": "China plate",
+      "rarity": "common"
+    },
+    {
+      "name": "Decaying elf head",
+      "rarity": "common"
+    },
+    {
+      "name": "Sand and seashells",
+      "rarity": "common"
+    },
+    {
+      "name": "Books (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sand",
+      "rarity": "common"
+    },
+    {
+      "name": "Charred wood",
+      "rarity": "common"
+    },
+    {
+      "name": "Stu\ufb00ed otter",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken glass",
+      "rarity": "common"
+    },
+    {
+      "name": "Toad in a glass bottle",
+      "rarity": "common"
+    },
+    {
+      "name": "Brooch",
+      "rarity": "common"
+    },
+    {
+      "name": "Books (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Spectacles",
+      "rarity": "common"
+    },
+    {
+      "name": "Drawing of a handsome man",
+      "rarity": "common"
+    },
+    {
+      "name": "Magic item",
+      "rarity": "common"
+    },
+    {
+      "name": "Vials of red liquid (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Clay tablet with cuneiform writing",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottle of wine",
+      "rarity": "common"
+    },
+    {
+      "name": "Mummi\ufb01ed cat",
+      "rarity": "common"
+    },
+    {
+      "name": "Feather",
+      "rarity": "common"
+    },
+    {
+      "name": "Bowl covered in dried blood",
+      "rarity": "common"
+    },
+    {
+      "name": "Unidentified seeds (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Seedling sprouting from soil",
+      "rarity": "common"
+    },
+    {
+      "name": "Note",
+      "rarity": "common"
+    },
+    {
+      "name": "Vials of green liquid (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mummified badger",
+      "rarity": "common"
+    },
+    {
+      "name": "Map",
+      "rarity": "common"
+    },
+    {
+      "name": "Moth-eaten laundry",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver slippers",
+      "rarity": "common"
+    },
+    {
+      "name": "Candles (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ashes",
+      "rarity": "common"
+    },
+    {
+      "name": "Steel ingots (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Pressed flower",
+      "rarity": "common"
+    },
+    {
+      "name": "Bloody rags",
+      "rarity": "common"
+    },
+    {
+      "name": "Scroll",
+      "rarity": "common"
+    },
+    {
+      "name": "Painting of a child",
+      "rarity": "common"
+    },
+    {
+      "name": "Torch",
+      "rarity": "common"
+    },
+    {
+      "name": "Decaying body",
+      "rarity": "common"
+    },
+    {
+      "name": "Magic item",
+      "rarity": "common"
+    },
+    {
+      "name": "Firewood",
+      "rarity": "common"
+    },
+    {
+      "name": "Parchment manuscripts (1D12)",
+      "rarity": "common"
+    }
+  ]
+}

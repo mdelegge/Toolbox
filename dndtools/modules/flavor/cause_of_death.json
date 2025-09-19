@@ -1,0 +1,406 @@
+{
+  "name": "Cause of Death",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Tripped and hit their head on a large rock",
+      "rarity": "common"
+    },
+    {
+      "name": "Fell off of a tall cliff",
+      "rarity": "common"
+    },
+    {
+      "name": "Mauled by an angry bear",
+      "rarity": "common"
+    },
+    {
+      "name": "Starved to death in prison",
+      "rarity": "common"
+    },
+    {
+      "name": "Publicly executed by hanging",
+      "rarity": "common"
+    },
+    {
+      "name": "Cooked and eaten by giants",
+      "rarity": "common"
+    },
+    {
+      "name": "Set off a dart trap",
+      "rarity": "common"
+    },
+    {
+      "name": "Drowned in a pond",
+      "rarity": "common"
+    },
+    {
+      "name": "Poisoned by an assassin",
+      "rarity": "common"
+    },
+    {
+      "name": "Publicly executed by beheading",
+      "rarity": "common"
+    },
+    {
+      "name": "Ate the wrong mushroom",
+      "rarity": "common"
+    },
+    {
+      "name": "Street mugging",
+      "rarity": "common"
+    },
+    {
+      "name": "Baking went horribly wrong",
+      "rarity": "common"
+    },
+    {
+      "name": "Starved to death in the wilderness",
+      "rarity": "common"
+    },
+    {
+      "name": "Ceased to exist",
+      "rarity": "common"
+    },
+    {
+      "name": "Caught stealing from a tavern",
+      "rarity": "common"
+    },
+    {
+      "name": "Drowned in a river",
+      "rarity": "common"
+    },
+    {
+      "name": "Freak painting accident",
+      "rarity": "common"
+    },
+    {
+      "name": "Set off a spear trap",
+      "rarity": "common"
+    },
+    {
+      "name": "'Yes, that dress does make you look fat'",
+      "rarity": "common"
+    },
+    {
+      "name": "Got lost in a cave",
+      "rarity": "common"
+    },
+    {
+      "name": "Sacred by cultists",
+      "rarity": "common"
+    },
+    {
+      "name": "Died of dehydration in the desert",
+      "rarity": "common"
+    },
+    {
+      "name": "Dysentery",
+      "rarity": "common"
+    },
+    {
+      "name": "Eaten from the inside by parasites",
+      "rarity": "common"
+    },
+    {
+      "name": "Defeated in a duel",
+      "rarity": "common"
+    },
+    {
+      "name": "Never existed in the first place",
+      "rarity": "common"
+    },
+    {
+      "name": "Frostbite",
+      "rarity": "common"
+    },
+    {
+      "name": "Caravan robbery went wrong",
+      "rarity": "common"
+    },
+    {
+      "name": "Sat on by an elephant",
+      "rarity": "common"
+    },
+    {
+      "name": "Hold my mead",
+      "rarity": "common"
+    },
+    {
+      "name": "Stabbed by an angry gnome",
+      "rarity": "common"
+    },
+    {
+      "name": "Sick from bad stew",
+      "rarity": "common"
+    },
+    {
+      "name": "Seduced by a succubus",
+      "rarity": "common"
+    },
+    {
+      "name": "Drowned in the ocean",
+      "rarity": "common"
+    },
+    {
+      "name": "Freak arm-wrestling accident",
+      "rarity": "common"
+    },
+    {
+      "name": "Eaten by a werewolf",
+      "rarity": "common"
+    },
+    {
+      "name": "Snake charming went horribly wrong",
+      "rarity": "common"
+    },
+    {
+      "name": "Forgot to breathe",
+      "rarity": "common"
+    },
+    {
+      "name": "Publicly burned at the stake",
+      "rarity": "common"
+    },
+    {
+      "name": "Sacrificed self for others",
+      "rarity": "common"
+    },
+    {
+      "name": "Roasted by an angry dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "Overwhelmed by a horde of goblins",
+      "rarity": "common"
+    },
+    {
+      "name": "Volunteered for a wizard's research",
+      "rarity": "common"
+    },
+    {
+      "name": "Set off a cave-in trap",
+      "rarity": "common"
+    },
+    {
+      "name": "Trampled by horses",
+      "rarity": "common"
+    },
+    {
+      "name": "Swarmed by hungry beetles",
+      "rarity": "common"
+    },
+    {
+      "name": "Friendly embrace went horribly wrong",
+      "rarity": "common"
+    },
+    {
+      "name": "Bludgeoned to death in a tavern brawl",
+      "rarity": "common"
+    },
+    {
+      "name": "Fell asleep; never woke up",
+      "rarity": "common"
+    },
+    {
+      "name": "Freak juggling accident",
+      "rarity": "common"
+    },
+    {
+      "name": "Stabbed by an angry halfling",
+      "rarity": "common"
+    },
+    {
+      "name": "'Oh, dragons are friendly.",
+      "rarity": "common"
+    },
+    {
+      "name": "Head crushed by an orc warlord",
+      "rarity": "common"
+    },
+    {
+      "name": "Drowned in the washroom",
+      "rarity": "common"
+    },
+    {
+      "name": "Accidentally murdered (mistaken identity)",
+      "rarity": "common"
+    },
+    {
+      "name": "Brain maggots",
+      "rarity": "common"
+    },
+    {
+      "name": "Thought they could fly (they could not)",
+      "rarity": "common"
+    },
+    {
+      "name": "Street scam went horribly wrong",
+      "rarity": "common"
+    },
+    {
+      "name": "Tried to tame a tiger",
+      "rarity": "common"
+    },
+    {
+      "name": "Eaten by a giant spider",
+      "rarity": "common"
+    },
+    {
+      "name": "Old age",
+      "rarity": "common"
+    },
+    {
+      "name": "Volunteered for a suicide mission",
+      "rarity": "common"
+    },
+    {
+      "name": "Faked their own death, got buried alive",
+      "rarity": "common"
+    },
+    {
+      "name": "Swarmed by angry bees",
+      "rarity": "common"
+    },
+    {
+      "name": "Allergic reaction to dwarf dander",
+      "rarity": "common"
+    },
+    {
+      "name": "Overwhelmed by a horde of kobolds",
+      "rarity": "common"
+    },
+    {
+      "name": "Drowned in the sewers",
+      "rarity": "common"
+    },
+    {
+      "name": "Freak knife sharpening accident",
+      "rarity": "common"
+    },
+    {
+      "name": "Eaten by rats in a tavern cellar",
+      "rarity": "common"
+    },
+    {
+      "name": "Their head exploded",
+      "rarity": "common"
+    },
+    {
+      "name": "Strangled by a roper",
+      "rarity": "common"
+    },
+    {
+      "name": "Drinking contest went horribly wrong",
+      "rarity": "common"
+    },
+    {
+      "name": "Eaten by a chimera",
+      "rarity": "common"
+    },
+    {
+      "name": "Seduced by vicious mermaids",
+      "rarity": "common"
+    },
+    {
+      "name": "Petrienced by a basilisk",
+      "rarity": "common"
+    },
+    {
+      "name": "Caught pickpocketing a town guard",
+      "rarity": "common"
+    },
+    {
+      "name": "Mistaken for dead, buried alive",
+      "rarity": "common"
+    },
+    {
+      "name": "Torn apart by wolves",
+      "rarity": "common"
+    },
+    {
+      "name": "Decapitated by a dwarf warrior",
+      "rarity": "common"
+    },
+    {
+      "name": "Swarmed by thousands of small spiders",
+      "rarity": "common"
+    },
+    {
+      "name": "Devoured by a beast from another dimension",
+      "rarity": "common"
+    },
+    {
+      "name": "Haircut went horribly wrong",
+      "rarity": "common"
+    },
+    {
+      "name": "I bet I could seduce that half-orc barbarian",
+      "rarity": "common"
+    },
+    {
+      "name": "Starved to death in a dungeon",
+      "rarity": "common"
+    },
+    {
+      "name": "Stomped and mauled by an angry yeti",
+      "rarity": "common"
+    },
+    {
+      "name": "Shrunk by an angry sorcerer",
+      "rarity": "common"
+    },
+    {
+      "name": "Swallowed whole by a whale",
+      "rarity": "common"
+    },
+    {
+      "name": "Left behind in a dangerous dungeon",
+      "rarity": "common"
+    },
+    {
+      "name": "Eaten by a manticore",
+      "rarity": "common"
+    },
+    {
+      "name": "Drowned in a lake",
+      "rarity": "common"
+    },
+    {
+      "name": "Disintegrated by a wizard",
+      "rarity": "common"
+    },
+    {
+      "name": "Failed to resist a siren's song",
+      "rarity": "common"
+    },
+    {
+      "name": "Succumbed to existential dread",
+      "rarity": "common"
+    },
+    {
+      "name": "Motivational speech went horribly wrong",
+      "rarity": "common"
+    },
+    {
+      "name": "Gored by a gorgon",
+      "rarity": "common"
+    },
+    {
+      "name": "Caught burglarizing a house",
+      "rarity": "common"
+    },
+    {
+      "name": "Dropped from a great height by a hippogriff",
+      "rarity": "common"
+    },
+    {
+      "name": "Swarmed by thousands of ants",
+      "rarity": "common"
+    },
+    {
+      "name": "Replaced by a doppelganger",
+      "rarity": "common"
+    }
+  ]
+}

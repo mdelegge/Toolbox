@@ -1,0 +1,406 @@
+{
+  "name": "Jewelry",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Sapphire Bracelet (25gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Earring (1gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Topaz Earring (15gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Topaz Armlet (35gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Belly Chain (3gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Emerald Circlet (200gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron Circlet (1gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Diamond Necklace (200gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Belly Chain (30gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Necklace (10gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruby Belly Chain (95gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Topaz Circlet (75gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Diamond Ring (50gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron Armlet (2gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Bracelet (20gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Opal Necklace (350gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Diamond Anklet (25gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruby Ring (150gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Bracelet (5gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sapphire Anklet (50gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Diamond Brooch (75gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruby Earring (35gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Ring (2gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Ring (20gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lapis Lazuli Bracelet (150gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lapis Lazuli Earring (100gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Emerald Anklet (30gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Topaz Torc (100gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Anklet (20gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Brooch (10gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Emerald Ring (50gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Circlet (75gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sapphire Earring (45gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lapis Lazuli Ring (175gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Torc (8gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Emerald Armlet (30gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Diamond Circlet (300gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron Necklace (3gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Diamond Belly Chain (100gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Earring (10gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Torc (4gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Opal Bracelet (55gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lapis Lazuli Anklet (150gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Torc (60gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Topaz Brooch (45gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron Ring (1gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron Brooch (2gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Brooch (5gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sapphire Armlet (55gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruby Necklace (350gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Opal Armlet (80gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Diamond Torc (75gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Emerald Brooch (75gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Topaz Belly Chain (30gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Jade Armlet (100gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruby Torc (135gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Anklet (5gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sapphire Circlet (185gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Circlet (6gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Emerald Earring (15gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lapis Lazuli Belly Chain (375gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Diamond Earring (25gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron Torc (1gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruby Brooch (50gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lapis Lazuli Torc (350gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Emerald Necklace (300gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Circlet (30gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Jade Necklace (300gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Necklace (3gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruby Anklet (65gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Opal Brooch (85gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Emerald Torc (80gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sapphire Torc (200gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Necklace (100gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Topaz Ring (55gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sapphire Ring (100gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron Earring (1gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Bracelet (1gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lapis Lazuli Brooch (250gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Diamond Bracelet (25gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Earring (2gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Armlet (2gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sapphire Belly Chain (135gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Jade Bracelet (75gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Emerald Bracelet (25gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Belly Chain (8gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron Bracelet (1gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Brooch (20gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Topaz Anklet (35gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Armlet (5gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruby Armlet (75gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Ring (5gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Armlet (20gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Opal Anklet (80gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lapis Lazuli Necklace (500gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruby Circlet (155gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron Belly Chain (1gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Opal Belly Chain (125gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lapis Lazuli Circlet (400gp)",
+      "rarity": "common"
+    },
+    {
+      "name": "Amulet (+1 CHR, 1000gp)",
+      "rarity": "common"
+    }
+  ]
+}

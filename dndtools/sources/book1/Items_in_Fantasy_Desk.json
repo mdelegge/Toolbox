@@ -1,0 +1,406 @@
+{
+  "name": "Items in Fantasy Desk",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Vellum (1 sheet)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wanted Posters (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Candles (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ink Bottles (1D4 empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger with Deer Antler Handle",
+      "rarity": "common"
+    },
+    {
+      "name": "Vellum (1D4 sheets)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Book of Local History",
+      "rarity": "common"
+    },
+    {
+      "name": "Spell Scroll (level 1)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ink Blotter",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Contract",
+      "rarity": "common"
+    },
+    {
+      "name": "Foreign Coin (Silver)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wax (1D6 cubes)",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of Nearby City",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Arrowhead",
+      "rarity": "common"
+    },
+    {
+      "name": "Quill",
+      "rarity": "common"
+    },
+    {
+      "name": "Keys (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ivory Statuette",
+      "rarity": "common"
+    },
+    {
+      "name": "Parchment (1D8 sheets)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wanted Poster",
+      "rarity": "common"
+    },
+    {
+      "name": "Metal Bowl",
+      "rarity": "common"
+    },
+    {
+      "name": "Parchment (1D20 sheets)",
+      "rarity": "common"
+    },
+    {
+      "name": "Quills (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Spell Scroll (level 3)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wax (2 cubes)",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of the Town",
+      "rarity": "common"
+    },
+    {
+      "name": "Account Ledger",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Signet Ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Ribbon (2\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Spell Scroll (level 2)",
+      "rarity": "common"
+    },
+    {
+      "name": "Candles (2)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Parchment (1 sheet)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ink Bottles (1D6 full)",
+      "rarity": "common"
+    },
+    {
+      "name": "Parchment (2 sheets)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wanted Posters (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden Bowl",
+      "rarity": "common"
+    },
+    {
+      "name": "Vellum (1D8 sheets)",
+      "rarity": "common"
+    },
+    {
+      "name": "Small Piece of Amber with a Fly Inside",
+      "rarity": "common"
+    },
+    {
+      "name": "Incriminating Letter",
+      "rarity": "common"
+    },
+    {
+      "name": "Abacus",
+      "rarity": "common"
+    },
+    {
+      "name": "Daggers (2)",
+      "rarity": "common"
+    },
+    {
+      "name": "Parchment (1D10 sheets)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ink Bottle (full)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ink Bottles (1D4 full)",
+      "rarity": "common"
+    },
+    {
+      "name": "Paper Weight",
+      "rarity": "common"
+    },
+    {
+      "name": "Ink Bottles (1D6 empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bust of Legendary Leader",
+      "rarity": "common"
+    },
+    {
+      "name": "Parchment (1D12 sheets)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Flint and Tinder",
+      "rarity": "common"
+    },
+    {
+      "name": "Quills (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Map to a Hidden Mine",
+      "rarity": "common"
+    },
+    {
+      "name": "Book of Poems",
+      "rarity": "common"
+    },
+    {
+      "name": "Compass",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Metal Cup",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rabbit\u2019s Foot",
+      "rarity": "common"
+    },
+    {
+      "name": "Prayer Book",
+      "rarity": "common"
+    },
+    {
+      "name": "Keys (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Vellum (1D12 sheets)",
+      "rarity": "common"
+    },
+    {
+      "name": "Half a Map to a Treasure Hoard",
+      "rarity": "common"
+    },
+    {
+      "name": "Parchment (1D4 sheets)",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of Shipping Routes",
+      "rarity": "common"
+    },
+    {
+      "name": "Map to a Dungeon",
+      "rarity": "common"
+    },
+    {
+      "name": "Keys (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Love Letter",
+      "rarity": "common"
+    },
+    {
+      "name": "Wax (3 cubes)",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of Trade Routes",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden Cup",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Parchment (1D6 sheets)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mummi\ufb01ed Monkey Hand",
+      "rarity": "common"
+    },
+    {
+      "name": "Wax (1 cube)",
+      "rarity": "common"
+    },
+    {
+      "name": "Vellum (1D8 sheets)",
+      "rarity": "common"
+    },
+    {
+      "name": "Vellum (1D20 sheets)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hit List",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of the Stars",
+      "rarity": "common"
+    },
+    {
+      "name": "Candle",
+      "rarity": "common"
+    },
+    {
+      "name": "Vellum (1D10 sheets)",
+      "rarity": "common"
+    },
+    {
+      "name": "Foreign Coin (Gold)",
+      "rarity": "common"
+    },
+    {
+      "name": "Scarab Broach",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Key",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ceramic Vase",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ink Bottle (empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Scribe\u2019s Knife",
+      "rarity": "common"
+    }
+  ]
+}

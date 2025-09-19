@@ -1,0 +1,406 @@
+{
+  "name": "Book Titles",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Aelfrein\u2019s Great Book of Dragons",
+      "rarity": "common"
+    },
+    {
+      "name": "The Chronicle of Og",
+      "rarity": "common"
+    },
+    {
+      "name": "Of Kings and Knights",
+      "rarity": "common"
+    },
+    {
+      "name": "The Flora and Fauna of Derindor",
+      "rarity": "common"
+    },
+    {
+      "name": "The Saga of Linea",
+      "rarity": "common"
+    },
+    {
+      "name": "Catalog of Cultivated Seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "The Tale of Queen Elien and Her Jester",
+      "rarity": "common"
+    },
+    {
+      "name": "Teran\u2019s Great Voyage",
+      "rarity": "common"
+    },
+    {
+      "name": "The Book of Fire",
+      "rarity": "common"
+    },
+    {
+      "name": "The Weeping Princess",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarven Stone Carving",
+      "rarity": "common"
+    },
+    {
+      "name": "Lowmer\u2019s Crown",
+      "rarity": "common"
+    },
+    {
+      "name": "On Feasting",
+      "rarity": "common"
+    },
+    {
+      "name": "Fren\u2019s Guide to Ship Building",
+      "rarity": "common"
+    },
+    {
+      "name": "Animal Husbandry in the First Age",
+      "rarity": "common"
+    },
+    {
+      "name": "The Black Book of Understone",
+      "rarity": "common"
+    },
+    {
+      "name": "The Book of Ice",
+      "rarity": "common"
+    },
+    {
+      "name": "The Fish of the Northern Lakes",
+      "rarity": "common"
+    },
+    {
+      "name": "The Voyage of Keyel",
+      "rarity": "common"
+    },
+    {
+      "name": "The War of Uncounted Woes",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblin\u2019s of Hinterlode",
+      "rarity": "common"
+    },
+    {
+      "name": "Studies of Water Fowl",
+      "rarity": "common"
+    },
+    {
+      "name": "Frogs and Toads of the South Wetlands",
+      "rarity": "common"
+    },
+    {
+      "name": "Alchemist\u2019s Guide to Transmuting",
+      "rarity": "common"
+    },
+    {
+      "name": "Hal\ufb02ing Death Rites",
+      "rarity": "common"
+    },
+    {
+      "name": "Southern Flowers and Their Uses",
+      "rarity": "common"
+    },
+    {
+      "name": "Evening Prayers",
+      "rarity": "common"
+    },
+    {
+      "name": "Swords: A Study",
+      "rarity": "common"
+    },
+    {
+      "name": "The Art of Fletching",
+      "rarity": "common"
+    },
+    {
+      "name": "The Confounding Speech of the Soutwards",
+      "rarity": "common"
+    },
+    {
+      "name": "The Chronicles of the South",
+      "rarity": "common"
+    },
+    {
+      "name": "Low Magic",
+      "rarity": "common"
+    },
+    {
+      "name": "Concerning Herbs",
+      "rarity": "common"
+    },
+    {
+      "name": "Swordsmanship: A Guide for Novices",
+      "rarity": "common"
+    },
+    {
+      "name": "Sacred Days",
+      "rarity": "common"
+    },
+    {
+      "name": "The Lost World of the Dead",
+      "rarity": "common"
+    },
+    {
+      "name": "The Blue Book of the Ages",
+      "rarity": "common"
+    },
+    {
+      "name": "On Raising Goats",
+      "rarity": "common"
+    },
+    {
+      "name": "The Study of Magic",
+      "rarity": "common"
+    },
+    {
+      "name": "Rare Plants",
+      "rarity": "common"
+    },
+    {
+      "name": "Illustrated Dragons of the North",
+      "rarity": "common"
+    },
+    {
+      "name": "The Forging of Wrathgor",
+      "rarity": "common"
+    },
+    {
+      "name": "Trevelyan\u2019s Fairytales",
+      "rarity": "common"
+    },
+    {
+      "name": "An Examination of Farming in the Logon",
+      "rarity": "common"
+    },
+    {
+      "name": "On Constructing Forti\ufb01cations",
+      "rarity": "common"
+    },
+    {
+      "name": "The Book of Blood",
+      "rarity": "common"
+    },
+    {
+      "name": "On Fasting",
+      "rarity": "common"
+    },
+    {
+      "name": "Hal\ufb02ing Pipeweed: An Investigation",
+      "rarity": "common"
+    },
+    {
+      "name": "Manners and Etiquette of the Court",
+      "rarity": "common"
+    },
+    {
+      "name": "The Burning of Gladwin",
+      "rarity": "common"
+    },
+    {
+      "name": "The Blood of Grapes: Oenological Studies",
+      "rarity": "common"
+    },
+    {
+      "name": "Hymns of Old",
+      "rarity": "common"
+    },
+    {
+      "name": "The Principles of Archery",
+      "rarity": "common"
+    },
+    {
+      "name": "The Tragedies of Sela",
+      "rarity": "common"
+    },
+    {
+      "name": "The Book of Water",
+      "rarity": "common"
+    },
+    {
+      "name": "The Art of Dwarvish Metal Smithing",
+      "rarity": "common"
+    },
+    {
+      "name": "On Governing",
+      "rarity": "common"
+    },
+    {
+      "name": "The Book of Shadow",
+      "rarity": "common"
+    },
+    {
+      "name": "The Reign of Queen Shealyn",
+      "rarity": "common"
+    },
+    {
+      "name": "The First Principles of Law",
+      "rarity": "common"
+    },
+    {
+      "name": "The Book of Cloud",
+      "rarity": "common"
+    },
+    {
+      "name": "Forest Gnomes: The Untold History",
+      "rarity": "common"
+    },
+    {
+      "name": "Swamp Beasts and Other Swimming Oddities",
+      "rarity": "common"
+    },
+    {
+      "name": "Long Grasses: Cultivation and Uses",
+      "rarity": "common"
+    },
+    {
+      "name": "Human Anatomy",
+      "rarity": "common"
+    },
+    {
+      "name": "A Practical Guide to the art of Wrestling",
+      "rarity": "common"
+    },
+    {
+      "name": "The Prayer Book of Gii",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarven Physiology",
+      "rarity": "common"
+    },
+    {
+      "name": "Working the Soil",
+      "rarity": "common"
+    },
+    {
+      "name": "Legends of the Mountains",
+      "rarity": "common"
+    },
+    {
+      "name": "Twelve Plays",
+      "rarity": "common"
+    },
+    {
+      "name": "Barehanded Fighting: Strategies and Tactics",
+      "rarity": "common"
+    },
+    {
+      "name": "Mount Karras and Its Environs",
+      "rarity": "common"
+    },
+    {
+      "name": "The Account the Kin-Slaying at Tor",
+      "rarity": "common"
+    },
+    {
+      "name": "Folk Songs for Children",
+      "rarity": "common"
+    },
+    {
+      "name": "The Account of Tirgil\u2019s Great Leap",
+      "rarity": "common"
+    },
+    {
+      "name": "Coin of the Realm: Thoughts on Monetary Policies",
+      "rarity": "common"
+    },
+    {
+      "name": "Phases of the Moon",
+      "rarity": "common"
+    },
+    {
+      "name": "When Kings Fall",
+      "rarity": "common"
+    },
+    {
+      "name": "Spices: Near and Far",
+      "rarity": "common"
+    },
+    {
+      "name": "Foreboding Visions: An Anthology of Demonic Poetry",
+      "rarity": "common"
+    },
+    {
+      "name": "Schools of Philosophy Among the High Elves",
+      "rarity": "common"
+    },
+    {
+      "name": "On Giants and Their Kin",
+      "rarity": "common"
+    },
+    {
+      "name": "The Galakon Forest",
+      "rarity": "common"
+    },
+    {
+      "name": "Sacheverell\u2019s Misfortune",
+      "rarity": "common"
+    },
+    {
+      "name": "Medicinal Roots and Where to Find Them",
+      "rarity": "common"
+    },
+    {
+      "name": "The Far Travels of Ambrose",
+      "rarity": "common"
+    },
+    {
+      "name": "The Shadows of Stars",
+      "rarity": "common"
+    },
+    {
+      "name": "Fairfor\u2019s Guide to Fairy Folk",
+      "rarity": "common"
+    },
+    {
+      "name": "Music from the Erilon Period",
+      "rarity": "common"
+    },
+    {
+      "name": "The Book of Stone",
+      "rarity": "common"
+    },
+    {
+      "name": "The Elder Days",
+      "rarity": "common"
+    },
+    {
+      "name": "Burial Practices of the Elves",
+      "rarity": "common"
+    },
+    {
+      "name": "Imps, Trolls, and Devils: A Guide to Encounters with Fiendish Foes",
+      "rarity": "common"
+    },
+    {
+      "name": "King of the Dragons",
+      "rarity": "common"
+    },
+    {
+      "name": "Lost Languages",
+      "rarity": "common"
+    },
+    {
+      "name": "Orcs and Diplomacy",
+      "rarity": "common"
+    },
+    {
+      "name": "Concerning the Folklore of the Kiraloft Vale",
+      "rarity": "common"
+    },
+    {
+      "name": "The Book of Wind",
+      "rarity": "common"
+    },
+    {
+      "name": "The Red Book of Westmarch",
+      "rarity": "common"
+    }
+  ]
+}

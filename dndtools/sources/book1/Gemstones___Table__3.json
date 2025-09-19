@@ -1,0 +1,406 @@
+{
+  "name": "Gemstones \u2013 Table #3",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Phosgenite",
+      "rarity": "common"
+    },
+    {
+      "name": "Aegerine",
+      "rarity": "common"
+    },
+    {
+      "name": "Petalite (a.k.a. castorite)",
+      "rarity": "common"
+    },
+    {
+      "name": "Kyanite",
+      "rarity": "common"
+    },
+    {
+      "name": "Cummingtonite",
+      "rarity": "common"
+    },
+    {
+      "name": "Epidote",
+      "rarity": "common"
+    },
+    {
+      "name": "Riebeckite",
+      "rarity": "common"
+    },
+    {
+      "name": "Stichtite",
+      "rarity": "common"
+    },
+    {
+      "name": "Esperite",
+      "rarity": "common"
+    },
+    {
+      "name": "Anglesite",
+      "rarity": "common"
+    },
+    {
+      "name": "Scolecite",
+      "rarity": "common"
+    },
+    {
+      "name": "Phlogopite",
+      "rarity": "common"
+    },
+    {
+      "name": "Fayalite",
+      "rarity": "common"
+    },
+    {
+      "name": "Cinnabar",
+      "rarity": "common"
+    },
+    {
+      "name": "Cordierite",
+      "rarity": "common"
+    },
+    {
+      "name": "Linarite",
+      "rarity": "common"
+    },
+    {
+      "name": "Iolite",
+      "rarity": "common"
+    },
+    {
+      "name": "Datolite",
+      "rarity": "common"
+    },
+    {
+      "name": "Antlerite",
+      "rarity": "common"
+    },
+    {
+      "name": "Wavellite",
+      "rarity": "common"
+    },
+    {
+      "name": "Scheelite",
+      "rarity": "common"
+    },
+    {
+      "name": "Caledonite",
+      "rarity": "common"
+    },
+    {
+      "name": "Serendibite",
+      "rarity": "common"
+    },
+    {
+      "name": "Lepidolite",
+      "rarity": "common"
+    },
+    {
+      "name": "Jade",
+      "rarity": "common"
+    },
+    {
+      "name": "Stishovite",
+      "rarity": "common"
+    },
+    {
+      "name": "Biotite",
+      "rarity": "common"
+    },
+    {
+      "name": "Schorlomite",
+      "rarity": "common"
+    },
+    {
+      "name": "Pimelite",
+      "rarity": "common"
+    },
+    {
+      "name": "Vermiculite",
+      "rarity": "common"
+    },
+    {
+      "name": "Legrandite",
+      "rarity": "common"
+    },
+    {
+      "name": "Hanksite",
+      "rarity": "common"
+    },
+    {
+      "name": "Leadhillite",
+      "rarity": "common"
+    },
+    {
+      "name": "Tourmaline",
+      "rarity": "common"
+    },
+    {
+      "name": "Apophyllite",
+      "rarity": "common"
+    },
+    {
+      "name": "Sugilite",
+      "rarity": "common"
+    },
+    {
+      "name": "Jasper",
+      "rarity": "common"
+    },
+    {
+      "name": "Cacoxenite",
+      "rarity": "common"
+    },
+    {
+      "name": "Antigorite",
+      "rarity": "common"
+    },
+    {
+      "name": "Dioptase",
+      "rarity": "common"
+    },
+    {
+      "name": "Melanterite",
+      "rarity": "common"
+    },
+    {
+      "name": "Proustite",
+      "rarity": "common"
+    },
+    {
+      "name": "Kunzite",
+      "rarity": "common"
+    },
+    {
+      "name": "Chrysoberyl",
+      "rarity": "common"
+    },
+    {
+      "name": "Hematite",
+      "rarity": "common"
+    },
+    {
+      "name": "Carminite",
+      "rarity": "common"
+    },
+    {
+      "name": "S\u00e9randite",
+      "rarity": "common"
+    },
+    {
+      "name": "Peridot",
+      "rarity": "common"
+    },
+    {
+      "name": "Leucophanite",
+      "rarity": "common"
+    },
+    {
+      "name": "Tsavorite",
+      "rarity": "common"
+    },
+    {
+      "name": "Cassiterite",
+      "rarity": "common"
+    },
+    {
+      "name": "Crocidolite",
+      "rarity": "common"
+    },
+    {
+      "name": "Jadeite",
+      "rarity": "common"
+    },
+    {
+      "name": "Carnelian",
+      "rarity": "common"
+    },
+    {
+      "name": "Tinaksite",
+      "rarity": "common"
+    },
+    {
+      "name": "Analcime",
+      "rarity": "common"
+    },
+    {
+      "name": "Chlorastrolite",
+      "rarity": "common"
+    },
+    {
+      "name": "Kornerupine",
+      "rarity": "common"
+    },
+    {
+      "name": "Spinel",
+      "rarity": "common"
+    },
+    {
+      "name": "Dravite",
+      "rarity": "common"
+    },
+    {
+      "name": "Kidney Ore",
+      "rarity": "common"
+    },
+    {
+      "name": "Tschermakite",
+      "rarity": "common"
+    },
+    {
+      "name": "Tugtupite",
+      "rarity": "common"
+    },
+    {
+      "name": "Magnesioaxinite",
+      "rarity": "common"
+    },
+    {
+      "name": "Uvarovite",
+      "rarity": "common"
+    },
+    {
+      "name": "Brucite",
+      "rarity": "common"
+    },
+    {
+      "name": "Mookaite",
+      "rarity": "common"
+    },
+    {
+      "name": "Pyrrhotite",
+      "rarity": "common"
+    },
+    {
+      "name": "Clinozoisite",
+      "rarity": "common"
+    },
+    {
+      "name": "Spessartine (a.k.a. spessartite)",
+      "rarity": "common"
+    },
+    {
+      "name": "Pezzottaite",
+      "rarity": "common"
+    },
+    {
+      "name": "Morganite",
+      "rarity": "common"
+    },
+    {
+      "name": "Astrophyllite",
+      "rarity": "common"
+    },
+    {
+      "name": "Hessonite",
+      "rarity": "common"
+    },
+    {
+      "name": "Ferroaxinite",
+      "rarity": "common"
+    },
+    {
+      "name": "Calcite",
+      "rarity": "common"
+    },
+    {
+      "name": "Beudantite",
+      "rarity": "common"
+    },
+    {
+      "name": "Adamite",
+      "rarity": "common"
+    },
+    {
+      "name": "Diaspore",
+      "rarity": "common"
+    },
+    {
+      "name": "Jarosite",
+      "rarity": "common"
+    },
+    {
+      "name": "Olenite",
+      "rarity": "common"
+    },
+    {
+      "name": "Benitoite",
+      "rarity": "common"
+    },
+    {
+      "name": "Andalusite",
+      "rarity": "common"
+    },
+    {
+      "name": "Topaz",
+      "rarity": "common"
+    },
+    {
+      "name": "Azurite",
+      "rarity": "common"
+    },
+    {
+      "name": "Diaboleite",
+      "rarity": "common"
+    },
+    {
+      "name": "Tremolite",
+      "rarity": "common"
+    },
+    {
+      "name": "Natrophilite",
+      "rarity": "common"
+    },
+    {
+      "name": "Chalcedony",
+      "rarity": "common"
+    },
+    {
+      "name": "Pumpellyite",
+      "rarity": "common"
+    },
+    {
+      "name": "Langite",
+      "rarity": "common"
+    },
+    {
+      "name": "Fluorapophyllite",
+      "rarity": "common"
+    },
+    {
+      "name": "Manganaxinite",
+      "rarity": "common"
+    },
+    {
+      "name": "Diamond",
+      "rarity": "common"
+    },
+    {
+      "name": "Smithsonite",
+      "rarity": "common"
+    },
+    {
+      "name": "Chrysotile",
+      "rarity": "common"
+    },
+    {
+      "name": "Clinohumite",
+      "rarity": "common"
+    },
+    {
+      "name": "Almandine",
+      "rarity": "common"
+    },
+    {
+      "name": "Erythrite",
+      "rarity": "common"
+    },
+    {
+      "name": "Tanzanite",
+      "rarity": "common"
+    }
+  ]
+}

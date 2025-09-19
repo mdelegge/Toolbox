@@ -1,0 +1,406 @@
+{
+  "name": "Bounty Board",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Urz Gro'Kash, Wanted Dead or Alive: Killed a nobleman's son",
+      "rarity": "common"
+    },
+    {
+      "name": "Amalia Valentine, Wanted Alive: Stole a man's most prized possession",
+      "rarity": "common"
+    },
+    {
+      "name": "Seigfreid Voss, Wanted Alive: Unpaid debt to the town mayor",
+      "rarity": "common"
+    },
+    {
+      "name": "Lany Bell, Wanted Alive: Stole an artifact from the local museum",
+      "rarity": "common"
+    },
+    {
+      "name": "Grifert the Wort, Wanted Dead: Insulted a nobleman's daughter",
+      "rarity": "common"
+    },
+    {
+      "name": "Deroln Ironstout, Wanted Dead: Running an illegal gambling club",
+      "rarity": "common"
+    },
+    {
+      "name": "Isabella the Mad, Wanted Alive: Ran away from her caretakers",
+      "rarity": "common"
+    },
+    {
+      "name": "Larry Lars, Wanted Alive: Didn't pay for his drinks at the tavern",
+      "rarity": "common"
+    },
+    {
+      "name": "Indigo Callan, Wanted Dead or Alive: Robbed a trade caravan",
+      "rarity": "common"
+    },
+    {
+      "name": "Ralf Grimmel, Wanted Dead: Blackmailed a noble",
+      "rarity": "common"
+    },
+    {
+      "name": "Barl Hel'Grub, Wanted Alive: Ran away from an arranged marriage",
+      "rarity": "common"
+    },
+    {
+      "name": "Raiz Flen, Wanted Dead or Alive: Stole a pig",
+      "rarity": "common"
+    },
+    {
+      "name": "Gerult Bronzebeard, Wanted Dead: Offended a noblewoman",
+      "rarity": "common"
+    },
+    {
+      "name": "Elsa Grave'ller, Wanted Dead: Killed seventy-six people",
+      "rarity": "common"
+    },
+    {
+      "name": "Haijira the Horrid, Wanted Dead: Cast a curse on multiple passersby",
+      "rarity": "common"
+    },
+    {
+      "name": "Barila Bando, Wanted Dead or Alive: Scammed a nobleman",
+      "rarity": "common"
+    },
+    {
+      "name": "Melon Usk, Wanted Dead: Knows too much",
+      "rarity": "common"
+    },
+    {
+      "name": "Frela the Defamer, Wanted Dead: Exposed a nobleman's scandal",
+      "rarity": "common"
+    },
+    {
+      "name": "Ward Walker, Wanted Alive: Kidnapped four halflings",
+      "rarity": "common"
+    },
+    {
+      "name": "Gary, Wanted Dead: He deserves it",
+      "rarity": "common"
+    },
+    {
+      "name": "Penelope Paige, Wanted Alive: Is suspected to have murdered her husband",
+      "rarity": "common"
+    },
+    {
+      "name": "Grunth Or'Kilb, Wanted Dead: Killed and ate every animal on a nearby farm",
+      "rarity": "common"
+    },
+    {
+      "name": "Faria Galen, Wanted Alive: Please Faria just give me a chance",
+      "rarity": "common"
+    },
+    {
+      "name": "Mel the Marvelous, Wanted Alive: Persuaded twelve children to run away and join his traveling show",
+      "rarity": "common"
+    },
+    {
+      "name": "Ahaji Sanvil, Wanted Dead or Alive: Set fire to a tavern",
+      "rarity": "common"
+    },
+    {
+      "name": "Brent Borin, Wanted Dead: His trained attack dogs killed a nobleman's son",
+      "rarity": "common"
+    },
+    {
+      "name": "Fargarth Stonefrost, Wanted Alive: Knows the secret recipe to an ancient Dwarven mead",
+      "rarity": "common"
+    },
+    {
+      "name": "Tabitha Poth, Wanted Dead: Cheated on each of her three husbands",
+      "rarity": "common"
+    },
+    {
+      "name": "Helga Hellgiver, Wanted Dead: Gave hell to the wrong person",
+      "rarity": "common"
+    },
+    {
+      "name": "Grilb Orbulg, Wanted Dead: Hunts people for fun",
+      "rarity": "common"
+    },
+    {
+      "name": "Valeria Bene, Wanted Alive: Killed her husband",
+      "rarity": "common"
+    },
+    {
+      "name": "Borck, Wanted Dead: Borck bad need killed",
+      "rarity": "common"
+    },
+    {
+      "name": "Artina Skil, Wanted Dead or Alive: Scammed a man out of his horse",
+      "rarity": "common"
+    },
+    {
+      "name": "Bolin Frostbeard, Wanted Dead: Poisoned the drinks in a tavern, killing eight people",
+      "rarity": "common"
+    },
+    {
+      "name": "Felina Dais, Wanted Dead or Alive: She humiliated me!!!",
+      "rarity": "common"
+    },
+    {
+      "name": "Golgin the Indecipherable, Wanted Alive: He's up to something, I just know it",
+      "rarity": "common"
+    },
+    {
+      "name": "Javin Harimer, Wanted Dead: Stole the wrong woman's heart",
+      "rarity": "common"
+    },
+    {
+      "name": "Man Person, Wanted Dead: Man do bad thing. He no good. Need get dead.",
+      "rarity": "common"
+    },
+    {
+      "name": "Hal the Scoundrel, Wanted Alive: Owes money to a local leader",
+      "rarity": "common"
+    },
+    {
+      "name": "Griselda Prune, Wanted Dead or Alive: Caused a tribal war",
+      "rarity": "common"
+    },
+    {
+      "name": "Corina Pont, Wanted Alive: Please come home Corina, we miss you",
+      "rarity": "common"
+    },
+    {
+      "name": "Rufus Padfoot, Wanted Dead: Forged the deed to a nobleman's estate and having said nobleman arrested for squatting",
+      "rarity": "common"
+    },
+    {
+      "name": "Gri Nech the Thief, Wanted Dead: Stole a tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Toldo, Wanted Dead: Saw something he shouldn't have",
+      "rarity": "common"
+    },
+    {
+      "name": "Dali Fonti, Wanted Alive: Known user of black magic",
+      "rarity": "common"
+    },
+    {
+      "name": "Emeri the Loud, Wanted Dead: Annoyed the wrong people",
+      "rarity": "common"
+    },
+    {
+      "name": "Lam Pam Tam Wam, the Ham, Wanted Alive: Identity theft",
+      "rarity": "common"
+    },
+    {
+      "name": "Kilroy Scarhead, Wanted Dead or Alive: Actually killed a man named Roy",
+      "rarity": "common"
+    },
+    {
+      "name": "Onali Rumn, Wanted Dead: Built a wall on property he didn't own",
+      "rarity": "common"
+    },
+    {
+      "name": "Fallon Steelhammer, Wanted Dead: Stole a royal jewel",
+      "rarity": "common"
+    },
+    {
+      "name": "Arvil the Worn, Wanted Dead: I'm just so tired...",
+      "rarity": "common"
+    },
+    {
+      "name": "Ek Kul'n, Wanted Alive: Stole an elder dragon egg",
+      "rarity": "common"
+    },
+    {
+      "name": "Klein the Shady, Wanted Alive: Suspected of selling illegal merchandise",
+      "rarity": "common"
+    },
+    {
+      "name": "Mica Hoodwort, Wanted Dead: Refuses to sell her property to make way for the royal road",
+      "rarity": "common"
+    },
+    {
+      "name": "Alina Lovei, Wanted Alive: Has been missing for thirteen years",
+      "rarity": "common"
+    },
+    {
+      "name": "Bron the Dull, Wanted Alive: Accidentally executed the wrong prisoner",
+      "rarity": "common"
+    },
+    {
+      "name": "Hajen Jel'yn, Wanted Dead or Alive: Stole a horse",
+      "rarity": "common"
+    },
+    {
+      "name": "Reid Lightfoot, Wanted Dead: Assassinated an elven dignitary",
+      "rarity": "common"
+    },
+    {
+      "name": "Patty Barnim, Wanted Dead: The soup was cold",
+      "rarity": "common"
+    },
+    {
+      "name": "Flint Gobbywock, Wanted Alive: Sold a defective lute to a nobleman",
+      "rarity": "common"
+    },
+    {
+      "name": "Plok Un, Wanted Dead: Known enemy of the people",
+      "rarity": "common"
+    },
+    {
+      "name": "Quirn the Unimportant, Wanted Dead: Just take care of him, no one will miss him",
+      "rarity": "common"
+    },
+    {
+      "name": "Xander Collins, Wanted Dead or Alive: Stole all the loot while a group was \ufb01ghting the dungeon boss",
+      "rarity": "common"
+    },
+    {
+      "name": "Orpin Jero, Wanted Alive: A troublesome vigilante who comes out at night and beats thugs to a pulp",
+      "rarity": "common"
+    },
+    {
+      "name": "Klav the Fragrant, Wanted Dead: He really does smell THAT bad",
+      "rarity": "common"
+    },
+    {
+      "name": "Andi Crist, Wanted Dead: Suspected of being a demon lord",
+      "rarity": "common"
+    },
+    {
+      "name": "Harge Om'kul, Wanted Alive: Kidnapping",
+      "rarity": "common"
+    },
+    {
+      "name": "Galia Hevoro, Wanted Alive: Stole a nobleman's housecat",
+      "rarity": "common"
+    },
+    {
+      "name": "Sabina Fyn, Wanted Dead: Seduced and robbed fourteen men",
+      "rarity": "common"
+    },
+    {
+      "name": "Zherk Bronzeaxe, Wanted Dead: Went on a killing spree for fun, forty-three dead",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiki Fortuin, Wanted Alive: Was not at his post when his compound was completely destroyed",
+      "rarity": "common"
+    },
+    {
+      "name": "Blint Barefoot, Wanted Dead or Alive: Escaped an inescapable prison",
+      "rarity": "common"
+    },
+    {
+      "name": "Signid the Immovable, Wanted Dead: Has been loitering in front of the mayors estate for two years",
+      "rarity": "common"
+    },
+    {
+      "name": "Calnim Farstrider, Wanted Alive: Trespassed on the wrong property",
+      "rarity": "common"
+    },
+    {
+      "name": "Eleanora the Unpronounceable, Wanted Alive: Stole a sweet roll from an elf child",
+      "rarity": "common"
+    },
+    {
+      "name": "Helvig Hammerstring, Wanted Dead: Dishonored his family by becoming a doctor",
+      "rarity": "common"
+    },
+    {
+      "name": "Jack Parvin, Wanted Dead and Alive: Known vampire lord",
+      "rarity": "common"
+    },
+    {
+      "name": "Arqa Sam, Wanted Alive: I just want to make sure he's alive",
+      "rarity": "common"
+    },
+    {
+      "name": "Puln Brinder, Wanted Dead: Performed unspeakable scientific experiments on runaway children",
+      "rarity": "common"
+    },
+    {
+      "name": "Gorn Grin'frolk, Wanted Dead: He ate my last sandwich",
+      "rarity": "common"
+    },
+    {
+      "name": "Wirl Igo, Wanted Alive: Winner of a hide and seek game that took place three years ago",
+      "rarity": "common"
+    },
+    {
+      "name": "Penny the Intelligent, Wanted Dead: Terrorizing children with elaborate pranks for twenty-seven years",
+      "rarity": "common"
+    },
+    {
+      "name": "Kalico Maven, Wanted Dead: Harbored a known criminal",
+      "rarity": "common"
+    },
+    {
+      "name": "Wesk Porington, Wanted Dead: Suspected of being a doppelganger",
+      "rarity": "common"
+    },
+    {
+      "name": "Jilqa Dro'buln, Wanted Dead: Supposed to be dead already, I want to make sure",
+      "rarity": "common"
+    },
+    {
+      "name": "Vin Doss, Wanted Dead: Stole an apple",
+      "rarity": "common"
+    },
+    {
+      "name": "Ammlin Greybeard, Wanted Alive: Losing his mind, wandered away from home",
+      "rarity": "common"
+    },
+    {
+      "name": "Denmar the Stubborn, Wanted Dead: Refused to pay for damages he inflicted upon a local tavern",
+      "rarity": "common"
+    },
+    {
+      "name": "Shilo Fey, Wanted Alive: Possible connection to recent arson",
+      "rarity": "common"
+    },
+    {
+      "name": "Bilfer Boffin, Wanted Dead: Caused a house to collapse, killing five people",
+      "rarity": "common"
+    },
+    {
+      "name": "Clive the Clever, Wanted Alive: Tricked a group of adventurers into killing his enemies for him",
+      "rarity": "common"
+    },
+    {
+      "name": "Belf Agn'nhub, Wanted Dead: Stole a keg of dwarven mead",
+      "rarity": "common"
+    },
+    {
+      "name": "Gelas Canico, Wanted Alive: Ran away from home for the seventh time",
+      "rarity": "common"
+    },
+    {
+      "name": "Mik the Desserter, Wanted Alive: Stole all the recipes from the bakery where he worked and left town",
+      "rarity": "common"
+    },
+    {
+      "name": "Hugh Jharms Wanted Dead: Stole a loaf of bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Sven Highforge, Wanted Dead or Alive: Minor treason",
+      "rarity": "common"
+    },
+    {
+      "name": "Dhat Mavids, Wanted Alive: Took an ancient spoon from the local museum",
+      "rarity": "common"
+    },
+    {
+      "name": "Baugh Rode, Wanted Dead: Wrong place, wrong time",
+      "rarity": "common"
+    },
+    {
+      "name": "Tyjan Rames, Wanted Dead or Alive: Accidentally massacred a town",
+      "rarity": "common"
+    },
+    {
+      "name": "Poc the Wise, Wanted Dead: Gave incredibly bad advice causing the deaths of four people",
+      "rarity": "common"
+    }
+  ]
+}

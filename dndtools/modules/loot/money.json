@@ -1,0 +1,24 @@
+{
+  "name": "Money",
+  "maxItems": 5,
+  "items": [
+    { "name": "Gold pieces (1d20)", "rarity": "rare" , "group": "gold" },
+    { "name": "Gold pieces (1d10)", "rarity": "uncommon" , "group": "gold" },
+    { "name": "Gold pieces (1d8)", "rarity": "common" , "group": "gold" },
+    { "name": "Gold pieces (1d4)", "rarity": "common" , "group": "gold" },
+    { "name": "Silver pieces (1d100)", "rarity": "common" , "group": "silver" },
+    { "name": "Silver pieces (1d20)", "rarity": "common" , "group": "silver" },
+    { "name": "Silver pieces (1d6)", "rarity": "common" , "group": "silver" },
+    { "name": "Copper pieces (1d100)", "rarity": "common" , "group": "copper" },
+    { "name": "Copper pieces (1d50)", "rarity": "common" , "group": "copper" },
+    { "name": "Copper pieces (1d20)", "rarity": "common" , "group": "copper" },
+    { "name": "Copper pieces (1d100)", "rarity": "common" , "group": "copper" },
+    { "name": "Silver pieces (1d6)", "rarity": "common" , "group": "silver" },
+    { "name": "Silver pieces (1d20)", "rarity": "common" , "group": "silver" },
+    { "name": "Silver pieces (1d100)", "rarity": "common" , "group": "silver" },
+    { "name": "Gold pieces (1d4)", "rarity": "common" , "group": "gold" },
+    { "name": "Gold pieces (1d8)", "rarity": "common" , "group": "gold" },
+    { "name": "Gold pieces (1d20)", "rarity": "uncommon" , "group": "gold" },
+    { "name": "Gold pieces (1d100)", "rarity": "rare" , "group": "gold" }
+  ]
+}

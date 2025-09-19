@@ -1,0 +1,406 @@
+{
+  "name": "Swamp Encounters",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Dead Body",
+      "rarity": "common"
+    },
+    {
+      "name": "Witch",
+      "rarity": "common"
+    },
+    {
+      "name": "Ornate mirror",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblins (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wandering Monk",
+      "rarity": "common"
+    },
+    {
+      "name": "Think fog",
+      "rarity": "common"
+    },
+    {
+      "name": "Hut",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandits (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant tortoise",
+      "rarity": "common"
+    },
+    {
+      "name": "Hoard of toads",
+      "rarity": "common"
+    },
+    {
+      "name": "Still pool lined with gold trinkets",
+      "rarity": "common"
+    },
+    {
+      "name": "Carnivorous plant",
+      "rarity": "common"
+    },
+    {
+      "name": "Swamp gas",
+      "rarity": "common"
+    },
+    {
+      "name": "Strange lights",
+      "rarity": "common"
+    },
+    {
+      "name": "Chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Alligator",
+      "rarity": "common"
+    },
+    {
+      "name": "Sacred grove",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant spider",
+      "rarity": "common"
+    },
+    {
+      "name": "Hoard of Flies",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant rat",
+      "rarity": "common"
+    },
+    {
+      "name": "Lost adventuring party",
+      "rarity": "common"
+    },
+    {
+      "name": "White horse",
+      "rarity": "common"
+    },
+    {
+      "name": "Lost child",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblins (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Quicksand",
+      "rarity": "common"
+    },
+    {
+      "name": "Treehouse",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone Slab",
+      "rarity": "common"
+    },
+    {
+      "name": "Cave",
+      "rarity": "common"
+    },
+    {
+      "name": "Poisonous \ufb02owers",
+      "rarity": "common"
+    },
+    {
+      "name": "Fisherman\u2019s Camp",
+      "rarity": "common"
+    },
+    {
+      "name": "Skeleton",
+      "rarity": "common"
+    },
+    {
+      "name": "Hapless merchant",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild men (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wandering Druid",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead Bodies (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Strange stepping stones",
+      "rarity": "common"
+    },
+    {
+      "name": "Overgrown house",
+      "rarity": "common"
+    },
+    {
+      "name": "Distant howling",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblins (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "A Bird ensnared in a trap",
+      "rarity": "common"
+    },
+    {
+      "name": "Submerged chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Band of Monks (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Man in Shackles",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead Bodies (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Strange Massive tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandits (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Alligators (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hand sticking out of mud",
+      "rarity": "common"
+    },
+    {
+      "name": "Hermit",
+      "rarity": "common"
+    },
+    {
+      "name": "Feral child",
+      "rarity": "common"
+    },
+    {
+      "name": "Wizard\u2019s tower",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblins (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Nymph",
+      "rarity": "common"
+    },
+    {
+      "name": "Hunter\u2019s Camp",
+      "rarity": "common"
+    },
+    {
+      "name": "Standing Stone",
+      "rarity": "common"
+    },
+    {
+      "name": "Co\ufb03n",
+      "rarity": "common"
+    },
+    {
+      "name": "White Stag",
+      "rarity": "common"
+    },
+    {
+      "name": "Half Sunk Statue",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild men (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Band of Druids (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant lizard",
+      "rarity": "common"
+    },
+    {
+      "name": "Adventurer\u2019s Pack",
+      "rarity": "common"
+    },
+    {
+      "name": "Overgrown road",
+      "rarity": "common"
+    },
+    {
+      "name": "Skeletons (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant Bat",
+      "rarity": "common"
+    },
+    {
+      "name": "Sunken boat",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead Bodies (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hoard of Mosquitos",
+      "rarity": "common"
+    },
+    {
+      "name": "Runaway Slave Camp",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead Bodies (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Poison frog",
+      "rarity": "common"
+    },
+    {
+      "name": "Dungeon Entrance",
+      "rarity": "common"
+    },
+    {
+      "name": "Adventurer\u2019s Camp",
+      "rarity": "common"
+    },
+    {
+      "name": "Skeletons (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Weeping girl",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblins (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Large Chain coming out of the Ground",
+      "rarity": "common"
+    },
+    {
+      "name": "Gallows Tree (1D6 bodies)",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant snake",
+      "rarity": "common"
+    },
+    {
+      "name": "Zombie",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant alligator",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead Bodies (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandits (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Alchemist\u2019s Cottage",
+      "rarity": "common"
+    },
+    {
+      "name": "Pyramid",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant Centipede",
+      "rarity": "common"
+    },
+    {
+      "name": "Entangling vines",
+      "rarity": "common"
+    },
+    {
+      "name": "Outlaw hideout",
+      "rarity": "common"
+    },
+    {
+      "name": "Overgrown ship",
+      "rarity": "common"
+    },
+    {
+      "name": "Troll",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Raft",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead Bodies (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Graveyard",
+      "rarity": "common"
+    },
+    {
+      "name": "Hidden City",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblins (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient ruins",
+      "rarity": "common"
+    },
+    {
+      "name": "Ghost",
+      "rarity": "common"
+    }
+  ]
+}

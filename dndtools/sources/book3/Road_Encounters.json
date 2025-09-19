@@ -1,0 +1,406 @@
+{
+  "name": "Road Encounters",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Princess traveling with a retinue",
+      "rarity": "common"
+    },
+    {
+      "name": "Stuck wagon",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead bodies (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken down statue of a beautiful woman",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandits (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Shallow grave",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandits (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant caravan (1D12 wagons)",
+      "rarity": "common"
+    },
+    {
+      "name": "Standing stone",
+      "rarity": "common"
+    },
+    {
+      "name": "Unconscious man",
+      "rarity": "common"
+    },
+    {
+      "name": "Small family with a wagon",
+      "rarity": "common"
+    },
+    {
+      "name": "Farmer taking produce to market",
+      "rarity": "common"
+    },
+    {
+      "name": "Fortuneteller",
+      "rarity": "common"
+    },
+    {
+      "name": "Stones arranged in a crude arrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Refugees (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden egg",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant caravan (1D20 wagons)",
+      "rarity": "common"
+    },
+    {
+      "name": "Two children carrying sacks",
+      "rarity": "common"
+    },
+    {
+      "name": "Wounded messenger",
+      "rarity": "common"
+    },
+    {
+      "name": "Man carrying a ten-foot pole",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandits (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead bodies (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Refugees (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant caravan (1D4 wagons)",
+      "rarity": "common"
+    },
+    {
+      "name": "Snake oil salesman",
+      "rarity": "common"
+    },
+    {
+      "name": "Pregnant woman",
+      "rarity": "common"
+    },
+    {
+      "name": "Landslide covering a section of the road",
+      "rarity": "common"
+    },
+    {
+      "name": "Wagon with a broken wheel",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant caravan (1D10 wagons)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead bodies (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Book lying in the road",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden box full of maps",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient tomb",
+      "rarity": "common"
+    },
+    {
+      "name": "Pile up dead butter\ufb02ies",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant caravan (1D8 wagons)",
+      "rarity": "common"
+    },
+    {
+      "name": "Troupe (1D6 wagons)",
+      "rarity": "common"
+    },
+    {
+      "name": "Refugees (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandits (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tinman chopping wood",
+      "rarity": "common"
+    },
+    {
+      "name": "Weeping pixie",
+      "rarity": "common"
+    },
+    {
+      "name": "Troupe (1D12 wagons)",
+      "rarity": "common"
+    },
+    {
+      "name": "Two gnomes riding mules",
+      "rarity": "common"
+    },
+    {
+      "name": "Troupe (1D10 wagons)",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone circle",
+      "rarity": "common"
+    },
+    {
+      "name": "Man with a gigantic book strapped to his back",
+      "rarity": "common"
+    },
+    {
+      "name": "Two-headed snake",
+      "rarity": "common"
+    },
+    {
+      "name": "Washed out bridge",
+      "rarity": "common"
+    },
+    {
+      "name": "Young couple eloping",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead bodies (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Goose nest in the middle of the road",
+      "rarity": "common"
+    },
+    {
+      "name": "Troupe (1D8 wagons)",
+      "rarity": "common"
+    },
+    {
+      "name": "Peasant boys throwing apples at travelers",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandits (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Puddle of blood",
+      "rarity": "common"
+    },
+    {
+      "name": "Road \ufb02ooded",
+      "rarity": "common"
+    },
+    {
+      "name": "Four hal\ufb02ings with elven cloaks",
+      "rarity": "common"
+    },
+    {
+      "name": "Little girl walking backward",
+      "rarity": "common"
+    },
+    {
+      "name": "Burnt wagon",
+      "rarity": "common"
+    },
+    {
+      "name": "Refugees (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Fallen tree across the road",
+      "rarity": "common"
+    },
+    {
+      "name": "Bandits (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Old wanderer (actually a god in disguise)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarf mercenary",
+      "rarity": "common"
+    },
+    {
+      "name": "Sword lying in the road",
+      "rarity": "common"
+    },
+    {
+      "name": "Skipping child",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarf smith",
+      "rarity": "common"
+    },
+    {
+      "name": "Abandoned wagon",
+      "rarity": "common"
+    },
+    {
+      "name": "Strange symbol drawn on the road",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead bodies (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant caravan (1D6 wagons)",
+      "rarity": "common"
+    },
+    {
+      "name": "Refugees (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Singing bard, woodland creatures listen",
+      "rarity": "common"
+    },
+    {
+      "name": "Elf wearing a crown",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead bodies (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Fire in a ditch",
+      "rarity": "common"
+    },
+    {
+      "name": "Refugees (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead body",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead bodies (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Talking cat",
+      "rarity": "common"
+    },
+    {
+      "name": "Chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gnome tinker",
+      "rarity": "common"
+    },
+    {
+      "name": "Refugees (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Section of the road washed out",
+      "rarity": "common"
+    },
+    {
+      "name": "Large mud pit in the road",
+      "rarity": "common"
+    },
+    {
+      "name": "Troupe (1D4 wagons)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Statue with a passage at the base",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold piece lying on the road",
+      "rarity": "common"
+    },
+    {
+      "name": "Tinker",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Royal courier riding a horse",
+      "rarity": "common"
+    },
+    {
+      "name": "Mercenary",
+      "rarity": "common"
+    },
+    {
+      "name": "Old wanderer",
+      "rarity": "common"
+    },
+    {
+      "name": "Coins scattered all over the road",
+      "rarity": "common"
+    },
+    {
+      "name": "Elf mercenary",
+      "rarity": "common"
+    },
+    {
+      "name": "Noble traveling with a retinue",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear",
+      "rarity": "common"
+    },
+    {
+      "name": "Troupe (1D20 wagons)",
+      "rarity": "common"
+    }
+  ]
+}

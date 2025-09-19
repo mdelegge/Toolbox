@@ -1,0 +1,406 @@
+{
+  "name": "Woodland Animals",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Grackle",
+      "rarity": "common"
+    },
+    {
+      "name": "Erman",
+      "rarity": "common"
+    },
+    {
+      "name": "Bats (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild pigs (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Robin",
+      "rarity": "common"
+    },
+    {
+      "name": "Wasps",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild horses (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hummingbird",
+      "rarity": "common"
+    },
+    {
+      "name": "Elk",
+      "rarity": "common"
+    },
+    {
+      "name": "Moth",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Cockroach",
+      "rarity": "common"
+    },
+    {
+      "name": "Vole",
+      "rarity": "common"
+    },
+    {
+      "name": "Dear",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild mule",
+      "rarity": "common"
+    },
+    {
+      "name": "Caterpillar",
+      "rarity": "common"
+    },
+    {
+      "name": "Butterfly",
+      "rarity": "common"
+    },
+    {
+      "name": "Beaver",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild horses (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Deer (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild pigs (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild pigs (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hawk",
+      "rarity": "common"
+    },
+    {
+      "name": "Deer (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Weasel",
+      "rarity": "common"
+    },
+    {
+      "name": "Deer (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Chickadee",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Titmouse",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild donkey",
+      "rarity": "common"
+    },
+    {
+      "name": "Rat",
+      "rarity": "common"
+    },
+    {
+      "name": "Fox",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild dogs (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Deer (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mouse",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bobcat",
+      "rarity": "common"
+    },
+    {
+      "name": "Mountain Lion",
+      "rarity": "common"
+    },
+    {
+      "name": "Wildcat",
+      "rarity": "common"
+    },
+    {
+      "name": "Mink",
+      "rarity": "common"
+    },
+    {
+      "name": "Bears (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Flying squirrel",
+      "rarity": "common"
+    },
+    {
+      "name": "Woodchuck",
+      "rarity": "common"
+    },
+    {
+      "name": "Coyote",
+      "rarity": "common"
+    },
+    {
+      "name": "Gnats",
+      "rarity": "common"
+    },
+    {
+      "name": "Bats (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild pigs (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Muskrat",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild horses (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Deer (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bluejay",
+      "rarity": "common"
+    },
+    {
+      "name": "Gray squirrel",
+      "rarity": "common"
+    },
+    {
+      "name": "Finch",
+      "rarity": "common"
+    },
+    {
+      "name": "Bears (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Praying mantis",
+      "rarity": "common"
+    },
+    {
+      "name": "Bats (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Spider",
+      "rarity": "common"
+    },
+    {
+      "name": "Falcon",
+      "rarity": "common"
+    },
+    {
+      "name": "Bats (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Opossum",
+      "rarity": "common"
+    },
+    {
+      "name": "Chipmunk",
+      "rarity": "common"
+    },
+    {
+      "name": "Grasshopper",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild horses (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild boar",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild pig",
+      "rarity": "common"
+    },
+    {
+      "name": "Lemmings",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Red squirrel",
+      "rarity": "common"
+    },
+    {
+      "name": "Ferret",
+      "rarity": "common"
+    },
+    {
+      "name": "Shrew",
+      "rarity": "common"
+    },
+    {
+      "name": "Moose",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear",
+      "rarity": "common"
+    },
+    {
+      "name": "Duck",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolf",
+      "rarity": "common"
+    },
+    {
+      "name": "Bats (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hornets",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild pigs (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild horses (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bat",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild pigs (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Snake",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild horses (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bats (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild horse",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild horses (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Groundhog",
+      "rarity": "common"
+    },
+    {
+      "name": "Eagle",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild dogs (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Deer (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Badger",
+      "rarity": "common"
+    },
+    {
+      "name": "Mosquito",
+      "rarity": "common"
+    },
+    {
+      "name": "Porcupine",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild pigs (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wolves (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Deer (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bats (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bears (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mole",
+      "rarity": "common"
+    },
+    {
+      "name": "Honey bees",
+      "rarity": "common"
+    }
+  ]
+}

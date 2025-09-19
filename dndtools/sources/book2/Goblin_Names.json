@@ -1,0 +1,406 @@
+{
+  "name": "Goblin Names",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Slog",
+      "rarity": "common"
+    },
+    {
+      "name": "Korlug",
+      "rarity": "common"
+    },
+    {
+      "name": "Wik",
+      "rarity": "common"
+    },
+    {
+      "name": "Brun",
+      "rarity": "common"
+    },
+    {
+      "name": "Shaz",
+      "rarity": "common"
+    },
+    {
+      "name": "Ez",
+      "rarity": "common"
+    },
+    {
+      "name": "Krub",
+      "rarity": "common"
+    },
+    {
+      "name": "Blud",
+      "rarity": "common"
+    },
+    {
+      "name": "Bez",
+      "rarity": "common"
+    },
+    {
+      "name": "Gosmil",
+      "rarity": "common"
+    },
+    {
+      "name": "Zeeb",
+      "rarity": "common"
+    },
+    {
+      "name": "Iv",
+      "rarity": "common"
+    },
+    {
+      "name": "Scab",
+      "rarity": "common"
+    },
+    {
+      "name": "Kog",
+      "rarity": "common"
+    },
+    {
+      "name": "Treg",
+      "rarity": "common"
+    },
+    {
+      "name": "Tark",
+      "rarity": "common"
+    },
+    {
+      "name": "Blorg",
+      "rarity": "common"
+    },
+    {
+      "name": "Zarg",
+      "rarity": "common"
+    },
+    {
+      "name": "Tul",
+      "rarity": "common"
+    },
+    {
+      "name": "Brool",
+      "rarity": "common"
+    },
+    {
+      "name": "Zig",
+      "rarity": "common"
+    },
+    {
+      "name": "Slag",
+      "rarity": "common"
+    },
+    {
+      "name": "Vaku",
+      "rarity": "common"
+    },
+    {
+      "name": "Wart",
+      "rarity": "common"
+    },
+    {
+      "name": "Mole",
+      "rarity": "common"
+    },
+    {
+      "name": "Zuz",
+      "rarity": "common"
+    },
+    {
+      "name": "Ig",
+      "rarity": "common"
+    },
+    {
+      "name": "Hugor",
+      "rarity": "common"
+    },
+    {
+      "name": "Morl",
+      "rarity": "common"
+    },
+    {
+      "name": "Zug",
+      "rarity": "common"
+    },
+    {
+      "name": "Mig",
+      "rarity": "common"
+    },
+    {
+      "name": "Fogul",
+      "rarity": "common"
+    },
+    {
+      "name": "Vorg",
+      "rarity": "common"
+    },
+    {
+      "name": "Grom",
+      "rarity": "common"
+    },
+    {
+      "name": "Blarg",
+      "rarity": "common"
+    },
+    {
+      "name": "Xarg",
+      "rarity": "common"
+    },
+    {
+      "name": "Vorl",
+      "rarity": "common"
+    },
+    {
+      "name": "Murg",
+      "rarity": "common"
+    },
+    {
+      "name": "Worl",
+      "rarity": "common"
+    },
+    {
+      "name": "Grub",
+      "rarity": "common"
+    },
+    {
+      "name": "Zarg",
+      "rarity": "common"
+    },
+    {
+      "name": "Xrag",
+      "rarity": "common"
+    },
+    {
+      "name": "Milg",
+      "rarity": "common"
+    },
+    {
+      "name": "Rorg",
+      "rarity": "common"
+    },
+    {
+      "name": "Grig",
+      "rarity": "common"
+    },
+    {
+      "name": "Viklorg",
+      "rarity": "common"
+    },
+    {
+      "name": "Pug",
+      "rarity": "common"
+    },
+    {
+      "name": "Nog",
+      "rarity": "common"
+    },
+    {
+      "name": "Moog",
+      "rarity": "common"
+    },
+    {
+      "name": "Urz",
+      "rarity": "common"
+    },
+    {
+      "name": "Gribna",
+      "rarity": "common"
+    },
+    {
+      "name": "Rip",
+      "rarity": "common"
+    },
+    {
+      "name": "Xlaz",
+      "rarity": "common"
+    },
+    {
+      "name": "Lorz",
+      "rarity": "common"
+    },
+    {
+      "name": "Erb",
+      "rarity": "common"
+    },
+    {
+      "name": "Grunsk",
+      "rarity": "common"
+    },
+    {
+      "name": "Thurg",
+      "rarity": "common"
+    },
+    {
+      "name": "Zork",
+      "rarity": "common"
+    },
+    {
+      "name": "Jerg",
+      "rarity": "common"
+    },
+    {
+      "name": "Xorgul",
+      "rarity": "common"
+    },
+    {
+      "name": "Durg",
+      "rarity": "common"
+    },
+    {
+      "name": "Zog",
+      "rarity": "common"
+    },
+    {
+      "name": "Pulz",
+      "rarity": "common"
+    },
+    {
+      "name": "Limper",
+      "rarity": "common"
+    },
+    {
+      "name": "Holug",
+      "rarity": "common"
+    },
+    {
+      "name": "Lulz",
+      "rarity": "common"
+    },
+    {
+      "name": "Torl",
+      "rarity": "common"
+    },
+    {
+      "name": "Lor",
+      "rarity": "common"
+    },
+    {
+      "name": "Tuz",
+      "rarity": "common"
+    },
+    {
+      "name": "Sig",
+      "rarity": "common"
+    },
+    {
+      "name": "Flitch",
+      "rarity": "common"
+    },
+    {
+      "name": "Smelg",
+      "rarity": "common"
+    },
+    {
+      "name": "Drulz",
+      "rarity": "common"
+    },
+    {
+      "name": "Worv",
+      "rarity": "common"
+    },
+    {
+      "name": "Klag",
+      "rarity": "common"
+    },
+    {
+      "name": "Gorg",
+      "rarity": "common"
+    },
+    {
+      "name": "Zux",
+      "rarity": "common"
+    },
+    {
+      "name": "Treg",
+      "rarity": "common"
+    },
+    {
+      "name": "Scar",
+      "rarity": "common"
+    },
+    {
+      "name": "Mogz",
+      "rarity": "common"
+    },
+    {
+      "name": "Alug",
+      "rarity": "common"
+    },
+    {
+      "name": "Xog",
+      "rarity": "common"
+    },
+    {
+      "name": "Grel",
+      "rarity": "common"
+    },
+    {
+      "name": "Laz",
+      "rarity": "common"
+    },
+    {
+      "name": "Slime",
+      "rarity": "common"
+    },
+    {
+      "name": "Grol",
+      "rarity": "common"
+    },
+    {
+      "name": "Narl",
+      "rarity": "common"
+    },
+    {
+      "name": "Brog",
+      "rarity": "common"
+    },
+    {
+      "name": "Orulz",
+      "rarity": "common"
+    },
+    {
+      "name": "Org",
+      "rarity": "common"
+    },
+    {
+      "name": "Shank",
+      "rarity": "common"
+    },
+    {
+      "name": "Ooglo",
+      "rarity": "common"
+    },
+    {
+      "name": "Eurg",
+      "rarity": "common"
+    },
+    {
+      "name": "Og",
+      "rarity": "common"
+    },
+    {
+      "name": "Rok",
+      "rarity": "common"
+    },
+    {
+      "name": "Slob",
+      "rarity": "common"
+    },
+    {
+      "name": "Uz",
+      "rarity": "common"
+    },
+    {
+      "name": "Arg",
+      "rarity": "common"
+    },
+    {
+      "name": "Lig",
+      "rarity": "common"
+    },
+    {
+      "name": "Zrag",
+      "rarity": "common"
+    }
+  ]
+}

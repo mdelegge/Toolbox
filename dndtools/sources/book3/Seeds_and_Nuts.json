@@ -1,0 +1,406 @@
+{
+  "name": "Seeds and Nuts",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Chickpeas",
+      "rarity": "common"
+    },
+    {
+      "name": "Black walnuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Fox nut seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Rice",
+      "rarity": "common"
+    },
+    {
+      "name": "Witchetty bush seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Chestnuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Curara seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Wattle seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Corn kernels",
+      "rarity": "common"
+    },
+    {
+      "name": "Cempedak arils",
+      "rarity": "common"
+    },
+    {
+      "name": "Water chestnuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Paradise nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Mongongo",
+      "rarity": "common"
+    },
+    {
+      "name": "Pili nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Jackfruit seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Chilgoza pine nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Apricot kernels",
+      "rarity": "common"
+    },
+    {
+      "name": "Mockernut hickory",
+      "rarity": "common"
+    },
+    {
+      "name": "Hazelnuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Borneo tallow nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Durian seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Kola nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Candlenut",
+      "rarity": "common"
+    },
+    {
+      "name": "Ugu seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Peas",
+      "rarity": "common"
+    },
+    {
+      "name": "Podocarps seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Mulga seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Malabar chestnuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Coconuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Burrawang nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Walnuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Pekea nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Filberts",
+      "rarity": "common"
+    },
+    {
+      "name": "Cashews",
+      "rarity": "common"
+    },
+    {
+      "name": "Mongongo nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Umbrella bush seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Sun\ufb02ower seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Stone pine nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Western beaked hazelnut",
+      "rarity": "common"
+    },
+    {
+      "name": "Cocoa beans",
+      "rarity": "common"
+    },
+    {
+      "name": "Macadamia nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Dog\u2019s tooth grass seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden wattle seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Betel nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Almonds",
+      "rarity": "common"
+    },
+    {
+      "name": "Pistachios",
+      "rarity": "common"
+    },
+    {
+      "name": "Bitter apple seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Ogbono nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Mamoncillo seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Beechnuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Malabar gourd seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Heartnuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Hickory nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Wiry wattle seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Soybeans",
+      "rarity": "common"
+    },
+    {
+      "name": "Brazil nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Sweet chestnuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Peanuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Pumpkin seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Watermelon seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Acorns",
+      "rarity": "common"
+    },
+    {
+      "name": "Ogbono seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Monkey-puzzle nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Cowpeas",
+      "rarity": "common"
+    },
+    {
+      "name": "Butternuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Pecans",
+      "rarity": "common"
+    },
+    {
+      "name": "Oats",
+      "rarity": "common"
+    },
+    {
+      "name": "Gabon nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Jack nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Co\ufb00ee beans",
+      "rarity": "common"
+    },
+    {
+      "name": "Black ironwood seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Bush mango",
+      "rarity": "common"
+    },
+    {
+      "name": "Southern ironwood seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Canarium nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Paran\u00e1 pine nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Bardi bush seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Pigweed seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Kurrajong nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Deeknuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Coastal wattle seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Shagbark hickory",
+      "rarity": "common"
+    },
+    {
+      "name": "Red bopple nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Pomegranate seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild rice",
+      "rarity": "common"
+    },
+    {
+      "name": "Breadnuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Lotus seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Yellow walnuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Palm nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Poppy seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Single-leaf pinyon nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Hemp seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Sesame seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Shellbark hickory",
+      "rarity": "common"
+    },
+    {
+      "name": "Oldman saltbush seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Bunya nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Pindan wattle seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Ranji bush seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Shoestring acacia seeds",
+      "rarity": "common"
+    },
+    {
+      "name": "Pine nuts",
+      "rarity": "common"
+    },
+    {
+      "name": "Ginkgo nuts",
+      "rarity": "common"
+    }
+  ]
+}

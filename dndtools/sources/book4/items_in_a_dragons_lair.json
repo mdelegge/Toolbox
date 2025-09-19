@@ -1,0 +1,406 @@
+{
+  "name": "Items in a Dragon\u2019s Lair",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Gold pieces (4D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crystal (2\u201d x 1\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Cloak with golden designs of trees",
+      "rarity": "common"
+    },
+    {
+      "name": "Tapestry inscribed with the tale of the last age",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden spear with a dragon tooth tip",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger with an ivory handle",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden sta\ufb00 inlaid with silver and gold",
+      "rarity": "common"
+    },
+    {
+      "name": "Maps (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (2D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Books (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bronze shield with dragon designs",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver chest (locked)",
+      "rarity": "common"
+    },
+    {
+      "name": "Longsword (made of bone)",
+      "rarity": "common"
+    },
+    {
+      "name": "Painting of a beautiful woman",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (16D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver crown with rubies",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (8D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Porcelain vase (5,000 years old)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver statue (8\u2019 tall)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron chest (full of maps)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold and jewel-encrusted longbow",
+      "rarity": "common"
+    },
+    {
+      "name": "Magic item",
+      "rarity": "common"
+    },
+    {
+      "name": "Chainmail (crimson)",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden belt",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden shield with a religious symbol",
+      "rarity": "common"
+    },
+    {
+      "name": "Full plate mail (golden)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ivory statue (3\u2019 tall)",
+      "rarity": "common"
+    },
+    {
+      "name": "Longsword (made from a meteorite)",
+      "rarity": "common"
+    },
+    {
+      "name": "Greataxe with ebony handle",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver ring set with an emerald",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden arrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (5D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Greatsword with an ivory hilt",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (2D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Magic item",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (3D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Magic item",
+      "rarity": "common"
+    },
+    {
+      "name": "Lapis lazuli statue (2\u2019 tall)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bronze helm with dragon designs",
+      "rarity": "common"
+    },
+    {
+      "name": "Short sword (made of obsidian)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (7D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (10D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Books (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tapestry inscribed with a tale of creation",
+      "rarity": "common"
+    },
+    {
+      "name": "Bronze spear",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden chest (full of scrolls)",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden pitcher full of gems",
+      "rarity": "common"
+    },
+    {
+      "name": "Large obsidian key",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden chest (locked)",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden crown encircled with diamonds",
+      "rarity": "common"
+    },
+    {
+      "name": "Magic item",
+      "rarity": "common"
+    },
+    {
+      "name": "Chess set (pawns the size of hal\ufb02ings)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (6D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Short sword (made out of a dragon claw)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger (made from a dragon tooth)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (3D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather armor with intricate forest designs",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (4D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Elven longsword (1,000 years old)",
+      "rarity": "common"
+    },
+    {
+      "name": "Finely crafted mahogany walking stick",
+      "rarity": "common"
+    },
+    {
+      "name": "Jade vase from a mythical kingdom",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (5D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Longsword with a jade hilt",
+      "rarity": "common"
+    },
+    {
+      "name": "Spellbook",
+      "rarity": "common"
+    },
+    {
+      "name": "Magic item",
+      "rarity": "common"
+    },
+    {
+      "name": "Mirror",
+      "rarity": "common"
+    },
+    {
+      "name": "Meteorite (200lbs)",
+      "rarity": "common"
+    },
+    {
+      "name": "Metal shield with the crest a fallen empire",
+      "rarity": "common"
+    },
+    {
+      "name": "Magic item",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver arrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon scales (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron chest (locked)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon scales (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper shield with an ancient crest",
+      "rarity": "common"
+    },
+    {
+      "name": "Painting of a long-dead king",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarven cloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden ring engraved with an ancient language",
+      "rarity": "common"
+    },
+    {
+      "name": "Ruby-hilted dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (9D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger (made from a meteorite)",
+      "rarity": "common"
+    },
+    {
+      "name": "Clockwork falcon",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden chest (locked)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold statue (6\u2019 tall)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron helm ringed in sapphires",
+      "rarity": "common"
+    },
+    {
+      "name": "Crossbow (made of strange greenish metal)",
+      "rarity": "common"
+    },
+    {
+      "name": "Scale armor (black)",
+      "rarity": "common"
+    },
+    {
+      "name": "Obsidian arrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Magic item",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold coin from a mythical realm",
+      "rarity": "common"
+    },
+    {
+      "name": "Shortbow inlaid with ivory designs",
+      "rarity": "common"
+    },
+    {
+      "name": "Scrolls (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (20D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Crystal orb",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon scales (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Elven cloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (12D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarven short sword (2,000 years old)",
+      "rarity": "common"
+    },
+    {
+      "name": "Arkenstone",
+      "rarity": "common"
+    }
+  ]
+}

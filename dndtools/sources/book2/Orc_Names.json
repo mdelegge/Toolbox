@@ -1,0 +1,406 @@
+{
+  "name": "Orc Names",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Az the Mauler",
+      "rarity": "common"
+    },
+    {
+      "name": "Trelgrav the Throat Slitter",
+      "rarity": "common"
+    },
+    {
+      "name": "Tigdrum the Avenger",
+      "rarity": "common"
+    },
+    {
+      "name": "Mazbor the Tall",
+      "rarity": "common"
+    },
+    {
+      "name": "Bralgo the Bone Breaker",
+      "rarity": "common"
+    },
+    {
+      "name": "Grimlor the Spider Friend",
+      "rarity": "common"
+    },
+    {
+      "name": "Gorgig the White",
+      "rarity": "common"
+    },
+    {
+      "name": "Wurilga the Fierce",
+      "rarity": "common"
+    },
+    {
+      "name": "Mrelgoth the Saw",
+      "rarity": "common"
+    },
+    {
+      "name": "Briklo the Gore Monger",
+      "rarity": "common"
+    },
+    {
+      "name": "Qilzok the Wounded",
+      "rarity": "common"
+    },
+    {
+      "name": "Drulag the Viper",
+      "rarity": "common"
+    },
+    {
+      "name": "Filkrag the Lowly",
+      "rarity": "common"
+    },
+    {
+      "name": "Goronom the Head Splitter",
+      "rarity": "common"
+    },
+    {
+      "name": "Nashalgor the Trampler",
+      "rarity": "common"
+    },
+    {
+      "name": "Werg the Slasher",
+      "rarity": "common"
+    },
+    {
+      "name": "Sawgren the Book Burner",
+      "rarity": "common"
+    },
+    {
+      "name": "Kull the Shadow",
+      "rarity": "common"
+    },
+    {
+      "name": "Saklag the Butcher",
+      "rarity": "common"
+    },
+    {
+      "name": "Mrog the Elf Bane",
+      "rarity": "common"
+    },
+    {
+      "name": "Zorath the Strong",
+      "rarity": "common"
+    },
+    {
+      "name": "Zuzbrim the Archer",
+      "rarity": "common"
+    },
+    {
+      "name": "Ugaro the Fiend",
+      "rarity": "common"
+    },
+    {
+      "name": "Shazboz the Disturbed",
+      "rarity": "common"
+    },
+    {
+      "name": "Brimlak the Wild",
+      "rarity": "common"
+    },
+    {
+      "name": "Derdak the Young",
+      "rarity": "common"
+    },
+    {
+      "name": "Maylarg the One Eyed",
+      "rarity": "common"
+    },
+    {
+      "name": "Vilgroth the Filth",
+      "rarity": "common"
+    },
+    {
+      "name": "Ziz the Shatterer",
+      "rarity": "common"
+    },
+    {
+      "name": "Wigvo the Three Fingered",
+      "rarity": "common"
+    },
+    {
+      "name": "Lagvorg the Diseased",
+      "rarity": "common"
+    },
+    {
+      "name": "Grigbor the Grinder",
+      "rarity": "common"
+    },
+    {
+      "name": "Gazlip the Unbeaten",
+      "rarity": "common"
+    },
+    {
+      "name": "Vormak the Loner",
+      "rarity": "common"
+    },
+    {
+      "name": "Hazod the Punisher",
+      "rarity": "common"
+    },
+    {
+      "name": "Xor the Mighty",
+      "rarity": "common"
+    },
+    {
+      "name": "Kilras the Breaker",
+      "rarity": "common"
+    },
+    {
+      "name": "Glorm the Black",
+      "rarity": "common"
+    },
+    {
+      "name": "Zomarorg the Hated",
+      "rarity": "common"
+    },
+    {
+      "name": "Volkslu the Hal\ufb02ing Eater",
+      "rarity": "common"
+    },
+    {
+      "name": "Krelnok the Powerful",
+      "rarity": "common"
+    },
+    {
+      "name": "Izkorg the Liar",
+      "rarity": "common"
+    },
+    {
+      "name": "Froklor the Mage Fighter",
+      "rarity": "common"
+    },
+    {
+      "name": "Ozorborg the Corrupted",
+      "rarity": "common"
+    },
+    {
+      "name": "Torngul the Troll Bane",
+      "rarity": "common"
+    },
+    {
+      "name": "Erlag the Twisted",
+      "rarity": "common"
+    },
+    {
+      "name": "Solgrov the Insane",
+      "rarity": "common"
+    },
+    {
+      "name": "Ziig the Runner",
+      "rarity": "common"
+    },
+    {
+      "name": "Poog the Hammer",
+      "rarity": "common"
+    },
+    {
+      "name": "Ragmorl the Quick",
+      "rarity": "common"
+    },
+    {
+      "name": "Shlazgor the Iron Fist",
+      "rarity": "common"
+    },
+    {
+      "name": "Zin the Fearless",
+      "rarity": "common"
+    },
+    {
+      "name": "Brom the Lame",
+      "rarity": "common"
+    },
+    {
+      "name": "Argzoz the Swift",
+      "rarity": "common"
+    },
+    {
+      "name": "Yalograz the Flame",
+      "rarity": "common"
+    },
+    {
+      "name": "Kreg the Shamed",
+      "rarity": "common"
+    },
+    {
+      "name": "Shigrawl the Heart Render",
+      "rarity": "common"
+    },
+    {
+      "name": "Vorlig the Hunter",
+      "rarity": "common"
+    },
+    {
+      "name": "Kraz the Disemboweler",
+      "rarity": "common"
+    },
+    {
+      "name": "Borgzil the Victor",
+      "rarity": "common"
+    },
+    {
+      "name": "Zorgdrul the Conqueror",
+      "rarity": "common"
+    },
+    {
+      "name": "Morlok the Widow Maker",
+      "rarity": "common"
+    },
+    {
+      "name": "Nurgzol the Man Killer",
+      "rarity": "common"
+    },
+    {
+      "name": "Ig the Ripper",
+      "rarity": "common"
+    },
+    {
+      "name": "Mogzilgor the Slasher",
+      "rarity": "common"
+    },
+    {
+      "name": "Zod the Impaler",
+      "rarity": "common"
+    },
+    {
+      "name": "Klarg the Voiceless",
+      "rarity": "common"
+    },
+    {
+      "name": "Glomgur the Burner",
+      "rarity": "common"
+    },
+    {
+      "name": "Vorg the Devil",
+      "rarity": "common"
+    },
+    {
+      "name": "Moz the Tireless",
+      "rarity": "common"
+    },
+    {
+      "name": "Krilgog the Scarred",
+      "rarity": "common"
+    },
+    {
+      "name": "Zogmaz the Blood Spiller",
+      "rarity": "common"
+    },
+    {
+      "name": "Thalmok the Spitter",
+      "rarity": "common"
+    },
+    {
+      "name": "Grolzak the Fang",
+      "rarity": "common"
+    },
+    {
+      "name": "Traalgig the Terror",
+      "rarity": "common"
+    },
+    {
+      "name": "Xozrog the Blue",
+      "rarity": "common"
+    },
+    {
+      "name": "Zorglag the Fearsome",
+      "rarity": "common"
+    },
+    {
+      "name": "Zimgril the Hoarder",
+      "rarity": "common"
+    },
+    {
+      "name": "Trolg the Cutter",
+      "rarity": "common"
+    },
+    {
+      "name": "Zerg the Stealer",
+      "rarity": "common"
+    },
+    {
+      "name": "Grist the Slaughter",
+      "rarity": "common"
+    },
+    {
+      "name": "Torg the Grim Tooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Durboz the Crusher",
+      "rarity": "common"
+    },
+    {
+      "name": "Bolzogrin the Enforcer",
+      "rarity": "common"
+    },
+    {
+      "name": "Puklag the Broken",
+      "rarity": "common"
+    },
+    {
+      "name": "Gur the Climber",
+      "rarity": "common"
+    },
+    {
+      "name": "Vrog the Corruptor",
+      "rarity": "common"
+    },
+    {
+      "name": "Jarl the Lost",
+      "rarity": "common"
+    },
+    {
+      "name": "Rozbul the Old",
+      "rarity": "common"
+    },
+    {
+      "name": "Shalig the Weak Eyed",
+      "rarity": "common"
+    },
+    {
+      "name": "Ozbrog the Wicked",
+      "rarity": "common"
+    },
+    {
+      "name": "Shazmog the Beast",
+      "rarity": "common"
+    },
+    {
+      "name": "Traza\ufb01l the Ax Wielder",
+      "rarity": "common"
+    },
+    {
+      "name": "Raggril the Hungry",
+      "rarity": "common"
+    },
+    {
+      "name": "Morzan the Hunted",
+      "rarity": "common"
+    },
+    {
+      "name": "Bozhel the Piercer",
+      "rarity": "common"
+    },
+    {
+      "name": "Kluge the Dwarf Slayer",
+      "rarity": "common"
+    },
+    {
+      "name": "Hazogrin the Backstabber",
+      "rarity": "common"
+    },
+    {
+      "name": "Sligmor the Sly",
+      "rarity": "common"
+    },
+    {
+      "name": "Zurgor the Slayer",
+      "rarity": "common"
+    }
+  ]
+}

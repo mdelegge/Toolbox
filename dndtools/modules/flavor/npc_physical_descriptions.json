@@ -1,0 +1,406 @@
+{
+  "name": "NPC Physical Descriptions",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Tall, Thin Build, Adventurer's Outfit, Long scar across face",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Thin Build, Mages Robes, Deformed nose",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Thin Build, Heavy Armor, Piercing eyes",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Thin Build, Common Clothes, Exceptionally pale",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Thin Build, Exquisite Attire, Burn marks on face",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Stocky, Adventurer's Outfit, Asymmetrical face",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Stocky, Mages Robes, Massive pointed beard",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Stocky, Heavy Armor, Massive shield but no weapon",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Stocky, Common Clothes, Large tattoo covering right arm",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Stocky, Exquisite Attire, Scrunched up facial expression",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Athletic Build, Adventurer's Outfit, Cocky smirk on face",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Athletic Build, Mages Robes, Massive backpack full of books",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Athletic Build, Heavy Armor, Missing an ear",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Athletic Build, Common Clothes, Scar across jawline",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Athletic Build, Exquisite Attire, Charming smile",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Muscular, Adventurer's Outfit, Burns all over arms",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Muscular, Mages Robes, Twirled Mustache",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Muscular, Heavy Armor, Small tattoo on face",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Muscular, Common Clothes, Large eyepatch",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Muscular, Exquisite Attire, Tattoo of a bird",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Obese, Adventurer's Outfit, Large afro hairstyle",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Obese, Mages Robes, Missing an arm",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Obese, Heavy Armor, Incredibly small feet",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Obese, Common Clothes, Face covered in powder",
+      "rarity": "common"
+    },
+    {
+      "name": "Tall, Obese, Exquisite Attire, Scar across bald head",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Thin Build, Adventurer's Outfit",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Thin Build, Mages Robes, Mohawk hairstyle",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Thin Build, Heavy Armor, Nervous facial expression",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Thin Build, Common Clothes, Short goatee",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Thin Build, Exquisite Attire, Tattoo of a scorpion",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Stocky, Adventurer's Outfit, Burn marks on feet",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Stocky, Mages Robes, Missing a hand",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Stocky, Heavy Armor, Deformed hands",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Stocky, Common Clothes, Tattoo on left hand",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Stocky, Exquisite Attire, Scarred hands",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Athletic Build, Adventurer's Outfit, Buzz cut hairstyle",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Athletic Build, Mages Robes, Angry facial expression",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Athletic Build, Heavy Armor, Handlebar mustache",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Athletic Build, Common Clothes, Missing a leg",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Athletic Build, Exquisite Attire, Large tattoo covering chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Muscular, Adventurer's Outfit, Face covered in dirt",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Muscular, Mages Robes, Burn marks on hands",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Muscular, Heavy Armor, Tattoo of a spider",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Muscular, Common Clothes, Scarred arms",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Muscular, Exquisite Attire, Long \ufb02owing hair",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Obese, Adventurer's Outfit, Deformed ears",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Obese, Mages Robes, Face covered in boils",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Obese, Heavy Armor, Large bushy beard",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Obese, Common Clothes, Fearful facial expression",
+      "rarity": "common"
+    },
+    {
+      "name": "Average Height, Obese, Exquisite Attire, Missing a foot",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Thin Build, Adventurer's Outfit, Tattoo on neck",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Thin Build, Mages Robes, Scar across forehead",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Thin Build, Heavy Armor, Balding hair",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Thin Build, Common Clothes, Tattoo of a wolf",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Thin Build, Exquisite Attire, Face covered in zits",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Stocky, Adventurer's Outfit, Comically large ears",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Stocky, Mages Robes, Burn marks on bald head",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Stocky, Heavy Armor, Missing nose",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Stocky, Common Clothes, Deformed mouth",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Stocky, Exquisite Attire, Trimmed mustache",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Athletic Build, Adventurer's Outfit, Tattoo on bald head",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Athletic Build, Mages Robes, Deaf facial expression",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Athletic Build, Heavy Armor, Curly hair",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Athletic Build, Common Clothes, Scar across chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Athletic Build, Exquisite Attire, Burn marks on legs",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Muscular, Adventurer's Outfit, Tattoo of a dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Muscular, Mages Robes, Face covered in fecal matter",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Muscular, Heavy Armor, Well-kept beard",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Muscular, Common Clothes",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Muscular, Exquisite Attire, Missing a finger",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Obese, Adventurer's Outfit",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Obese, Mages Robes, Deformed arm",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Obese, Heavy Armor, Tattoo of a giant centipede",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Obese, Common Clothes, Wavy textured hair",
+      "rarity": "common"
+    },
+    {
+      "name": "Short, Obese, Exquisite Attire, Smug facial expression",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Thin Build, Adventurer's Outfit, Short beard",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Thin Build, Mages Robes, Face covered in pockmarks",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Thin Build, Heavy Armor, Small tattoo on right foot",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Thin Build, Common Clothes, Burns all over back",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Thin Build, Exquisite Attire, Scar on nose",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Stocky, Adventurer's Outfit, Face covered in magical markings",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Stocky, Mages Robes, Tattoo of a magical symbol",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Stocky, Heavy Armor, Missing several \ufb01ngers",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Stocky, Common Clothes, Messy hairstyle",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Stocky, Exquisite Attire, Comically large mustache",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Athletic Build, Adventurer's Outfit, Large tattoo covering left leg",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Athletic Build, Mages Robes, Plate helmet too big for head",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Athletic Build, Heavy Armor, Face covered in foreign writing",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Athletic Build, Common Clothes, Curious facial expression",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Athletic Build, Exquisite Attire, Cheap wig",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Muscular, Adventurer's Outfit, Deformed forehead",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Muscular, Mages Robes, Face covered in bees",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Muscular, Heavy Armor, Tattoo of an anchor",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Muscular, Common Clothes, Intimidating stare",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Muscular, Exquisite Attire, Missing an eye",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Obese, Adventurer's Outfit, Muttonchop beard",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Obese, Mages Robes, Orange stringy hair",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Obese, Heavy Armor, Confident facial expression",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Obese, Common Clothes, Face covered in cuts and bruises",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny, Obese, Exquisite Attire, Full-size tattoo of own face on chest",
+      "rarity": "common"
+    }
+  ]
+}

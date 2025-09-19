@@ -1,0 +1,406 @@
+{
+  "name": "Dungeon Room - Table #2",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Oak leaf",
+      "rarity": "common"
+    },
+    {
+      "name": "Brooch (silver)",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblin teeth (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Orc teeth (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger (goblin make)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tinder box",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead raven",
+      "rarity": "common"
+    },
+    {
+      "name": "Burned body (gnome)",
+      "rarity": "common"
+    },
+    {
+      "name": "Brooch (gold)",
+      "rarity": "common"
+    },
+    {
+      "name": "Half a copper piece",
+      "rarity": "common"
+    },
+    {
+      "name": "Mirror (1\u2019 x 4\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Burned body (elf)",
+      "rarity": "common"
+    },
+    {
+      "name": "Small glass orb",
+      "rarity": "common"
+    },
+    {
+      "name": "Pewter bowl",
+      "rarity": "common"
+    },
+    {
+      "name": "Pewter cup",
+      "rarity": "common"
+    },
+    {
+      "name": "Lead balls (1D4, 3\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Orc fang",
+      "rarity": "common"
+    },
+    {
+      "name": "Shattered mirror",
+      "rarity": "common"
+    },
+    {
+      "name": "Blocks of wood (1D6, 2\u201d x 2\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Eagle beak",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead squirrel",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead chicken",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted iron spikes (1D20, 6\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiger skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken porcelain vase",
+      "rarity": "common"
+    },
+    {
+      "name": "Hymn book",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted iron spikes (1D4, 6\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Fireplace poker",
+      "rarity": "common"
+    },
+    {
+      "name": "Jar with a human eye \ufb02oating in liquid",
+      "rarity": "common"
+    },
+    {
+      "name": "Blocks of wood (1D6, 3\u201d x 3\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather strap (1\u201d x 2\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Severed goblin foot",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted iron spikes (1D8, 6\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken lantern",
+      "rarity": "common"
+    },
+    {
+      "name": "Decayed leather armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Fossilized walrus tusk",
+      "rarity": "common"
+    },
+    {
+      "name": "Pile of large bones (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Raven beak",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead raccoon",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted iron spikes (1D12, 6\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Blocks of wood (1D8, 3\u201d x 4\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken long sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Button (silver)",
+      "rarity": "common"
+    },
+    {
+      "name": "Eagle talon",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblin tooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblin teeth (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Human teeth (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Half a silver piece",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblin droppings",
+      "rarity": "common"
+    },
+    {
+      "name": "Severed orc hand",
+      "rarity": "common"
+    },
+    {
+      "name": "Button (copper)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mouse droppings",
+      "rarity": "common"
+    },
+    {
+      "name": "Button (gold)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead butter\ufb02y",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver nose ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Sharpened iron spoon",
+      "rarity": "common"
+    },
+    {
+      "name": "Long sword (Orc make)",
+      "rarity": "common"
+    },
+    {
+      "name": "Stu\ufb00ed lizard",
+      "rarity": "common"
+    },
+    {
+      "name": "Blocks of wood (1D10, 3\u201d x 6\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Blocks of wood (1D12, 3\u201d x 3\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden feather",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron Shears",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken porcelain bowl",
+      "rarity": "common"
+    },
+    {
+      "name": "Lead balls (1D8, 1\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken short sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblin teeth (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Blocks of wood (1D10, 2\u201d x 5\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lead balls (1D12, 2\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden bowl",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted iron spikes (1D6, 6\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rat droppings",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead lizard",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead beetle",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted iron spikes (1D10, 6\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Short sword (goblin make)",
+      "rarity": "common"
+    },
+    {
+      "name": "Orc teeth (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Human tooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead robin",
+      "rarity": "common"
+    },
+    {
+      "name": "Lion skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Pile of small bones (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Blocks of wood (1D4, 3\u201d x 3\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hawk feather",
+      "rarity": "common"
+    },
+    {
+      "name": "Human teeth (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Raven feather",
+      "rarity": "common"
+    },
+    {
+      "name": "Blocks of wood (1D20, 4\u201d x 4\u201d)",
+      "rarity": "common"
+    },
+    {
+      "name": "Small stone with \u201cM\u201d carved in it",
+      "rarity": "common"
+    },
+    {
+      "name": "Orc teeth (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear claw",
+      "rarity": "common"
+    },
+    {
+      "name": "Orc droppings",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblin teeth (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hawk talon",
+      "rarity": "common"
+    },
+    {
+      "name": "Half a gold piece",
+      "rarity": "common"
+    },
+    {
+      "name": "Burned body (human)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead mice (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Orc teeth (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted topaz ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Ivory earring",
+      "rarity": "common"
+    },
+    {
+      "name": "Large clay pot",
+      "rarity": "common"
+    },
+    {
+      "name": "Small woven basket",
+      "rarity": "common"
+    }
+  ]
+}

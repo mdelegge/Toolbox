@@ -1,0 +1,406 @@
+{
+  "name": "Mutations",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Head hair grows down neck, out to the shoulders",
+      "rarity": "common"
+    },
+    {
+      "name": "Two tusks begin growing out of the bottom jaw",
+      "rarity": "common"
+    },
+    {
+      "name": "Pupils turn red",
+      "rarity": "common"
+    },
+    {
+      "name": "Bird legs",
+      "rarity": "common"
+    },
+    {
+      "name": "Insect legs",
+      "rarity": "common"
+    },
+    {
+      "name": "Irises turn orange",
+      "rarity": "common"
+    },
+    {
+      "name": "Eyes turn solid red",
+      "rarity": "common"
+    },
+    {
+      "name": "Left arm becomes massive",
+      "rarity": "common"
+    },
+    {
+      "name": "Third eye that can only see ultraviolet",
+      "rarity": "common"
+    },
+    {
+      "name": "Right foot turns into a mass of writhing tentacles",
+      "rarity": "common"
+    },
+    {
+      "name": "All body hair turns flame-red",
+      "rarity": "common"
+    },
+    {
+      "name": "Right arm becomes massive",
+      "rarity": "common"
+    },
+    {
+      "name": "Head crest made of hair, feathers, and bone",
+      "rarity": "common"
+    },
+    {
+      "name": "Left-arm splits into six tentacles at the elbow",
+      "rarity": "common"
+    },
+    {
+      "name": "All body hair turns bright yellow",
+      "rarity": "common"
+    },
+    {
+      "name": "Left leg becomes goblinoid",
+      "rarity": "common"
+    },
+    {
+      "name": "Several large bumps appear on the back",
+      "rarity": "common"
+    },
+    {
+      "name": "Boney tusks protrude from both elbows",
+      "rarity": "common"
+    },
+    {
+      "name": "Develop ankle spurs like a rooster",
+      "rarity": "common"
+    },
+    {
+      "name": "Right eye has night vision but blind in the day",
+      "rarity": "common"
+    },
+    {
+      "name": "Right foot now has six toes",
+      "rarity": "common"
+    },
+    {
+      "name": "Develops a beak",
+      "rarity": "common"
+    },
+    {
+      "name": "Eyes turn solid green",
+      "rarity": "common"
+    },
+    {
+      "name": "Right hand turns into a mass of tentacles",
+      "rarity": "common"
+    },
+    {
+      "name": "Prehensile tail grows",
+      "rarity": "common"
+    },
+    {
+      "name": "Extra finger grows on the right hand",
+      "rarity": "common"
+    },
+    {
+      "name": "All body hair turns orange",
+      "rarity": "common"
+    },
+    {
+      "name": "Webbed fingers and toes",
+      "rarity": "common"
+    },
+    {
+      "name": "Two more eyes grow on cheeks",
+      "rarity": "common"
+    },
+    {
+      "name": "Strange skin pattern and texture",
+      "rarity": "common"
+    },
+    {
+      "name": "Cyclops",
+      "rarity": "common"
+    },
+    {
+      "name": "Pupils are now slits",
+      "rarity": "common"
+    },
+    {
+      "name": "Skin turns scaly",
+      "rarity": "common"
+    },
+    {
+      "name": "Eyes triple in size",
+      "rarity": "common"
+    },
+    {
+      "name": "Pebble-sized bumps all over skin",
+      "rarity": "common"
+    },
+    {
+      "name": "Eyes turn solid purple",
+      "rarity": "common"
+    },
+    {
+      "name": "Left foot turns into a mass of writhing tentacles",
+      "rarity": "common"
+    },
+    {
+      "name": "Covered in feathers",
+      "rarity": "common"
+    },
+    {
+      "name": "One ear becomes goblinoid",
+      "rarity": "common"
+    },
+    {
+      "name": "Irises turn red",
+      "rarity": "common"
+    },
+    {
+      "name": "Evil eye",
+      "rarity": "common"
+    },
+    {
+      "name": "Entire upper body doubles in size",
+      "rarity": "common"
+    },
+    {
+      "name": "Left eye has dark vision butblind in the day",
+      "rarity": "common"
+    },
+    {
+      "name": "Character now glows slightly in the dark",
+      "rarity": "common"
+    },
+    {
+      "name": "Clear inner eyelids",
+      "rarity": "common"
+    },
+    {
+      "name": "Right leg turns into two tentacles at the- knee",
+      "rarity": "common"
+    },
+    {
+      "name": "Blood is now acid",
+      "rarity": "common"
+    },
+    {
+      "name": "Body now covered in fur",
+      "rarity": "common"
+    },
+    {
+      "name": "Left arm turns into a snake",
+      "rarity": "common"
+    },
+    {
+      "name": "Eyes are completely white",
+      "rarity": "common"
+    },
+    {
+      "name": "Right arm splits into four tentacles at the elbow",
+      "rarity": "common"
+    },
+    {
+      "name": "Several horns begin growing out of the head",
+      "rarity": "common"
+    },
+    {
+      "name": "Goat legs",
+      "rarity": "common"
+    },
+    {
+      "name": "Mushrooms and plants grow around the ears",
+      "rarity": "common"
+    },
+    {
+      "name": "Voice changes into a gravely scraping sound",
+      "rarity": "common"
+    },
+    {
+      "name": "Eyes are now in the palms of the hands",
+      "rarity": "common"
+    },
+    {
+      "name": "All body hair turns green",
+      "rarity": "common"
+    },
+    {
+      "name": "Tusks start growing out of the top jaw",
+      "rarity": "common"
+    },
+    {
+      "name": "Head hair turns into snakes",
+      "rarity": "common"
+    },
+    {
+      "name": "Fingers on right hand turn into claws",
+      "rarity": "common"
+    },
+    {
+      "name": "Hard carapace develops on the back",
+      "rarity": "common"
+    },
+    {
+      "name": "Extra finger grows on the left hand",
+      "rarity": "common"
+    },
+    {
+      "name": "Right leg becomes goblinoid",
+      "rarity": "common"
+    },
+    {
+      "name": "Porcupine-like quills cover character's back",
+      "rarity": "common"
+    },
+    {
+      "name": "Character's eyes are now on stalks",
+      "rarity": "common"
+    },
+    {
+      "name": "Character now has a frog-like tongue",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny arm grows out of the neck",
+      "rarity": "common"
+    },
+    {
+      "name": "Head turns into a wolf head",
+      "rarity": "common"
+    },
+    {
+      "name": "Two small arms grow underneath arms",
+      "rarity": "common"
+    },
+    {
+      "name": "Gills on neck",
+      "rarity": "common"
+    },
+    {
+      "name": "Eyes turn solid blue",
+      "rarity": "common"
+    },
+    {
+      "name": "Feet turn into hooves",
+      "rarity": "common"
+    },
+    {
+      "name": "Skin turns red",
+      "rarity": "common"
+    },
+    {
+      "name": "Deer legs",
+      "rarity": "common"
+    },
+    {
+      "name": "Head becomes goblinoid",
+      "rarity": "common"
+    },
+    {
+      "name": "Left hand turns into a large claw",
+      "rarity": "common"
+    },
+    {
+      "name": "Rough rock-like skin",
+      "rarity": "common"
+    },
+    {
+      "name": "Can unhinge jaw",
+      "rarity": "common"
+    },
+    {
+      "name": "Right arm turns into a snake",
+      "rarity": "common"
+    },
+    {
+      "name": "Nose turns into an elephant's trunk a foot long",
+      "rarity": "common"
+    },
+    {
+      "name": "Mouth turns into mandibles",
+      "rarity": "common"
+    },
+    {
+      "name": "Legs increase in size",
+      "rarity": "common"
+    },
+    {
+      "name": "Character grows a tail",
+      "rarity": "common"
+    },
+    {
+      "name": "Right arm turns into a tentacle",
+      "rarity": "common"
+    },
+    {
+      "name": "All body hair turns blue",
+      "rarity": "common"
+    },
+    {
+      "name": "Skin turns yellow",
+      "rarity": "common"
+    },
+    {
+      "name": "Prominent veins all over body",
+      "rarity": "common"
+    },
+    {
+      "name": "Skin turns green",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny needle-like teeth replace normal teeth",
+      "rarity": "common"
+    },
+    {
+      "name": "Withered corpse-like appearance",
+      "rarity": "common"
+    },
+    {
+      "name": "Left arm turns into a tentacle",
+      "rarity": "common"
+    },
+    {
+      "name": "Eyes turn solid yellow",
+      "rarity": "common"
+    },
+    {
+      "name": "Skin turns blue",
+      "rarity": "common"
+    },
+    {
+      "name": "Left foot now has six toes",
+      "rarity": "common"
+    },
+    {
+      "name": "Tentacle grows out of the sternum",
+      "rarity": "common"
+    },
+    {
+      "name": "Fingers on left hand turn into tentacles",
+      "rarity": "common"
+    },
+    {
+      "name": "Left leg turns into jellyfish-like stingers",
+      "rarity": "common"
+    },
+    {
+      "name": "Body is now covered in moss",
+      "rarity": "common"
+    },
+    {
+      "name": "Arms become goblinoid",
+      "rarity": "common"
+    },
+    {
+      "name": "Roll four times on the table",
+      "rarity": "common"
+    }
+  ]
+}

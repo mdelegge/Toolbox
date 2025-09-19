@@ -1,0 +1,406 @@
+{
+  "name": "Dwarf Clan Names",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Cragstone",
+      "rarity": "common"
+    },
+    {
+      "name": "Mudcoat",
+      "rarity": "common"
+    },
+    {
+      "name": "Copperbraid",
+      "rarity": "common"
+    },
+    {
+      "name": "Mountainfur",
+      "rarity": "common"
+    },
+    {
+      "name": "Marblegut",
+      "rarity": "common"
+    },
+    {
+      "name": "Chaingranite",
+      "rarity": "common"
+    },
+    {
+      "name": "Drakebane",
+      "rarity": "common"
+    },
+    {
+      "name": "Oreflayer",
+      "rarity": "common"
+    },
+    {
+      "name": "Bronzeaxe",
+      "rarity": "common"
+    },
+    {
+      "name": "Platebraid",
+      "rarity": "common"
+    },
+    {
+      "name": "Rubyview",
+      "rarity": "common"
+    },
+    {
+      "name": "Chainmantle",
+      "rarity": "common"
+    },
+    {
+      "name": "Wraithmaul",
+      "rarity": "common"
+    },
+    {
+      "name": "Brewrock",
+      "rarity": "common"
+    },
+    {
+      "name": "Steeltoe",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragonaxe",
+      "rarity": "common"
+    },
+    {
+      "name": "Ironhammer",
+      "rarity": "common"
+    },
+    {
+      "name": "Longcloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Cragbasher",
+      "rarity": "common"
+    },
+    {
+      "name": "Bristlemantle",
+      "rarity": "common"
+    },
+    {
+      "name": "Oakenbane",
+      "rarity": "common"
+    },
+    {
+      "name": "Strongaxe",
+      "rarity": "common"
+    },
+    {
+      "name": "Cragfury",
+      "rarity": "common"
+    },
+    {
+      "name": "Koboldthane",
+      "rarity": "common"
+    },
+    {
+      "name": "Bonebrew",
+      "rarity": "common"
+    },
+    {
+      "name": "Steelforge",
+      "rarity": "common"
+    },
+    {
+      "name": "Bronzebeard",
+      "rarity": "common"
+    },
+    {
+      "name": "Icehammer",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrelstone",
+      "rarity": "common"
+    },
+    {
+      "name": "Warbraid",
+      "rarity": "common"
+    },
+    {
+      "name": "Oretoe",
+      "rarity": "common"
+    },
+    {
+      "name": "Shadowbelly",
+      "rarity": "common"
+    },
+    {
+      "name": "Ironfoot",
+      "rarity": "common"
+    },
+    {
+      "name": "Lightdelver",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrelspine",
+      "rarity": "common"
+    },
+    {
+      "name": "Grumblemaker",
+      "rarity": "common"
+    },
+    {
+      "name": "Lavaforge",
+      "rarity": "common"
+    },
+    {
+      "name": "Minebuckle",
+      "rarity": "common"
+    },
+    {
+      "name": "Jadearm",
+      "rarity": "common"
+    },
+    {
+      "name": "Bluntbeard",
+      "rarity": "common"
+    },
+    {
+      "name": "Granitebelt",
+      "rarity": "common"
+    },
+    {
+      "name": "Cragfoot",
+      "rarity": "common"
+    },
+    {
+      "name": "Brickarm",
+      "rarity": "common"
+    },
+    {
+      "name": "Frostbeard",
+      "rarity": "common"
+    },
+    {
+      "name": "Hammermane",
+      "rarity": "common"
+    },
+    {
+      "name": "Bloodbelt",
+      "rarity": "common"
+    },
+    {
+      "name": "Coinbrew",
+      "rarity": "common"
+    },
+    {
+      "name": "Flaskmane",
+      "rarity": "common"
+    },
+    {
+      "name": "Whitspine",
+      "rarity": "common"
+    },
+    {
+      "name": "Cragbasher",
+      "rarity": "common"
+    },
+    {
+      "name": "Axegrip",
+      "rarity": "common"
+    },
+    {
+      "name": "Aleguard",
+      "rarity": "common"
+    },
+    {
+      "name": "Leadforged",
+      "rarity": "common"
+    },
+    {
+      "name": "Dimfinger",
+      "rarity": "common"
+    },
+    {
+      "name": "Lavagut",
+      "rarity": "common"
+    },
+    {
+      "name": "Chaoshelm",
+      "rarity": "common"
+    },
+    {
+      "name": "Coalshield",
+      "rarity": "common"
+    },
+    {
+      "name": "Beastfoot",
+      "rarity": "common"
+    },
+    {
+      "name": "Brickhorn",
+      "rarity": "common"
+    },
+    {
+      "name": "Metalshoulder",
+      "rarity": "common"
+    },
+    {
+      "name": "Caskarm",
+      "rarity": "common"
+    },
+    {
+      "name": "Warminer",
+      "rarity": "common"
+    },
+    {
+      "name": "Woldbasher",
+      "rarity": "common"
+    },
+    {
+      "name": "Drakefall",
+      "rarity": "common"
+    },
+    {
+      "name": "Flaskbrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Ashsunder",
+      "rarity": "common"
+    },
+    {
+      "name": "Onyxarm",
+      "rarity": "common"
+    },
+    {
+      "name": "Shadowstone",
+      "rarity": "common"
+    },
+    {
+      "name": "Berylbrew",
+      "rarity": "common"
+    },
+    {
+      "name": "Bonethane",
+      "rarity": "common"
+    },
+    {
+      "name": "Windbender",
+      "rarity": "common"
+    },
+    {
+      "name": "Magmabranch",
+      "rarity": "common"
+    },
+    {
+      "name": "Irongranite",
+      "rarity": "common"
+    },
+    {
+      "name": "Icejaw",
+      "rarity": "common"
+    },
+    {
+      "name": "Hammerfist",
+      "rarity": "common"
+    },
+    {
+      "name": "Stormbrew",
+      "rarity": "common"
+    },
+    {
+      "name": "Forgedigger",
+      "rarity": "common"
+    },
+    {
+      "name": "Goldmaster",
+      "rarity": "common"
+    },
+    {
+      "name": "Anvilshoulder",
+      "rarity": "common"
+    },
+    {
+      "name": "Boulderbrew",
+      "rarity": "common"
+    },
+    {
+      "name": "Axecoat",
+      "rarity": "common"
+    },
+    {
+      "name": "Leadbringer",
+      "rarity": "common"
+    },
+    {
+      "name": "Flintbraid",
+      "rarity": "common"
+    },
+    {
+      "name": "Silverhood",
+      "rarity": "common"
+    },
+    {
+      "name": "Stormguard",
+      "rarity": "common"
+    },
+    {
+      "name": "Hammerbuckle",
+      "rarity": "common"
+    },
+    {
+      "name": "Nightmantle",
+      "rarity": "common"
+    },
+    {
+      "name": "Bloodborn",
+      "rarity": "common"
+    },
+    {
+      "name": "Thunderblade",
+      "rarity": "common"
+    },
+    {
+      "name": "Dimbeard",
+      "rarity": "common"
+    },
+    {
+      "name": "Snowstone",
+      "rarity": "common"
+    },
+    {
+      "name": "Hornhead",
+      "rarity": "common"
+    },
+    {
+      "name": "Leadhide",
+      "rarity": "common"
+    },
+    {
+      "name": "Bonedigger",
+      "rarity": "common"
+    },
+    {
+      "name": "Mudbasher",
+      "rarity": "common"
+    },
+    {
+      "name": "Frostmine",
+      "rarity": "common"
+    },
+    {
+      "name": "Minebrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Longbelly",
+      "rarity": "common"
+    },
+    {
+      "name": "Bronzeback",
+      "rarity": "common"
+    },
+    {
+      "name": "Blackstone",
+      "rarity": "common"
+    }
+  ]
+}

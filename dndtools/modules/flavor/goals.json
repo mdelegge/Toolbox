@@ -1,0 +1,402 @@
+{
+  "name": "Goals",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "To recover your teacher's instrument",
+      "rarity": "common"
+    },
+    {
+      "name": "To found a library",
+      "rarity": "common"
+    },
+    {
+      "name": "To complete your research",
+      "rarity": "common"
+    },
+    {
+      "name": "To become nobility",
+      "rarity": "common"
+    },
+    {
+      "name": "To try out new and exciting foods",
+      "rarity": "common"
+    },
+    {
+      "name": "To rise to the top of your guild",
+      "rarity": "common"
+    },
+    {
+      "name": "To return home to your love",
+      "rarity": "common"
+    },
+    {
+      "name": "To hunt down your mutinous crew",
+      "rarity": "common"
+    },
+    {
+      "name": "To reclaim the lands of your clan",
+      "rarity": "common"
+    },
+    {
+      "name": "To take your rightful place amongst the devils",
+      "rarity": "common"
+    },
+    {
+      "name": "To be considered a master huntsman",
+      "rarity": "common"
+    },
+    {
+      "name": "To start your own mercenary group",
+      "rarity": "common"
+    },
+    {
+      "name": "To return to your home village",
+      "rarity": "common"
+    },
+    {
+      "name": "To be named king",
+      "rarity": "common"
+    },
+    {
+      "name": "To find a lost temple",
+      "rarity": "common"
+    },
+    {
+      "name": "To retrieve your sibling's soul",
+      "rarity": "common"
+    },
+    {
+      "name": "To find and use an ancient artifact",
+      "rarity": "common"
+    },
+    {
+      "name": "To be venerated by your temple",
+      "rarity": "common"
+    },
+    {
+      "name": "To gain land",
+      "rarity": "common"
+    },
+    {
+      "name": "To open a bar",
+      "rarity": "common"
+    },
+    {
+      "name": "To captain your own ship",
+      "rarity": "common"
+    },
+    {
+      "name": "To hunt down the man that killed your family",
+      "rarity": "common"
+    },
+    {
+      "name": "To buy back your family's land",
+      "rarity": "common"
+    },
+    {
+      "name": "To start a family",
+      "rarity": "common"
+    },
+    {
+      "name": "To become a werebeast",
+      "rarity": "common"
+    },
+    {
+      "name": "To build a temple dedicated to your god",
+      "rarity": "common"
+    },
+    {
+      "name": "To become the greatest thief in the world",
+      "rarity": "common"
+    },
+    {
+      "name": "To ride a dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "To buy back the family farm",
+      "rarity": "common"
+    },
+    {
+      "name": "To carve your name into legend",
+      "rarity": "common"
+    },
+    {
+      "name": "To ruin a rival's business",
+      "rarity": "common"
+    },
+    {
+      "name": "To become a master smith",
+      "rarity": "common"
+    },
+    {
+      "name": "To start your own trade caravan",
+      "rarity": "common"
+    },
+    {
+      "name": "To restore your family's honor",
+      "rarity": "common"
+    },
+    {
+      "name": "To invent new wonders",
+      "rarity": "common"
+    },
+    {
+      "name": "To find a lost relic of your temple",
+      "rarity": "common"
+    },
+    {
+      "name": "To paint your masterpiece",
+      "rarity": "common"
+    },
+    {
+      "name": "To take your rightful place amongst the gods",
+      "rarity": "common"
+    },
+    {
+      "name": "To reunite your old squad",
+      "rarity": "common"
+    },
+    {
+      "name": "To find your lost weapon",
+      "rarity": "common"
+    },
+    {
+      "name": "To establish a dynasty",
+      "rarity": "common"
+    },
+    {
+      "name": "To buy an inn",
+      "rarity": "common"
+    },
+    {
+      "name": "To return home from war",
+      "rarity": "common"
+    },
+    {
+      "name": "To thwart your destiny",
+      "rarity": "common"
+    },
+    {
+      "name": "To go down in history",
+      "rarity": "common"
+    },
+    {
+      "name": "To find your friends",
+      "rarity": "common"
+    },
+    {
+      "name": "To see the four corners of the world",
+      "rarity": "common"
+    },
+    {
+      "name": "To ascend the throne",
+      "rarity": "common"
+    },
+    {
+      "name": "To open a brewery",
+      "rarity": "common"
+    },
+    {
+      "name": "To find and destroy an ancient artifact",
+      "rarity": "common"
+    },
+    {
+      "name": "To find your soulmate",
+      "rarity": "common"
+    },
+    {
+      "name": "To buy a rival's business",
+      "rarity": "common"
+    },
+    {
+      "name": "To return a stolen item to a king in a faraway land",
+      "rarity": "common"
+    },
+    {
+      "name": "To bring your lost love back from the dead",
+      "rarity": "common"
+    },
+    {
+      "name": "To exterminate all dragons",
+      "rarity": "common"
+    },
+    {
+      "name": "To destroy a rival kingdom",
+      "rarity": "common"
+    },
+    {
+      "name": "To master all magic",
+      "rarity": "common"
+    },
+    {
+      "name": "To finish your book",
+      "rarity": "common"
+    },
+    {
+      "name": "To eradicate all vampires",
+      "rarity": "common"
+    },
+    {
+      "name": "To Marry into royalty",
+      "rarity": "common"
+    },
+    {
+      "name": "To forge the perfect sword",
+      "rarity": "common"
+    },
+    {
+      "name": "To spread your faith to distant lands",
+      "rarity": "common"
+    },
+    {
+      "name": "To avenge your fallen comrades",
+      "rarity": "common"
+    },
+    {
+      "name": "To sample every kind of mead in the world",
+      "rarity": "common"
+    },
+    {
+      "name": "To rebuild your family's ancestral home",
+      "rarity": "common"
+    },
+    {
+      "name": "To fulfill your destiny",
+      "rarity": "common"
+    },
+    {
+      "name": "To prove you deserve your parents love",
+      "rarity": "common"
+    },
+    {
+      "name": "To die heroically in battle",
+      "rarity": "common"
+    },
+    {
+      "name": "To break your family curse",
+      "rarity": "common"
+    },
+    {
+      "name": "To find and destroy an evil artifact",
+      "rarity": "common"
+    },
+    {
+      "name": "To find your long lost sibling",
+      "rarity": "common"
+    },
+    {
+      "name": "To steal your soul back",
+      "rarity": "common"
+    },
+    {
+      "name": "To seduce a dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "To find a lost library",
+      "rarity": "common"
+    },
+    {
+      "name": "To be the greatest cook in the world",
+      "rarity": "common"
+    },
+    {
+      "name": "To pray in every temple you find",
+      "rarity": "common"
+    },
+    {
+      "name": "To find your real family",
+      "rarity": "common"
+    },
+    {
+      "name": "To strengthen your kingdom",
+      "rarity": "common"
+    },
+    {
+      "name": "To kill your possessed parent",
+      "rarity": "common"
+    },
+    {
+      "name": "To modestly retire",
+      "rarity": "common"
+    },
+    {
+      "name": "To eradicate all orcs",
+      "rarity": "common"
+    },
+    {
+      "name": "To found a city",
+      "rarity": "common"
+    },
+    {
+      "name": "To start your own clan",
+      "rarity": "common"
+    },
+    {
+      "name": "To amass your own hoard of riches",
+      "rarity": "common"
+    },
+    {
+      "name": "To become a lich",
+      "rarity": "common"
+    },
+    {
+      "name": "To die with no regrets",
+      "rarity": "common"
+    },
+    {
+      "name": "Find the answer to a lifelong question",
+      "rarity": "common"
+    },
+    {
+      "name": "To earn glory in battle",
+      "rarity": "common"
+    },
+    {
+      "name": "To retrieve a stolen relic from a faraway land",
+      "rarity": "common"
+    },
+    {
+      "name": "To become a dragon",
+      "rarity": "common"
+    },
+    {
+      "name": "To buy a rival's farm",
+      "rarity": "common"
+    },
+    {
+      "name": "To make new friends",
+      "rarity": "common"
+    },
+    {
+      "name": "To find a lost city",
+      "rarity": "common"
+    },
+    {
+      "name": "To discover who you truly are",
+      "rarity": "common"
+    },
+    {
+      "name": "To become a vampire",
+      "rarity": "common"
+    },
+    {
+      "name": "To eradicate all werebeasts",
+      "rarity": "common"
+    },
+    {
+      "name": "To kill a demon",
+      "rarity": "common"
+    },
+    {
+      "name": "To become a world renown adventurer",
+      "rarity": "common"
+    },
+    {
+      "name": "To kill a god",
+      "rarity": "common"
+    }
+  ]
+}

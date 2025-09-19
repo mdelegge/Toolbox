@@ -1,0 +1,406 @@
+{
+  "name": "Fruit - Table #2",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Riberry",
+      "rarity": "common"
+    },
+    {
+      "name": "White star apple",
+      "rarity": "common"
+    },
+    {
+      "name": "Arhat",
+      "rarity": "common"
+    },
+    {
+      "name": "Baobab",
+      "rarity": "common"
+    },
+    {
+      "name": "Coconut",
+      "rarity": "common"
+    },
+    {
+      "name": "Papaya",
+      "rarity": "common"
+    },
+    {
+      "name": "Small-leaf tamarind",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarf\u2019s Hand",
+      "rarity": "common"
+    },
+    {
+      "name": "Sapote",
+      "rarity": "common"
+    },
+    {
+      "name": "Gingerbread plum",
+      "rarity": "common"
+    },
+    {
+      "name": "Jambul",
+      "rarity": "common"
+    },
+    {
+      "name": "Shumble melon",
+      "rarity": "common"
+    },
+    {
+      "name": "Guava",
+      "rarity": "common"
+    },
+    {
+      "name": "Lilly pilly",
+      "rarity": "common"
+    },
+    {
+      "name": "Ackee",
+      "rarity": "common"
+    },
+    {
+      "name": "Pear",
+      "rarity": "common"
+    },
+    {
+      "name": "Peumo",
+      "rarity": "common"
+    },
+    {
+      "name": "Mammee apple",
+      "rarity": "common"
+    },
+    {
+      "name": "Conkerberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Doubah",
+      "rarity": "common"
+    },
+    {
+      "name": "Pomelo",
+      "rarity": "common"
+    },
+    {
+      "name": "Burdekin plum",
+      "rarity": "common"
+    },
+    {
+      "name": "Button mangosteen",
+      "rarity": "common"
+    },
+    {
+      "name": "Santol",
+      "rarity": "common"
+    },
+    {
+      "name": "Gorval\u2019s plum",
+      "rarity": "common"
+    },
+    {
+      "name": "Atherton Raspberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Durian",
+      "rarity": "common"
+    },
+    {
+      "name": "Lemon",
+      "rarity": "common"
+    },
+    {
+      "name": "Desert \ufb01g",
+      "rarity": "common"
+    },
+    {
+      "name": "Finger lime",
+      "rarity": "common"
+    },
+    {
+      "name": "Red raspberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Spiny monkey orange",
+      "rarity": "common"
+    },
+    {
+      "name": "Waterberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Nonda plum",
+      "rarity": "common"
+    },
+    {
+      "name": "Black apple",
+      "rarity": "common"
+    },
+    {
+      "name": "Black walnut",
+      "rarity": "common"
+    },
+    {
+      "name": "Rose myrtle",
+      "rarity": "common"
+    },
+    {
+      "name": "Lime",
+      "rarity": "common"
+    },
+    {
+      "name": "Jarma cherry",
+      "rarity": "common"
+    },
+    {
+      "name": "Saskatoon berry",
+      "rarity": "common"
+    },
+    {
+      "name": "Kutjera",
+      "rarity": "common"
+    },
+    {
+      "name": "Miracle fruit",
+      "rarity": "common"
+    },
+    {
+      "name": "Mundu",
+      "rarity": "common"
+    },
+    {
+      "name": "Kakadu lime",
+      "rarity": "common"
+    },
+    {
+      "name": "Lychee",
+      "rarity": "common"
+    },
+    {
+      "name": "Thimbleberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Pink-\ufb02owered raspberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Emu berry",
+      "rarity": "common"
+    },
+    {
+      "name": "False-mastic",
+      "rarity": "common"
+    },
+    {
+      "name": "Pawpaw",
+      "rarity": "common"
+    },
+    {
+      "name": "Pigface",
+      "rarity": "common"
+    },
+    {
+      "name": "Salal",
+      "rarity": "common"
+    },
+    {
+      "name": "Black raspberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Peach",
+      "rarity": "common"
+    },
+    {
+      "name": "Feijoa",
+      "rarity": "common"
+    },
+    {
+      "name": "Queensland ebony",
+      "rarity": "common"
+    },
+    {
+      "name": "Saw palmetto",
+      "rarity": "common"
+    },
+    {
+      "name": "Oual persimmon",
+      "rarity": "common"
+    },
+    {
+      "name": "Jalpai",
+      "rarity": "common"
+    },
+    {
+      "name": "Rhubarb",
+      "rarity": "common"
+    },
+    {
+      "name": "Salmonberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Persimmon",
+      "rarity": "common"
+    },
+    {
+      "name": "Mangosteen",
+      "rarity": "common"
+    },
+    {
+      "name": "Red elderberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild mangosteen",
+      "rarity": "common"
+    },
+    {
+      "name": "Mobola plum",
+      "rarity": "common"
+    },
+    {
+      "name": "Broad-leaf bramble",
+      "rarity": "common"
+    },
+    {
+      "name": "Zig zag vine",
+      "rarity": "common"
+    },
+    {
+      "name": "Cranberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Safou",
+      "rarity": "common"
+    },
+    {
+      "name": "Calamondin",
+      "rarity": "common"
+    },
+    {
+      "name": "Orange",
+      "rarity": "common"
+    },
+    {
+      "name": "Cherry ballart",
+      "rarity": "common"
+    },
+    {
+      "name": "Pigeon plum",
+      "rarity": "common"
+    },
+    {
+      "name": "Malay apple",
+      "rarity": "common"
+    },
+    {
+      "name": "Lady apple",
+      "rarity": "common"
+    },
+    {
+      "name": "Desert banana",
+      "rarity": "common"
+    },
+    {
+      "name": "Midyim",
+      "rarity": "common"
+    },
+    {
+      "name": "Jujube",
+      "rarity": "common"
+    },
+    {
+      "name": "Cainito",
+      "rarity": "common"
+    },
+    {
+      "name": "Custard-apple",
+      "rarity": "common"
+    },
+    {
+      "name": "White aspen",
+      "rarity": "common"
+    },
+    {
+      "name": "Bignay",
+      "rarity": "common"
+    },
+    {
+      "name": "Longan",
+      "rarity": "common"
+    },
+    {
+      "name": "Red mulberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Lanzones",
+      "rarity": "common"
+    },
+    {
+      "name": "Bael",
+      "rarity": "common"
+    },
+    {
+      "name": "Currant",
+      "rarity": "common"
+    },
+    {
+      "name": "Eastern may hawthorn",
+      "rarity": "common"
+    },
+    {
+      "name": "Gooseberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Desert lime",
+      "rarity": "common"
+    },
+    {
+      "name": "Marang",
+      "rarity": "common"
+    },
+    {
+      "name": "Little gooseberry tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Black cherry",
+      "rarity": "common"
+    },
+    {
+      "name": "Carambola",
+      "rarity": "common"
+    },
+    {
+      "name": "Southern crabapple",
+      "rarity": "common"
+    },
+    {
+      "name": "Beach plum",
+      "rarity": "common"
+    },
+    {
+      "name": "Gac",
+      "rarity": "common"
+    },
+    {
+      "name": "Breadfruit",
+      "rarity": "common"
+    },
+    {
+      "name": "Hanza",
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "name": "Herbal Teas",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Essiac tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Moringa tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Noni tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Lemon and ginger tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Turmeric tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Burdock",
+      "rarity": "common"
+    },
+    {
+      "name": "Qishr",
+      "rarity": "common"
+    },
+    {
+      "name": "Lemongrass tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Stevia tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Dandelion co\ufb00ee",
+      "rarity": "common"
+    },
+    {
+      "name": "Mistletoe",
+      "rarity": "common"
+    },
+    {
+      "name": "Osmanthus tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Barley tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Pennyroyal leaf",
+      "rarity": "common"
+    },
+    {
+      "name": "Neem leaf",
+      "rarity": "common"
+    },
+    {
+      "name": "Skullcap",
+      "rarity": "common"
+    },
+    {
+      "name": "Tallstrunt",
+      "rarity": "common"
+    },
+    {
+      "name": "Fireweed tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Mint",
+      "rarity": "common"
+    },
+    {
+      "name": "Broom tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiger Face Tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Wax gourd tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Staghorn sumac",
+      "rarity": "common"
+    },
+    {
+      "name": "Holy Basil tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Hydrangea tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Fennel",
+      "rarity": "common"
+    },
+    {
+      "name": "Caraway tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Holly tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Red Bush Tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Spruce tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Mountain Tea",
+      "rarity": "common"
+    },
+    {
+      "name": "John\u2019s Wort",
+      "rarity": "common"
+    },
+    {
+      "name": "Echinacea tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Patchouli tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Red raspberry leaf",
+      "rarity": "common"
+    },
+    {
+      "name": "Cerasee tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Spicebush tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Kapor tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Citrus peel tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Coca tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Sassafras Root tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Luo han guo",
+      "rarity": "common"
+    },
+    {
+      "name": "Valerian",
+      "rarity": "common"
+    },
+    {
+      "name": "Woodru\ufb00",
+      "rarity": "common"
+    },
+    {
+      "name": "Roasted corn tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Hawthorn",
+      "rarity": "common"
+    },
+    {
+      "name": "Scorched rice",
+      "rarity": "common"
+    },
+    {
+      "name": "Co\ufb00ee leaf tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Chrysanthemum tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Elderberry",
+      "rarity": "common"
+    },
+    {
+      "name": "Cannabis tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Licorice root tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Houttuynia",
+      "rarity": "common"
+    },
+    {
+      "name": "Yarrow tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Serendib tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Artichoke tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Ginseng",
+      "rarity": "common"
+    },
+    {
+      "name": "Boldo tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Roasted wheat tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Cat\u2019s Claw",
+      "rarity": "common"
+    },
+    {
+      "name": "Roselle petal tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Blue Creeper tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Gentian",
+      "rarity": "common"
+    },
+    {
+      "name": "Knotweed tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Sagebrush",
+      "rarity": "common"
+    },
+    {
+      "name": "Red clover tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Salvia",
+      "rarity": "common"
+    },
+    {
+      "name": "Rosemary",
+      "rarity": "common"
+    },
+    {
+      "name": "Snapdragon tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Sobacha",
+      "rarity": "common"
+    },
+    {
+      "name": "Cacao bean tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Vetiver",
+      "rarity": "common"
+    },
+    {
+      "name": "Goji",
+      "rarity": "common"
+    },
+    {
+      "name": "Kuzuyu",
+      "rarity": "common"
+    },
+    {
+      "name": "Cherry blossom petal tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Kratom",
+      "rarity": "common"
+    },
+    {
+      "name": "Labrador tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Catnip tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Pennywort leaf",
+      "rarity": "common"
+    },
+    {
+      "name": "Chamomile",
+      "rarity": "common"
+    },
+    {
+      "name": "Sage",
+      "rarity": "common"
+    },
+    {
+      "name": "Cinnamon tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Honeybush tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Verbena tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Poppy tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Bee Balm",
+      "rarity": "common"
+    },
+    {
+      "name": "Ginger root tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Poor man\u2019s ginseng",
+      "rarity": "common"
+    },
+    {
+      "name": "Wong Lo Kat",
+      "rarity": "common"
+    },
+    {
+      "name": "Thyme",
+      "rarity": "common"
+    },
+    {
+      "name": "Nettle leaf",
+      "rarity": "common"
+    },
+    {
+      "name": "New Seyru Tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Horehound",
+      "rarity": "common"
+    },
+    {
+      "name": "Rose hip",
+      "rarity": "common"
+    },
+    {
+      "name": "Kava root tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Lemon Balm",
+      "rarity": "common"
+    },
+    {
+      "name": "Lime blossom tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Hibiscus tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Anise tea",
+      "rarity": "common"
+    },
+    {
+      "name": "Dill tea",
+      "rarity": "common"
+    }
+  ]
+}

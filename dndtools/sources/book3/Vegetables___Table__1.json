@@ -1,0 +1,406 @@
+{
+  "name": "Vegetables - Table #1",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Dandelion",
+      "rarity": "common"
+    },
+    {
+      "name": "Arugula",
+      "rarity": "common"
+    },
+    {
+      "name": "Water chestnut",
+      "rarity": "common"
+    },
+    {
+      "name": "Samphire",
+      "rarity": "common"
+    },
+    {
+      "name": "Mizuna greens",
+      "rarity": "common"
+    },
+    {
+      "name": "Rapini",
+      "rarity": "common"
+    },
+    {
+      "name": "Garland Chrysanthemum",
+      "rarity": "common"
+    },
+    {
+      "name": "Wheatgrass",
+      "rarity": "common"
+    },
+    {
+      "name": "Komatsuna",
+      "rarity": "common"
+    },
+    {
+      "name": "Yam",
+      "rarity": "common"
+    },
+    {
+      "name": "Onion",
+      "rarity": "common"
+    },
+    {
+      "name": "Manchurian wild rice",
+      "rarity": "common"
+    },
+    {
+      "name": "Soko",
+      "rarity": "common"
+    },
+    {
+      "name": "Lamb\u2019s lettuce",
+      "rarity": "common"
+    },
+    {
+      "name": "Turnip",
+      "rarity": "common"
+    },
+    {
+      "name": "Camas",
+      "rarity": "common"
+    },
+    {
+      "name": "Canna",
+      "rarity": "common"
+    },
+    {
+      "name": "Garbanzo",
+      "rarity": "common"
+    },
+    {
+      "name": "Arracacha",
+      "rarity": "common"
+    },
+    {
+      "name": "Poke",
+      "rarity": "common"
+    },
+    {
+      "name": "Common purslane",
+      "rarity": "common"
+    },
+    {
+      "name": "Gosli bologi",
+      "rarity": "common"
+    },
+    {
+      "name": "Nopal",
+      "rarity": "common"
+    },
+    {
+      "name": "Tigernut",
+      "rarity": "common"
+    },
+    {
+      "name": "Sea beet",
+      "rarity": "common"
+    },
+    {
+      "name": "Taro",
+      "rarity": "common"
+    },
+    {
+      "name": "Lizard\u2019s tail",
+      "rarity": "common"
+    },
+    {
+      "name": "Napa cabbage",
+      "rarity": "common"
+    },
+    {
+      "name": "Velsh onion",
+      "rarity": "common"
+    },
+    {
+      "name": "Tepary bean",
+      "rarity": "common"
+    },
+    {
+      "name": "Trapa bicornis",
+      "rarity": "common"
+    },
+    {
+      "name": "Florence fennel",
+      "rarity": "common"
+    },
+    {
+      "name": "Enteromorpha",
+      "rarity": "common"
+    },
+    {
+      "name": "Lotus root",
+      "rarity": "common"
+    },
+    {
+      "name": "Bitter gourd",
+      "rarity": "common"
+    },
+    {
+      "name": "Broccolini \ufb02owers",
+      "rarity": "common"
+    },
+    {
+      "name": "Vanilla",
+      "rarity": "common"
+    },
+    {
+      "name": "So\ufb00 bologi",
+      "rarity": "common"
+    },
+    {
+      "name": "Skirret",
+      "rarity": "common"
+    },
+    {
+      "name": "Summer purslane",
+      "rarity": "common"
+    },
+    {
+      "name": "Burdock",
+      "rarity": "common"
+    },
+    {
+      "name": "Garlic chives",
+      "rarity": "common"
+    },
+    {
+      "name": "Sweet potato",
+      "rarity": "common"
+    },
+    {
+      "name": "Rutabaga",
+      "rarity": "common"
+    },
+    {
+      "name": "Lamb\u2019s quarters",
+      "rarity": "common"
+    },
+    {
+      "name": "Bitter melon",
+      "rarity": "common"
+    },
+    {
+      "name": "Corn salad",
+      "rarity": "common"
+    },
+    {
+      "name": "Elephant garlic",
+      "rarity": "common"
+    },
+    {
+      "name": "Kale",
+      "rarity": "common"
+    },
+    {
+      "name": "Sweet pepper",
+      "rarity": "common"
+    },
+    {
+      "name": "Tomatillo",
+      "rarity": "common"
+    },
+    {
+      "name": "Lemongrass",
+      "rarity": "common"
+    },
+    {
+      "name": "Dolichos bean",
+      "rarity": "common"
+    },
+    {
+      "name": "Snow pea",
+      "rarity": "common"
+    },
+    {
+      "name": "Paracress",
+      "rarity": "common"
+    },
+    {
+      "name": "Celery",
+      "rarity": "common"
+    },
+    {
+      "name": "Hurmburg parsley",
+      "rarity": "common"
+    },
+    {
+      "name": "Groundnut",
+      "rarity": "common"
+    },
+    {
+      "name": "Tomato",
+      "rarity": "common"
+    },
+    {
+      "name": "Courgette \ufb02owers",
+      "rarity": "common"
+    },
+    {
+      "name": "Shallot",
+      "rarity": "common"
+    },
+    {
+      "name": "Amaranth",
+      "rarity": "common"
+    },
+    {
+      "name": "Tree onion",
+      "rarity": "common"
+    },
+    {
+      "name": "Greater plantain",
+      "rarity": "common"
+    },
+    {
+      "name": "Corchorus capsularis",
+      "rarity": "common"
+    },
+    {
+      "name": "Ensete",
+      "rarity": "common"
+    },
+    {
+      "name": "Fiddlehead",
+      "rarity": "common"
+    },
+    {
+      "name": "Radicchio",
+      "rarity": "common"
+    },
+    {
+      "name": "Mung bean",
+      "rarity": "common"
+    },
+    {
+      "name": "Pumpkin",
+      "rarity": "common"
+    },
+    {
+      "name": "Ulluco",
+      "rarity": "common"
+    },
+    {
+      "name": "Winter melon",
+      "rarity": "common"
+    },
+    {
+      "name": "Ricebean",
+      "rarity": "common"
+    },
+    {
+      "name": "Chives",
+      "rarity": "common"
+    },
+    {
+      "name": "Beet",
+      "rarity": "common"
+    },
+    {
+      "name": "Ivy gourd",
+      "rarity": "common"
+    },
+    {
+      "name": "Elephant foot yam",
+      "rarity": "common"
+    },
+    {
+      "name": "Tatsoi",
+      "rarity": "common"
+    },
+    {
+      "name": "Snap pea",
+      "rarity": "common"
+    },
+    {
+      "name": "Golden samphire",
+      "rarity": "common"
+    },
+    {
+      "name": "Molokhia",
+      "rarity": "common"
+    },
+    {
+      "name": "Scorzonera",
+      "rarity": "common"
+    },
+    {
+      "name": "Garden rocket",
+      "rarity": "common"
+    },
+    {
+      "name": "Bamboo shoot",
+      "rarity": "common"
+    },
+    {
+      "name": "Collard greens",
+      "rarity": "common"
+    },
+    {
+      "name": "Black-eyed pea",
+      "rarity": "common"
+    },
+    {
+      "name": "Asparagus",
+      "rarity": "common"
+    },
+    {
+      "name": "Dulse",
+      "rarity": "common"
+    },
+    {
+      "name": "Phyllostachys edulis",
+      "rarity": "common"
+    },
+    {
+      "name": "Tinda",
+      "rarity": "common"
+    },
+    {
+      "name": "Chicory",
+      "rarity": "common"
+    },
+    {
+      "name": "J\u00edcama",
+      "rarity": "common"
+    },
+    {
+      "name": "Velvet bean",
+      "rarity": "common"
+    },
+    {
+      "name": "Horseradish",
+      "rarity": "common"
+    },
+    {
+      "name": "Earthnut pea",
+      "rarity": "common"
+    },
+    {
+      "name": "Spinach",
+      "rarity": "common"
+    },
+    {
+      "name": "Scallion",
+      "rarity": "common"
+    },
+    {
+      "name": "Carola",
+      "rarity": "common"
+    },
+    {
+      "name": "Drumstick",
+      "rarity": "common"
+    },
+    {
+      "name": "Cassava",
+      "rarity": "common"
+    }
+  ]
+}

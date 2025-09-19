@@ -1,0 +1,402 @@
+{
+  "name": "Male Names - Table #2",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Salton",
+      "rarity": "common"
+    },
+    {
+      "name": "Lockwood",
+      "rarity": "common"
+    },
+    {
+      "name": "Kenley",
+      "rarity": "common"
+    },
+    {
+      "name": "Laibrook",
+      "rarity": "common"
+    },
+    {
+      "name": "Ridgley",
+      "rarity": "common"
+    },
+    {
+      "name": "Fernleigh",
+      "rarity": "common"
+    },
+    {
+      "name": "Langworth",
+      "rarity": "common"
+    },
+    {
+      "name": "Linford",
+      "rarity": "common"
+    },
+    {
+      "name": "Dempster",
+      "rarity": "common"
+    },
+    {
+      "name": "Firth",
+      "rarity": "common"
+    },
+    {
+      "name": "Wake\ufb01eld",
+      "rarity": "common"
+    },
+    {
+      "name": "Warburton",
+      "rarity": "common"
+    },
+    {
+      "name": "Egerton",
+      "rarity": "common"
+    },
+    {
+      "name": "Hampton",
+      "rarity": "common"
+    },
+    {
+      "name": "Tennyson",
+      "rarity": "common"
+    },
+    {
+      "name": "Goddard",
+      "rarity": "common"
+    },
+    {
+      "name": "Sherborne",
+      "rarity": "common"
+    },
+    {
+      "name": "Stratford",
+      "rarity": "common"
+    },
+    {
+      "name": "Rowell",
+      "rarity": "common"
+    },
+    {
+      "name": "Milbourn",
+      "rarity": "common"
+    },
+    {
+      "name": "Thormund",
+      "rarity": "common"
+    },
+    {
+      "name": "Sherwood",
+      "rarity": "common"
+    },
+    {
+      "name": "Edlin",
+      "rarity": "common"
+    },
+    {
+      "name": "Prentice",
+      "rarity": "common"
+    },
+    {
+      "name": "Haslett",
+      "rarity": "common"
+    },
+    {
+      "name": "Chetwin",
+      "rarity": "common"
+    },
+    {
+      "name": "Upwood",
+      "rarity": "common"
+    },
+    {
+      "name": "Lester",
+      "rarity": "common"
+    },
+    {
+      "name": "Norville",
+      "rarity": "common"
+    },
+    {
+      "name": "Mervyn",
+      "rarity": "common"
+    },
+    {
+      "name": "Ravinger",
+      "rarity": "common"
+    },
+    {
+      "name": "Stockton",
+      "rarity": "common"
+    },
+    {
+      "name": "Ronson",
+      "rarity": "common"
+    },
+    {
+      "name": "Stratton",
+      "rarity": "common"
+    },
+    {
+      "name": "Nash",
+      "rarity": "common"
+    },
+    {
+      "name": "Yale",
+      "rarity": "common"
+    },
+    {
+      "name": "Hayes",
+      "rarity": "common"
+    },
+    {
+      "name": "Radford",
+      "rarity": "common"
+    },
+    {
+      "name": "Sheldon",
+      "rarity": "common"
+    },
+    {
+      "name": "Yardley",
+      "rarity": "common"
+    },
+    {
+      "name": "Westbrook",
+      "rarity": "common"
+    },
+    {
+      "name": "Bradley",
+      "rarity": "common"
+    },
+    {
+      "name": "Barclay",
+      "rarity": "common"
+    },
+    {
+      "name": "Wakeman",
+      "rarity": "common"
+    },
+    {
+      "name": "Hagley",
+      "rarity": "common"
+    },
+    {
+      "name": "Rutley",
+      "rarity": "common"
+    },
+    {
+      "name": "Kinsey",
+      "rarity": "common"
+    },
+    {
+      "name": "Osmar",
+      "rarity": "common"
+    },
+    {
+      "name": "Sealey",
+      "rarity": "common"
+    },
+    {
+      "name": "Hayden",
+      "rarity": "common"
+    },
+    {
+      "name": "Rockley",
+      "rarity": "common"
+    },
+    {
+      "name": "Whitby",
+      "rarity": "common"
+    },
+    {
+      "name": "Burke",
+      "rarity": "common"
+    },
+    {
+      "name": "Standish",
+      "rarity": "common"
+    },
+    {
+      "name": "Freeman",
+      "rarity": "common"
+    },
+    {
+      "name": "Scott",
+      "rarity": "common"
+    },
+    {
+      "name": "Ormond",
+      "rarity": "common"
+    },
+    {
+      "name": "Stanhope",
+      "rarity": "common"
+    },
+    {
+      "name": "Alger",
+      "rarity": "common"
+    },
+    {
+      "name": "Langley",
+      "rarity": "common"
+    },
+    {
+      "name": "Fielding",
+      "rarity": "common"
+    },
+    {
+      "name": "Morley",
+      "rarity": "common"
+    },
+    {
+      "name": "Riston",
+      "rarity": "common"
+    },
+    {
+      "name": "Renfred",
+      "rarity": "common"
+    },
+    {
+      "name": "Orman",
+      "rarity": "common"
+    },
+    {
+      "name": "Je\ufb00erson",
+      "rarity": "common"
+    },
+    {
+      "name": "Fane",
+      "rarity": "common"
+    },
+    {
+      "name": "Litton",
+      "rarity": "common"
+    },
+    {
+      "name": "Sanborn",
+      "rarity": "common"
+    },
+    {
+      "name": "Wheaton",
+      "rarity": "common"
+    },
+    {
+      "name": "Ranald",
+      "rarity": "common"
+    },
+    {
+      "name": "Warley",
+      "rarity": "common"
+    },
+    {
+      "name": "Seger",
+      "rarity": "common"
+    },
+    {
+      "name": "Risley",
+      "rarity": "common"
+    },
+    {
+      "name": "Shandy",
+      "rarity": "common"
+    },
+    {
+      "name": "Tatum",
+      "rarity": "common"
+    },
+    {
+      "name": "Randal",
+      "rarity": "common"
+    },
+    {
+      "name": "Townsend",
+      "rarity": "common"
+    },
+    {
+      "name": "Stanford",
+      "rarity": "common"
+    },
+    {
+      "name": "Shepherd",
+      "rarity": "common"
+    },
+    {
+      "name": "Reginald",
+      "rarity": "common"
+    },
+    {
+      "name": "Elsdon",
+      "rarity": "common"
+    },
+    {
+      "name": "Warmund",
+      "rarity": "common"
+    },
+    {
+      "name": "Rushford",
+      "rarity": "common"
+    },
+    {
+      "name": "Reynold",
+      "rarity": "common"
+    },
+    {
+      "name": "Ridgeway",
+      "rarity": "common"
+    },
+    {
+      "name": "Norwood",
+      "rarity": "common"
+    },
+    {
+      "name": "Milford",
+      "rarity": "common"
+    },
+    {
+      "name": "Medwin",
+      "rarity": "common"
+    },
+    {
+      "name": "Dallin",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwennon",
+      "rarity": "common"
+    },
+    {
+      "name": "Haig",
+      "rarity": "common"
+    },
+    {
+      "name": "Randolph",
+      "rarity": "common"
+    },
+    {
+      "name": "Eldric",
+      "rarity": "common"
+    },
+    {
+      "name": "Venn",
+      "rarity": "common"
+    },
+    {
+      "name": "Reading",
+      "rarity": "common"
+    },
+    {
+      "name": "Wentworth",
+      "rarity": "common"
+    },
+    {
+      "name": "Osmond",
+      "rarity": "common"
+    },
+    {
+      "name": "Denley",
+      "rarity": "common"
+    }
+  ]
+}

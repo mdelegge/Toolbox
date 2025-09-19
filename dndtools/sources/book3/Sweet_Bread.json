@@ -1,0 +1,406 @@
+{
+  "name": "Sweet Bread",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Pumpkin bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Spiced apple bread",
+      "rarity": "common"
+    },
+    {
+      "name": "White roll",
+      "rarity": "common"
+    },
+    {
+      "name": "Longevity peach",
+      "rarity": "common"
+    },
+    {
+      "name": "Buttered Loambot seed bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Stoneheart iced bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Sweet roll",
+      "rarity": "common"
+    },
+    {
+      "name": "Currant bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Tendra bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Gingerbread",
+      "rarity": "common"
+    },
+    {
+      "name": "Kulumie \ufb01lled bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Raisins and cherry cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Velsh walnut cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Raisin bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Sweet spice bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Zarbo bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Dripping cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Powdered Bublik",
+      "rarity": "common"
+    },
+    {
+      "name": "Honey bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Cardamom bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Mu\ufb03n",
+      "rarity": "common"
+    },
+    {
+      "name": "Bee sting cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Selanne buns",
+      "rarity": "common"
+    },
+    {
+      "name": "Wa\ufb04e",
+      "rarity": "common"
+    },
+    {
+      "name": "Cinnamon roll",
+      "rarity": "common"
+    },
+    {
+      "name": "King Listian bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Gabbett mu\ufb03n",
+      "rarity": "common"
+    },
+    {
+      "name": "Egg wa\ufb04e",
+      "rarity": "common"
+    },
+    {
+      "name": "Almond cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Berloc bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Praxon sweet mu\ufb03n",
+      "rarity": "common"
+    },
+    {
+      "name": "Elven iced bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Laval bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Hazelnut cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Cashew bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Spiral raisin cakes",
+      "rarity": "common"
+    },
+    {
+      "name": "Red bean bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Coconut bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Pear bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Arlos spiced cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Custard \ufb01lled mu\ufb03ns",
+      "rarity": "common"
+    },
+    {
+      "name": "Walnut beer bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Fig cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Fruit bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarven stollen",
+      "rarity": "common"
+    },
+    {
+      "name": "Elven K\u2019avel",
+      "rarity": "common"
+    },
+    {
+      "name": "Fried sugar bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Hal\ufb02ing scone",
+      "rarity": "common"
+    },
+    {
+      "name": "Flakey bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Iced bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Queen cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Crackle bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Sweet blood bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Sweet currant cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Raisin and sesame bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Hot cross bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Flat mu\ufb03n",
+      "rarity": "common"
+    },
+    {
+      "name": "Shortcake",
+      "rarity": "common"
+    },
+    {
+      "name": "Teacake",
+      "rarity": "common"
+    },
+    {
+      "name": "Sa\ufb00ron bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Fruit peel bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Brack bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Doneta roll",
+      "rarity": "common"
+    },
+    {
+      "name": "Sweet lemon bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Lotus seed bun",
+      "rarity": "common"
+    },
+    {
+      "name": "King cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Ground apple cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Glazed \ufb01re bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Banbury cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Warburton\u2019s sweet bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Vanilla bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Fruit bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Peanut bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Sage sugar bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Pineapple bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Friendship bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Cardamom bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Banana bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Sticky bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Co\ufb00ee cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Coco bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Egg and sugar bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Spiced honey bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Aniseed bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Honey raisin roll",
+      "rarity": "common"
+    },
+    {
+      "name": "Crispy roll",
+      "rarity": "common"
+    },
+    {
+      "name": "Sweet gum cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Buttery lemon cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Lardy cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Plum dumpling",
+      "rarity": "common"
+    },
+    {
+      "name": "Grape cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Sugar lump bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Iced mound bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Morning cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Solange",
+      "rarity": "common"
+    },
+    {
+      "name": "Circle bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Harkor bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Merton sweet bun",
+      "rarity": "common"
+    },
+    {
+      "name": "Strawberry sweet cake",
+      "rarity": "common"
+    },
+    {
+      "name": "Honeyed cherry bread",
+      "rarity": "common"
+    }
+  ]
+}

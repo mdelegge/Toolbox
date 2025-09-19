@@ -1,0 +1,406 @@
+{
+  "name": "Dungeon Room - Table #1",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Rusted mace",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted long sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Wine bottle (full)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dented bronze basin",
+      "rarity": "common"
+    },
+    {
+      "name": "Glass vial (full of a red liquid)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient key (bone)",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrow (bone)",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of a nearby town",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden box (no lid, 2\u2019 x 3\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted short sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Rotten wood (3\u201d x 2\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Old rope (8\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead snake",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Mosquito trapped in amber",
+      "rarity": "common"
+    },
+    {
+      "name": "Bent tin fork",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblin skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Orc skeleton",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken arrow",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead goblin",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrowhead (iron)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarf skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken long bow",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarf skeleton",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver ring",
+      "rarity": "common"
+    },
+    {
+      "name": "One gold piece",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden box (lid, 2\u2019 x 2\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Old blanket",
+      "rarity": "common"
+    },
+    {
+      "name": "Ornate beer stein",
+      "rarity": "common"
+    },
+    {
+      "name": "Adventurer\u2019s notebook",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken short bow",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of the dungeon",
+      "rarity": "common"
+    },
+    {
+      "name": "Butter\ufb02y carving (jade)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead orc",
+      "rarity": "common"
+    },
+    {
+      "name": "Elf skeleton",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Bronze candlestick",
+      "rarity": "common"
+    },
+    {
+      "name": "Small leaf (glass)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bloody rags",
+      "rarity": "common"
+    },
+    {
+      "name": "Old belt",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted needle",
+      "rarity": "common"
+    },
+    {
+      "name": "Hal\ufb02ing skeleton",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead bat",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny scarab (gold)",
+      "rarity": "common"
+    },
+    {
+      "name": "Old candle",
+      "rarity": "common"
+    },
+    {
+      "name": "Quill dipped in blood",
+      "rarity": "common"
+    },
+    {
+      "name": "One copper piece",
+      "rarity": "common"
+    },
+    {
+      "name": "Faded painting (3\u2019 x 4\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblin skeleton",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted chain (2\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Keyring (1D6 keys, iron)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dented tin cup",
+      "rarity": "common"
+    },
+    {
+      "name": "Voodoo doll (with pins)",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of a bandit camp",
+      "rarity": "common"
+    },
+    {
+      "name": "Bent tin spoon",
+      "rarity": "common"
+    },
+    {
+      "name": "Old torch",
+      "rarity": "common"
+    },
+    {
+      "name": "Orc skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Loaf of moldy bread",
+      "rarity": "common"
+    },
+    {
+      "name": "Glass vial (empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wine bottle (half full)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dead rat",
+      "rarity": "common"
+    },
+    {
+      "name": "Ceramic funeral urn (full of ashes)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusty nails (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Small lizard statue (ivory)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted iron ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Decayed scroll",
+      "rarity": "common"
+    },
+    {
+      "name": "Dented bronze cup",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken chair",
+      "rarity": "common"
+    },
+    {
+      "name": "Feather (gold)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rotten wood (5\u201d x 3\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken table",
+      "rarity": "common"
+    },
+    {
+      "name": "Small polished black stone",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken wine bottle",
+      "rarity": "common"
+    },
+    {
+      "name": "Dog skeleton",
+      "rarity": "common"
+    },
+    {
+      "name": "Small polished red stone",
+      "rarity": "common"
+    },
+    {
+      "name": "Human skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Ogre skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusty hooks (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted battle axe",
+      "rarity": "common"
+    },
+    {
+      "name": "Decayed book",
+      "rarity": "common"
+    },
+    {
+      "name": "Metal chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Old boot",
+      "rarity": "common"
+    },
+    {
+      "name": "Human skeleton",
+      "rarity": "common"
+    },
+    {
+      "name": "Canvas (2\u2019 x 6\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ceramic funeral urn (empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Human skulls (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Small dragon statue (jade)",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrowhead (\ufb02int)",
+      "rarity": "common"
+    },
+    {
+      "name": "Glass vial (one drop of clear liquid)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger (new)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted shackles",
+      "rarity": "common"
+    },
+    {
+      "name": "Elf skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Hal\ufb02ing skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Broken clay pot",
+      "rarity": "common"
+    },
+    {
+      "name": "Small elephant statue (lapis lazuli)",
+      "rarity": "common"
+    },
+    {
+      "name": "Cat skeleton",
+      "rarity": "common"
+    },
+    {
+      "name": "One silver piece",
+      "rarity": "common"
+    },
+    {
+      "name": "Key (iron)",
+      "rarity": "common"
+    }
+  ]
+}

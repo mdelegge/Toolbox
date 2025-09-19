@@ -1,0 +1,406 @@
+{
+  "name": "Trees",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Oak",
+      "rarity": "common"
+    },
+    {
+      "name": "Adras Pine",
+      "rarity": "common"
+    },
+    {
+      "name": "Whitebeam",
+      "rarity": "common"
+    },
+    {
+      "name": "Larch",
+      "rarity": "common"
+    },
+    {
+      "name": "Aspen",
+      "rarity": "common"
+    },
+    {
+      "name": "Sorbus Oak",
+      "rarity": "common"
+    },
+    {
+      "name": "Alder Buckthorn",
+      "rarity": "common"
+    },
+    {
+      "name": "Sarkin Tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Black Poplar",
+      "rarity": "common"
+    },
+    {
+      "name": "Crab Apple",
+      "rarity": "common"
+    },
+    {
+      "name": "Downy Birch",
+      "rarity": "common"
+    },
+    {
+      "name": "Blue Spruce",
+      "rarity": "common"
+    },
+    {
+      "name": "Sycamore",
+      "rarity": "common"
+    },
+    {
+      "name": "Amarin Elm",
+      "rarity": "common"
+    },
+    {
+      "name": "Redbeam",
+      "rarity": "common"
+    },
+    {
+      "name": "Wych Elm",
+      "rarity": "common"
+    },
+    {
+      "name": "Eastern Whitebeam",
+      "rarity": "common"
+    },
+    {
+      "name": "Beech",
+      "rarity": "common"
+    },
+    {
+      "name": "Pear",
+      "rarity": "common"
+    },
+    {
+      "name": "Cassus Oak",
+      "rarity": "common"
+    },
+    {
+      "name": "Goat Willow",
+      "rarity": "common"
+    },
+    {
+      "name": "Wayfaring Tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Western Hemlock",
+      "rarity": "common"
+    },
+    {
+      "name": "Jensen\u2019s Whitebeam",
+      "rarity": "common"
+    },
+    {
+      "name": "Norvold Maple",
+      "rarity": "common"
+    },
+    {
+      "name": "Box",
+      "rarity": "common"
+    },
+    {
+      "name": "Blackthorn",
+      "rarity": "common"
+    },
+    {
+      "name": "Grey Willow",
+      "rarity": "common"
+    },
+    {
+      "name": "Kelen Elm",
+      "rarity": "common"
+    },
+    {
+      "name": "Almond-leaved Willow",
+      "rarity": "common"
+    },
+    {
+      "name": "Bird Cherry",
+      "rarity": "common"
+    },
+    {
+      "name": "Spruce",
+      "rarity": "common"
+    },
+    {
+      "name": "Guelder Rose",
+      "rarity": "common"
+    },
+    {
+      "name": "Plot\u2019s Elm",
+      "rarity": "common"
+    },
+    {
+      "name": "Apple",
+      "rarity": "common"
+    },
+    {
+      "name": "Poplar",
+      "rarity": "common"
+    },
+    {
+      "name": "Strawberry Tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Birch",
+      "rarity": "common"
+    },
+    {
+      "name": "Cherry Plum",
+      "rarity": "common"
+    },
+    {
+      "name": "Sallow",
+      "rarity": "common"
+    },
+    {
+      "name": "Hawthorn",
+      "rarity": "common"
+    },
+    {
+      "name": "Sprig Larch",
+      "rarity": "common"
+    },
+    {
+      "name": "Common Hazel",
+      "rarity": "common"
+    },
+    {
+      "name": "Ga\ufb00 Whitebeam",
+      "rarity": "common"
+    },
+    {
+      "name": "Sea-buckthorn",
+      "rarity": "common"
+    },
+    {
+      "name": "Grand Fir",
+      "rarity": "common"
+    },
+    {
+      "name": "Pine",
+      "rarity": "common"
+    },
+    {
+      "name": "Common Privet",
+      "rarity": "common"
+    },
+    {
+      "name": "Bloody Whitebeam",
+      "rarity": "common"
+    },
+    {
+      "name": "Rock Whitebeam",
+      "rarity": "common"
+    },
+    {
+      "name": "Smooth-leaved Elm",
+      "rarity": "common"
+    },
+    {
+      "name": "Purple Willow",
+      "rarity": "common"
+    },
+    {
+      "name": "Delos Cypress",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Oak",
+      "rarity": "common"
+    },
+    {
+      "name": "Willow",
+      "rarity": "common"
+    },
+    {
+      "name": "Common Osier",
+      "rarity": "common"
+    },
+    {
+      "name": "Lawson\u2019s Cypress",
+      "rarity": "common"
+    },
+    {
+      "name": "Grand Oak",
+      "rarity": "common"
+    },
+    {
+      "name": "Rowan",
+      "rarity": "common"
+    },
+    {
+      "name": "Wittle Beech",
+      "rarity": "common"
+    },
+    {
+      "name": "Sweet Chestnut",
+      "rarity": "common"
+    },
+    {
+      "name": "Linden",
+      "rarity": "common"
+    },
+    {
+      "name": "White Willow",
+      "rarity": "common"
+    },
+    {
+      "name": "Common Dogwood",
+      "rarity": "common"
+    },
+    {
+      "name": "Large-leaved Linden",
+      "rarity": "common"
+    },
+    {
+      "name": "Elder",
+      "rarity": "common"
+    },
+    {
+      "name": "Western Redcedar",
+      "rarity": "common"
+    },
+    {
+      "name": "Bay Willow",
+      "rarity": "common"
+    },
+    {
+      "name": "Black Spruce",
+      "rarity": "common"
+    },
+    {
+      "name": "Arran Sarkin Tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Lesser Whitebeam",
+      "rarity": "common"
+    },
+    {
+      "name": "Pole Pine",
+      "rarity": "common"
+    },
+    {
+      "name": "Llangollen Ash",
+      "rarity": "common"
+    },
+    {
+      "name": "Hornbeam",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Birch",
+      "rarity": "common"
+    },
+    {
+      "name": "Elm",
+      "rarity": "common"
+    },
+    {
+      "name": "Maritime Pine",
+      "rarity": "common"
+    },
+    {
+      "name": "Black Pine",
+      "rarity": "common"
+    },
+    {
+      "name": "Yew",
+      "rarity": "common"
+    },
+    {
+      "name": "Holm Oak",
+      "rarity": "common"
+    },
+    {
+      "name": "Black Fir",
+      "rarity": "common"
+    },
+    {
+      "name": "Maple",
+      "rarity": "common"
+    },
+    {
+      "name": "Common Horse-chestnut",
+      "rarity": "common"
+    },
+    {
+      "name": "Yarrow Redbeam",
+      "rarity": "common"
+    },
+    {
+      "name": "Lowland Hawthorn",
+      "rarity": "common"
+    },
+    {
+      "name": "Crack Willow",
+      "rarity": "common"
+    },
+    {
+      "name": "Eared Willow",
+      "rarity": "common"
+    },
+    {
+      "name": "Vullen Pear",
+      "rarity": "common"
+    },
+    {
+      "name": "Blue Oak",
+      "rarity": "common"
+    },
+    {
+      "name": "Field Maple",
+      "rarity": "common"
+    },
+    {
+      "name": "Holly",
+      "rarity": "common"
+    },
+    {
+      "name": "Purging Buckthorn",
+      "rarity": "common"
+    },
+    {
+      "name": "Ash",
+      "rarity": "common"
+    },
+    {
+      "name": "Nosh Whitebeam",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild Sarkin Tree",
+      "rarity": "common"
+    },
+    {
+      "name": "Alder",
+      "rarity": "common"
+    },
+    {
+      "name": "Juniper",
+      "rarity": "common"
+    },
+    {
+      "name": "Wild Cherry",
+      "rarity": "common"
+    },
+    {
+      "name": "Small-leaved Linden",
+      "rarity": "common"
+    },
+    {
+      "name": "Spindle",
+      "rarity": "common"
+    }
+  ]
+}

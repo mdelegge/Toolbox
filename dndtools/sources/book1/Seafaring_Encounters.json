@@ -1,0 +1,406 @@
+{
+  "name": "Seafaring Encounters",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "A Pod of Whales (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ghost Ship",
+      "rarity": "common"
+    },
+    {
+      "name": "A Flag from a Legendary Pirate Ship",
+      "rarity": "common"
+    },
+    {
+      "name": "Slave Ship",
+      "rarity": "common"
+    },
+    {
+      "name": "Raft (1D4 survivors)",
+      "rarity": "common"
+    },
+    {
+      "name": "Pirate Ship",
+      "rarity": "common"
+    },
+    {
+      "name": "A Pod of Whales (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant Ship",
+      "rarity": "common"
+    },
+    {
+      "name": "Jetsam (1D20 salvageable items)",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant Squid",
+      "rarity": "common"
+    },
+    {
+      "name": "Warship",
+      "rarity": "common"
+    },
+    {
+      "name": "Slave Ship Fleet (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mermaid",
+      "rarity": "common"
+    },
+    {
+      "name": "Uncharted Island (megaliths)",
+      "rarity": "common"
+    },
+    {
+      "name": "A Pod of Whales (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant Fleet (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Pirate Fleet (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant Octopus",
+      "rarity": "common"
+    },
+    {
+      "name": "Lagan Marked with a Cork",
+      "rarity": "common"
+    },
+    {
+      "name": "A Pod of Whales (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Derelict Ship",
+      "rarity": "common"
+    },
+    {
+      "name": "Slave Ship Fleet (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Board with \u201cThe Lady Luck\u201d on it",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant Fleet (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Flotsam (1D20 salvageable items)",
+      "rarity": "common"
+    },
+    {
+      "name": "Pirate Fleet (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "A Message in a Bottle",
+      "rarity": "common"
+    },
+    {
+      "name": "A Pod of Whales (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Uncharted Island (lone castaway)",
+      "rarity": "common"
+    },
+    {
+      "name": "Warship Fleet (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Doldrums",
+      "rarity": "common"
+    },
+    {
+      "name": "Slave Ship Fleet (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lost Ship",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant Fleet (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "A buoy with a message",
+      "rarity": "common"
+    },
+    {
+      "name": "Pirate Fleet (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Uncharted Island (village)",
+      "rarity": "common"
+    },
+    {
+      "name": "A Pod of Whales (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Raft (lone survivor)",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant Fleet (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Raft (1D6 dead bodies)",
+      "rarity": "common"
+    },
+    {
+      "name": "Whirlpool",
+      "rarity": "common"
+    },
+    {
+      "name": "Slave Ship Fleet (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Shooting Star (good omen)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mermaids (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lifeboat (empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Warship Fleet (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Green Gaseous Cloud",
+      "rarity": "common"
+    },
+    {
+      "name": "Plesiosaurus",
+      "rarity": "common"
+    },
+    {
+      "name": "Pirate Fleet (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon Turtle",
+      "rarity": "common"
+    },
+    {
+      "name": "Ship from Exotic Locale",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant Fleet (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Flotsam (no salvageable items)",
+      "rarity": "common"
+    },
+    {
+      "name": "A Pod of Whales (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Jetsam (1D100 salvageable items)",
+      "rarity": "common"
+    },
+    {
+      "name": "Warship Fleet (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sargassum Seaweed",
+      "rarity": "common"
+    },
+    {
+      "name": "Pirate Fleet (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Sea Hag",
+      "rarity": "common"
+    },
+    {
+      "name": "Uncharted Island (secluded lagoon)",
+      "rarity": "common"
+    },
+    {
+      "name": "Slave Ship Fleet (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lifeboat (1D4 survivors)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bird Sign (ill omen)",
+      "rarity": "common"
+    },
+    {
+      "name": "Uncharted Island (ruins)",
+      "rarity": "common"
+    },
+    {
+      "name": "Shark Feeding Frenzy",
+      "rarity": "common"
+    },
+    {
+      "name": "Warship Fleet (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrel of Rum",
+      "rarity": "common"
+    },
+    {
+      "name": "A Bottle with a Navigation Chart",
+      "rarity": "common"
+    },
+    {
+      "name": "Red Gaseous Cloud",
+      "rarity": "common"
+    },
+    {
+      "name": "Lagan Marked with a Buoy",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant Ship (sinking, crew abandoning)",
+      "rarity": "common"
+    },
+    {
+      "name": "Merchant Fleet (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Strong Winds",
+      "rarity": "common"
+    },
+    {
+      "name": "Raft (1D8 survivors)",
+      "rarity": "common"
+    },
+    {
+      "name": "Barrels of Rum (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "A Co\ufb03n",
+      "rarity": "common"
+    },
+    {
+      "name": "Pirate Ship (entire crew dead)",
+      "rarity": "common"
+    },
+    {
+      "name": "Uncharted Island (shipwreck 1D20 survivors)",
+      "rarity": "common"
+    },
+    {
+      "name": "Pirate Fleet (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Water Spout",
+      "rarity": "common"
+    },
+    {
+      "name": "Flotsam (1D100 salvageable items)",
+      "rarity": "common"
+    },
+    {
+      "name": "Raft (single dead body)",
+      "rarity": "common"
+    },
+    {
+      "name": "Warship Fleet (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lifeboat (engraved pocket watch inside)",
+      "rarity": "common"
+    },
+    {
+      "name": "Storm",
+      "rarity": "common"
+    },
+    {
+      "name": "Slave Ship Fleet (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Red Tide",
+      "rarity": "common"
+    },
+    {
+      "name": "Island (penal colony)",
+      "rarity": "common"
+    },
+    {
+      "name": "Uncharted Island (cave)",
+      "rarity": "common"
+    },
+    {
+      "name": "Raft (a chest)",
+      "rarity": "common"
+    },
+    {
+      "name": "Talking Fish",
+      "rarity": "common"
+    },
+    {
+      "name": "Uncharted Island (pirate base)",
+      "rarity": "common"
+    },
+    {
+      "name": "Capsized Ship",
+      "rarity": "common"
+    },
+    {
+      "name": "Raft (1D8 dead bodies)",
+      "rarity": "common"
+    },
+    {
+      "name": "Giant White Whale",
+      "rarity": "common"
+    },
+    {
+      "name": "Warship Fleet (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hurricane",
+      "rarity": "common"
+    },
+    {
+      "name": "Treasure Ship",
+      "rarity": "common"
+    },
+    {
+      "name": "Kraken",
+      "rarity": "common"
+    }
+  ]
+}

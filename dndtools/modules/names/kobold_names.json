@@ -1,0 +1,406 @@
+{
+  "name": "Kobold Names",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Bik Fireborn",
+      "rarity": "common"
+    },
+    {
+      "name": "Vib Killjaw",
+      "rarity": "common"
+    },
+    {
+      "name": "Bek Gorefoot",
+      "rarity": "common"
+    },
+    {
+      "name": "Kib Killstone",
+      "rarity": "common"
+    },
+    {
+      "name": "Hor Redhand",
+      "rarity": "common"
+    },
+    {
+      "name": "Kub Stoneblood",
+      "rarity": "common"
+    },
+    {
+      "name": "Zog Flamegore",
+      "rarity": "common"
+    },
+    {
+      "name": "Ud Eyesword",
+      "rarity": "common"
+    },
+    {
+      "name": "Ob Dagger\ufb01st",
+      "rarity": "common"
+    },
+    {
+      "name": "Lib Blueskull",
+      "rarity": "common"
+    },
+    {
+      "name": "Lud Rediron",
+      "rarity": "common"
+    },
+    {
+      "name": "Ur Mudfoot",
+      "rarity": "common"
+    },
+    {
+      "name": "Peb Eyegore",
+      "rarity": "common"
+    },
+    {
+      "name": "Fik Strong\ufb01st",
+      "rarity": "common"
+    },
+    {
+      "name": "Pik Fangkill",
+      "rarity": "common"
+    },
+    {
+      "name": "Od Gore\ufb01st",
+      "rarity": "common"
+    },
+    {
+      "name": "Uy Scarhand",
+      "rarity": "common"
+    },
+    {
+      "name": "Meb Greenblood",
+      "rarity": "common"
+    },
+    {
+      "name": "Muz Brokesword",
+      "rarity": "common"
+    },
+    {
+      "name": "Keb Bloodgore",
+      "rarity": "common"
+    },
+    {
+      "name": "Sib Redtooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Xib Stonetooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Uk Fireblood",
+      "rarity": "common"
+    },
+    {
+      "name": "Vog Black\ufb01st",
+      "rarity": "common"
+    },
+    {
+      "name": "Vik Skull\ufb01re",
+      "rarity": "common"
+    },
+    {
+      "name": "Zib Stonekill",
+      "rarity": "common"
+    },
+    {
+      "name": "Zuz Daggertail",
+      "rarity": "common"
+    },
+    {
+      "name": "Wuz Stoneskull",
+      "rarity": "common"
+    },
+    {
+      "name": "Gig Ironfoot",
+      "rarity": "common"
+    },
+    {
+      "name": "Jub Stoneeye",
+      "rarity": "common"
+    },
+    {
+      "name": "Mik Fanggrim",
+      "rarity": "common"
+    },
+    {
+      "name": "Zor Brokenclaw",
+      "rarity": "common"
+    },
+    {
+      "name": "Gik Swordeye",
+      "rarity": "common"
+    },
+    {
+      "name": "Tog Blue\ufb01st",
+      "rarity": "common"
+    },
+    {
+      "name": "Lub Stonefoot",
+      "rarity": "common"
+    },
+    {
+      "name": "Por Skullgrim",
+      "rarity": "common"
+    },
+    {
+      "name": "Mog Grimtail",
+      "rarity": "common"
+    },
+    {
+      "name": "Vor Blackfoot",
+      "rarity": "common"
+    },
+    {
+      "name": "Vud Bloodiron",
+      "rarity": "common"
+    },
+    {
+      "name": "Gib Oneeye",
+      "rarity": "common"
+    },
+    {
+      "name": "Ut Daggerhand",
+      "rarity": "common"
+    },
+    {
+      "name": "Uz Bloodhand",
+      "rarity": "common"
+    },
+    {
+      "name": "Xud Ironborn",
+      "rarity": "common"
+    },
+    {
+      "name": "Kog Killborn",
+      "rarity": "common"
+    },
+    {
+      "name": "Zub Stonehand",
+      "rarity": "common"
+    },
+    {
+      "name": "Pog Blacktooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Yor Redplague",
+      "rarity": "common"
+    },
+    {
+      "name": "Vuz Eyeblood",
+      "rarity": "common"
+    },
+    {
+      "name": "Wek Gorekill",
+      "rarity": "common"
+    },
+    {
+      "name": "Nik Bloodborn",
+      "rarity": "common"
+    },
+    {
+      "name": "Pib Redgore",
+      "rarity": "common"
+    },
+    {
+      "name": "Hud Jawblood",
+      "rarity": "common"
+    },
+    {
+      "name": "Lek Gorehand",
+      "rarity": "common"
+    },
+    {
+      "name": "Bor Greenfoot",
+      "rarity": "common"
+    },
+    {
+      "name": "Ouz Daggereye",
+      "rarity": "common"
+    },
+    {
+      "name": "Hib Stonejaw",
+      "rarity": "common"
+    },
+    {
+      "name": "Sik Sharptooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Wik Stone\ufb01re",
+      "rarity": "common"
+    },
+    {
+      "name": "Tig Blood\ufb01st",
+      "rarity": "common"
+    },
+    {
+      "name": "Fub Stone\ufb01st",
+      "rarity": "common"
+    },
+    {
+      "name": "Tor Redkill",
+      "rarity": "common"
+    },
+    {
+      "name": "Nib Redskull",
+      "rarity": "common"
+    },
+    {
+      "name": "Zib Firetooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Sek Goretooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Sud Ironjaw",
+      "rarity": "common"
+    },
+    {
+      "name": "Sog Iron\ufb01st",
+      "rarity": "common"
+    },
+    {
+      "name": "Juz Firedagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Nuz Swordhand",
+      "rarity": "common"
+    },
+    {
+      "name": "Kig Daggerblood",
+      "rarity": "common"
+    },
+    {
+      "name": "Lig Ironhand",
+      "rarity": "common"
+    },
+    {
+      "name": "Nud Irondagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Og Ironeye",
+      "rarity": "common"
+    },
+    {
+      "name": "Rog Grimjaw",
+      "rarity": "common"
+    },
+    {
+      "name": "Bog Sharpjaw",
+      "rarity": "common"
+    },
+    {
+      "name": "Guz Mudborn",
+      "rarity": "common"
+    },
+    {
+      "name": "Kud Gore\ufb01nger",
+      "rarity": "common"
+    },
+    {
+      "name": "Wib Stoneborn",
+      "rarity": "common"
+    },
+    {
+      "name": "Zud Ironskull",
+      "rarity": "common"
+    },
+    {
+      "name": "Duz Swordkill",
+      "rarity": "common"
+    },
+    {
+      "name": "Gub Blackeye",
+      "rarity": "common"
+    },
+    {
+      "name": "Ror Flameplague",
+      "rarity": "common"
+    },
+    {
+      "name": "Buz Surehand",
+      "rarity": "common"
+    },
+    {
+      "name": "Xeb Gorejaw",
+      "rarity": "common"
+    },
+    {
+      "name": "Zeb Redblood",
+      "rarity": "common"
+    },
+    {
+      "name": "Sor Green\ufb01re",
+      "rarity": "common"
+    },
+    {
+      "name": "Yog Broke\ufb01st",
+      "rarity": "common"
+    },
+    {
+      "name": "Huz Mudface",
+      "rarity": "common"
+    },
+    {
+      "name": "Xik Deathborn",
+      "rarity": "common"
+    },
+    {
+      "name": "Pud Red\ufb01nger",
+      "rarity": "common"
+    },
+    {
+      "name": "Ot Ironblood",
+      "rarity": "common"
+    },
+    {
+      "name": "Kor Red\ufb01re",
+      "rarity": "common"
+    },
+    {
+      "name": "Ub Scarfoot",
+      "rarity": "common"
+    },
+    {
+      "name": "Wub Stonedagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Mib Redstone",
+      "rarity": "common"
+    },
+    {
+      "name": "Xub Eyestone",
+      "rarity": "common"
+    },
+    {
+      "name": "Puz Blood\ufb02ame",
+      "rarity": "common"
+    },
+    {
+      "name": "Zik Sharpclaw",
+      "rarity": "common"
+    },
+    {
+      "name": "Luz Bloodsword",
+      "rarity": "common"
+    },
+    {
+      "name": "Gud Black\ufb01nger",
+      "rarity": "common"
+    },
+    {
+      "name": "Suz Swordblood",
+      "rarity": "common"
+    }
+  ]
+}

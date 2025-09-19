@@ -1,0 +1,406 @@
+{
+  "name": "Items in a Troll\u2019s Cave",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Copper pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper button",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver goblet",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold coin from a foreign land",
+      "rarity": "common"
+    },
+    {
+      "name": "Brass buttons (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Brass buttons (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Short swords (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Daggers (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron shield",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper kettle",
+      "rarity": "common"
+    },
+    {
+      "name": "Lock of red hair tied with a blue silk ribbon",
+      "rarity": "common"
+    },
+    {
+      "name": "Clay bowl",
+      "rarity": "common"
+    },
+    {
+      "name": "Bone powder (1lbs)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ram horns",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver button",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Daggers (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Cloak (magical)",
+      "rarity": "common"
+    },
+    {
+      "name": "Short swords (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Blacksmiths hammer",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron cauldron",
+      "rarity": "common"
+    },
+    {
+      "name": "A small locked wooden box",
+      "rarity": "common"
+    },
+    {
+      "name": "Elven brooch",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold button",
+      "rarity": "common"
+    },
+    {
+      "name": "Long swords (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Long sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Sliver ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Pile of sheep bones",
+      "rarity": "common"
+    },
+    {
+      "name": "White jerkin",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "A Hal\ufb02ing roasting over an open \ufb01re",
+      "rarity": "common"
+    },
+    {
+      "name": "Locked chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Flint and tinder",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden stool (troll size)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tanned goat hide",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tanned ox hide",
+      "rarity": "common"
+    },
+    {
+      "name": "Cooking pots (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather armor",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces(1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Deer antlers",
+      "rarity": "common"
+    },
+    {
+      "name": "Brass buttons (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Horse tail \ufb02y swatter",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon tooth",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Fine porcelain tea set one cup is chipped",
+      "rarity": "common"
+    },
+    {
+      "name": "Huge rusty key",
+      "rarity": "common"
+    },
+    {
+      "name": "Green cloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Skinned goats hanging from hooks (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Cooking pans (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Pile of human bones",
+      "rarity": "common"
+    },
+    {
+      "name": "Rope (50\u2019)",
+      "rarity": "common"
+    },
+    {
+      "name": "Brass buttons (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Daggers (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Pile of cow bones",
+      "rarity": "common"
+    },
+    {
+      "name": "Pitchfork",
+      "rarity": "common"
+    },
+    {
+      "name": "Warhammer",
+      "rarity": "common"
+    },
+    {
+      "name": "Dwarven brooch",
+      "rarity": "common"
+    },
+    {
+      "name": "Bear pelt",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold locket with portrait of human woman",
+      "rarity": "common"
+    },
+    {
+      "name": "Bloody rags",
+      "rarity": "common"
+    },
+    {
+      "name": "Brass buttons (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Blue cloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Daggers (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ring (magical)",
+      "rarity": "common"
+    },
+    {
+      "name": "Short sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Bull skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tin buttons (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Red cloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Skinned goats hanging from hooks (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tanned deer hide",
+      "rarity": "common"
+    },
+    {
+      "name": "Pile of ox bones",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Long swords (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Brown cloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Mortar and pestle",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Short swords (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Blanket",
+      "rarity": "common"
+    },
+    {
+      "name": "Buckler",
+      "rarity": "common"
+    },
+    {
+      "name": "Meteorite (enough iron for one long sword blade)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ancient elven sword (magical)",
+      "rarity": "common"
+    },
+    {
+      "name": "Brass buttons (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D100)",
+      "rarity": "common"
+    }
+  ]
+}

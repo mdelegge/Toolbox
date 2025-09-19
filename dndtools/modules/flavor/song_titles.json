@@ -1,0 +1,406 @@
+{
+  "name": "Song Titles",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "I\u2019ve Had Enough Of These Tavern Cellar Rats",
+      "rarity": "common"
+    },
+    {
+      "name": "Rolling In The Underworld",
+      "rarity": "common"
+    },
+    {
+      "name": "The Moment I Knew My Wife Was A Doppelganger",
+      "rarity": "common"
+    },
+    {
+      "name": "Eye of the Rakshasa",
+      "rarity": "common"
+    },
+    {
+      "name": "I'm Alright With Your Charm Spells",
+      "rarity": "common"
+    },
+    {
+      "name": "Some Fungi That I Used To Grow",
+      "rarity": "common"
+    },
+    {
+      "name": "A Day In The Life Of An Ex-Paladin",
+      "rarity": "common"
+    },
+    {
+      "name": "Hey, Food",
+      "rarity": "common"
+    },
+    {
+      "name": "I'd Tame A Dragon For You",
+      "rarity": "common"
+    },
+    {
+      "name": "Another One Bites The Dust Monster",
+      "rarity": "common"
+    },
+    {
+      "name": "Balnor The Blue",
+      "rarity": "common"
+    },
+    {
+      "name": "I Want To Hold Your Handaxe",
+      "rarity": "common"
+    },
+    {
+      "name": "The Curious Life Of Gogg",
+      "rarity": "common"
+    },
+    {
+      "name": "Uptown Monk",
+      "rarity": "common"
+    },
+    {
+      "name": "Pickpocket Your Heart",
+      "rarity": "common"
+    },
+    {
+      "name": "I Will Always Hunt You",
+      "rarity": "common"
+    },
+    {
+      "name": "Beware The Frost Demon",
+      "rarity": "common"
+    },
+    {
+      "name": "Hello Underworld My Old Friend",
+      "rarity": "common"
+    },
+    {
+      "name": "She Took My Heart Along With My Coin Purse",
+      "rarity": "common"
+    },
+    {
+      "name": "Stayin' Undead",
+      "rarity": "common"
+    },
+    {
+      "name": "I Can't Believe You Cursed Me Last Night",
+      "rarity": "common"
+    },
+    {
+      "name": "Nightmare Horse",
+      "rarity": "common"
+    },
+    {
+      "name": "Eldrinor The Traveling Troll",
+      "rarity": "common"
+    },
+    {
+      "name": "Moves Like Dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "I've Set A Trap For You",
+      "rarity": "common"
+    },
+    {
+      "name": "Grandma Got Run Over By A Gorgon",
+      "rarity": "common"
+    },
+    {
+      "name": "Your Love Is Like A Basilisk's Stare",
+      "rarity": "common"
+    },
+    {
+      "name": "Hey There Balgrilla",
+      "rarity": "common"
+    },
+    {
+      "name": "Who Opened The Wolf Cage",
+      "rarity": "common"
+    },
+    {
+      "name": "Goblin's Paradise",
+      "rarity": "common"
+    },
+    {
+      "name": "I've No Place To Lay Down My Sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Call Me Jhabee",
+      "rarity": "common"
+    },
+    {
+      "name": "I Wish I'd Never Seen That Manticore",
+      "rarity": "common"
+    },
+    {
+      "name": "Blackroc",
+      "rarity": "common"
+    },
+    {
+      "name": "To Trust A Flumph",
+      "rarity": "common"
+    },
+    {
+      "name": "Just The Way You Spar",
+      "rarity": "common"
+    },
+    {
+      "name": "Give Me Back My Battlehammer",
+      "rarity": "common"
+    },
+    {
+      "name": "Bugbearian Rhapsody",
+      "rarity": "common"
+    },
+    {
+      "name": "Sjorn The Wandering Bullywug",
+      "rarity": "common"
+    },
+    {
+      "name": "Balgruf In The Sky With Emeralds",
+      "rarity": "common"
+    },
+    {
+      "name": "Merfolk Blues",
+      "rarity": "common"
+    },
+    {
+      "name": "Inn At The Western Shore",
+      "rarity": "common"
+    },
+    {
+      "name": "I Fell In Love With A Dryad",
+      "rarity": "common"
+    },
+    {
+      "name": "Welcome To The Dungeon",
+      "rarity": "common"
+    },
+    {
+      "name": "Eye of the Dire Wolf",
+      "rarity": "common"
+    },
+    {
+      "name": "Smells Like Halfling Spirit",
+      "rarity": "common"
+    },
+    {
+      "name": "The Lonely Death Knight",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper Street",
+      "rarity": "common"
+    },
+    {
+      "name": "They Call Me Werebard",
+      "rarity": "common"
+    },
+    {
+      "name": "Somebody To Shove",
+      "rarity": "common"
+    },
+    {
+      "name": "You Got Me Addicted To Pixie Dust",
+      "rarity": "common"
+    },
+    {
+      "name": "Hello, Is It Me You're Hunting",
+      "rarity": "common"
+    },
+    {
+      "name": "Party Like A Troglodyte",
+      "rarity": "common"
+    },
+    {
+      "name": "This Elf Is On Fire",
+      "rarity": "common"
+    },
+    {
+      "name": "The Abyss Hath No Fury",
+      "rarity": "common"
+    },
+    {
+      "name": "Noble Imbecile",
+      "rarity": "common"
+    },
+    {
+      "name": "You Make Me Feel Like A Zombie",
+      "rarity": "common"
+    },
+    {
+      "name": "Can't Help Falling In Quicksand",
+      "rarity": "common"
+    },
+    {
+      "name": "My Love Is Steady Like A Rock Beast",
+      "rarity": "common"
+    },
+    {
+      "name": "How Deep Is Your Dungeon",
+      "rarity": "common"
+    },
+    {
+      "name": "The Night I Punted A Giant Beetle At A Werewolf's Face",
+      "rarity": "common"
+    },
+    {
+      "name": "Sweet Home Aladorus",
+      "rarity": "common"
+    },
+    {
+      "name": "Gliding On A Harpy's Wings",
+      "rarity": "common"
+    },
+    {
+      "name": "All You Need Is Healing Potions",
+      "rarity": "common"
+    },
+    {
+      "name": "Dancing With A Dire Wolf",
+      "rarity": "common"
+    },
+    {
+      "name": "Torch In The Tornado",
+      "rarity": "common"
+    },
+    {
+      "name": "Let's Sleep Until Armageddon",
+      "rarity": "common"
+    },
+    {
+      "name": "Maybe I'm Dazed",
+      "rarity": "common"
+    },
+    {
+      "name": "The Only Quest Reward I Want Is You",
+      "rarity": "common"
+    },
+    {
+      "name": "We Will Rob You",
+      "rarity": "common"
+    },
+    {
+      "name": "The Best Laid Plans Of Rats And Half-Orcs",
+      "rarity": "common"
+    },
+    {
+      "name": "I Put Another Spell On You",
+      "rarity": "common"
+    },
+    {
+      "name": "The Life And Times Of A Penniless Warlock",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron Dwarf",
+      "rarity": "common"
+    },
+    {
+      "name": "Meet Me At The Edge Of The Sea",
+      "rarity": "common"
+    },
+    {
+      "name": "The Ring Of Frost",
+      "rarity": "common"
+    },
+    {
+      "name": "Tavern Brawl Blues",
+      "rarity": "common"
+    },
+    {
+      "name": "Aint No Moonshine",
+      "rarity": "common"
+    },
+    {
+      "name": "Over The Foggy Hilltops",
+      "rarity": "common"
+    },
+    {
+      "name": "All The Single Halflings",
+      "rarity": "common"
+    },
+    {
+      "name": "The Legend Of The Pirate's Treasure Cruise",
+      "rarity": "common"
+    },
+    {
+      "name": "Should I Slay Or Should I Go",
+      "rarity": "common"
+    },
+    {
+      "name": "You've Always Been My Only Quest",
+      "rarity": "common"
+    },
+    {
+      "name": "Can't Buy Me A Charm Spell",
+      "rarity": "common"
+    },
+    {
+      "name": "There's A City In The Clouds",
+      "rarity": "common"
+    },
+    {
+      "name": "Pretty Elf",
+      "rarity": "common"
+    },
+    {
+      "name": "The Best Thing Since Sliced Flesh",
+      "rarity": "common"
+    },
+    {
+      "name": "99 Problems And My Rogue Companion Is All Of Them",
+      "rarity": "common"
+    },
+    {
+      "name": "The Prettiest Dwarf And The Ugliest Elf",
+      "rarity": "common"
+    },
+    {
+      "name": "Sweet Gnome Of Mine",
+      "rarity": "common"
+    },
+    {
+      "name": "Why Do Dwarves All Pay Us With Mead",
+      "rarity": "common"
+    },
+    {
+      "name": "I Kissed An Orc And I Liked It",
+      "rarity": "common"
+    },
+    {
+      "name": "Sounds Like Something A Doppelganger Would Say",
+      "rarity": "common"
+    },
+    {
+      "name": "While My Lute Gently Weeps",
+      "rarity": "common"
+    },
+    {
+      "name": "There's Always A Goblin",
+      "rarity": "common"
+    },
+    {
+      "name": "Hatched To Be Wild",
+      "rarity": "common"
+    },
+    {
+      "name": "Tales Of A Weary Adventurer",
+      "rarity": "common"
+    },
+    {
+      "name": "Aint Nothin' But A Hellhound",
+      "rarity": "common"
+    },
+    {
+      "name": "Grilnor The Green",
+      "rarity": "common"
+    },
+    {
+      "name": "Like A Tumbling Boulder",
+      "rarity": "common"
+    }
+  ]
+}

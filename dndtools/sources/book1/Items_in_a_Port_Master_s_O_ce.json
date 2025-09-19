@@ -1,0 +1,406 @@
+{
+  "name": "Items in a Port Master\u2019s O\ufb03ce",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Shipping Manifesto",
+      "rarity": "common"
+    },
+    {
+      "name": "Maps of Surrounding Seas",
+      "rarity": "common"
+    },
+    {
+      "name": "Inkwell (dry)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bowl of Fish Eggs",
+      "rarity": "common"
+    },
+    {
+      "name": "Decorative Helm",
+      "rarity": "common"
+    },
+    {
+      "name": "List of Ships Arriving Today",
+      "rarity": "common"
+    },
+    {
+      "name": "Warning Letter to Pirate Captain",
+      "rarity": "common"
+    },
+    {
+      "name": "Fishing Rod",
+      "rarity": "common"
+    },
+    {
+      "name": "Prayers to Sea God",
+      "rarity": "common"
+    },
+    {
+      "name": "Candles (1d4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mounted Shark",
+      "rarity": "common"
+    },
+    {
+      "name": "Bounty Board",
+      "rarity": "common"
+    },
+    {
+      "name": "Ship\u2019s Flag",
+      "rarity": "common"
+    },
+    {
+      "name": "Jeweled Seashell",
+      "rarity": "common"
+    },
+    {
+      "name": "Sea Chest",
+      "rarity": "common"
+    },
+    {
+      "name": "Legal Documents",
+      "rarity": "common"
+    },
+    {
+      "name": "Port Master\u2019s Seal",
+      "rarity": "common"
+    },
+    {
+      "name": "Bottles Of Mead (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Pewter Flagon (empty)",
+      "rarity": "common"
+    },
+    {
+      "name": "Visitors Ledger",
+      "rarity": "common"
+    },
+    {
+      "name": "Star Charts",
+      "rarity": "common"
+    },
+    {
+      "name": "Calendar",
+      "rarity": "common"
+    },
+    {
+      "name": "Decorative Oar",
+      "rarity": "common"
+    },
+    {
+      "name": "The Art of Sea Navigation (book)",
+      "rarity": "common"
+    },
+    {
+      "name": "Fiddle",
+      "rarity": "common"
+    },
+    {
+      "name": "Fancy Lockbox",
+      "rarity": "common"
+    },
+    {
+      "name": "Ferry Schedules",
+      "rarity": "common"
+    },
+    {
+      "name": "List of Local Ships",
+      "rarity": "common"
+    },
+    {
+      "name": "Port Master\u2019s Journal",
+      "rarity": "common"
+    },
+    {
+      "name": "Keys (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Quills (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Model Ship",
+      "rarity": "common"
+    },
+    {
+      "name": "Sextant",
+      "rarity": "common"
+    },
+    {
+      "name": "Antique Sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Small Vault",
+      "rarity": "common"
+    },
+    {
+      "name": "Mounted Crab",
+      "rarity": "common"
+    },
+    {
+      "name": "Tax Records",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of Shipping Route",
+      "rarity": "common"
+    },
+    {
+      "name": "Old Shipping Records",
+      "rarity": "common"
+    },
+    {
+      "name": "Warehouse Inventory Log",
+      "rarity": "common"
+    },
+    {
+      "name": "Wax (5 cubes)",
+      "rarity": "common"
+    },
+    {
+      "name": "Symbol of Sea God",
+      "rarity": "common"
+    },
+    {
+      "name": "Rusted Lockbox",
+      "rarity": "common"
+    },
+    {
+      "name": "Pipe Tobacco",
+      "rarity": "common"
+    },
+    {
+      "name": "Bucket of Seashells",
+      "rarity": "common"
+    },
+    {
+      "name": "Inkwell",
+      "rarity": "common"
+    },
+    {
+      "name": "Conch Shell",
+      "rarity": "common"
+    },
+    {
+      "name": "Help Wanted Ad",
+      "rarity": "common"
+    },
+    {
+      "name": "Compass",
+      "rarity": "common"
+    },
+    {
+      "name": "Donation Box for Families of Lost Sailors",
+      "rarity": "common"
+    },
+    {
+      "name": "Map Of Town (Plastered On Wall)",
+      "rarity": "common"
+    },
+    {
+      "name": "Illustration of Legendary Ship",
+      "rarity": "common"
+    },
+    {
+      "name": "Collection of Beautiful Seashells",
+      "rarity": "common"
+    },
+    {
+      "name": "List of Common Sea Laws",
+      "rarity": "common"
+    },
+    {
+      "name": "Single Key",
+      "rarity": "common"
+    },
+    {
+      "name": "Bookshelves (1D100 books)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mounted Sword\ufb01sh",
+      "rarity": "common"
+    },
+    {
+      "name": "Lamp Oil (2 \ufb02asks)",
+      "rarity": "common"
+    },
+    {
+      "name": "Rum (1D12 bottles)",
+      "rarity": "common"
+    },
+    {
+      "name": "Bundle of Letters",
+      "rarity": "common"
+    },
+    {
+      "name": "Antique Fishing Gear",
+      "rarity": "common"
+    },
+    {
+      "name": "Memorial Plaque to Lost Sailors",
+      "rarity": "common"
+    },
+    {
+      "name": "Jar Of Marbles",
+      "rarity": "common"
+    },
+    {
+      "name": "Stu\ufb00ed Squid",
+      "rarity": "common"
+    },
+    {
+      "name": "Jar Of Pickled Fish",
+      "rarity": "common"
+    },
+    {
+      "name": "Ship In Bottle",
+      "rarity": "common"
+    },
+    {
+      "name": "Antique Anchor",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of the Port and Related Areas",
+      "rarity": "common"
+    },
+    {
+      "name": "Financial Reports",
+      "rarity": "common"
+    },
+    {
+      "name": "Trading Company Contract",
+      "rarity": "common"
+    },
+    {
+      "name": "A Letter to the Cooper",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "Weatherworn Captain\u2019s Cloak",
+      "rarity": "common"
+    },
+    {
+      "name": "Old Captain\u2019s Journal",
+      "rarity": "common"
+    },
+    {
+      "name": "Wanted Posters Marked \u201cCollected\u201d",
+      "rarity": "common"
+    },
+    {
+      "name": "Pirate Flag",
+      "rarity": "common"
+    },
+    {
+      "name": "Straight Razor",
+      "rarity": "common"
+    },
+    {
+      "name": "Dried Rations (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Spyglass",
+      "rarity": "common"
+    },
+    {
+      "name": "Manual on Knot Tying",
+      "rarity": "common"
+    },
+    {
+      "name": "Treasure Map",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold Pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Short Sword",
+      "rarity": "common"
+    },
+    {
+      "name": "Coat Of Arms",
+      "rarity": "common"
+    },
+    {
+      "name": "Weird Symbols Scratched on Wall",
+      "rarity": "common"
+    },
+    {
+      "name": "Book of Sea Shanties",
+      "rarity": "common"
+    },
+    {
+      "name": "Bill of Sale for a Ship",
+      "rarity": "common"
+    },
+    {
+      "name": "Rabbit\u2019s Foot",
+      "rarity": "common"
+    },
+    {
+      "name": "Alter to Sea God",
+      "rarity": "common"
+    },
+    {
+      "name": "Dragon Skull",
+      "rarity": "common"
+    },
+    {
+      "name": "Strange Creatures of the Deep (book)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver Pieces (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "List of Port Rules",
+      "rarity": "common"
+    },
+    {
+      "name": "Pouch Filled with Shark\u2019s Teeth",
+      "rarity": "common"
+    },
+    {
+      "name": "Hourglass",
+      "rarity": "common"
+    },
+    {
+      "name": "Preserved Tentacle (35ft)",
+      "rarity": "common"
+    },
+    {
+      "name": "Vellum (1d12 sheets)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mystical Seashell",
+      "rarity": "common"
+    },
+    {
+      "name": "Skull of Pirate",
+      "rarity": "common"
+    },
+    {
+      "name": "Egg (decorative, 2ft tall)",
+      "rarity": "common"
+    }
+  ]
+}

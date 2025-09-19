@@ -1,0 +1,406 @@
+{
+  "name": "Items in an Adventurers Saddlebags",
+  "maxItems": 1,
+  "items": [
+    {
+      "name": "Silver pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather bag",
+      "rarity": "common"
+    },
+    {
+      "name": "Rope 10ft",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Mail",
+      "rarity": "common"
+    },
+    {
+      "name": "Slingshot",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Parchment",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Hankey",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Cork",
+      "rarity": "common"
+    },
+    {
+      "name": "Comb",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden whistle",
+      "rarity": "common"
+    },
+    {
+      "name": "Rope 5ft",
+      "rarity": "common"
+    },
+    {
+      "name": "Flask",
+      "rarity": "common"
+    },
+    {
+      "name": "Brass button",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny bird carved out of wood",
+      "rarity": "common"
+    },
+    {
+      "name": "Signet ring",
+      "rarity": "common"
+    },
+    {
+      "name": "Beef jerky",
+      "rarity": "common"
+    },
+    {
+      "name": "Ocarina",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D6)",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Caltrops (1d12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrowhead",
+      "rarity": "common"
+    },
+    {
+      "name": "Sealed message",
+      "rarity": "common"
+    },
+    {
+      "name": "Change of clothes",
+      "rarity": "common"
+    },
+    {
+      "name": "Potion of healing",
+      "rarity": "common"
+    },
+    {
+      "name": "Lock",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of the countryside",
+      "rarity": "common"
+    },
+    {
+      "name": "Holy symbol",
+      "rarity": "common"
+    },
+    {
+      "name": "Spyglass",
+      "rarity": "common"
+    },
+    {
+      "name": "Wallet",
+      "rarity": "common"
+    },
+    {
+      "name": "Book",
+      "rarity": "common"
+    },
+    {
+      "name": "Quill",
+      "rarity": "common"
+    },
+    {
+      "name": "Potions of healing (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Clerical robes",
+      "rarity": "common"
+    },
+    {
+      "name": "Flint and steel",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Dagger",
+      "rarity": "common"
+    },
+    {
+      "name": "String (18ft)",
+      "rarity": "common"
+    },
+    {
+      "name": "Ball bearings (1D100)",
+      "rarity": "common"
+    },
+    {
+      "name": "Candy",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Notebook",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tin pan",
+      "rarity": "common"
+    },
+    {
+      "name": "Rope 20ft",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny metal box",
+      "rarity": "common"
+    },
+    {
+      "name": "Pan flute",
+      "rarity": "common"
+    },
+    {
+      "name": "Oilskin",
+      "rarity": "common"
+    },
+    {
+      "name": "Small mirror",
+      "rarity": "common"
+    },
+    {
+      "name": "Treasure map",
+      "rarity": "common"
+    },
+    {
+      "name": "Worry stone",
+      "rarity": "common"
+    },
+    {
+      "name": "Insignia of a knightly order",
+      "rarity": "common"
+    },
+    {
+      "name": "Honeycomb",
+      "rarity": "common"
+    },
+    {
+      "name": "Small knife",
+      "rarity": "common"
+    },
+    {
+      "name": "Vial of perfume",
+      "rarity": "common"
+    },
+    {
+      "name": "Ink",
+      "rarity": "common"
+    },
+    {
+      "name": "Tin cup",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D20)",
+      "rarity": "common"
+    },
+    {
+      "name": "Horseshoe nails",
+      "rarity": "common"
+    },
+    {
+      "name": "Wooden pipe",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny wooden box",
+      "rarity": "common"
+    },
+    {
+      "name": "Canteen",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Tin spoon",
+      "rarity": "common"
+    },
+    {
+      "name": "Map of a dungeon",
+      "rarity": "common"
+    },
+    {
+      "name": "Leather Pouch",
+      "rarity": "common"
+    },
+    {
+      "name": "Tobacco (1D4 plugs)",
+      "rarity": "common"
+    },
+    {
+      "name": "Key",
+      "rarity": "common"
+    },
+    {
+      "name": "String (6ft)",
+      "rarity": "common"
+    },
+    {
+      "name": "Key made of bone",
+      "rarity": "common"
+    },
+    {
+      "name": "Potion of healing",
+      "rarity": "common"
+    },
+    {
+      "name": "Hardtack",
+      "rarity": "common"
+    },
+    {
+      "name": "Silver pieces (1D10)",
+      "rarity": "common"
+    },
+    {
+      "name": "Figurine of a man carved out of ivory",
+      "rarity": "common"
+    },
+    {
+      "name": "Compass",
+      "rarity": "common"
+    },
+    {
+      "name": "Picket pin",
+      "rarity": "common"
+    },
+    {
+      "name": "Tiny statue of a woman made of jade",
+      "rarity": "common"
+    },
+    {
+      "name": "Tea leaves",
+      "rarity": "common"
+    },
+    {
+      "name": "Map to a dungeon",
+      "rarity": "common"
+    },
+    {
+      "name": "Spectacles",
+      "rarity": "common"
+    },
+    {
+      "name": "Iron pan",
+      "rarity": "common"
+    },
+    {
+      "name": "Tobacco (1D8 plugs)",
+      "rarity": "common"
+    },
+    {
+      "name": "Whetstone",
+      "rarity": "common"
+    },
+    {
+      "name": "Small container of paint",
+      "rarity": "common"
+    },
+    {
+      "name": "Copper pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Lunch",
+      "rarity": "common"
+    },
+    {
+      "name": "Mages robes",
+      "rarity": "common"
+    },
+    {
+      "name": "Quills (1D4)",
+      "rarity": "common"
+    },
+    {
+      "name": "Metal smoking pipe",
+      "rarity": "common"
+    },
+    {
+      "name": "Forgery kit",
+      "rarity": "common"
+    },
+    {
+      "name": "Gold pieces (1D12)",
+      "rarity": "common"
+    },
+    {
+      "name": "Arrowheads (1D8)",
+      "rarity": "common"
+    },
+    {
+      "name": "Manacles",
+      "rarity": "common"
+    },
+    {
+      "name": "Thieves tools",
+      "rarity": "common"
+    }
+  ]
+}
