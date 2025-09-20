@@ -1,6 +1,6 @@
 # Blackfeather's Toolbox
 
-Blackfeather's Toolbox is a collection of lightweight browser tools, generators, and arcade prototypes built with plain HTML, CSS, and JavaScript. Each module lives in its own directory and can be opened directly without a build step, making the toolbox easy to tweak, remix, or deploy as a static site.
+Blackfeather's Toolbox is a collection of lightweight browser tools, generators, and arcade prototypes built with plain HTML, CSS, and JavaScript, predominantly using AI assistance (vibe coding). Each module lives in its own directory and can be opened directly without a build step, making the toolbox easy to tweak, remix, or deploy as a static site.
 
 ## Run It Locally
 - Open `index.html` in any modern browser to use the toolbox as a portal.
