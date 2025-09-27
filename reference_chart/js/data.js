@@ -61,7 +61,7 @@ window.REFERENCE_TOPICS = [
       { key: "none", title: "None", short: "Unobscured", icon: "❌", definition: "No cover. Normal targetting rules." },
       { key: "half", title: "Half Cover", short: "Half obscured; +2 AC, +2 Dexterity saving throws", icon: "½", definition: "Obscures about half of a creature's body, granting a +2 bonus to Armor Class (AC) and Dexterity saving throws. Examples include a low wall or a narrow tree trunk." },
       { key: "three-quarters", title: "Three-quarters Cover", short: "Three-quarters obscured; +5 AC, +5 Dexterity saving throws", icon: "¾", definition: "Obscures three-quarters of a creature's body, granting a +5 bonus to AC and Dexterity saving throws. Examples include a large tree or a large rock." },
-      { key: "total", title: "Total Cover", short: "Completely obscured; +10 AC, +10 Dexterity saving throws", icon: "✅", definition: "Completely obscures a creature, granting a +10 bonus to AC and Dexterity saving throws. Examples include a large tree or a large rock." }
+      { key: "total", title: "Total Cover", short: "Completely obscured; Cannot be targeted.", icon: "✅", definition: "Completely obscures a creature, A target with total cover can't be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle." }
     ]
   }
 ];
