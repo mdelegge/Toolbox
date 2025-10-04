@@ -6,10 +6,15 @@ const resetBtn = document.getElementById('resetBtn');
 const timeDisplay = document.getElementById('timeDisplay');
 const streamEl = document.getElementById('stream');
 const flashOverlay = document.getElementById('flashOverlay');
+// DEBUG: Progress display element
+// const debugProgress = document.getElementById('debugProgress');
+// END DEBUG
 
 let totalSeconds = 0;
 let remainingSeconds = 0;
+let remainingMilliseconds = 0;
 let intervalId = null;
+let lastTickTime = null;
 
 function clamp(n, min, max) {
   return Math.max(min, Math.min(max, n));
@@ -39,10 +44,11 @@ function computeTotalFromInputs() {
   return clamp(mins * 60 + secs, 0, 3600);
 }
 
-function formatTime(s) {
+function formatTime(s, ms) {
   const m = Math.floor(s / 60);
   const sec = s % 60;
-  return `${String(m).padStart(2, '0')}:${String(sec).padStart(2, '0')}`;
+  const centiseconds = Math.floor(ms / 10);
+  return `${String(m).padStart(2, '0')}:${String(sec).padStart(2, '0')}.${String(centiseconds).padStart(2, '0')}`;
 }
 
 function setProgress(progress) {
@@ -51,14 +57,24 @@ function setProgress(progress) {
 }
 
 function updateDisplay() {
-  timeDisplay.textContent = formatTime(remainingSeconds);
+  timeDisplay.textContent = formatTime(remainingSeconds, remainingMilliseconds);
   if (totalSeconds > 0) {
-    const progress = 1 - (remainingSeconds / totalSeconds);
+    const totalMs = totalSeconds * 1000;
+    const currentMs = remainingSeconds * 1000 + remainingMilliseconds;
+    const progress = 1 - (currentMs / totalMs);
+
     setProgress(progress);
+
+    // DEBUG: Update progress display
+    // debugProgress.textContent = progress.toFixed(6);
+    // END DEBUG
   } else {
     setProgress(0);
+    // DEBUG: Update progress display
+    // debugProgress.textContent = '0';
+    // END DEBUG
   }
-}
+} 
 
 function setRunning(running) {
   minutesInput.disabled = running;
@@ -78,19 +94,34 @@ function clearTimer() {
 }
 
 function onTick() {
-  if (remainingSeconds > 0) {
-    remainingSeconds -= 1;
-    updateDisplay();
+  const now = Date.now();
+  if (lastTickTime === null) {
+    lastTickTime = now;
+    return;
   }
-  if (remainingSeconds <= 0) {
-    remainingSeconds = 0;
-    updateDisplay();
-    clearTimer();
-    setRunning(false);
-    setTimeout(() => {
+  
+  const elapsed = now - lastTickTime;
+  lastTickTime = now;
+  
+  if (remainingSeconds > 0 || remainingMilliseconds > 0) {
+    remainingMilliseconds -= elapsed;
+    
+    while (remainingMilliseconds < 0 && remainingSeconds > 0) {
+      remainingSeconds -= 1;
+      remainingMilliseconds += 1000;
+    }
+    
+    if (remainingSeconds <= 0 && remainingMilliseconds <= 0) {
+      remainingSeconds = 0;
+      remainingMilliseconds = 0;
+      updateDisplay();
+      clearTimer();
+      setRunning(false);
       showStream(false);
       triggerFlash();
-    }, 1000);
+    } else {
+      updateDisplay();
+    }
   }
 }
 
@@ -109,23 +140,25 @@ function startTimer() {
   if (intervalId === null) {
     setRunning(true);
     showStream(true);
+    lastTickTime = Date.now();
     updateDisplay();
-    intervalId = setInterval(onTick, 1000);
-    // call onTick to start the timer
-    onTick();
+    intervalId = setInterval(onTick, 10); // Update every 10ms for smooth milliseconds
   }
 }
 
 function stopTimer() {
   clearTimer();
+  lastTickTime = null;
   setRunning(false);
   showStream(false);
 }
 
 function resetTimer() {
   clearTimer();
+  lastTickTime = null;
   totalSeconds = computeTotalFromInputs();
   remainingSeconds = totalSeconds;
+  remainingMilliseconds = 0;
   setRunning(false);
   showStream(false);
   updateDisplay();
@@ -145,6 +178,7 @@ function handleInputChange() {
   if (intervalId !== null) return; // ignore changes while running
   totalSeconds = computeTotalFromInputs();
   remainingSeconds = totalSeconds;
+  remainingMilliseconds = 0;
   updateDisplay();
 }
 
@@ -162,6 +196,7 @@ resetBtn.addEventListener('click', resetTimer);
 (function init() {
   totalSeconds = computeTotalFromInputs();
   remainingSeconds = totalSeconds;
+  remainingMilliseconds = 0;
   setRunning(false);
   showStream(false);
   updateDisplay();
