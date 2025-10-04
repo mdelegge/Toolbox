@@ -28,6 +28,7 @@ Blackfeather's Toolbox is a collection of lightweight browser tools, generators,
 | `defender-copilot/` | `defender-copilot/index.html` | Alternate Defender prototype produced with AI assistance; useful for comparing structure and feature coverage against the hand-crafted version. |
 | `snake/` | `snake/index.html` | Vanilla JS snake game with canvas rendering, score tracking, and restart flow. |
 | `tetris/` | `tetris/tetris.html` | Classic Tetris implementation with the seven tetrominoes, rotation logic, line clears, scoring, and accelerating drop speed. |
+| `timer/` | `timer/index.html` | Countdown timer (max 1 hour) with minute/second inputs, centisecond display, animated hourglass, start/stop/reset controls, running sand stream, and finish flash. |
 
 ## Extending the Toolbox
 - To surface a new tool on the landing page, duplicate an existing card block in `index.html`, update the link/title/emoji, and drop your module folder beside the others.
