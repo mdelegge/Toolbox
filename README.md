@@ -23,6 +23,7 @@ Blackfeather's Toolbox is a collection of lightweight browser tools, generators,
 | `bonkersify/` | `bonkersify/index.html` | “Random case” text transformer with playful UI polish; paste text, get chaotic casing instantly. |
 | `hacker_l33t/` | `hacker_l33t/index.html` | Text-to-leetspeak converter with live preview and simple copy workflow. |
 | `svg2png/` | `svg2png/svg2png.html` | Client-side SVG to PNG exporter with configurable scale, background color, padding, and batch handling for multiple assets. |
+| `markdown_viewer/` | `markdown_viewer/index.html` | Live markdown editor with split-pane preview, drag-and-drop file loading, export to HTML, copy formatted content to clipboard, and resizable panels. |
 | `asteroids/` | `asteroids/index.html` | HTML5 Canvas reinterpretation of the classic Asteroids loop featuring ship thrust/rotation, screen wrapping, destructible rocks, scoring, and lives. |
 | `defender/` | `defender/index.html` | Side-scrolling Defender homage: parallax terrain, multiple enemy behaviors, projectile combat, scoring, and game-state transitions. |
 | `defender-copilot/` | `defender-copilot/index.html` | Alternate Defender prototype produced with AI assistance; useful for comparing structure and feature coverage against the hand-crafted version. |
