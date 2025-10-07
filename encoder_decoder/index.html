@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Encoder/Decoder</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Theme Variables */
+        :root {
+            /* Light theme (default) */
+            --bg-primary: #f9fafb;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f3f4f6;
+            --border-color: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #6b7280;
+            --text-tertiary: #9ca3af;
+            --input-bg: #ffffff;
+            --input-border: #d1d5db;
+            --input-focus: #3b82f6;
+        }
+        
+        [data-theme="dark"] {
+            --bg-primary: #0f172a;
+            --bg-secondary: #1e293b;
+            --bg-tertiary: #334155;
+            --border-color: #475569;
+            --text-primary: #f1f5f9;
+            --text-secondary: #cbd5e1;
+            --text-tertiary: #94a3b8;
+            --input-bg: #1e293b;
+            --input-border: #475569;
+            --input-focus: #60a5fa;
+        }
+        
+        body {
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        textarea, select {
+            transition: all 0.2s ease;
+        }
+
+        .toast {
+            animation: slideIn 0.3s ease-out;
+        }
+
+        @keyframes slideIn {
+            from {
+                transform: translateY(100px);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        .error-message {
+            animation: shake 0.3s ease-in-out;
+        }
+
+        @keyframes shake {
+            0%, 100% { transform: translateX(0); }
+            25% { transform: translateX(-5px); }
+            75% { transform: translateX(5px); }
+        }
+    </style>
+</head>
+<body class="min-h-screen" style="background-color: var(--bg-primary); color: var(--text-primary);">
+    <!-- Header -->
+    <header class="shadow-sm" style="background-color: var(--bg-secondary); border-bottom: 1px solid var(--border-color);">
+        <div class="max-w-7xl mx-auto px-4 py-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center gap-4">
+                    <button onclick="goBack()" class="flex items-center gap-2 px-3 py-2 text-sm font-medium rounded-lg border transition-colors" style="background-color: var(--bg-secondary); color: var(--text-primary); border-color: var(--border-color);">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/>
+                        </svg>
+                        Back
+                    </button>
+                    <h1 class="text-2xl sm:text-3xl font-bold" style="color: var(--text-primary);">Text Encoder/Decoder</h1>
+                </div>
+                <select id="themeSelector" class="px-3 py-2 text-sm font-medium rounded-lg border focus:outline-none focus:ring-2 focus:ring-offset-2 transition-colors" style="background-color: var(--bg-secondary); color: var(--text-primary); border-color: var(--border-color); focus:ring-color: var(--input-focus);">
+                    <option value="light">☀️ Light</option>
+                    <option value="dark">🌙 Dark</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 py-6 sm:px-6 lg:px-8">
+        <!-- Instructions -->
+        <div class="mb-6 p-4 rounded-lg" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-lg font-semibold mb-2" style="color: var(--text-primary);">Instructions</h2>
+            <p style="color: var(--text-secondary);">
+                Select an encoding method and enter text in either field. The opposite field will automatically update with the encoded or decoded result.
+            </p>
+        </div>
+
+        <!-- Controls -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
+            <div>
+                <label class="block text-sm font-medium mb-2" style="color: var(--text-primary);">Encoding Method</label>
+                <select id="encodingMethod" class="w-full px-4 py-2 rounded-lg border focus:outline-none focus:ring-2 transition-colors" style="background-color: var(--input-bg); color: var(--text-primary); border-color: var(--input-border);">
+                    <option value="caesar">Caesar Cipher</option>
+                    <option value="base64">Base64</option>
+                    <option value="rot13">ROT13</option>
+                    <option value="reverse">Reverse Text</option>
+                    <option value="hex">Hexadecimal</option>
+                    <option value="binary">Binary</option>
+                    <option value="url">URL Encode</option>
+                    <option value="atbash">Atbash Cipher</option>
+                </select>
+            </div>
+
+            <div id="shiftContainer" class="hidden">
+                <label class="block text-sm font-medium mb-2" style="color: var(--text-primary);">Caesar Shift (1-25)</label>
+                <input type="number" id="caesarShift" min="1" max="25" value="3" class="w-full px-4 py-2 rounded-lg border focus:outline-none focus:ring-2 transition-colors" style="background-color: var(--input-bg); color: var(--text-primary); border-color: var(--input-border);">
+            </div>
+        </div>
+
+        <!-- Input/Output Grid -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">
+            <!-- Plain Text -->
+            <div class="flex flex-col">
+                <label class="block text-sm font-medium mb-2" style="color: var(--text-primary);">Plain Text</label>
+                <textarea id="plainText" rows="10" placeholder="Enter text to encode..." class="flex-1 px-4 py-3 rounded-lg border focus:outline-none focus:ring-2 resize-none font-mono text-sm transition-colors" style="background-color: var(--input-bg); color: var(--text-primary); border-color: var(--input-border);"></textarea>
+                <div class="mt-2 flex gap-2">
+                    <button onclick="copyText('plainText')" class="flex-1 flex items-center justify-center gap-2 px-4 py-2 text-sm font-medium text-white bg-blue-600 rounded-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"/>
+                        </svg>
+                        Copy
+                    </button>
+                    <button onclick="clearText('plainText')" class="px-4 py-2 text-sm font-medium rounded-lg border transition-colors" style="background-color: var(--bg-secondary); color: var(--text-primary); border-color: var(--border-color);">
+                        Clear
+                    </button>
+                </div>
+            </div>
+
+            <!-- Encoded Text -->
+            <div class="flex flex-col">
+                <label class="block text-sm font-medium mb-2" style="color: var(--text-primary);">Encoded Text</label>
+                <textarea id="encodedText" rows="10" placeholder="Enter text to decode..." class="flex-1 px-4 py-3 rounded-lg border focus:outline-none focus:ring-2 resize-none font-mono text-sm transition-colors" style="background-color: var(--input-bg); color: var(--text-primary); border-color: var(--input-border);"></textarea>
+                <div class="mt-2 flex gap-2">
+                    <button onclick="copyText('encodedText')" class="flex-1 flex items-center justify-center gap-2 px-4 py-2 text-sm font-medium text-white bg-green-600 rounded-lg hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500 transition-colors">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"/>
+                        </svg>
+                        Copy
+                    </button>
+                    <button onclick="clearText('encodedText')" class="px-4 py-2 text-sm font-medium rounded-lg border transition-colors" style="background-color: var(--bg-secondary); color: var(--text-primary); border-color: var(--border-color);">
+                        Clear
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="flex flex-wrap gap-4 justify-center">
+            <button onclick="resetAll()" class="flex items-center gap-2 px-6 py-3 text-sm font-medium text-white bg-red-600 rounded-lg hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 transition-colors">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/>
+                </svg>
+                Reset All
+            </button>
+        </div>
+
+        <!-- Error Message -->
+        <div id="errorMessage" class="hidden mt-6 p-4 rounded-lg bg-red-100 dark:bg-red-900/30 border-2 border-red-500 error-message">
+            <div class="flex items-start gap-3">
+                <svg class="w-5 h-5 text-red-600 dark:text-red-400 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                </svg>
+                <p class="text-sm text-red-800 dark:text-red-300" id="errorText"></p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="fixed bottom-4 right-4 px-4 py-3 rounded-lg shadow-lg transform transition-all duration-300 translate-y-20 opacity-0" style="background-color: #1f2937; color: white;">
+        <span id="toastMessage"></span>
+    </div>
+
+    <script>
+        // Theme Management
+        const themeSelector = document.getElementById('themeSelector');
+        const savedTheme = localStorage.getItem('encoder-decoder-theme') || 'light';
+        applyTheme(savedTheme);
+
+        function applyTheme(themeName) {
+            document.documentElement.setAttribute('data-theme', themeName);
+            themeSelector.value = themeName;
+            localStorage.setItem('encoder-decoder-theme', themeName);
+        }
+
+        themeSelector.addEventListener('change', (e) => {
+            applyTheme(e.target.value);
+        });
+
+        // Elements
+        const plainTextArea = document.getElementById('plainText');
+        const encodedTextArea = document.getElementById('encodedText');
+        const encodingMethodSelect = document.getElementById('encodingMethod');
+        const caesarShiftInput = document.getElementById('caesarShift');
+        const shiftContainer = document.getElementById('shiftContainer');
+        const errorMessage = document.getElementById('errorMessage');
+        const errorText = document.getElementById('errorText');
+
+        let lastEditedField = null;
+
+        // Show/hide Caesar shift input
+        encodingMethodSelect.addEventListener('change', () => {
+            if (encodingMethodSelect.value === 'caesar') {
+                shiftContainer.classList.remove('hidden');
+            } else {
+                shiftContainer.classList.add('hidden');
+            }
+            updateFields();
+        });
+
+        caesarShiftInput.addEventListener('input', updateFields);
+
+        // Event listeners for text areas
+        plainTextArea.addEventListener('input', () => {
+            lastEditedField = 'plain';
+            updateFields();
+        });
+
+        encodedTextArea.addEventListener('input', () => {
+            lastEditedField = 'encoded';
+            updateFields();
+        });
+
+        // Encoding/Decoding Functions
+        function caesarCipher(text, shift, decode = false) {
+            if (decode) shift = 26 - shift;
+            return text.replace(/[a-zA-Z]/g, (char) => {
+                const start = char <= 'Z' ? 65 : 97;
+                return String.fromCharCode(((char.charCodeAt(0) - start + shift) % 26) + start);
+            });
+        }
+
+        function base64Encode(text) {
+            try {
+                return btoa(unescape(encodeURIComponent(text)));
+            } catch (e) {
+                throw new Error('Invalid characters for Base64 encoding');
+            }
+        }
+
+        function base64Decode(text) {
+            try {
+                return decodeURIComponent(escape(atob(text)));
+            } catch (e) {
+                throw new Error('Invalid Base64 string');
+            }
+        }
+
+        function rot13(text) {
+            return text.replace(/[a-zA-Z]/g, (char) => {
+                const start = char <= 'Z' ? 65 : 97;
+                return String.fromCharCode(((char.charCodeAt(0) - start + 13) % 26) + start);
+            });
+        }
+
+        function reverseText(text) {
+            return text.split('').reverse().join('');
+        }
+
+        function hexEncode(text) {
+            return Array.from(text)
+                .map(char => char.charCodeAt(0).toString(16).padStart(2, '0'))
+                .join('');
+        }
+
+        function hexDecode(text) {
+            try {
+                const hex = text.replace(/\s/g, '');
+                if (hex.length % 2 !== 0) throw new Error('Invalid hex string');
+                return hex.match(/.{1,2}/g)
+                    .map(byte => String.fromCharCode(parseInt(byte, 16)))
+                    .join('');
+            } catch (e) {
+                throw new Error('Invalid hexadecimal string');
+            }
+        }
+
+        function binaryEncode(text) {
+            return Array.from(text)
+                .map(char => char.charCodeAt(0).toString(2).padStart(8, '0'))
+                .join(' ');
+        }
+
+        function binaryDecode(text) {
+            try {
+                return text.split(/\s+/)
+                    .filter(b => b)
+                    .map(byte => String.fromCharCode(parseInt(byte, 2)))
+                    .join('');
+            } catch (e) {
+                throw new Error('Invalid binary string');
+            }
+        }
+
+        function urlEncode(text) {
+            return encodeURIComponent(text);
+        }
+
+        function urlDecode(text) {
+            try {
+                return decodeURIComponent(text);
+            } catch (e) {
+                throw new Error('Invalid URL encoded string');
+            }
+        }
+
+        function atbashCipher(text) {
+            return text.replace(/[a-zA-Z]/g, (char) => {
+                if (char >= 'a' && char <= 'z') {
+                    return String.fromCharCode(219 - char.charCodeAt(0));
+                } else if (char >= 'A' && char <= 'Z') {
+                    return String.fromCharCode(155 - char.charCodeAt(0));
+                }
+                return char;
+            });
+        }
+
+        function encode(text, method) {
+            switch (method) {
+                case 'caesar':
+                    return caesarCipher(text, parseInt(caesarShiftInput.value) || 3, false);
+                case 'base64':
+                    return base64Encode(text);
+                case 'rot13':
+                    return rot13(text);
+                case 'reverse':
+                    return reverseText(text);
+                case 'hex':
+                    return hexEncode(text);
+                case 'binary':
+                    return binaryEncode(text);
+                case 'url':
+                    return urlEncode(text);
+                case 'atbash':
+                    return atbashCipher(text);
+                default:
+                    return text;
+            }
+        }
+
+        function decode(text, method) {
+            switch (method) {
+                case 'caesar':
+                    return caesarCipher(text, parseInt(caesarShiftInput.value) || 3, true);
+                case 'base64':
+                    return base64Decode(text);
+                case 'rot13':
+                    return rot13(text); // ROT13 is its own inverse
+                case 'reverse':
+                    return reverseText(text); // Reverse is its own inverse
+                case 'hex':
+                    return hexDecode(text);
+                case 'binary':
+                    return binaryDecode(text);
+                case 'url':
+                    return urlDecode(text);
+                case 'atbash':
+                    return atbashCipher(text); // Atbash is its own inverse
+                default:
+                    return text;
+            }
+        }
+
+        function updateFields() {
+            hideError();
+            const method = encodingMethodSelect.value;
+
+            try {
+                if (lastEditedField === 'plain') {
+                    const plainText = plainTextArea.value;
+                    if (plainText) {
+                        encodedTextArea.value = encode(plainText, method);
+                    } else {
+                        encodedTextArea.value = '';
+                    }
+                } else if (lastEditedField === 'encoded') {
+                    const encodedText = encodedTextArea.value;
+                    if (encodedText) {
+                        plainTextArea.value = decode(encodedText, method);
+                    } else {
+                        plainTextArea.value = '';
+                    }
+                }
+            } catch (error) {
+                showError(error.message);
+            }
+        }
+
+        // Utility Functions
+        function copyText(fieldId) {
+            const textarea = document.getElementById(fieldId);
+            if (!textarea.value) {
+                showToast('Nothing to copy!', 'error');
+                return;
+            }
+
+            textarea.select();
+            navigator.clipboard.writeText(textarea.value)
+                .then(() => {
+                    showToast('Copied to clipboard!');
+                })
+                .catch(() => {
+                    showToast('Failed to copy', 'error');
+                });
+        }
+
+        function clearText(fieldId) {
+            document.getElementById(fieldId).value = '';
+            if (fieldId === 'plainText') {
+                lastEditedField = 'plain';
+            } else {
+                lastEditedField = 'encoded';
+            }
+            updateFields();
+        }
+
+        function resetAll() {
+            plainTextArea.value = '';
+            encodedTextArea.value = '';
+            encodingMethodSelect.value = 'caesar';
+            caesarShiftInput.value = 3;
+            shiftContainer.classList.remove('hidden');
+            lastEditedField = null;
+            hideError();
+            showToast('All fields reset');
+        }
+
+        function goBack() {
+            window.history.back();
+        }
+
+        function showToast(message, type = 'success') {
+            const toast = document.getElementById('toast');
+            const toastMessage = document.getElementById('toastMessage');
+            
+            toastMessage.textContent = message;
+            
+            if (type === 'error') {
+                toast.style.backgroundColor = '#dc2626';
+            } else {
+                toast.style.backgroundColor = '#1f2937';
+            }
+            
+            toast.classList.remove('translate-y-20', 'opacity-0');
+            toast.classList.add('translate-y-0', 'opacity-100');
+            
+            setTimeout(() => {
+                toast.classList.remove('translate-y-0', 'opacity-100');
+                toast.classList.add('translate-y-20', 'opacity-0');
+            }, 3000);
+        }
+
+        function showError(message) {
+            errorText.textContent = message;
+            errorMessage.classList.remove('hidden');
+        }
+
+        function hideError() {
+            errorMessage.classList.add('hidden');
+        }
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', (e) => {
+            // Ctrl/Cmd + R to reset (prevent default browser reload)
+            if ((e.ctrlKey || e.metaKey) && e.key === 'r') {
+                e.preventDefault();
+                resetAll();
+            }
+        });
+
+        // Initialize with Caesar cipher visible
+        shiftContainer.classList.remove('hidden');
+    </script>
+</body>
+</html>
