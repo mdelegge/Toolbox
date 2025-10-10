@@ -1,0 +1,331 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>URL Expander</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <meta name="color-scheme" content="dark light" />
+</head>
+<body class="bg-slate-900 text-slate-100 min-h-screen">
+  <header class="border-b border-slate-800">
+    <div class="max-w-3xl mx-auto px-4 py-6 flex items-center justify-between gap-3">
+      <h1 class="text-2xl font-bold tracking-tight flex items-center gap-2">
+        <span class="text-2xl">🔗</span> URL Expander
+      </h1>
+      <a href="../index.html" class="text-sm px-3 py-2 rounded bg-slate-800 hover:bg-slate-700 border border-slate-700">Back</a>
+    </div>
+  </header>
+
+  <main class="max-w-3xl mx-auto px-4 py-6 space-y-6">
+    <section class="p-6 bg-slate-800/60 rounded-2xl border border-slate-700">
+      <p class="text-sm text-slate-300 mb-6">
+        Enter a shortened URL to expand it and reveal the actual destination. The expanded URL will be automatically copied to your clipboard.
+      </p>
+
+      <div class="space-y-4">
+        <div>
+          <label for="urlInput" class="text-sm font-semibold mb-2 text-slate-300 block">Shortened URL</label>
+          <input 
+            type="url" 
+            id="urlInput" 
+            placeholder="https://bit.ly/example or t.co/example" 
+            class="w-full bg-slate-900 border border-slate-700 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-transparent"
+          />
+        </div>
+
+        <button 
+          id="expandBtn" 
+          class="w-full px-4 py-3 rounded-lg bg-sky-600 hover:bg-sky-500 font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-sky-400"
+        >
+          Expand URL
+        </button>
+
+        <div id="loadingIndicator" class="hidden">
+          <div class="flex items-center justify-center gap-3 p-4 bg-slate-900/50 rounded-lg border border-slate-700">
+            <svg class="animate-spin h-5 w-5 text-sky-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+              <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+              <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+            </svg>
+            <span class="text-slate-300">Expanding URL...</span>
+          </div>
+        </div>
+
+        <div id="resultCard" class="hidden p-5 bg-slate-900/50 rounded-xl border border-slate-700">
+          <div class="flex items-center justify-between mb-3">
+            <h3 class="text-lg font-semibold text-slate-200">Expanded URL</h3>
+            <button 
+              id="copyBtn" 
+              class="text-sm px-3 py-2 rounded bg-slate-800 hover:bg-slate-700 border border-slate-700 transition-colors flex items-center gap-2"
+            >
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"/>
+              </svg>
+              Copy
+            </button>
+          </div>
+          <div id="expandedUrl" class="text-sm text-sky-400 break-all font-mono p-3 bg-slate-800 rounded-lg"></div>
+          <div id="urlInfo" class="mt-3 text-xs text-slate-400 space-y-1"></div>
+        </div>
+
+        <div id="errorCard" class="hidden p-4 bg-red-900/20 rounded-lg border border-red-500/50">
+          <div class="flex items-start gap-3">
+            <svg class="w-5 h-5 text-red-400 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+            </svg>
+            <p class="text-sm text-red-300" id="errorText"></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="p-5 bg-slate-800/40 rounded-xl border border-slate-700/50">
+      <h3 class="text-sm font-semibold mb-3 text-slate-300">Supported Services</h3>
+      <div class="flex flex-wrap gap-2 text-xs">
+        <span class="px-2 py-1 bg-slate-700/50 rounded border border-slate-600">bit.ly</span>
+        <span class="px-2 py-1 bg-slate-700/50 rounded border border-slate-600">tinyurl.com</span>
+        <span class="px-2 py-1 bg-slate-700/50 rounded border border-slate-600">t.co</span>
+        <span class="px-2 py-1 bg-slate-700/50 rounded border border-slate-600">goo.gl</span>
+        <span class="px-2 py-1 bg-slate-700/50 rounded border border-slate-600">ow.ly</span>
+        <span class="px-2 py-1 bg-slate-700/50 rounded border border-slate-600">is.gd</span>
+        <span class="px-2 py-1 bg-slate-700/50 rounded border border-slate-600">buff.ly</span>
+        <span class="px-2 py-1 bg-slate-700/50 rounded border border-slate-600">and more...</span>
+      </div>
+    </section>
+  </main>
+
+  <div id="toast" class="fixed bottom-4 right-4 px-4 py-3 rounded-lg shadow-lg bg-emerald-600 text-white transform transition-all duration-300 translate-y-20 opacity-0">
+    <span id="toastMessage">Copied to clipboard!</span>
+  </div>
+
+  <script>
+    class URLExpander {
+      constructor() {
+        this.urlInput = document.getElementById('urlInput');
+        this.expandBtn = document.getElementById('expandBtn');
+        this.copyBtn = document.getElementById('copyBtn');
+        this.loadingIndicator = document.getElementById('loadingIndicator');
+        this.resultCard = document.getElementById('resultCard');
+        this.errorCard = document.getElementById('errorCard');
+        this.expandedUrl = document.getElementById('expandedUrl');
+        this.urlInfo = document.getElementById('urlInfo');
+        this.errorText = document.getElementById('errorText');
+        this.toast = document.getElementById('toast');
+        this.toastMessage = document.getElementById('toastMessage');
+        
+        this.initEventListeners();
+      }
+
+      initEventListeners() {
+        this.expandBtn.addEventListener('click', () => this.expandURL());
+        this.copyBtn.addEventListener('click', () => this.copyToClipboard());
+        
+        this.urlInput.addEventListener('keypress', (e) => {
+          if (e.key === 'Enter') {
+            this.expandURL();
+          }
+        });
+
+        // Clear error when typing
+        this.urlInput.addEventListener('input', () => {
+          this.hideError();
+        });
+      }
+
+      validateURL(urlString) {
+        try {
+          const url = new URL(urlString);
+          return url.protocol === 'http:' || url.protocol === 'https:';
+        } catch {
+          return false;
+        }
+      }
+
+      async expandURL() {
+        const inputURL = this.urlInput.value.trim();
+        
+        if (!inputURL) {
+          this.showError('Please enter a URL to expand');
+          return;
+        }
+
+        if (!this.validateURL(inputURL)) {
+          this.showError('Please enter a valid URL (must start with http:// or https://)');
+          return;
+        }
+
+        this.hideError();
+        this.hideResult();
+        this.showLoading();
+        this.expandBtn.disabled = true;
+
+        try {
+          // Try multiple methods to expand the URL
+          const expandedURL = await this.fetchExpandedURL(inputURL);
+          
+          this.hideLoading();
+          this.displayResult(inputURL, expandedURL);
+          this.copyToClipboard(expandedURL);
+          this.expandBtn.disabled = false;
+        } catch (error) {
+          this.hideLoading();
+          this.showError(`Failed to expand URL: ${error.message}`);
+          this.expandBtn.disabled = false;
+        }
+      }
+
+      async fetchExpandedURL(shortURL) {
+        // Method 1: Try using a CORS proxy with unshorten.me API
+        try {
+          const response = await fetch(`https://unshorten.me/json/${encodeURIComponent(shortURL)}`);
+          const data = await response.json();
+          
+          if (data.success && data.resolved_url && data.resolved_url !== shortURL) {
+            return data.resolved_url;
+          }
+        } catch (error) {
+          console.log('unshorten.me failed, trying alternative method:', error);
+        }
+
+        // Method 2: Try direct fetch with redirect: 'follow' (will work for some URLs)
+        try {
+          const response = await fetch(shortURL, {
+            method: 'HEAD',
+            redirect: 'follow',
+            mode: 'cors'
+          });
+          
+          if (response.url && response.url !== shortURL) {
+            return response.url;
+          }
+        } catch (error) {
+          console.log('Direct fetch failed:', error);
+        }
+
+        // Method 3: Try using another CORS-friendly service
+        try {
+          const corsProxy = 'https://corsproxy.io/?';
+          const response = await fetch(corsProxy + encodeURIComponent(shortURL), {
+            method: 'HEAD',
+            redirect: 'follow'
+          });
+          
+          if (response.url) {
+            // Remove the proxy part from the URL
+            const actualURL = decodeURIComponent(response.url.replace(corsProxy, ''));
+            if (actualURL !== shortURL) {
+              return actualURL;
+            }
+          }
+        } catch (error) {
+          console.log('CORS proxy failed:', error);
+        }
+
+        throw new Error('Unable to expand URL. The URL may not be a shortened link, or the service may be blocking expansion.');
+      }
+
+      displayResult(originalURL, expandedURL) {
+        this.expandedUrl.textContent = expandedURL;
+        
+        // Display additional info
+        const originalDomain = new URL(originalURL).hostname;
+        const expandedDomain = new URL(expandedURL).hostname;
+        
+        this.urlInfo.innerHTML = `
+          <div><strong>Original:</strong> ${originalDomain}</div>
+          <div><strong>Destination:</strong> ${expandedDomain}</div>
+          <div><strong>Length:</strong> ${originalURL.length} → ${expandedURL.length} characters</div>
+        `;
+        
+        this.resultCard.classList.remove('hidden');
+        this.resultCard.classList.add('animate-fadeIn');
+      }
+
+      async copyToClipboard(text) {
+        const textToCopy = text || this.expandedUrl.textContent;
+        
+        try {
+          await navigator.clipboard.writeText(textToCopy);
+          this.showToast('Copied to clipboard!');
+        } catch (error) {
+          // Fallback for older browsers
+          const textarea = document.createElement('textarea');
+          textarea.value = textToCopy;
+          textarea.style.position = 'fixed';
+          textarea.style.opacity = '0';
+          document.body.appendChild(textarea);
+          textarea.select();
+          
+          try {
+            document.execCommand('copy');
+            this.showToast('Copied to clipboard!');
+          } catch (err) {
+            this.showToast('Failed to copy', 'error');
+          }
+          
+          document.body.removeChild(textarea);
+        }
+      }
+
+      showLoading() {
+        this.loadingIndicator.classList.remove('hidden');
+      }
+
+      hideLoading() {
+        this.loadingIndicator.classList.add('hidden');
+      }
+
+      hideResult() {
+        this.resultCard.classList.add('hidden');
+      }
+
+      showError(message) {
+        this.errorText.textContent = message;
+        this.errorCard.classList.remove('hidden');
+      }
+
+      hideError() {
+        this.errorCard.classList.add('hidden');
+      }
+
+      showToast(message, type = 'success') {
+        this.toastMessage.textContent = message;
+        
+        if (type === 'error') {
+          this.toast.classList.remove('bg-emerald-600');
+          this.toast.classList.add('bg-red-600');
+        } else {
+          this.toast.classList.remove('bg-red-600');
+          this.toast.classList.add('bg-emerald-600');
+        }
+        
+        this.toast.classList.remove('translate-y-20', 'opacity-0');
+        this.toast.classList.add('translate-y-0', 'opacity-100');
+        
+        setTimeout(() => {
+          this.toast.classList.remove('translate-y-0', 'opacity-100');
+          this.toast.classList.add('translate-y-20', 'opacity-0');
+        }, 3000);
+      }
+    }
+
+    // Initialize when DOM is loaded
+    document.addEventListener('DOMContentLoaded', () => {
+      new URLExpander();
+    });
+
+    // Add fade-in animation
+    const style = document.createElement('style');
+    style.textContent = `
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      .animate-fadeIn {
+        animation: fadeIn 0.3s ease-out;
+      }
+    `;
+    document.head.appendChild(style);
+  </script>
+</body>
+</html>
