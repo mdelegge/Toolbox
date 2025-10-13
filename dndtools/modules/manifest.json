@@ -7,11 +7,17 @@
       "tables": [
         { "name": "Assorted Money", "file": "loot/money.json" },
         { "name": "Weapons, Armor, and Equipment", "file": "loot/weapons_armor_and_equipment.json" },
+        { "name": "Magic Items", "file": "loot/magic_items.json" },
         { "name": "Gemstones (Simple)", "file": "loot/gemstones_table_simple.json" },
         { "name": "Gemstones (Detailed)", "file": "loot/gemstones_table_1.json" },
         { "name": "Jewelry", "file": "loot/jewelry.json" },
         { "name": "Adventuring Gear", "file": "loot/adventuring_gear.json" },
         { "name": "Musical Instruments", "file": "loot/musical_instruments.json" },
+        { "name": "Tower of Zenopus - Empty Room Contents", "file": "loot/items_in_an_emptyroom_zenopus.json" },
+        { "name": "Dungeon Room - Table #1", "file": "loot/Dungeon_Room___Table__1.json" },
+        { "name": "Dungeon Room - Table #2", "file": "loot/Dungeon_Room___Table__2.json" },
+        { "name": "Dungeon Room - Table #3", "file": "loot/Dungeon_Room___Table__3.json" },
+        { "name": "Dungeon Room - Table #4", "file": "loot/Dungeon_Room___Table__4.json" },
         { "name": "Items in a Troll's Cave", "file": "loot/trolls_cave.json" },
         { "name": "Items in a Smithy", "file": "loot/smithy.json" },
         { "name": "Items in a Bandit Hideout", "file": "loot/items_in_a_bandit_hideout.json" },
@@ -40,12 +46,7 @@
         { "name": "Items in an Adventurers Saddlebags", "file": "loot/items_in_adventurers_saddlebags.json" },
         { "name": "Items in a Dragon's Lair", "file": "loot/items_in_a_dragons_lair.json" },
         { "name": "Items in a Wagon", "file": "loot/items_in_a_wagon.json" },
-        { "name": "Items in a Wine Cellar", "file": "loot/items_in_a_wine_cellar.json" },
-        { "name": "Dungeon Room - Table #1", "file": "loot/Dungeon_Room___Table__1.json" },
-        { "name": "Dungeon Room - Table #2", "file": "loot/Dungeon_Room___Table__2.json" },
-        { "name": "Dungeon Room - Table #3", "file": "loot/Dungeon_Room___Table__3.json" },
-        { "name": "Dungeon Room - Table #4", "file": "loot/Dungeon_Room___Table__4.json" },
-        { "name": "Magic Items", "file": "loot/magic_items.json" }
+        { "name": "Items in a Wine Cellar", "file": "loot/items_in_a_wine_cellar.json" }
       ]
     },
     {
